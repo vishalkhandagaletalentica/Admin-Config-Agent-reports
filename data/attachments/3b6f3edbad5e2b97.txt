@@ -1,0 +1,1 @@
+InitialXBuckets in Application -> Concerto Pipeline is set to 30.

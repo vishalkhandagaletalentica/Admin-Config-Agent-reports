@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Default Horizon (Project Mgr → Pipeline View)', 'Date Interval (Project Mgr → Pipeline View)'], 'value': None, 'section': None, 'entry': None, 'url': None}

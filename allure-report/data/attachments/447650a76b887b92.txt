@@ -1,1 +1,0 @@
-{'entryId': 876, 'sectionId': 10, 'flags': 0, 'entryName': 'TASK_DELAY', 'entryFriendlyName': 'Task Buf Cnsm', 'strValue': 'Task Buf Cnsm (d)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Delay', 'rangeList': None, 'validationRule': None, 'sequenceId': 117520.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

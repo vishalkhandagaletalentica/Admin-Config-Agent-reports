@@ -1,0 +1,1 @@
+I enabled inclusion of average days escalated in the Issue Resolution report — the setting is now enabled.

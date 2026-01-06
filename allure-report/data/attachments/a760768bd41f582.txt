@@ -1,1 +1,0 @@
-The current title displayed for the next critical task in the Gantt view is "Next Critical Task."

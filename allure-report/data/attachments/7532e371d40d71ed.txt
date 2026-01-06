@@ -1,1 +1,0 @@
-The Task Type for the Issue Resolution report is set to Tasks.

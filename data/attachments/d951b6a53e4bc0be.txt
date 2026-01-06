@@ -1,0 +1,1 @@
+The current surge capacity percentage set for the queues report is 50%.

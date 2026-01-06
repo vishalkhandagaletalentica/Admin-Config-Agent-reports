@@ -1,0 +1,1 @@
+{'entryId': 1924, 'sectionId': 10, 'flags': 0, 'entryName': 'IS_VIRTUAL', 'entryFriendlyName': 'Is Virtual', 'strValue': 'Is Virtual', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Is Virtual', 'rangeList': None, 'validationRule': None, 'sequenceId': 138480.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

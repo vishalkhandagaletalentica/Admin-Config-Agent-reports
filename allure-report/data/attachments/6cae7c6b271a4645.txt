@@ -1,1 +1,0 @@
-What is the current title displayed for the mandatory field in the column headings?

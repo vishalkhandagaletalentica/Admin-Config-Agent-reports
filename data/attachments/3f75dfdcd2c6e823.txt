@@ -1,0 +1,3 @@
+The command to set ColorPriority4 is invalid because the expected value type is a string, but you provided an integer (12345). Please provide a string value instead. 
+
+For example, you could use: `set ColorPriority4 to "Red"`.

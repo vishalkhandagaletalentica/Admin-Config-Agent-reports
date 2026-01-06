@@ -1,1 +1,0 @@
-The sender address for bulk imports is "Support" <support@realization.com>.

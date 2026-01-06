@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Display Remaining Duration For Not Started Tasks (Task List -> Common)', 'Display Remaining Duration For Not Started Subtasks (Task Mgr -> Subtask List)', 'Remaining Duration (hours) — column title (Common -> Column Names)'], 'value': None, 'section': None, 'entry': None, 'url': None}

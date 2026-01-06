@@ -1,0 +1,1 @@
+Both “P2P links” and “P2P MS” are controlled by the “Ignore P2P Links And P2P MS” setting in the Concerto Pipeline client. That setting is already enabled (P2P links and P2P MS are not considered), so no update is needed.

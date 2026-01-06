@@ -1,1 +1,0 @@
-The Ignore Buffer Consumed setting has been successfully updated to disabled.

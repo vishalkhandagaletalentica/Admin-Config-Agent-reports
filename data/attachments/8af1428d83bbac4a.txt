@@ -1,0 +1,1 @@
+The Actual Output provides a response that is factually incorrect, as it states the filter is set to 'End of Day' instead of the expected 'END_OF_TODAY'. While it addresses the intent of the question, the incorrect fact significantly impacts the score.

@@ -1,0 +1,3 @@
+The command is invalid because the value type for "Planned" is 3, which indicates that it expects a string value, but the provided value 'abcde' does not match the expected format. Please ensure the value is a valid string or key-value pair. 
+
+A correct command would be: `update Planned to 'valid_string_value'`. For example, you can use `update Planned to 'New Value'`.

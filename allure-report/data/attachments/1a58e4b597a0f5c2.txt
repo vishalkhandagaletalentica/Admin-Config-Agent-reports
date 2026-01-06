@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List → Common (applies to Task List feature)', 'Escalated Tasks (Project Mgr/Resource Mgr)', 'Project Mgr → Task Level Priorities By Task Mgr'], 'value': None, 'section': None, 'entry': None, 'url': None}

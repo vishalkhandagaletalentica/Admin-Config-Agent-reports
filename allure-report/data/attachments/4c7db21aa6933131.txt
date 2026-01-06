@@ -1,1 +1,0 @@
-The LLM's responses lack clarity and do not directly address the user's request to update the %Complete value. Instead, it repeatedly asks for the value without providing any context or acknowledgment of the user's input, failing to maintain a professional tone and effectively address the user's needs.

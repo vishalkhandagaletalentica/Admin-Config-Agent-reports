@@ -1,1 +1,0 @@
-The current title displayed for Work In Process in the filtering options is "Work In Progress."

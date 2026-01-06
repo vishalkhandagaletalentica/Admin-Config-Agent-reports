@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'CYCLETIME', 'entry': 'FILTERS_DISPLAYABLE', 'url': None}

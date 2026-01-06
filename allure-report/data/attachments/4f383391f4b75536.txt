@@ -1,1 +1,0 @@
-Under "Modify Projects", "Warning Message Limit" is set to 500.

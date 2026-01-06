@@ -1,1 +1,0 @@
-The default Rollup option in the Batch Rollup window is Remaining Duration.

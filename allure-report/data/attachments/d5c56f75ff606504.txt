@@ -1,1 +1,0 @@
-The update for Task Duration > Project Length % has been successfully completed. The new value is 15.

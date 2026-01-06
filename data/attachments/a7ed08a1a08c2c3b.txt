@@ -1,0 +1,3 @@
+The command you provided is invalid because the expected value type for "Custom Subtask Text Field 2" is not a string, but rather an integer or float. The current configuration indicates that it expects a numerical value (intValue or floatValue). Please provide a valid numerical value instead. 
+
+For example, a valid command could be: `update "Custom Subtask Text Field 2" to 1` or `update "Custom Subtask Text Field 2" to 3.5`.

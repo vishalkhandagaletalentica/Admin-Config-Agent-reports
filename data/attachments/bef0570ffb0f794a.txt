@@ -1,0 +1,1 @@
+{'entryId': 155, 'sectionId': 10, 'flags': 0, 'entryName': 'P2P_TO_TASK_START', 'entryFriendlyName': 'To Task Start Date', 'strValue': 'New Task Start Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P To Task Start Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 103100.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-The current title displayed for the Work Card ID column is "Work Card Identifier."

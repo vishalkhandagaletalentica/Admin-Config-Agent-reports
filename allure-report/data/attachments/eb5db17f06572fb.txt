@@ -1,1 +1,0 @@
-The current priority level for the fourth color buffer is 12345.

@@ -1,5 +1,0 @@
-The following columns are currently hidden in the Action Items report:
-- Assigned To
-- Due Date
-- Creation Date
-- Resolved Date

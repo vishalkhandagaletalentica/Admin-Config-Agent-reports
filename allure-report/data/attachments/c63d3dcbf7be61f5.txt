@@ -1,1 +1,0 @@
-The ColorPriority8 setting in Buffer Management is already set to "R". No update is needed.

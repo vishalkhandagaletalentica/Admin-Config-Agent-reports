@@ -1,0 +1,1 @@
+{'entryId': 599, 'sectionId': 10, 'flags': 0, 'entryName': 'SORTN1', 'entryFriendlyName': 'BM Sequence', 'strValue': 'BM Sequence', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for BM Sequence in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 111980.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

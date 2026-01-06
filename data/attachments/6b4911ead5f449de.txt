@@ -1,0 +1,1 @@
+The Actual Output accurately reflects the factual information provided in the Expected Output, stating that the Calendar Past Horizon is set to 150%. It directly addresses the intent of the Input question regarding the configuration of the horizon length for reading past calendars, without introducing any incorrect facts or assumptions.

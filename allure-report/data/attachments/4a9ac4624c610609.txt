@@ -1,1 +1,0 @@
-I attempted to set Auto DB Compact Frequency to 0 but the update failed because your account does not have privileges to change configuration entries. The current Auto DB Compact Frequency is 1. Please run the update with an account that has configuration write privileges or ask an administrator to apply the change.

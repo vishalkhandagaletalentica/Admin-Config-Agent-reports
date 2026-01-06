@@ -1,1 +1,0 @@
-Please update the display name for Date Resolved in column headers to "Resolved Date".

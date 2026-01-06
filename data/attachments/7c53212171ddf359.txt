@@ -1,0 +1,1 @@
+The Days Open column name is already set to "Days Open(d)". No update is needed.

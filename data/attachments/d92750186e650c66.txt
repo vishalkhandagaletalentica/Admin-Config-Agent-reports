@@ -1,0 +1,3 @@
+The command you provided to update the 'Queue Trend Indicator Period (In Days)' to 'abcde' is invalid because the expected type is an integer, and 'abcde' is not a valid integer. The valid range for this setting is between 1 and 999. 
+
+Please provide a numeric value within the specified range. For example, you could use the command: `update Queue Trend Indicator Period (In Days) to 5`.

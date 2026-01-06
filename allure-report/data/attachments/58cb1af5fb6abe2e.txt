@@ -1,1 +1,0 @@
-Update this setting to ATTRIBUTE1 -> Designers Required,ATTRIBUTE2 -> Project Attribute 5,ATTRIBUTE3 -> Project Attribute 6,ATTRIBUTE4 -> Project Attribute 9,ATTRIBUTE5 -> Project Attribute 10

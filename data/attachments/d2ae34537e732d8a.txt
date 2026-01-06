@@ -1,0 +1,5 @@
+The command is invalid because the 'value' you are trying to set is of type string, but the expected type for this configuration setting is an integer (valueType: 0). 
+
+Please provide an integer value instead. For example, you might use a command like: 
+
+`update configuration set value to 150 where entryFriendlyName = 'Red Y intercept at 100 X';`

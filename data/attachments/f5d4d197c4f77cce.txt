@@ -1,0 +1,1 @@
+{'entryId': 1095, 'sectionId': 10, 'flags': 0, 'entryName': 'PLANNED_DATE', 'entryFriendlyName': 'Planned Date', 'strValue': 'Planned Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project original planned finish date.', 'rangeList': None, 'validationRule': None, 'sequenceId': 121900.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

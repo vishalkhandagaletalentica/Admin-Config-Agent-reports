@@ -1,1 +1,0 @@
-The setting for "Move feeding buffer or chain" has been successfully updated to "Chain."

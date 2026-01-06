@@ -1,1 +1,0 @@
-The Days value for the Date Range filter in Work Card Information report was updated from 30 to 45.

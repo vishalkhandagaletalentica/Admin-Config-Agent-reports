@@ -1,1 +1,0 @@
-The current value of the custom text field for tasks is CUSTOM_TASK_TEXT10.

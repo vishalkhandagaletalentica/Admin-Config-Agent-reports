@@ -1,0 +1,1 @@
+Resource Notes is currently enabled as a searchable column.

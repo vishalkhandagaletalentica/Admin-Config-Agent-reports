@@ -1,0 +1,1 @@
+The Full Kit Manager filter title is "New Filter Name".

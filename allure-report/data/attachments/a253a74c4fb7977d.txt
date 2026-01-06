@@ -1,1 +1,0 @@
-The current timeout setting for the Buffer Management process is 1.

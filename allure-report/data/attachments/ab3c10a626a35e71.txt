@@ -1,1 +1,0 @@
-{'entryId': 2370, 'sectionId': 142, 'flags': 0, 'entryName': 'INTEGRATION_SUBTASK_CUSTOMTEXT9_COLUMN', 'entryFriendlyName': 'CustomText9', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name of CUSTOMTEXT9', 'rangeList': None, 'validationRule': None, 'sequenceId': 1467400.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

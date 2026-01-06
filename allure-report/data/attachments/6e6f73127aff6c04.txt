@@ -1,1 +1,0 @@
-{'entryId': 665, 'sectionId': 9, 'flags': 0, 'entryName': 'Shift1Finish', 'entryFriendlyName': 'Shift 1 Finish', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 103300.0, 'groupOrMerge': '$MERGE:Shift1Start', 'attributeFlag': 0.0, 'attrBack': ''}

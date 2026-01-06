@@ -1,1 +1,0 @@
-The current title displayed for the Project Type in the reports is "Project Type."

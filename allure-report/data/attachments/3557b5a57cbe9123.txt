@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'DBRSettings', 'entry': 'DBR_CCCBRedXInterceptOn100Y', 'url': None}

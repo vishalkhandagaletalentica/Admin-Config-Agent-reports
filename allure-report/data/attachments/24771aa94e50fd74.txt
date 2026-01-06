@@ -1,1 +1,0 @@
-The current "Sort By Priority Fields Within Windows Of" window size is 10.

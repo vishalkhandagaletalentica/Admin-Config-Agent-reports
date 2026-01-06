@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'ON_TIME_DELIVERY', 'entry': 'DEFAULT_DUE_DATE_TARGET_VALUE', 'url': None}

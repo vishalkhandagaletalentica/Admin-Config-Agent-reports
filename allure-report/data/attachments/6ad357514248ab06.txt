@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List -> Common — Auto-collapse Filters', 'Full Kit Mgr -> Full Kit Report — Auto-collapse Filters'], 'value': None, 'section': None, 'entry': None, 'url': None}

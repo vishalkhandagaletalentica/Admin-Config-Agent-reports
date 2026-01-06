@@ -1,1 +1,0 @@
-The Project Control view is set to display 50 rows per page.

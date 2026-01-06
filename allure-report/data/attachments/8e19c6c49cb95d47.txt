@@ -1,1 +1,0 @@
-Confirmed: Feeding Buffer Consumption (%) is already set to "% FB Cnsm`d" with item description "% Feeding Buffer Consumed" in the Column Headings section. No update was necessary.

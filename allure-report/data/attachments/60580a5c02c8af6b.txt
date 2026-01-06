@@ -1,1 +1,0 @@
-I updated the Subtasks filter in the Filtering Pane to "New Subtasks."

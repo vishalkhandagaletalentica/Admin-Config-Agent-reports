@@ -1,1 +1,0 @@
-The % Capacity Buffer was updated from 15% to 20%.

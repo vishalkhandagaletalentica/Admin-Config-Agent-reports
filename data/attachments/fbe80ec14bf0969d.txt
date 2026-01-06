@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_CONTROL_QUEUES', 'entry': 'QUEUE_TREND_INDICATOR_PERIOD', 'url': None}

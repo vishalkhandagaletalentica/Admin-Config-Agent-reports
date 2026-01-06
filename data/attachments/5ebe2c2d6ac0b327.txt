@@ -1,0 +1,1 @@
+{'type': 'success', 'selectable_values': None, 'value': {'old': 'Count', 'new': 'Total Count'}, 'section': 'SGD_COLUMN_NAMES', 'entry': 'COUNT', 'url': None}

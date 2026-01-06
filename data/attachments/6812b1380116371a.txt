@@ -1,0 +1,1 @@
+The search for resource notes is currently set to: "[insert new value here]".

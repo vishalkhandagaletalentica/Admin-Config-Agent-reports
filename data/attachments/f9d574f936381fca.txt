@@ -1,0 +1,1 @@
+Is the option to include Project Participant data along with Project Manager data currently enabled?

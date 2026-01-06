@@ -1,1 +1,0 @@
-Under Column Headings I found the item “Buffer Consumption.” It is present and currently set to Buf Cnsm`d(%).

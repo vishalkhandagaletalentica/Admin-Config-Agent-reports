@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_SAP_INTEGRATION_FILEDS_MAPPING', 'entry': 'SAP_I_Text3', 'url': None}

@@ -1,0 +1,1 @@
+What is the current setting for the parameter that controls the login link display in email alerts?

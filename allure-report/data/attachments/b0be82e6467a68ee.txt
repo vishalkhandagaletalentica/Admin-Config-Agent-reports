@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it accurately states the current setting for the 'Late Only' title in the filtering pane, matching the Expected Output in meaning. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

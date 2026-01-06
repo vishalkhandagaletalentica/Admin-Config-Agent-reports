@@ -1,3 +1,0 @@
-The command is invalid because the expected value type is a string, and you provided a numeric value (12345). The allowed values are: Days, Shifts, or Hours. 
-
-Please use one of the allowed values. For example: `update configuration setting to Days`.

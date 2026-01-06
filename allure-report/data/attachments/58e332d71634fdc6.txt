@@ -1,1 +1,0 @@
-The bulk project upload option is not available in the modify projects feature.

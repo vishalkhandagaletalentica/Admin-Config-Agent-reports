@@ -1,1 +1,0 @@
-The current title displayed for the Alternate Resource Manager is "Alternate Resource Mgr."

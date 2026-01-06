@@ -1,1 +1,0 @@
-The current setting for the task buffer consumption in days is "Delta Buff Cnsmd (NS)."

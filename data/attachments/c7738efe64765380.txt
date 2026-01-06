@@ -1,0 +1,1 @@
+{'entryId': 583, 'sectionId': 11, 'flags': 0, 'entryName': 'SELECTFIELD', 'entryFriendlyName': 'Filter Changes', 'strValue': 'Filter Changes', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Select Field in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121660.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-Max Start Week (in the past) for Buffer Trend has been updated from 4 to 10.

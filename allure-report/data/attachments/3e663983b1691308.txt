@@ -1,1 +1,0 @@
-Print Font Size has been updated to FONT_XLARGE.

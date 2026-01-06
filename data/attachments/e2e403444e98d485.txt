@@ -1,0 +1,4 @@
+The command is invalid because the value "12345" is not an allowed option for the "Filters available" setting. The expected type is a comma-separated list of allowed values, specifically: DIVISION, AUTHOR, SUBJECT, CATEGORY, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4, ATTRIBUTE5. 
+
+A correct example of the command would be: 
+`set Filters available to DIVISION,AUTHOR,SUBJECT`

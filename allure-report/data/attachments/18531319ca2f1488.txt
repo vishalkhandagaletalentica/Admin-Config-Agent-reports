@@ -1,1 +1,0 @@
-The Days Escalated column heading is already set to "Days Escalated (d)". No update is needed.

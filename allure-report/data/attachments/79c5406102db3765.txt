@@ -1,1 +1,0 @@
-No — the “Do not move feeding chain” setting is enabled, so the feeding chain will not move independently from the parallel chain.

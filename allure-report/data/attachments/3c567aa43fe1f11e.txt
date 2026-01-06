@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Fractional Rounding Digits to 3.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Fractional Rounding Digits” setting?'}, {'role': 'user', 'content': 'The section name is Resource Mgr -> Resource L:C report/view.'}, {'role': 'assistant', 'content': 'Fractional Rounding Digits updated from 1 to 3.'}]

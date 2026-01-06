@@ -1,0 +1,1 @@
+The On Hold setting for the Issue Resolution report is currently disabled.

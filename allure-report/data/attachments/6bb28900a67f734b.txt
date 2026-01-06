@@ -1,1 +1,0 @@
-{'entryId': 994, 'sectionId': 10, 'flags': 0, 'entryName': 'ITEMS', 'entryFriendlyName': 'Attribute Items', 'strValue': 'Items', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'List of Items for project attribute', 'rangeList': None, 'validationRule': None, 'sequenceId': 119880.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

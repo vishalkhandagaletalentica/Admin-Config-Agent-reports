@@ -1,0 +1,1 @@
+Resource Hierarchy Column Width updated from 200 to 250.

@@ -1,0 +1,1 @@
+{'entryId': 2425, 'sectionId': 10, 'flags': 0, 'entryName': 'RESUME_DATE', 'entryFriendlyName': 'Resume Date', 'strValue': 'Resume Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Resume Date (Gantt)', 'rangeList': None, 'validationRule': None, 'sequenceId': 148500.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

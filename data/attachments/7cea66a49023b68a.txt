@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PLANNING_CLIENT_COMMON', 'entry': 'DEFAULT_DURATION_RESOURCE_SELECTED_BATCH_ROLLUP', 'url': None}

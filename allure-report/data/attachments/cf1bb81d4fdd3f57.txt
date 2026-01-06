@@ -1,1 +1,0 @@
-The current title displayed for the On Time Delivery column is "Timeliness of Delivery."

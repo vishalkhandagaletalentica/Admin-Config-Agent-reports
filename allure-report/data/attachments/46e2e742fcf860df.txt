@@ -1,1 +1,0 @@
-I couldn't apply that update because I don't have permission to change configuration entries. Please ask an administrator with update privileges to apply the new Column Preset 3 value or grant me the necessary permissions.

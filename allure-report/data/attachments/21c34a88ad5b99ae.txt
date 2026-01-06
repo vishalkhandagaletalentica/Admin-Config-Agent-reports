@@ -1,1 +1,0 @@
-The Calendar Refresh Timeout has been successfully updated to 15 seconds.

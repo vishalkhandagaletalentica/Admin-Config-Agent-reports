@@ -1,0 +1,1 @@
+The current title displayed for the Gate Due Date in the Executive Gate Report is "New Gate Due Date."

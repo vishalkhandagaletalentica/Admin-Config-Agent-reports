@@ -1,1 +1,0 @@
-The current setting for using the optimized filter participant query in the Task Level Priorities report is enabled.

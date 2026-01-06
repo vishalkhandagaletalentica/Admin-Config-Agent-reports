@@ -1,0 +1,1 @@
+Task Text 78 (Custom Task Text Field) in Adv. filter in Gantt is already set to "NewText78". No update is needed.

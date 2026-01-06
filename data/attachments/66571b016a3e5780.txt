@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the BEINGMODIFIED setting to 2.'}, {'role': 'assistant', 'content': 'Which configuration section contains the BEINGMODIFIED setting?'}, {'role': 'user', 'content': 'The section name is Project Control.'}, {'role': 'assistant', 'content': 'The BEINGMODIFIED setting is already set to 2. No update is needed.'}]

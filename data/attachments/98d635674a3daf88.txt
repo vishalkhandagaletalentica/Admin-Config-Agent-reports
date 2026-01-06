@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that the In Process setting is disabled. The only difference from the Expected Output is the omission of the word 'currently,' which does not affect the factual accuracy.

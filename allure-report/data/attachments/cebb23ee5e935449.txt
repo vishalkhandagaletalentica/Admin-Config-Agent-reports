@@ -1,1 +1,0 @@
-{'entryId': 1584, 'sectionId': 11, 'flags': 0, 'entryName': 'QUARTERS', 'entryFriendlyName': 'Quarters', 'strValue': 'Fiscal Quarters', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Quarters.', 'rangeList': None, 'validationRule': None, 'sequenceId': 141680.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

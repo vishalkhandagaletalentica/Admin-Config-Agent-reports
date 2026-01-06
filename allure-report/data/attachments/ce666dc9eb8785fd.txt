@@ -1,1 +1,0 @@
-The current title for the item description in the task checklist is "New Description".

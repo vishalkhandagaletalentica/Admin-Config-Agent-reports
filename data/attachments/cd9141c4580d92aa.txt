@@ -1,0 +1,1 @@
+The current number of days we look up from today for the WIP Report is 5.

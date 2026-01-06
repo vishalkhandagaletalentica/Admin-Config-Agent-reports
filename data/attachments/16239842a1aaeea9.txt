@@ -1,0 +1,1 @@
+{'entryId': 1692, 'sectionId': 11, 'flags': 0, 'entryName': 'REGULAR_TASK', 'entryFriendlyName': 'Regular Tasks', 'strValue': 'Regular Tasks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter Name for Regular Tasks', 'rangeList': None, 'validationRule': None, 'sequenceId': 143840.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

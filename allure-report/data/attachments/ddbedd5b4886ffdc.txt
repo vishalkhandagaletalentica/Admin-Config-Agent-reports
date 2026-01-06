@@ -1,4 +1,0 @@
-I found multiple matches for Subtask List hidden-columns. Which one did you mean:
-
-- Task Mgr -> Task List -> Subtasks — Hidden Fields
-- Task Mgr -> Subtask List — Hidden Fields

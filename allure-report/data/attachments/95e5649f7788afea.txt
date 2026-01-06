@@ -1,1 +1,0 @@
-What is the current status of the buffering settings for committed and in queue?

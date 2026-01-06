@@ -1,0 +1,1 @@
+The Hidden Fields for Resource Mgr -> Resource L:C are already set to: MAXCUM_LTOC, MAXCAP_LTOC, PEAK_LTOC. No update is needed.

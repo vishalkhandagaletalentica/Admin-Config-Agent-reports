@@ -1,0 +1,3 @@
+The command `update_custom_task_text_field 12345` is incorrect because it does not specify a valid string value for the custom task text field. The expected value type is a string, which should be one of the allowed values: CUSTOM_TASK_TEXT1, CUSTOM_TASK_TEXT2, CUSTOM_TASK_TEXT3, CUSTOM_TASK_TEXT4, CUSTOM_TASK_TEXT5, CUSTOM_TASK_TEXT6, CUSTOM_TASK_TEXT7, CUSTOM_TASK_TEXT8, CUSTOM_TASK_TEXT9, or CUSTOM_TASK_TEXT10.
+
+Please use a valid string value from the allowed list. For example, a correct command would be: `update_custom_task_text_field CUSTOM_TASK_TEXT9`.

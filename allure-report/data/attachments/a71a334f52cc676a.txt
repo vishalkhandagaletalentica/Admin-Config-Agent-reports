@@ -1,1 +1,0 @@
-{'entryId': 169, 'sectionId': 10, 'flags': 0, 'entryName': 'P2PADD_REQ_DT', 'entryFriendlyName': 'Required Date', 'strValue': 'New Req Dt', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2PADD_REQ_DT', 'rangeList': None, 'validationRule': None, 'sequenceId': 103380.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

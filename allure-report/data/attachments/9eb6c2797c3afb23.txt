@@ -1,1 +1,0 @@
-The current setting for downloading the Realization Project Viewer Installer is located at http://newserver/path/to/RealizationProjectViewer.msi.

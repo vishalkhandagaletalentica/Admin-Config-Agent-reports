@@ -1,0 +1,1 @@
+I couldn't apply any change because the User/Team Name is already set to "Display Name". No update is needed.

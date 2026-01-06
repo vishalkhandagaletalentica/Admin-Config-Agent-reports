@@ -1,1 +1,0 @@
-The "Log Message when no file inside processing folder" is now enabled. It was previously disabled.

@@ -1,0 +1,1 @@
+The setting "Include On Hold Projects" is now enabled for View Resource L:C and View Tasks By Resource.

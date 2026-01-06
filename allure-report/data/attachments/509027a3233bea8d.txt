@@ -1,1 +1,0 @@
-Updated the Earned Hours setting to "Total Earned Hours".

@@ -1,3 +1,0 @@
-The command to update the Project Attribute Field For External Mapping is invalid because the provided value '12345' is not within the allowed range. The expected type for this field is a string, and the allowed values are: AUTHOR, CATEGORY, SUBJECT, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4, ATTRIBUTE5. 
-
-Please provide a valid string value. For example, you could use the command: `update Project Attribute Field For External Mapping to CATEGORY`.

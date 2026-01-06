@@ -1,1 +1,0 @@
-Please update the setting to enable "Show Managers Only in Project Mgr Filter."

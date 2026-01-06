@@ -1,1 +1,0 @@
-The currently hidden columns in the Full Kit Delay Drilldown report are FULLKIT_TASK_MGR, COMMENTS, DELAY_REASON_CODE, and RESOURCE_NOTES.

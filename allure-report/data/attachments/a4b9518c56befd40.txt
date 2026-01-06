@@ -1,1 +1,0 @@
-The setting "Show Managers Only in Project Mgr Filter" has been updated from enabled to disabled.

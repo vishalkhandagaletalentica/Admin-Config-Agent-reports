@@ -1,1 +1,0 @@
-The current optimization setting for the Critical Chain and Buffer Management algorithm is 5.

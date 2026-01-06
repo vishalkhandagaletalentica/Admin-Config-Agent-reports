@@ -1,0 +1,1 @@
+{'entryId': 959, 'sectionId': 10, 'flags': 0, 'entryName': 'MEMBER_DIVISIONS', 'entryFriendlyName': 'Divisions of Members', 'strValue': 'Divisions of Members', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Divisions of Members', 'rangeList': None, 'validationRule': None, 'sequenceId': 119180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

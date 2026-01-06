@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Metrics -> Pipelining — Date Range (X months in past)', 'Metrics -> Red Project Delay — Date Range (X months in past)', 'Metrics -> Full Kit Delay — Date Range (X months in past)'], 'value': None, 'section': None, 'entry': None, 'url': None}

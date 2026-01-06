@@ -1,1 +1,0 @@
-The current order of the columns in the Project Control report is not specified.

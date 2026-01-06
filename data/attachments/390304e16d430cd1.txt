@@ -1,0 +1,1 @@
+The Text2 column name was updated from "" to "New Value".

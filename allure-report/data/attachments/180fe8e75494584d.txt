@@ -1,1 +1,0 @@
-For the Commit/Edit report (Add/Checkin/Edit), the hidden column is: Custom Date 2.

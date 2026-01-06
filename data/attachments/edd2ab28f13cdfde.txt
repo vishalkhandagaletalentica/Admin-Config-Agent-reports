@@ -1,0 +1,1 @@
+{'entryId': 559, 'sectionId': 11, 'flags': 0, 'entryName': 'DAYS_AGO', 'entryFriendlyName': 'Days Ago', 'strValue': 'Days ago', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Days Ago in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

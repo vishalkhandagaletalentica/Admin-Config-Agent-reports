@@ -1,1 +1,0 @@
-The SNS Topic Name for Project CheckOut is already set to 'xxxxx-project-check-out'. No update is needed.

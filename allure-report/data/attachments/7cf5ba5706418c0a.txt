@@ -1,1 +1,0 @@
-Please update the Max Start Week (in the past) for Buffer Trend to 10.

@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PLANNING_CLIENT_COMMON', 'entry': 'GROUP_B_MIN_FLOAT, GROUP_B_MAX_FLOAT', 'url': None}

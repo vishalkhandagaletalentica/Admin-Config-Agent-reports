@@ -1,1 +1,0 @@
-The Project End Only option in the filtering pane is set to "Project End (PE)".

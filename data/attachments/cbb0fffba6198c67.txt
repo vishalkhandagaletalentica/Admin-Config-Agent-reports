@@ -1,0 +1,1 @@
+Is the option to limit stretch for unfixed and in-process projects currently enabled or disabled?

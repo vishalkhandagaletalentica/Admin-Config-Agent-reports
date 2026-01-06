@@ -1,1 +1,0 @@
-Period Type has been updated to Day.

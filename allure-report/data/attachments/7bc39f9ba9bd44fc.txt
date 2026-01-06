@@ -1,1 +1,0 @@
-The Actual Output is factually correct, confirming that resource leveling has been disabled, which aligns with the Expected Output. However, it introduces unnecessary information about the previous state being enabled, which is not present in the Expected Output. The response directly addresses the intent of the Input question, maintaining a professional tone.

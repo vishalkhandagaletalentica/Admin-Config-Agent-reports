@@ -1,0 +1,1 @@
+The command is invalid because the value 'abcde' is not within the allowed range for 'Default Horizon'. The expected values are 30, 60, 90, 365, or 9999. Please use one of these values. For example, you can use the command: `update configuration set Default Horizon to 60`.

@@ -1,1 +1,0 @@
-The mapping for Task Date 14 (Custom Task Date Field) in the advanced filter is "Date14".

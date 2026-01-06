@@ -1,1 +1,0 @@
-The column heading "User(s) Editing Network" has been updated to "Editors Network".

@@ -1,1 +1,0 @@
-The current display name for the Total L:C in the filters is "Total Load Capacity."

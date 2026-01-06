@@ -1,0 +1,3 @@
+The command is invalid because the specified value 'abcde' is not in the allowed range of sortable options. The expected type for the Sort Order is a selection from the predefined sortable list. Please use one of the allowed values instead.
+
+For example, you could use a command like: `update Sort Order to 'Column1,Column2,Column3'` where 'Column1', 'Column2', and 'Column3' are valid options from the sortable list.

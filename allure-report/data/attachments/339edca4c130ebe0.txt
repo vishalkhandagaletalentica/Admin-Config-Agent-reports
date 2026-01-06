@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly matches the Expected Output in meaning, confirming that the option to round up durations during Duration Reduction is indeed disabled. There are no discrepancies or irrelevant information present, and the response is clear and concise.

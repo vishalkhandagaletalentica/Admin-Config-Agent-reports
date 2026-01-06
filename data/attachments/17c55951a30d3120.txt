@@ -1,0 +1,1 @@
+The Actual Output accurately reflects the factual content of the Expected Output, correctly stating the mapping for 'Custom Task Text Field 74' in the 'Advanced Filter in Gantt' as 'NewText74'. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

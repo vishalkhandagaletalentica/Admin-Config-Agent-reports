@@ -1,1 +1,0 @@
-The Load to Capacity filter display name has been updated to "L:C".

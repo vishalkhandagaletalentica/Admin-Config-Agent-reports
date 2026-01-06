@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PROJECT_ATTRIBUTES', 'entry': 'ATTRIBUTE1_VALIDATION', 'url': None}

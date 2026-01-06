@@ -1,1 +1,0 @@
-The performance reports can include 0 to 20 months in the past and 0 to 20 months in the future. If both are set to 0, the report is for the current month only.

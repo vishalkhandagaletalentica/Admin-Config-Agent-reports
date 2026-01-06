@@ -1,1 +1,0 @@
-The display name for issues in the column headers is "Issue Tracker".

@@ -1,0 +1,1 @@
+The option to hide OTD data and only display Rolling Average values is currently disabled.

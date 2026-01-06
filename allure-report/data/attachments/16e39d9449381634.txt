@@ -1,1 +1,0 @@
-The default selection is "All Resource Managers."

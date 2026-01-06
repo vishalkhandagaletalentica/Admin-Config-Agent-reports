@@ -1,1 +1,0 @@
-The current mapping for the SNET Date field in the advanced filter mapping is "NewValue".

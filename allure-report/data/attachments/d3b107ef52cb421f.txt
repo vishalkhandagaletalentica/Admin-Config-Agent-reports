@@ -1,1 +1,0 @@
-I couldn’t apply that change because you don’t have privileges to update configurations. The current sort setting is "DUE_DATE". Would you like me to (a) show steps to request permission, or (b) prepare a change request message you can send to an administrator?

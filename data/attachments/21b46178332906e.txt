@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it accurately states the display name for the Compare option in the filters, matching the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

@@ -1,1 +1,0 @@
-The current setting for the Feeding Buffers Policy is LEAVE_TASKS_IN_PAST_VAL.

@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that the View Delay By Task drilldown is disabled on the Print Preview page. The slight difference in phrasing from the Expected Output does not affect the factual accuracy, and the response maintains a professional tone.

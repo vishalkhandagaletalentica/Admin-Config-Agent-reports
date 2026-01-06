@@ -1,6 +1,0 @@
-The command you provided is invalid because the value '12345' is not an allowed type; the expected type for this configuration setting is a string representing a list of key-value pairs or a comma-separated list of such pairs. 
-
-The allowed values should follow the format of key-value pairs or a comma-separated list, as shown in the existing `strValue`. 
-
-For example, you could update the setting using a command like:  
-`update Column Preset 1 to CHECKLIST_INDICATOR -> NewCheckList,TASK_TYPE -> Task Type;`

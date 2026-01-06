@@ -1,1 +1,0 @@
-The default sorting for the Red Projects report is: Primary — Planned Date (ascending); Secondary — Actual Date.

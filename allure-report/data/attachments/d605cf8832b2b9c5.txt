@@ -1,1 +1,0 @@
-The display name for Peak Load:Capacity in column headers has been successfully updated to "Peak Load Capacity".

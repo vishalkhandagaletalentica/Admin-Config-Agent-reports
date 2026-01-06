@@ -1,0 +1,1 @@
+{'entryId': 601, 'sectionId': 10, 'flags': 0, 'entryName': 'SORTN2', 'entryFriendlyName': 'Depth', 'strValue': 'Water Depth', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Depth in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 112020.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

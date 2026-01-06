@@ -1,0 +1,1 @@
+The "Rows per page" setting in Project Chain View was updated from 10 to 20.

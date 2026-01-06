@@ -1,1 +1,0 @@
-The Project Status filter dropdown options have been successfully updated to "PL,CIQ,IP,OH".

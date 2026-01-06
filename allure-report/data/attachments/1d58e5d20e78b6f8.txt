@@ -1,1 +1,0 @@
-The advanced filter mapping for Custom Task Date Field 19 is set to "Date19Updated".

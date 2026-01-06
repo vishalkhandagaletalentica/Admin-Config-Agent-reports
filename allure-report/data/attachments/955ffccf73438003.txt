@@ -1,1 +1,0 @@
-The current buffer penetration level that triggers the red color when the chain is complete is 100.

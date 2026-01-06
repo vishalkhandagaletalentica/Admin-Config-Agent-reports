@@ -1,1 +1,0 @@
-The location of the Config.ini file for updating tasks in Excel is D:\NewPath\config.ini.

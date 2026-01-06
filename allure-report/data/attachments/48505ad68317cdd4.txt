@@ -1,1 +1,0 @@
-The column header for Action Item is currently "Task".

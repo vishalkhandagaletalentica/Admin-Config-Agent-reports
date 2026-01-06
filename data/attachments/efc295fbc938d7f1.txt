@@ -1,0 +1,1 @@
+What is the current setting for the default selection of the Highlight Changes filter in the Task Update History report?

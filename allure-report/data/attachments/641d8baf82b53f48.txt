@@ -1,1 +1,0 @@
-{'entryId': 1392, 'sectionId': 84, 'flags': 1, 'entryName': 'CUSTOM_TASK_TEXT4', 'entryFriendlyName': 'CUSTOM_TASK_TEXT4', 'strValue': 'CUSTOM_TASK_TEXT4', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 867840.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

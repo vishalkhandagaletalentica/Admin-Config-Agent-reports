@@ -1,1 +1,0 @@
-The current priority level set for the Red Feeding Buffer is 8.

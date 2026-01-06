@@ -1,1 +1,0 @@
-The option to automatically select the logged-in user in the Escalated Tasks report Task Manager Filter is currently disabled.

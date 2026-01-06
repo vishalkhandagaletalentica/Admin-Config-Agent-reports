@@ -1,1 +1,0 @@
-The display name for Subproject Milestones in the filtering pane is "Project Milestones".

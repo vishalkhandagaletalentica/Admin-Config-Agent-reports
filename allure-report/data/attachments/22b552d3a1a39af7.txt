@@ -1,1 +1,0 @@
-The current title for the column that shows the completion status in the full kit task checklist is "Incomplete."

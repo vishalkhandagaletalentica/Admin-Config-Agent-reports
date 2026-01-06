@@ -1,1 +1,0 @@
-The current mapping for the Custom Task Text Field 38 in the advanced filter settings is NewText38.

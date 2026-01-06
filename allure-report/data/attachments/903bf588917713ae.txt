@@ -1,1 +1,0 @@
-The Email Body in Bulk Import is set to "Your file has been processed. Please find the attached log files for it.".

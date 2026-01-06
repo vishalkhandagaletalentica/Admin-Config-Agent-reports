@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that the project schedule does not push out when the due date isn't met. However, the additional phrase 'that setting is currently disabled' is unnecessary and slightly detracts from the conciseness of the response, which is why it did not receive a perfect score.

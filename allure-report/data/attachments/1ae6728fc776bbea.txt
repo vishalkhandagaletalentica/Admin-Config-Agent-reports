@@ -1,1 +1,0 @@
-The Actual Output correctly conveys the title for the Load Vs Capacity percentage column, aligning with the Expected Output in factual content. However, it slightly deviates in structure by omitting the phrase 'displayed for the' which could enhance clarity. Overall, it addresses the intent of the Input question effectively.

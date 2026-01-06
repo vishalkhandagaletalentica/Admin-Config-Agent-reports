@@ -1,4 +1,0 @@
-The command is invalid because the value type for 'Load Breakdown' is expected to be a string, but you provided an integer (12345). The allowed values for the string are: RED_OTHER, RED_YELLOW_OTHER, RED_YELLOW_GREEN_OTHER. 
-
-Please use one of the allowed values. For example, you can use the command:
-update Load Breakdown set value to RED_YELLOW_OTHER

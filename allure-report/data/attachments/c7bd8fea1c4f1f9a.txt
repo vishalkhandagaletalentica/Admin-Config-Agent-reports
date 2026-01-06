@@ -1,1 +1,0 @@
-No — it is disabled; %FK Complete will not be automatically updated when checklist items change.

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Filter title / Add Project caption (Common -> Filter Names)', 'Column header display name (Common -> Column Names)'], 'value': None, 'section': None, 'entry': None, 'url': None}

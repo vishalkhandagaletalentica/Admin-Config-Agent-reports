@@ -1,1 +1,0 @@
-{'entryId': 172, 'sectionId': 10, 'flags': 0, 'entryName': 'P2PADD_BUF_SZ', 'entryFriendlyName': 'Buffer Size', 'strValue': 'Buf Sz (new)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Buffer Size', 'rangeList': None, 'validationRule': None, 'sequenceId': 103440.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

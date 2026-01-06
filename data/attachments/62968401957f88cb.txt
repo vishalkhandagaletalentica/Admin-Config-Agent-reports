@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Full Kit Mgr -> Full Kit Report (Print Font Size)', 'Project Mgr -> Project Status (Print Font Size)', 'Project Mgr -> Contractual Milestone Chain View/Milestone Penetrating Chain (Print Font Size)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The response fails to explicitly state that the user does not have permission to update configuration settings, instead suggesting an action to enable the setting. It lacks professionalism and conciseness, as it provides unnecessary details about the current status of the setting without clearly denying the request.

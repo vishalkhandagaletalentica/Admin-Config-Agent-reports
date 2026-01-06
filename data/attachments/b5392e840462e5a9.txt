@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names (Chain Type shown in filtering pane)', 'Project Mgr -> Project Chain View/Project Penetrating Chain (Chain Type for Project Chain Report)', 'Project Mgr -> Contractual Milestone Chain View/Milestone Penetrating Chain (Chain Type for CMS Chain Report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

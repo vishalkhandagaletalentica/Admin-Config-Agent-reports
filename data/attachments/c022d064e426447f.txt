@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the display name as 'Performance', which aligns with the Expected Output. However, it slightly deviates from the phrasing by using 'Per column header' instead of 'column header', which could be seen as a minor inconsistency. Overall, it effectively addresses the intent of the Input question.

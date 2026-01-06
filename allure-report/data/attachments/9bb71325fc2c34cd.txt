@@ -1,1 +1,0 @@
-The Buffering page default sort order is: PROJECT_NAME (ascending).

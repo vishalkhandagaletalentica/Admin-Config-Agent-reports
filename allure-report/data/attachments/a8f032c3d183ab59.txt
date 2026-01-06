@@ -1,1 +1,0 @@
-Default Subtask View has been updated from Compact View to Detail View.

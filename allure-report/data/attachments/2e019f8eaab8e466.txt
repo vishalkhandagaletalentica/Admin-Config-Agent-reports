@@ -1,1 +1,0 @@
-The current title displayed for the Task Outline Level in the Gantt view is "Outline Level".

@@ -1,1 +1,0 @@
-The 'Issue Type' setting in the Filtering Pane was updated from 'New Issue Type' to 'Marked as Buffer Recovery'.

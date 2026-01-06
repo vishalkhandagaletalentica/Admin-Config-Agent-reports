@@ -1,1 +1,0 @@
-I attempted to update Column Order for the Full Kit Delay Drilldown report but the update failed: no column definition was found for that report. Please provide a valid column list in the expected format, or tell me if you’d like me to list available columns for that report so you can choose.

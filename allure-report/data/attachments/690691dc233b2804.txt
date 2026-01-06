@@ -1,1 +1,0 @@
-Task Duration Reduction option updated from ROUND_TO_DAY to ROUND_TO_QUARTER.

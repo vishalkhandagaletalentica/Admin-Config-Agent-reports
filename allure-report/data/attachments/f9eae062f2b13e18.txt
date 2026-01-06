@@ -1,1 +1,0 @@
-The current display name for the Delay header in the Red Project Delay report is "Delay Time."

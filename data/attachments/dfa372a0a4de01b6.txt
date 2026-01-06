@@ -1,0 +1,1 @@
+The option to display restricted users in the participant assignment dialog is currently enabled.

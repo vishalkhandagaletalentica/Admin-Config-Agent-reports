@@ -1,0 +1,1 @@
+Task Text 60 (Custom Task Text Field 60) in Adv. filter in Gantt has been updated to "NewText60".

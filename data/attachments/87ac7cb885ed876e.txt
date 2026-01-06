@@ -1,0 +1,3 @@
+The command to update the Work Card Status is invalid because the value '12345' is not within the allowed range. The expected values are from the multi-list: NS, CO, or IP. Please use one of these values. 
+
+For example, a correct command would be: `update Work Card Status to NS;`

@@ -1,1 +1,0 @@
-The current title displayed for the cancel filter in the project status dropdown is "Cancelled."

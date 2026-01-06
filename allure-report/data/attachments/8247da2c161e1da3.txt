@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Chain View — Include Completed Tasks (applies to Project Chain View reports)', 'Contractual Milestone Chain View — Include Completed Tasks (applies to CMS Chain View reports)', 'Common Filter Title — "Include Completed Tasks" (display title only)'], 'value': None, 'section': None, 'entry': None, 'url': None}

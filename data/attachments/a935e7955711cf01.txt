@@ -1,0 +1,1 @@
+The current advanced-filter mapping for Custom Task Date Field 12 (Task Date 12) is: "Date12".

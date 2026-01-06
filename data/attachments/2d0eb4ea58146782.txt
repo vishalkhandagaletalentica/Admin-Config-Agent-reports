@@ -1,0 +1,3 @@
+The command is invalid because the value 'maybe' is not an allowed option for the configuration setting 'Include On Hold Projects'. This setting expects an integer value, specifically 0 or 1, where 0 typically indicates 'No' and 1 indicates 'Yes'. 
+
+Please use a command like: `update configuration set Include On Hold Projects to 1` for including On Hold projects.

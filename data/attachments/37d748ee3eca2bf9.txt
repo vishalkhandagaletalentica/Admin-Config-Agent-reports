@@ -1,0 +1,1 @@
+The Default Horizon for Completed Tasks is now set to 90 (previously 60).

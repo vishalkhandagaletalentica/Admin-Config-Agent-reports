@@ -1,3 +1,0 @@
-The command to set the Column Order is invalid because it uses a numerical value (12345) instead of the expected multilist format. The allowed input should be a list of items. Please provide a comma-separated list of valid column names for the Column Order. 
-
-For example, a correct command could be: "Set the Column Order to 'Column1,Column2,Column3'."

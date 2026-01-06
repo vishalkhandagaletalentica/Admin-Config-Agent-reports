@@ -1,0 +1,1 @@
+The current setting for the third column preset in Float mode is Task Name, NewCheckList, Actual Start Date, Actual End Date, Updated Dur, Task Duration, Task Calendar Name, SNET Date, Planned Finish Date, Resources, Predecessors Updated, Successor Tasks.

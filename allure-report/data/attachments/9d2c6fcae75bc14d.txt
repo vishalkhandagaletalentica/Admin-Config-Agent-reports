@@ -1,1 +1,0 @@
-The current title for the Full Kit Start Date column in the reports is "Start Date Updated."

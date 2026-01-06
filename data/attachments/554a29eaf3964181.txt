@@ -1,0 +1,1 @@
+update configuration set "Number of Shifts in working times" to "xyz";

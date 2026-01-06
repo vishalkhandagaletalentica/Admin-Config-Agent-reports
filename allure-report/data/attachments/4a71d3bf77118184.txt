@@ -1,1 +1,0 @@
-{'entryId': 1290, 'sectionId': 11, 'flags': 0, 'entryName': 'VIEW_PROJECTS', 'entryFriendlyName': 'View Projects', 'strValue': 'View Projects', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Name for filter View Projects.', 'rangeList': None, 'validationRule': None, 'sequenceId': 135800.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

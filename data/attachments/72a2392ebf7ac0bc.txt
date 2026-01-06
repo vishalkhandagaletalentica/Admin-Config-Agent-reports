@@ -1,0 +1,1 @@
+Updated. The Default Horizon in the Pipeline View report is now set to 2 Months.

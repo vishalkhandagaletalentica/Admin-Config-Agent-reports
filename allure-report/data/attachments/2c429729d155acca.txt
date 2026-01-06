@@ -1,1 +1,0 @@
-The current display name for the column header is "Performance".

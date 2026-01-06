@@ -1,0 +1,1 @@
+The "Hide Time Component from Date" setting is now disabled — dates will include the time component.

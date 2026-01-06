@@ -1,1 +1,0 @@
-The display name for Avg Buffer Cnsmd in the Issue Resolution chart has been successfully updated to "Average Buffer Consumed".

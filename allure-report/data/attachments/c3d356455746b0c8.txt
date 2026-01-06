@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Common -> Column Names — Task Manager (column heading)', 'Integration -> Task — TaskManager (integration Excel column name)'], 'value': None, 'section': None, 'entry': None, 'url': None}

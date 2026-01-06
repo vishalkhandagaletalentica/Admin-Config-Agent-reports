@@ -1,0 +1,1 @@
+{'entryId': 613, 'sectionId': 10, 'flags': 0, 'entryName': 'TOTAL_LTOC', 'entryFriendlyName': 'Load / Capacity (units)', 'strValue': 'Load / Capacity (units)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Load / Capacity (units)', 'rangeList': None, 'validationRule': None, 'sequenceId': 112260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-The "From MS Project Identifier" was updated from "From MSP ID" to "New MSP ID".

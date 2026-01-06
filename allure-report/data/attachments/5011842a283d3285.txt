@@ -1,1 +1,0 @@
-The current column mapping for Text2 is: BOM Quantity.

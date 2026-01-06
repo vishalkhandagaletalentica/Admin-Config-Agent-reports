@@ -1,1 +1,0 @@
-The filter name 'Quarters' (displayed in the filtering pane) has been updated to 'Fiscal Quarters'.

@@ -1,0 +1,1 @@
+The project chain view's start-date range (Default Horizon) is 60 days.

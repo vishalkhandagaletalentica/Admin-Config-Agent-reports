@@ -1,0 +1,1 @@
+update setting "Validate Calendars before BM" to "abcde"

@@ -1,1 +1,0 @@
-What is the current default stretch limit percentage for the project buffer?

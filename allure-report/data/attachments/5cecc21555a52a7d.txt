@@ -1,1 +1,0 @@
-The Config.ini file location has been updated to D:\NewPath\config.ini.

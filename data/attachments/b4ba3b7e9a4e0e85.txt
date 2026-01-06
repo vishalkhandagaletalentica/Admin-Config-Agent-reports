@@ -1,0 +1,1 @@
+Float Group B % Limit updated from 60 to 75.

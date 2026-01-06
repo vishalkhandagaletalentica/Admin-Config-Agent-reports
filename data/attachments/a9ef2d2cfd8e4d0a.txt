@@ -1,0 +1,5 @@
+The command is invalid because the value you are trying to set (12345) is not a valid entry. The expected type for the 'value' field is a comma-separated list of allowed values, which includes: CATEGORY, AUTHOR, DIVISION, PROJECTMANAGER, SHOW_IGNORED_TASK, SUBJECT, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4, ATTRIBUTE5. 
+
+Please provide a value that matches one or more of these allowed entries. 
+
+For example, a correct command could be: `update Filters available set value to CATEGORY,AUTHOR;`

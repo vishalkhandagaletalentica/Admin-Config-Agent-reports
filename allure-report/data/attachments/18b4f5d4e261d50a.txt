@@ -1,1 +1,0 @@
-{'entryId': 979, 'sectionId': 4, 'flags': 0, 'entryName': 'ReduceTaskSwitching', 'entryFriendlyName': 'Reduce CC Task Switching', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Reduce CC Task Switching', 'rangeList': None, 'validationRule': None, 'sequenceId': 59580.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

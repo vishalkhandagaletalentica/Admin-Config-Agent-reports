@@ -1,1 +1,0 @@
-Updated the filtering pane title "In Process" to "In Progress".

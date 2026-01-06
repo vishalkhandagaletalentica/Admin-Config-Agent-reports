@@ -1,1 +1,0 @@
-The Current column mapping for Actual Start is "Actual Start".

@@ -1,0 +1,1 @@
+The current titles displayed in the column headings for Buffer Name and Unique Identifier are "Buffer UID & Name."

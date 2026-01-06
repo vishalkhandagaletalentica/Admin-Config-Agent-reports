@@ -1,1 +1,0 @@
-I attempted to update the column order but encountered a problem: the system could not validate the multi-list column definition for that setting. The update was not applied. Please check that the column names are valid for the Tabular View or provide an alternative column list.

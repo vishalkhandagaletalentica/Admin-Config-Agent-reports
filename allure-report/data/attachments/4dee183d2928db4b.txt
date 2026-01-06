@@ -1,1 +1,0 @@
-Yes — Duration1 is currently being used to calculate buffer sizes in the Critical Chain client (enabled).

@@ -1,1 +1,0 @@
-{'entryId': 2130, 'sectionId': 10, 'flags': 0, 'entryName': 'PERCENT_COMPLETE', 'entryFriendlyName': '%Complete', 'strValue': '%Complete', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': '%Complete', 'rangeList': None, 'validationRule': None, 'sequenceId': 142600.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

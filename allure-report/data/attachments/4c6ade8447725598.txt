@@ -1,1 +1,0 @@
-Updated the filter name from "Red/Yellow/Green/Other" to "Green/Other".

@@ -1,1 +1,0 @@
-Chart Type updated from BAR_CHART to LINE_CHART.

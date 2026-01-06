@@ -1,1 +1,0 @@
-Under Planning Client, the minimum and maximum for Float Group C are both set to 42.

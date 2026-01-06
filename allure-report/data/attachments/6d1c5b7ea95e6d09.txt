@@ -1,1 +1,0 @@
-The default font size for Print Preview is FONT_LARGE.

@@ -1,0 +1,1 @@
+The CCCB buffer is configured to turn red at 100% penetration when the chain is 100% complete.

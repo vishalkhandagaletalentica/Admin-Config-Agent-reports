@@ -1,0 +1,1 @@
+{'entryId': 2376, 'sectionId': 142, 'flags': 0, 'entryName': 'INTEGRATION_SUBTASK_EMAIL_TO', 'entryFriendlyName': 'Email To', 'strValue': 'support@newdomain.com', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Email to', 'rangeList': None, 'validationRule': None, 'sequenceId': 1467520.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

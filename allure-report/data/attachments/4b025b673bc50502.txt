@@ -1,1 +1,0 @@
-The current value for the resource notes that can be searched for tasks is "RESOURCE_NOTES".

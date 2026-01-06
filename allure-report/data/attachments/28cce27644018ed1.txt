@@ -1,1 +1,0 @@
-No — project status charts are disabled by default in the new Project Status UI.

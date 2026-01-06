@@ -1,0 +1,1 @@
+The default sort order for the Pipelining drill down report is: descending by Project Report Status, then ascending by Percent Chain Complete, then ascending by Project Name.

@@ -1,1 +1,0 @@
-The Actual Output correctly states that the scheduling mode has been updated to CC_PLUS_FLOAT, aligning with the factual correctness of the Expected Output. However, it lacks the confirmation of success that is present in the Expected Output, which slightly diminishes its completeness in addressing the intent of the Input.

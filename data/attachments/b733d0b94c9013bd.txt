@@ -1,0 +1,1 @@
+Include Hours for Date/Duration Display Format is already set to 0. No update is needed.

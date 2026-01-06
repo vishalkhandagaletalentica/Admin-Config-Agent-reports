@@ -1,1 +1,0 @@
-The correct section name is "RYG zones for buffers," and the item description refers to the buffer penetration percentage for the CMSB. Please clarify the buffer type as CMSB.

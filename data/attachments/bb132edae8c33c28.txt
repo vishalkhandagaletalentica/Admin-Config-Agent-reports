@@ -1,0 +1,3 @@
+The command you provided is invalid because the value type for "Print Font Size" must be one of the specified options from the allowed range. The expected values are: FONT_XSMALL, FONT_SMALL, FONT_MEDIUM, FONT_LARGE, or FONT_XLARGE. 
+
+Please use one of these allowed values. For example, you could use the command: `update Print Font Size to FONT_LARGE`.

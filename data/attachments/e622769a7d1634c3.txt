@@ -1,0 +1,1 @@
+{'entryId': 2510, 'sectionId': 146, 'flags': 0, 'entryName': 'TASK_TYPE', 'entryFriendlyName': 'Task Type', 'strValue': 'taskType', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Task Type', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510200.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

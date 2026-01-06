@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Text2', 'Text3', 'Text4'], 'value': None, 'section': None, 'entry': None, 'url': None}

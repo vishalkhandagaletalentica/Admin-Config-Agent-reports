@@ -1,1 +1,0 @@
-{'entryId': 1438, 'sectionId': 11, 'flags': 1, 'entryName': 'AMERICAN', 'entryFriendlyName': 'American', 'strValue': 'United States', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for American.', 'rangeList': None, 'validationRule': None, 'sequenceId': 138760.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,0 +1,1 @@
+{'entryId': 154, 'sectionId': 10, 'flags': 0, 'entryName': 'P2P_TO_TASK_DESC', 'entryFriendlyName': 'To Task Description', 'strValue': 'To Task Desc', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P To Task Description', 'rangeList': None, 'validationRule': None, 'sequenceId': 103080.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

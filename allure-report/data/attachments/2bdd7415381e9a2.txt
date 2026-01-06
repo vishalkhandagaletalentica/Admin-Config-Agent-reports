@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Print Font Size to FONT_LARGE.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Print Font Size” setting?'}, {'role': 'user', 'content': 'The section name is "Task Level Priorities By Resource."'}, {'role': 'assistant', 'content': 'Print Font Size updated from FONT_MEDIUM to FONT_LARGE.'}]

@@ -1,1 +1,0 @@
-The minimum delay for a retry is 30 seconds.

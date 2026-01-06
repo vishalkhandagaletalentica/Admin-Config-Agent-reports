@@ -1,0 +1,1 @@
+The current mapping for Custom Task Text Field 74 in the Advanced Filter in Gantt is "NewText74".

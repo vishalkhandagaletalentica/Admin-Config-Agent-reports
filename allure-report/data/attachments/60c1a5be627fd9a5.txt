@@ -1,1 +1,0 @@
-The setting 'Display Queues For Resources' has been successfully updated to disable the inclusion of resources in the Queue report.

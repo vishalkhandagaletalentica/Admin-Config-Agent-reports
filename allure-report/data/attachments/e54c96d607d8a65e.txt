@@ -1,1 +1,0 @@
-What is the current column name for TEXT7 in the task updates?

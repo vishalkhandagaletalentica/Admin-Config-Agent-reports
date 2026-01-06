@@ -1,1 +1,0 @@
-I need to resolve the exact configuration entries before I can read the current values. Please confirm the section name (is it exactly “Executive”?) and the exact entry labels for each report (for example: “Project Status report” and “Red Projects report” or the UI-friendly entry labels).

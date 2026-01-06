@@ -1,1 +1,0 @@
-Please update the DBR_ColorPriority1 setting to N.

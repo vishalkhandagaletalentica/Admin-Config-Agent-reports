@@ -1,1 +1,0 @@
-The current order of the columns in the Actual Delay drill down project status report is not specified.

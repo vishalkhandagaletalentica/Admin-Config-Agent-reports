@@ -1,1 +1,0 @@
-The current type of chain being used for the milestone view is SUCCESSOR_CHAINS.

@@ -1,1 +1,0 @@
-The option to show participants in the Task Manager list has been successfully enabled.

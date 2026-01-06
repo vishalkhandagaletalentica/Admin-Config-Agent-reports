@@ -1,1 +1,0 @@
-{'entryId': 2802, 'sectionId': 10, 'flags': 0, 'entryName': 'BINARY_ROUTINE', 'entryFriendlyName': 'Binary routine', 'strValue': 'New Binary Routine', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Scheduler push out logic - binary', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

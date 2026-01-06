@@ -1,1 +1,0 @@
-The option to disallow multiple calendars for tasks has been successfully disabled.

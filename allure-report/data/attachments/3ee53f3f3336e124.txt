@@ -1,1 +1,0 @@
-{'entryId': 396, 'sectionId': 10, 'flags': 0, 'entryName': 'EXEC_COMMENTS', 'entryFriendlyName': 'Comments (for Subtask)', 'strValue': 'Feedback', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Comments in Task List', 'rangeList': None, 'validationRule': None, 'sequenceId': 107920.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-The filter name is already set to "End of Previous Period." No update is needed.

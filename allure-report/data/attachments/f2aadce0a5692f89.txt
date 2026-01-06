@@ -1,1 +1,0 @@
-The display name for "Yearly" in Filters has been updated to "Annual."

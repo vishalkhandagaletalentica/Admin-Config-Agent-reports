@@ -1,1 +1,0 @@
-{'entryId': 189, 'sectionId': 10, 'flags': 0, 'entryName': 'CHECKOUT_STATUS', 'entryFriendlyName': 'Edit Network', 'strValue': 'Network Configuration', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Edit Network', 'rangeList': None, 'validationRule': None, 'sequenceId': 103780.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

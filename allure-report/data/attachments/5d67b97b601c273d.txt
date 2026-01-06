@@ -1,1 +1,0 @@
-The option to show completed contractual milestones in the project status report is currently disabled.

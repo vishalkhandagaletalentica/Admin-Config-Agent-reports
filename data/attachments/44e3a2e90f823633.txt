@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Projected Date (in Results and Rules) — used in On Time Delivery, Actual Delay, Red Project Delay, Cycle Time reports', 'Projected Date — general column heading', 'Projected Date (in Project Control for Project Details)'], 'value': None, 'section': None, 'entry': None, 'url': None}

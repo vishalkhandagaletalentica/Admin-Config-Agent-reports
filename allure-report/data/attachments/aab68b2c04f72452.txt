@@ -1,1 +1,0 @@
-The current title displayed for the Buffer Name column in the Buffering Drilldown Report is "Buffer Name."

@@ -1,0 +1,1 @@
+Completed projects display for the Issue Resolution report is disabled.

@@ -1,1 +1,0 @@
-What is the current mapping for the Leveled Task Float in the advanced filter settings for Gantt?

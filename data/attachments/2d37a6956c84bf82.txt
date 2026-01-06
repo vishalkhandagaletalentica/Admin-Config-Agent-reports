@@ -1,0 +1,1 @@
+Completed projects are currently being displayed in the Project Control view.

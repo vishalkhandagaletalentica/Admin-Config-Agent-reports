@@ -1,1 +1,0 @@
-The current title displayed for the resource base calendar in the column headings is "New Resource Base Calendar."

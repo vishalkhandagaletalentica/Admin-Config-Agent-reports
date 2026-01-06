@@ -1,1 +1,0 @@
-The current default sorting order for the On-Time Delivery report is set to 12345.

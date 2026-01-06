@@ -1,1 +1,0 @@
-I attempted to rename the Status filter to "Updated Status" in the Task List, but I couldn't apply the change because your account lacks the required privileges. Please ask an administrator to grant update permissions or let me know if you'd like me to proceed once permissions are available.

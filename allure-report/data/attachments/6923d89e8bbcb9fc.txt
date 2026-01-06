@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_WEB_MGR_TABULAR_VIEW', 'entry': 'HIDDEN_FIELDS', 'url': None}

@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_WEB_MGR', 'entry': 'IS_STRETCH_ENABLED', 'url': None}

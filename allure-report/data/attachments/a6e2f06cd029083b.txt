@@ -1,1 +1,0 @@
-The current title displayed for the P2P Predecessors in the Task Details feature is 67890.

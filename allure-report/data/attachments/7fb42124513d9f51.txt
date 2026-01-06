@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question. It accurately states the default selection for the project manager filters, matching the Expected Output in meaning, even though the punctuation differs slightly. There are no incorrect facts or unrelated entries introduced.

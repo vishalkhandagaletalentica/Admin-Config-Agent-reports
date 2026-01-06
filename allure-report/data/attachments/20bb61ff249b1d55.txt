@@ -1,1 +1,0 @@
-The current title for the Close Date column in the reports is "Close Date Updated."

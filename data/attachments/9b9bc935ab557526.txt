@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': "update Text8 set value to 'abcde'"}, {'role': 'assistant', 'content': 'I can update that — which configuration section contains the entry named "Text8"?'}, {'role': 'user', 'content': 'The section name is "Custom Task Text Field."'}, {'role': 'assistant', 'content': "Custom Task Text Field 8 updated from '0' to 'abcde'."}]

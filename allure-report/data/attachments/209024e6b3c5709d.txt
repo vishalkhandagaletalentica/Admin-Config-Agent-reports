@@ -1,1 +1,0 @@
-The current title used for the filter in the Display Data Table is "Updated Data Table."

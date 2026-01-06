@@ -1,1 +1,0 @@
-What is the current column mapping for Duration when importing a CSV or Excel file?

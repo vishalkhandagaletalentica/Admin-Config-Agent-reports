@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Advanced Filter Field Mapping — Custom Task Text3 (Planning Client -> Adv. Filter Field Mapping)', 'Filter display name — Custom Task Text3 (Common -> Filter Names)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+Default Date Interval Selection for the Trend Chart was updated from Monthly to Weekly.

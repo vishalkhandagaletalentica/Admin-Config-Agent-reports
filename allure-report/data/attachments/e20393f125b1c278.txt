@@ -1,1 +1,0 @@
-The current column name for Text7 in the task updates is not set.

@@ -1,1 +1,0 @@
-The display name for the successor task in the column headers is "Successor Tasks".

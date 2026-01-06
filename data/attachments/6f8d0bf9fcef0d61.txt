@@ -1,0 +1,1 @@
+The day filter title in the filtering pane is set to "New Day".

@@ -1,1 +1,0 @@
-The current column mapping for the Predecessor Task when importing a CSV or Excel file is PE and NEW_VALUE.

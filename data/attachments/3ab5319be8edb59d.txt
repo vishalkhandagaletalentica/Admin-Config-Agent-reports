@@ -1,0 +1,11 @@
+For Tasks Delayed By Task Manager/By Resource/By Task Description, the following columns are currently hidden in the report:
+
+MSP_TASK_ID
+NO_DELAY_DURATION
+NO_DELAY_START
+NO_DELAY_COMPL
+RESOURCE_NOTES
+COMMENTS
+CCCB_PENETRATION
+CMSB_PENETRATION
+CCFB_PENETRATION

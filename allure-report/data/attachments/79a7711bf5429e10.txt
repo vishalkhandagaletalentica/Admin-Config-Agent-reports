@@ -1,1 +1,0 @@
-The column heading for Original Link Type is currently: "Orig Link Type".

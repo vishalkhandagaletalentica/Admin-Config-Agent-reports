@@ -1,0 +1,1 @@
+Completed projects are currently enabled — they are being displayed in the Executive -> Project Status and Executive -> Red Projects reports.

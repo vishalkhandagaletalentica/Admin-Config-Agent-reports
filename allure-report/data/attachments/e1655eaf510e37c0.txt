@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Executive (Filters to display)', 'Project Mgr -> Modify Projects (Filters to display)', 'Buffer Diagnostics -> By Help Needed (Filters to display)'], 'value': None, 'section': None, 'entry': None, 'url': None}

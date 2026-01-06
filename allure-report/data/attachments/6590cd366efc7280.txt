@@ -1,1 +1,0 @@
-The current title for the 'Escalation Closed On' column in the reports is "Escalation Closed On."

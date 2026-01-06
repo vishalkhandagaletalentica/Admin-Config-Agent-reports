@@ -1,1 +1,0 @@
-The SNS Topic Name for Buffer Management has been successfully updated to "my-unique-project-bm".

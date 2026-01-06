@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the column mapping as 'BOM Quantity,' which aligns with the Expected Output. However, it lacks the specific mention of 'Excel file related to Text2,' which is part of the Input question, leading to a slight deduction for not fully addressing the intent.

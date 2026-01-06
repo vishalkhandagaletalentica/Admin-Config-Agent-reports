@@ -1,0 +1,1 @@
+{'entryId': 135, 'sectionId': 10, 'flags': 0, 'entryName': 'PENETRATING_TASK_DESC', 'entryFriendlyName': 'Penetrating Task Description', 'strValue': 'Critical Task', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Penetrating Task', 'rangeList': None, 'validationRule': None, 'sequenceId': 102700.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

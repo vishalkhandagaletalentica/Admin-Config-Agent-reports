@@ -1,0 +1,1 @@
+{'entryId': 1734, 'sectionId': 52, 'flags': 0, 'entryName': 'OH', 'entryFriendlyName': 'On Hold', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Specifies if On Hold projects should be displayed.', 'rangeList': '', 'validationRule': None, 'sequenceId': 538604.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

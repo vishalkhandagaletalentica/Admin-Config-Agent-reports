@@ -1,0 +1,1 @@
+The current column name for Text3 in the Task update settings is "newColumnName".

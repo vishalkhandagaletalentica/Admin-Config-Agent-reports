@@ -1,1 +1,0 @@
-The internal milestone filter in the Project Status report is disabled by default.

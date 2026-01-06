@@ -1,1 +1,0 @@
-The Max Start Week (most distant week used) is set to 10 weeks back.

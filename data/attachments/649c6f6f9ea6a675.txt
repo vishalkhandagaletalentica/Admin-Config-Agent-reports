@@ -1,0 +1,1 @@
+{'entryId': 2762, 'sectionId': 146, 'flags': 0, 'entryName': 'LEVELED_FLOAT', 'entryFriendlyName': 'Leveled Float', 'strValue': 'RLTF', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Leveled Float', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

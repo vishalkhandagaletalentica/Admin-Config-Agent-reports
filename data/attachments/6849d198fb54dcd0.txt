@@ -1,0 +1,1 @@
+Auto Update Task (Task List) is enabled: the parent task will be automatically completed when all sub-tasks are complete.

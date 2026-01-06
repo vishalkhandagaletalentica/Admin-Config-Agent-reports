@@ -1,1 +1,0 @@
-The current title for the second date column is "Date".

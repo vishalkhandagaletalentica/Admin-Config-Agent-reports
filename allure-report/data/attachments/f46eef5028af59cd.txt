@@ -1,1 +1,0 @@
-The current default column width for the In Progress/In Queue columns is 140 px.

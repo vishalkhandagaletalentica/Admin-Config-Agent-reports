@@ -1,0 +1,1 @@
+The currently hidden column in the report is TASK_MANAGER_CV.

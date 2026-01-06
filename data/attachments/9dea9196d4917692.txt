@@ -1,0 +1,1 @@
+update configuration set Filters available to 12345;

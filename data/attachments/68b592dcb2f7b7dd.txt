@@ -1,0 +1,4 @@
+The command you provided is invalid because the value type for the setting "Show logged in user selected in the Project Manager Filter" is an integer (valueType: 3), but you are attempting to set it to a string ("xyz"). The expected value should be an integer, either 0 or 1, where 0 represents "unchecked" and 1 represents "checked." 
+
+A correct example command would be:  
+`update configuration setting "Show logged in user selected in the Project Manager Filter" to 1;`

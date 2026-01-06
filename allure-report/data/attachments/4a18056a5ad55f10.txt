@@ -1,1 +1,0 @@
-The column name 'Distance' has been updated to 'Distance_Miles'.

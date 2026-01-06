@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the column mapping for Man Hours as 'MHEST', which aligns with the Expected Output. However, it lacks the additional context of 'when importing a CSV or Excel file', which is part of the Input question. This omission slightly detracts from fully addressing the intent of the question.

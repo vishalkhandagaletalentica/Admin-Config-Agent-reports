@@ -1,1 +1,0 @@
-Default WIP Limit updated from 5 to 10.

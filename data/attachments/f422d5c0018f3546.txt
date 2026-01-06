@@ -1,0 +1,8 @@
+The following filters are currently set not to display in the report:
+- Division
+- Design Team Needed
+- Project Attribute 5
+- Project Attribute 6
+- New Project Attribute Value
+- [insert new value here]
+- New Buffer Trend

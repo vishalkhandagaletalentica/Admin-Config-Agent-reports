@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Days Decrease for Rem Dur in IP Tasks', 'Days for Delta/Decreased Rem Dur Calculations'], 'value': None, 'section': None, 'entry': None, 'url': None}

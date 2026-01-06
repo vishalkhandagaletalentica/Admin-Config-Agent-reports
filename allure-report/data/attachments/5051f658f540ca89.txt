@@ -1,1 +1,0 @@
-The filters currently being displayed in the Buffer Diagnostics report are New Product Code and Portfolio.

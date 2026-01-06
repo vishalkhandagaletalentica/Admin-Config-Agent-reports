@@ -1,1 +1,0 @@
-Stretch during the pipeline has been disabled.

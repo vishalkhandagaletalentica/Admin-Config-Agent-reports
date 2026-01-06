@@ -1,1 +1,0 @@
-The current titles displayed in the column headings for the exception periods of resource non-availability are "Updated Exceptions."

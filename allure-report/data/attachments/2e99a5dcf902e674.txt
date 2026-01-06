@@ -1,1 +1,0 @@
-The current title for the Projected Cycle Time in the Pipeline Dashboard report is "Estimated Cycle Duration (d)."

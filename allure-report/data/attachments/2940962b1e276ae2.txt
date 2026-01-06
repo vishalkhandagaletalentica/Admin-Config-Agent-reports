@@ -1,1 +1,0 @@
-The option to load Non Base Calendars for Scheduling has been successfully enabled.

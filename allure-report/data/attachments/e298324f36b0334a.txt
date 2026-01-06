@@ -1,1 +1,0 @@
-The current label that appears before the sort selection dropdown in the filtering pane is "Sort items by:".

@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Delay (in Days) to 10 days.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Delay (in Days)” setting?'}, {'role': 'user', 'content': 'The section name is "Column Headings."'}, {'role': 'assistant', 'content': 'The Delay (in Days) has been updated from "Delay (d)" to "10 days".'}]

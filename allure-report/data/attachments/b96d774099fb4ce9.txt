@@ -1,1 +1,0 @@
-{'entryId': 803, 'sectionId': 10, 'flags': 0, 'entryName': 'TASK_OUTLINE_LEVEL', 'entryFriendlyName': 'Task Outline Level', 'strValue': 'New Outline Level', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Outline Level', 'rangeList': None, 'validationRule': None, 'sequenceId': 116060.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

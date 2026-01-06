@@ -1,1 +1,0 @@
-Please update the Default Rolling Average Period to 10 periods.

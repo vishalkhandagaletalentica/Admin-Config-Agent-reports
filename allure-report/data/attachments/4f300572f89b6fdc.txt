@@ -1,1 +1,0 @@
-The Percent Complete setting has been updated to DPC_NEW.

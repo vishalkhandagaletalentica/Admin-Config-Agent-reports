@@ -1,0 +1,1 @@
+Can you show me if the buffer size is set to round to the next hour?

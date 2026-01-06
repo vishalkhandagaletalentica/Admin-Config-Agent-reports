@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the title displayed for the original type in the column headings as 'Orig Link Type', which aligns with the Expected Output. It directly addresses the intent of the Input question. However, the phrasing is slightly different, and the inclusion of 'currently' is unnecessary, which prevents a perfect score.

@@ -1,1 +1,0 @@
-The command is invalid because the value type for 'Resource Units' is set to 2, which indicates that it expects a string value, not an integer. Please provide a valid string value. For example, you might use the command: `update Resource Units set value to 'Resource Allocation'`.

@@ -1,1 +1,0 @@
-The Actual Output correctly states that the Include Project Chain View has been enabled, which aligns with the factual correctness of the Expected Output. However, it lacks the additional detail of 'successfully' that is present in the Expected Output, which slightly diminishes its completeness in addressing the intent of the Input.

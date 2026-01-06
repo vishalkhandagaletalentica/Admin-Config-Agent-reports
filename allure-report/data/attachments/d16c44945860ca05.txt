@@ -1,1 +1,0 @@
-{'entryId': 970, 'sectionId': 2, 'flags': 0, 'entryName': 'EnableMPDForCheckIn', 'entryFriendlyName': 'Enable checkin of MPD files', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Check to enable MPD files for checkin.', 'rangeList': None, 'validationRule': None, 'sequenceId': 39400.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

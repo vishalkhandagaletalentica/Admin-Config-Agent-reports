@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Is the external link for the Project Status Report currently enabled?'}, {'role': 'assistant', 'content': 'No — the Project Status Report external link is currently disabled.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Done — the Project Status Report external link is now enabled.'}]

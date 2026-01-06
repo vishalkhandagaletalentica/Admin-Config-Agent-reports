@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Milestone Report', 'Project Mgr -> Project Control', 'Project Mgr -> Modify Projects'], 'value': None, 'section': None, 'entry': None, 'url': None}

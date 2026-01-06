@@ -1,1 +1,0 @@
-The section name is "Metrics reports," and the item description refers to the "Print Font Size" for Print Preview in both Modify Projects and Project Repair.

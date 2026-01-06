@@ -1,1 +1,0 @@
-Please update the setting to disable the "not responding" message by setting it to enabled.

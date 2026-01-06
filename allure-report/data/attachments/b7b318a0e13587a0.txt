@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by accurately stating the filter name. It maintains the essential meaning of the Expected Output, although it does not include the word 'current' and uses a slightly different structure. The response is relevant and concise, with no incorrect facts introduced.

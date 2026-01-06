@@ -1,0 +1,1 @@
+Resources are now excluded from the Stuck Task Delay report — the "Display Stuck Task Delays For Resources" option has been disabled.

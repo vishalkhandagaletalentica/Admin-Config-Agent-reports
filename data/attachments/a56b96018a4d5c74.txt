@@ -1,0 +1,1 @@
+The advanced filter mapping for Task Phase is set to "Phase".

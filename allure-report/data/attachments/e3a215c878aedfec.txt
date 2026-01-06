@@ -1,1 +1,0 @@
-Yes, the Drum Phase Cycle Time is displayed in the Cycle Time report.

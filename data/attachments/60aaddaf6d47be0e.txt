@@ -1,0 +1,1 @@
+{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_STUCK_TASK', 'entry': 'HIDDEN_FIELDS', 'url': None}

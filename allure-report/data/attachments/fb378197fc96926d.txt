@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_COLUMN_NAMES', 'entry': 'PROJECTED_DATE', 'url': None}

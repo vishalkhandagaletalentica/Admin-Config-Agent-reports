@@ -1,0 +1,1 @@
+{'entryId': 1473, 'sectionId': 10, 'flags': 0, 'entryName': 'CHAINUID', 'entryFriendlyName': 'Chain Unique ID', 'strValue': '[new value]', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Chain Unique ID.', 'rangeList': None, 'validationRule': None, 'sequenceId': 129460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

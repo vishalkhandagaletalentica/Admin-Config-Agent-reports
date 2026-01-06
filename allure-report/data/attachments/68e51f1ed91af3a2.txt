@@ -1,1 +1,0 @@
-Please update the Default Due Date Tolerance Percentage to 15%.

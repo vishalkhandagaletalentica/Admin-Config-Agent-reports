@@ -1,0 +1,1 @@
+{'entryId': 168, 'sectionId': 10, 'flags': 0, 'entryName': 'P2PADD_TO_TASK', 'entryFriendlyName': 'To Task', 'strValue': 'To Task (Desc/UID/MSPID)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2PADD_TO_TASK', 'rangeList': None, 'validationRule': None, 'sequenceId': 103360.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

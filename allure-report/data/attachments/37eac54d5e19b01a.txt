@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_SWIMLANE_REPORT', 'entry': 'CIQ', 'url': None}

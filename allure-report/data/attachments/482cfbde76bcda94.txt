@@ -1,1 +1,0 @@
-The current tag used for the Custom Text Checklist in MS Project is 12345.

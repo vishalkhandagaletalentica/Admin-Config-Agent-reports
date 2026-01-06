@@ -1,1 +1,0 @@
-Please update the filters available to be displayed in the report to Division,Portfolio,Customer,Product Code,Designers Required,Project Attribute 5,Project Attribute 6,Updated Project Attribute Value,Project Attribute 8.

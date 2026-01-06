@@ -1,0 +1,1 @@
+The current mapping for the Date2 column in the checklist integration settings is Delivery Date.

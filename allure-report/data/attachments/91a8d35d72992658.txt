@@ -1,1 +1,0 @@
-The Actual Output incorrectly states that the Auto Rollup Duration is set to a string value, which does not align with the Expected Output indicating that the feature is disabled. While it attempts to address the input, it fails to provide a correct factual representation of the feature's status, leading to a significant misalignment with the expected information.

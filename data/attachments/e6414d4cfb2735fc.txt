@@ -1,0 +1,1 @@
+{'entryId': 1975, 'sectionId': 10, 'flags': 0, 'entryName': 'ROLL_UP_DURATION', 'entryFriendlyName': 'Roll up', 'strValue': 'Roll up new value', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Roll up duration', 'rangeList': None, 'validationRule': None, 'sequenceId': 139500.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

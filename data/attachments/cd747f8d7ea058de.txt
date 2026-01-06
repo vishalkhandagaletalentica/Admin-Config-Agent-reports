@@ -1,0 +1,1 @@
+How can I check which text columns are currently searchable for locating tasks?

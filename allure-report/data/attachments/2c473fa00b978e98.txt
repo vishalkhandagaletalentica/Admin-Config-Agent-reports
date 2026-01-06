@@ -1,1 +1,0 @@
-I've enabled the Include Completed Tasks filter for the Project Chain View.

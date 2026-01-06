@@ -1,0 +1,1 @@
+I've disabled the “Show Team Members in Project Manager Filter” setting in Project Status.

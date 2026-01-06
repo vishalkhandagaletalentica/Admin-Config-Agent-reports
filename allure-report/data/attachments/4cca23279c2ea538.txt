@@ -1,1 +1,0 @@
-The setting "Use Bulk Insertion" has been successfully updated to enabled.

@@ -1,6 +1,0 @@
-The following columns are hidden in the Pipeline View report:
-- Delay
-- Buffer Cnsmd
-- Trend
-- Longest Chain Complete
-- Action Icon

@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PLANNING_CLIENT_IMPORT_MAPPING', 'entry': 'PLANNING_CLIENT_IMP_MAP_REMDURATION', 'url': None}

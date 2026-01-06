@@ -1,1 +1,0 @@
-{'entryId': 891, 'sectionId': 14, 'flags': 1, 'entryName': 'SUGGEST_DELAY', 'entryFriendlyName': 'Suggest Task Delay', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Suggest task delay during reason code prompt.', 'rangeList': None, 'validationRule': None, 'sequenceId': 157820.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

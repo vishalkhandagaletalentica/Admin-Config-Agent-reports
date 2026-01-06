@@ -1,1 +1,0 @@
-The current filtering pane title for feeding buffers is "Feeding Buffers".

@@ -1,1 +1,0 @@
-{'entryId': 703, 'sectionId': 45, 'flags': 1, 'entryName': 'RESOURCE_NOTES', 'entryFriendlyName': 'RESOURCE_NOTES', 'strValue': 'RESOURCE_NOTES', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 464060.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

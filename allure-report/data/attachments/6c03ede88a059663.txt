@@ -1,1 +1,0 @@
-The Finish Date column is currently mapped to "INT_EF".

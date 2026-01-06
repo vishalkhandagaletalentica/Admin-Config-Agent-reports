@@ -1,0 +1,1 @@
+{'entryId': 1142, 'sectionId': 11, 'flags': 0, 'entryName': 'LINE_CHART', 'entryFriendlyName': 'Line', 'strValue': 'Line', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter value for Line Chart.', 'rangeList': None, 'validationRule': None, 'sequenceId': 132840.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

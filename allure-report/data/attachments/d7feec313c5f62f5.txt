@@ -1,1 +1,0 @@
-Contractual Milestones are now included (enabled) in the chart.

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr -> Modify Projects (Column Order)', 'Project Mgr -> Milestone Report (Column Order)', 'Project Mgr -> Project Control (Column Order)', 'Common -> Column Names (individual column titles)'], 'value': None, 'section': None, 'entry': None, 'url': None}

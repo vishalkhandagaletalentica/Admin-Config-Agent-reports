@@ -1,1 +1,0 @@
-The Task Leveled Early Start Date (Gantt) column heading has been updated from "Leveled Early Start" to "New Leveled Early Start".

@@ -1,4 +1,0 @@
-The command to update the sort order is invalid because the provided value '12345' does not match the expected type, which should be a string corresponding to one of the sortable options in the $SORTABLELIST. Please use a valid string value from the allowed sortable list. 
-
-For example, you could use:  
-`update_sort_order 'A-CHECKLIST_SEQID'`

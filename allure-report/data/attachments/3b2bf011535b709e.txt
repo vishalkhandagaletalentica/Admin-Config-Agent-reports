@@ -1,1 +1,0 @@
-The current title displayed for the buffer status in the column headings is "P2P Buffer Status."

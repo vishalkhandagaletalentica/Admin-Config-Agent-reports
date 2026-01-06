@@ -1,1 +1,0 @@
-The current data point setting for the buckets used in the Pipelining report is END_OF_BUCKET.

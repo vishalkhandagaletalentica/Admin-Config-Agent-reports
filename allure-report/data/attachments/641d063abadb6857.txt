@@ -1,1 +1,0 @@
-The current title for the required buffer for the remaining chain length in the reports is "Required Buffer For The Remaining Chain Length."

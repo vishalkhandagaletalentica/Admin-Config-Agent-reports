@@ -1,1 +1,0 @@
-{'entryId': 389, 'sectionId': 10, 'flags': 0, 'entryName': 'PREDECESSORS', 'entryFriendlyName': 'Predecessors (Subtask List)', 'strValue': 'Pred', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Predecessors', 'rangeList': None, 'validationRule': None, 'sequenceId': 107780.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

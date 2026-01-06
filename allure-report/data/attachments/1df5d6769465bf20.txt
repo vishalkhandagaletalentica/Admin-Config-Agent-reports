@@ -1,1 +1,0 @@
-Password Minimum Length has been updated from 6 to 8.

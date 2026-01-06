@@ -1,1 +1,0 @@
-The display name for all review comments in the column headers was updated to "All Feedback Comments".

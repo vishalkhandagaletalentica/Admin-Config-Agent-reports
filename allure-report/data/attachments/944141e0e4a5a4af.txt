@@ -1,1 +1,0 @@
-The Actual Output does not address the factual correctness of the expected value type for the 'Show Project Description' setting, which is specified as an integer. Instead, it incorrectly suggests a boolean value. Additionally, it fails to clarify the required integer value, which is a key aspect of the Input question.

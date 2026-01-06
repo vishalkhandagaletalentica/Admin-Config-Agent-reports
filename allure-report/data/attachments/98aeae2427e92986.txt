@@ -1,1 +1,0 @@
-Yes — Buffer Size Rounded to Hour is enabled.

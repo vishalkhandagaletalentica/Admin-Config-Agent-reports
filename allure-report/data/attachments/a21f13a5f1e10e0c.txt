@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'What is the current setting for the period type in the Full Kit Delay report?'}, {'role': 'assistant', 'content': 'The period type (Time Interval) is currently set to Weekly.'}, {'role': 'user', 'content': 'Update it to Monthly.'}, {'role': 'assistant', 'content': 'The Time Interval is already set to Monthly. No update is needed.'}]

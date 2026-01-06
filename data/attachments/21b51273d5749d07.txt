@@ -1,0 +1,40 @@
+Hidden columns in the Stuck Task List report:
+1. Task Type
+2. Constraint Date
+3. View Document Links
+4. Enable Auto Document Link
+5. Status
+6. MSP ID
+7. Resources
+8. Participants
+9. Status
+10. Sugg Start
+11. Expected Finish
+12. IP Duration
+13. Rem Dur
+14. Delta Rem Dur
+15. Delay Reason Comments
+16. Actual Start Date
+17. Actual End Date
+18. % PB Cnsm`d
+19. % MB Cnsm`d
+20. % FB Cnsm`d
+21. Comments
+22. Last Update
+23. Ready To Start
+24. Sort Window Start
+25. UID
+26. Text1
+27. RZ Reference
+28. Expected Improvements
+29. Hours Remaining
+30. WBS STREAM
+31. QA Check
+32. Technician
+33. Zone
+34. Job Status
+35. Security Code
+36. Open Work Cards
+37. Parent Task UID
+38. Help Needed
+39. Escalation Duration

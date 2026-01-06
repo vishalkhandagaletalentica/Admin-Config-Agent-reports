@@ -1,1 +1,0 @@
-The Actual Output is factually correct, accurately stating that the 'Enable resource based pipeline' setting is currently disabled, which aligns with the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information.

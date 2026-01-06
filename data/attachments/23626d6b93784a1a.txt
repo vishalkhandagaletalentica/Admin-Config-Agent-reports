@@ -1,0 +1,1 @@
+update configuration set Default Rolling Average Period (X periods in past) to 'abcde'

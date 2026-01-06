@@ -1,1 +1,0 @@
-No — project level task manager compliance is currently disabled for the task manager.

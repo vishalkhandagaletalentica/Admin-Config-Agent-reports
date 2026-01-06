@@ -1,1 +1,0 @@
-The current duration for auto save is 5 minutes.

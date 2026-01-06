@@ -1,0 +1,1 @@
+The display name for Months in the Filters has been updated from "Months" to "New Month Name".

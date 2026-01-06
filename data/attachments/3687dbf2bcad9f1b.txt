@@ -1,0 +1,1 @@
+You can check the current text columns that users can search to find tasks by looking at the Task Manager ID.

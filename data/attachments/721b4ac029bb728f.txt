@@ -1,0 +1,1 @@
+Updated: the "Enable Auto Document Link" entry in Column Headings is now set to "Disable Auto Document Link."

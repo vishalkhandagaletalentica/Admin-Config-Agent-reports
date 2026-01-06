@@ -1,0 +1,5 @@
+The command you provided is invalid because the value '12345' is not an allowed value for the 'Sort Order' setting. The expected value type is a string, and it should be one of the allowed sortable list values. 
+
+Please provide a valid value from the allowed range. For example, you could use a value like 'B-CHECKLIST_SEQID' or any other valid sortable option from the list. 
+
+A correct command would be: `update Sort Order set value to B-CHECKLIST_SEQID`.

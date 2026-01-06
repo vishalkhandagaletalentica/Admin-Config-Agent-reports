@@ -1,1 +1,0 @@
-The Task Manager setting has been updated from "taskMgr" to "taskMgrUpdated".

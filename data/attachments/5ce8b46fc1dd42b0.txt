@@ -1,0 +1,3 @@
+The command "update Work Card Status to 12345" is invalid because the expected value type for "Work Card Status" is a string, and "12345" is not one of the allowed values. The allowed values are: Select, EXEC_CUSTOM_TASK_TEXT1, EXEC_CUSTOM_TASK_TEXT2, EXEC_CUSTOM_TASK_TEXT3, EXEC_CUSTOM_TASK_TEXT4, EXEC_CUSTOM_TASK_TEXT5, EXEC_CUSTOM_TASK_TEXT6, EXEC_CUSTOM_TASK_TEXT7, EXEC_CUSTOM_TASK_TEXT8, EXEC_CUSTOM_TASK_TEXT9, EXEC_CUSTOM_TASK_TEXT10.
+
+Please use one of the allowed values. For example, you can use the command: "update Work Card Status to Select".

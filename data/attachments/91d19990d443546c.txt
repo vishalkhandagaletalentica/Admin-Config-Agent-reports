@@ -1,0 +1,1 @@
+The Sort Order for Project Mgr -> Modify Projects was updated from A-PROJECT_NAME to B-START_DATE.

@@ -1,1 +1,0 @@
-The Actual Output correctly states that the Critical Path Sorting feature has been disabled, aligning with the factual correctness of the Expected Output. However, it lacks the additional confirmation of success found in the Expected Output, which slightly diminishes its completeness in addressing the intent of the Input question.

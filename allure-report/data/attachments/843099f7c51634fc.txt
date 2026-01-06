@@ -1,1 +1,0 @@
-The current display delay set for the column headings is 'Delay'.

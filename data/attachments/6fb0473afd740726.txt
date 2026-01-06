@@ -1,0 +1,1 @@
+The option to show restricted users in the Assign Participants Dialog is now enabled.

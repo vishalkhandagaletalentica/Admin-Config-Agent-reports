@@ -1,1 +1,0 @@
-The option to show project level action items in the Action Item dialog has been successfully disabled.

@@ -1,1 +1,0 @@
-Please update the Column Name for Longest Chain Remaining to "Longest Chain Remaining".

@@ -1,1 +1,0 @@
-What is the current title displayed for the Windows User ID in the column headings?

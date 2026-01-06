@@ -1,1 +1,0 @@
-The option to display Feeding Buffers is currently turned off.

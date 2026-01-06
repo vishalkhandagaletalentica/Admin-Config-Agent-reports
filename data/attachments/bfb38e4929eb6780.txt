@@ -1,0 +1,5 @@
+The command is invalid because the value type for "Project Attribute 7" is set to 2, which indicates that it expects a string value, not an integer. 
+
+The expected type is a string. The current string value is "New Project Attribute Value".
+
+A correct example command would be: `update "Project Attribute 7" set value to "New Project Attribute Value"`.

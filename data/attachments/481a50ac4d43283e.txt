@@ -1,0 +1,1 @@
+{'entryId': 1656, 'sectionId': 11, 'flags': 0, 'entryName': 'TEAM', 'entryFriendlyName': 'Team', 'strValue': 'New Team Name', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter Name for Team.', 'rangeList': None, 'validationRule': None, 'sequenceId': 143120.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

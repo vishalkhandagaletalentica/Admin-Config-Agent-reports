@@ -1,0 +1,1 @@
+The correct section name is "Global Resource File" and the item description is "Column order in the report."

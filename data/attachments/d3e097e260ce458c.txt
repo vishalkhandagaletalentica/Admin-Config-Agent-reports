@@ -1,0 +1,1 @@
+The current default Capacity Buffer percentage is 20%.

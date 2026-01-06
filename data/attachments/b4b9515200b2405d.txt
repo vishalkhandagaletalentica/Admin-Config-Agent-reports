@@ -1,0 +1,1 @@
+The current Task Update Email body is: "The task has been updated. Please visit %LINK% to view the details. Project Name: %PROJECT_NAME%,Task ID: %MSP_TASK_ID%,Unique Task ID: %TASKUNIQUEID%,Description: %TASK_DESCRIPTION%."

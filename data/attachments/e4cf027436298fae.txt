@@ -1,0 +1,1 @@
+Please update the column name for Fixed Property to "Fixed Property".

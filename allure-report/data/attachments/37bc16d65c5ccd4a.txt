@@ -1,1 +1,0 @@
-The current title shown in the filtering pane for Contractual Milestones is "New Contractual Milestones."

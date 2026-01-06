@@ -1,0 +1,1 @@
+I couldn't update the Subtask Custom Text Field 1 to EXEC_CUSTOM_TASK_TEXT1 because you don't have privileges to update configurations. The current value is "WBS". Please request the necessary permissions or contact your administrator and try again.

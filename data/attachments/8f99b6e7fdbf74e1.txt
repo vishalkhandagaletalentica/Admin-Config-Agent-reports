@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'update Sort Order to 12345'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Sort Order” entry you want to update?'}, {'role': 'user', 'content': 'The section name is Buffering.'}, {'role': 'assistant', 'content': 'Sort Order has been updated from "B-PROJECT_NAME" to "12345".'}]

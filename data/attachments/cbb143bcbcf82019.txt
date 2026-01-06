@@ -1,0 +1,1 @@
+I've updated Task Text 46 (Custom Task Text Field) in Adv. filter in Gantt to "NewText46".

@@ -1,0 +1,5 @@
+The command you provided attempts to set the value to a numeric type (12345), but the expected value type is a multi-select list, which requires a string of comma-separated values. The value must correspond to the allowed fields in the multi-list.
+
+Please use a valid string format for the value. For example, you can use: `TASK_TYPE,CONSTRAINT_DATE,PROJECT_STATUS`. 
+
+A correct command would be: `update Hidden Fields set value to TASK_TYPE,CONSTRAINT_DATE,PROJECT_STATUS;`

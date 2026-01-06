@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'CT_DRILLDOWN', 'entry': 'SORT', 'url': None}

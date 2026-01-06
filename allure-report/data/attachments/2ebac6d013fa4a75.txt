@@ -1,1 +1,0 @@
-{'entryId': 1133, 'sectionId': 11, 'flags': 0, 'entryName': 'COMPARE_WITH', 'entryFriendlyName': 'Compare With', 'strValue': 'Comparison', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Compare With.', 'rangeList': None, 'validationRule': None, 'sequenceId': 132660.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

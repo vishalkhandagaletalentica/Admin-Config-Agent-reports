@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Is the Task Update History feature currently enabled?'}, {'role': 'assistant', 'content': 'Yes — Task Update History is enabled.'}, {'role': 'user', 'content': 'Update this setting to disabled.'}, {'role': 'assistant', 'content': 'Task Update History has been disabled.'}]

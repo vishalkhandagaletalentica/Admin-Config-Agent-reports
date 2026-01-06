@@ -1,1 +1,0 @@
-The current setting for indicating completed checklist items in MS Project is "completed."

@@ -1,0 +1,1 @@
+{'entryId': 2011, 'sectionId': 10, 'flags': 0, 'entryName': 'SUBTASK_TYPE_WIP', 'entryFriendlyName': 'Subtask type WIP', 'strValue': 'Done', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask type WIP', 'rangeList': None, 'validationRule': None, 'sequenceId': 140220.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

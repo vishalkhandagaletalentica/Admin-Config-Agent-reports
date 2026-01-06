@@ -1,1 +1,0 @@
-What is the current fixed size for the default project buffer in hours?

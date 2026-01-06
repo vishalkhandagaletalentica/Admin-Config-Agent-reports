@@ -1,1 +1,0 @@
-The current title being used for the User Group in the filtering pane is "User Group."

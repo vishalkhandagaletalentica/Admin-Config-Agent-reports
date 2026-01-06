@@ -1,0 +1,3 @@
+The command to update the configuration for "Column Order" is invalid because the expected value type is a multi-list, but you provided a single integer value (12345). The allowed values should be a list of items. 
+
+Please use a comma-separated list for the "Column Order" setting. For example, you could use a command like: `update configuration set Column Order to "Item1,Item2,Item3"`.

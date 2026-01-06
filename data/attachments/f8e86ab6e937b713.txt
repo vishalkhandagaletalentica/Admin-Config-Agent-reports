@@ -1,0 +1,1 @@
+In Buffer Management, projects are currently ordered by priority (descending) then due date (ascending): PRIORITY DESC, DUE_DATE ASC.

@@ -1,1 +1,0 @@
-The Subprojects setting in the Resource Mgr -> Resource L:C view is now enabled.

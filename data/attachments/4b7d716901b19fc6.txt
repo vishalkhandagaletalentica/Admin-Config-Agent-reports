@@ -1,0 +1,1 @@
+I couldn't update the Project Attribute Field For External Mapping to SUBJECT because you don't have the necessary privileges. The current value remains CATEGORY. Please contact an administrator with permission to change configurations.

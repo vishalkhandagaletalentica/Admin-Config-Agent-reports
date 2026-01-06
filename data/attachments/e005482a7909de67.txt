@@ -1,0 +1,1 @@
+Updated the default Rollup option for Batch Rollup to REMAINING_DURATION.

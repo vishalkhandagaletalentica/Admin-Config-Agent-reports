@@ -1,1 +1,0 @@
-Horizon in days for NS Subtasks to appear in Active bucket is set to 5 days.

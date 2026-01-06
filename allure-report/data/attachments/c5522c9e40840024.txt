@@ -1,1 +1,0 @@
-{'entryId': 953, 'sectionId': 10, 'flags': 0, 'entryName': 'GROUP', 'entryFriendlyName': 'Group', 'strValue': 'Group', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Group', 'rangeList': None, 'validationRule': None, 'sequenceId': 119060.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+{'entryId': 553, 'sectionId': 11, 'flags': 0, 'entryName': 'BREAKDOWN', 'entryFriendlyName': 'Breakdown', 'strValue': 'Breakdown', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Breakdown in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121060.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

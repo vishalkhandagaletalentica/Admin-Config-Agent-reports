@@ -1,1 +1,0 @@
-{'entryId': 101, 'sectionId': 10, 'flags': 0, 'entryName': 'MSP_TASK_ID', 'entryFriendlyName': 'MS Project Identifier', 'strValue': 'New MSP ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'MSP Task ID', 'rangeList': None, 'validationRule': None, 'sequenceId': 102020.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

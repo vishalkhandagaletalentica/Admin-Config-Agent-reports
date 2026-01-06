@@ -1,0 +1,1 @@
+The Full Kit Manager Filter has been updated from "FK Mgr Filter" to "New Filter Name".

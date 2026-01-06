@@ -1,0 +1,1 @@
+{'entryId': 1050, 'sectionId': 11, 'flags': 0, 'entryName': 'UNCHANGED', 'entryFriendlyName': 'Unchanged', 'strValue': 'enabled', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Unchanged in Filters.', 'rangeList': None, 'validationRule': None, 'sequenceId': 131000.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

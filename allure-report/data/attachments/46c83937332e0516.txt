@@ -1,1 +1,0 @@
-The correct section name is "Text Fields Appearance" and the entry name is "Custom Task Text Field 4."

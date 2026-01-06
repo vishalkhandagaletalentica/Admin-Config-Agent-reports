@@ -1,0 +1,1 @@
+The Due Date filter in the filtering pane is set to "Due Date".

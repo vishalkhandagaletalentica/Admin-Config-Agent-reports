@@ -1,1 +1,0 @@
-Done — the push out routine used in scheduling (Planning Client -> Common) was changed from BINARY_ROUTINE to LINEAR_AGGRESIVE_ROUTINE.

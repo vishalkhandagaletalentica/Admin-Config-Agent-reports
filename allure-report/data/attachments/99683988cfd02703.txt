@@ -1,1 +1,0 @@
-{'entryId': 2045, 'sectionId': 10, 'flags': 0, 'entryName': 'LOCKED', 'entryFriendlyName': 'Fixed', 'strValue': 'Fixed Property', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Fixed Property.', 'rangeList': None, 'validationRule': None, 'sequenceId': 140900.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

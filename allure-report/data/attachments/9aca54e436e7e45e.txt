@@ -1,1 +1,0 @@
-Can you show me which columns are hidden in the report for the custom text fields in the Task List?

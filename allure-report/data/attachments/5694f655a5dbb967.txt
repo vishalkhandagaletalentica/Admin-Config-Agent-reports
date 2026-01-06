@@ -1,1 +1,0 @@
-The display name for "Last Review Comment" is currently set to "Latest Review Comment" and does not need an update.

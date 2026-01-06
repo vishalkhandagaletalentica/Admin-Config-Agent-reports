@@ -1,1 +1,0 @@
-The correct section is Project Mgr → Task Level Priorities By Resource, and the item in question is "columns hidden in Print Preview."

@@ -1,1 +1,0 @@
-Buffer Management is set to use the project's resource sheet.

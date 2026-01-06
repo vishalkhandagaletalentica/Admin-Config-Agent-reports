@@ -1,5 +1,0 @@
-The command you provided is invalid because the value type for "Hidden Fields" does not accept integers. The expected value type is a list of strings, specifically matching the allowed range of sortable list items. 
-
-Currently, the `strValue` is a comma-separated list of fields, so you should provide a new value as a similar list of strings. 
-
-For example, you could use a command like: `update Hidden Fields set value to COLOR,PROJECT_UNIQUE_ID,TASKUNIQUEID`.

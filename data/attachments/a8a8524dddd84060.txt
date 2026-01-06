@@ -1,0 +1,1 @@
+The command is invalid because the value '12345' is not within the allowed range for the scheduling bucket size. The expected values are 'Daily', 'Weekly', 'Monthly', 'Quarterly', or 'Yearly'. Please provide one of these options. For example, you can use the command: `update scheduling bucket size to Weekly`.

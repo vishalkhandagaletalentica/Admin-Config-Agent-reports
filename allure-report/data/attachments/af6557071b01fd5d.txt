@@ -1,1 +1,0 @@
-I updated "Task Date 26 (Custom Task Date Field)" in Planning Client -> Adv. Filter Field Mapping from Date26 to Date27.

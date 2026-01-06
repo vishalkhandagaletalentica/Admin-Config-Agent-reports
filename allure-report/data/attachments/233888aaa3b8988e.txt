@@ -1,1 +1,0 @@
-The SNS Topic display name for Project CheckOut is already set to "xxxxx Project CheckOut". No update is needed.

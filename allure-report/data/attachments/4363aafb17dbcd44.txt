@@ -1,1 +1,0 @@
-The Time Interval (used to specify the Period Type) is set to Quarterly.

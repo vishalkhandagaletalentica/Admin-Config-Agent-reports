@@ -1,0 +1,1 @@
+Yes, auto linking tasks is turned on when you add a new task between existing tasks.

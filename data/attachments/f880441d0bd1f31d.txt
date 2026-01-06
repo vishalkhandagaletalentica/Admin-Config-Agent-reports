@@ -1,0 +1,1 @@
+{'entryId': 355, 'sectionId': 10, 'flags': 0, 'entryName': 'P2P_TO_UNIQUE_ID', 'entryFriendlyName': 'To Task Unique Identifier', 'strValue': 'To Unique ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P To Unique ID', 'rangeList': None, 'validationRule': None, 'sequenceId': 107100.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-The filter name "Reset Count at Start of Fiscal Year" has been updated to "New Reset Count Name".

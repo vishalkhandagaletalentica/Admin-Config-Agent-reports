@@ -1,0 +1,1 @@
+The Last Update Fields in Full Kit Report are already set to FK_TASK_STATUS,PERCENT_FK_COMPLETE,FULLKIT_DATE. No update is needed.

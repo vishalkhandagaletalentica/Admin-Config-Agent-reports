@@ -1,0 +1,4 @@
+The filters currently displayed in the report are:
+- AUTHOR → Portfolio
+- CATEGORY → New Product Code
+- SUBJECT → Customer

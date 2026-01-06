@@ -1,1 +1,0 @@
-The current title used for the Show Weighted Average Delay filter is "Show Weighted Average Delay."

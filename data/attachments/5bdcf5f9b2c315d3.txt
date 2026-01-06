@@ -1,0 +1,1 @@
+What is the current default horizon length set in days for the Pipeline Planning and Buffer Management?

@@ -1,1 +1,0 @@
-The current value for the critical ratio that determines if a milestone is considered at-risk is 1.5.

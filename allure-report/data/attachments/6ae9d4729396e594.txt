@@ -1,1 +1,0 @@
-I need the canonical section and entry to proceed. Do you mean the 'Buffer Priorities' section and the entry 'ColorPriority4' so I can set it to "H"?

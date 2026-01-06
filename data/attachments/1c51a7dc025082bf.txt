@@ -1,0 +1,1 @@
+Please update the hidden fields in the report to SHOW_IN_EXPANDED_FILTERS,WINDOWS_USERID,ALERT_ADDR,NEW_FIELD.

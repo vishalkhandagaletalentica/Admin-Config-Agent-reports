@@ -1,3 +1,0 @@
-The command is invalid because the value type for "Enable SAP Integration" is a string, but you are trying to set it to an integer (12345). The expected value type is a string, which should be either "Enabled" or "Disabled". 
-
-Please use a command like: `update configuration setting "Enable SAP Integration" to "Enabled"` or `update configuration setting "Enable SAP Integration" to "Disabled"`.

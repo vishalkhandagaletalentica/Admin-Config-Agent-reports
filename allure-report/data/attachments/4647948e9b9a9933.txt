@@ -1,1 +1,0 @@
-Is the option to generate data and reports for Purchase Dates Integration currently enabled?

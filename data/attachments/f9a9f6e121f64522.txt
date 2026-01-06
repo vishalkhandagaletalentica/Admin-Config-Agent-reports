@@ -1,0 +1,1 @@
+I attempted the update again but it failed: the system cannot validate the $MULTILIST format for this entry, so EXEC_CUSTOM_TASK_TEXT1 was not applied. The current value remains EXEC_CUSTOM_TASK_TEXT2. Would you like to try a different identifier or have me escalate this validation error for investigation?

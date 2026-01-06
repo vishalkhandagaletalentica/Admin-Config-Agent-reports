@@ -1,0 +1,1 @@
+{'entryId': 1916, 'sectionId': 11, 'flags': 0, 'entryName': 'PEN_CHAIN', 'entryFriendlyName': 'Show Penetrating Chain', 'strValue': 'Penetrating Chain', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Show Penetrating Chain', 'rangeList': None, 'validationRule': None, 'sequenceId': 148320.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

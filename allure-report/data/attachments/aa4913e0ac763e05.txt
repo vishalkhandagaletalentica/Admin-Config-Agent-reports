@@ -1,1 +1,0 @@
-The current display name for action items in the column headers of the Escalated Tasks report is disabled.

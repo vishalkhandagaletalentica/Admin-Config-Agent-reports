@@ -1,1 +1,0 @@
-Yes, the option to display the Custom Line in the Throughput report is currently enabled.

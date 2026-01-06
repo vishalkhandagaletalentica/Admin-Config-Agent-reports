@@ -1,1 +1,0 @@
-There is no numeric limit set. The item is a column heading labeled “IP Duration” (it’s a display label, not a numeric setting).

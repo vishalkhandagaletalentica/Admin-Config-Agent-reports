@@ -1,1 +1,0 @@
-The default rolling average period is 10 periods.

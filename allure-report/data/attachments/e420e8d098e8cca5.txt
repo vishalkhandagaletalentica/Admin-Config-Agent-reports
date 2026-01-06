@@ -1,1 +1,0 @@
-The section name is "Date Tracking in Add/Checkin/Edit Screen," and the item description is "Specifies if the comments are mandatory when dates are modified."

@@ -1,7 +1,0 @@
-Available filters for the On-Time Delivery report:
-- Date Range (From X months in past to Y months in future): controls the months covered by the report
-- Time Interval: controls the bucket size used in the report
-- Filters Available: which filter names are shown in the Advanced Filtering tool
-- Filters To Display: which filters are selected by default in the report
-- Subprojects: whether subprojects are included
-- Compare With: the date used for project completion comparisons

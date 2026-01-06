@@ -1,5 +1,0 @@
-The command is invalid because the value type for 'Subprojects' is an integer (valueType: 3), but you are trying to set it to a string ('abcde'). The expected type is an integer. 
-
-Please provide an integer value, such as 0 or 1, for the 'Subprojects' setting. 
-
-For example, you could use: `update configuration Subprojects set value to 1`.

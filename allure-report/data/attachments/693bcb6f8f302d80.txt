@@ -1,1 +1,0 @@
-The current filter value for the Line Chart in the reports is "Line 1".

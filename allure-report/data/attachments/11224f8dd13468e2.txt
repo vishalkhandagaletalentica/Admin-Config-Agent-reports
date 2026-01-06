@@ -1,1 +1,0 @@
-The revision date format is set to YYYY-MM-DD.

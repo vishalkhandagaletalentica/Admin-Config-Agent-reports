@@ -1,1 +1,0 @@
-Please update the Work Card Equipment setting to EXEC_CUSTOM_TASK_TEXT1.

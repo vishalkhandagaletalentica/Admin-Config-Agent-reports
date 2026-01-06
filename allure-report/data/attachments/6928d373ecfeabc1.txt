@@ -1,1 +1,0 @@
-{'entryId': 1527, 'sectionId': 10, 'flags': 0, 'entryName': 'FK_TASK_STATUS', 'entryFriendlyName': 'Full Kit Status', 'strValue': 'Status', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Full Kit Status.', 'rangeList': None, 'validationRule': None, 'sequenceId': 130540.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

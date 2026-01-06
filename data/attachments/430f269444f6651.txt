@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common → Column Names (column headings and reports)', 'Common → Filter Names (filtering pane)', 'Bulk Import (bulk import parameters)'], 'value': None, 'section': None, 'entry': None, 'url': None}

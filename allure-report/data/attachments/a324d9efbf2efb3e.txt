@@ -1,1 +1,0 @@
-The advanced filter's Remaining Duration field mapping is currently set to "DU".

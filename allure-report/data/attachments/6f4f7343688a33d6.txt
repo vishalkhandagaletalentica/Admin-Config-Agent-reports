@@ -1,1 +1,0 @@
-The current title for the Required Buffer Size column is "Required Buffer Size (d)".

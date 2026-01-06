@@ -1,1 +1,0 @@
-The From filter is currently titled "Sender."

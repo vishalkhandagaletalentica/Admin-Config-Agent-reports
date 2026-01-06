@@ -1,1 +1,0 @@
-The current title displayed for the No Addl Delay Finish in the reports is "No Additional Delay Finish."

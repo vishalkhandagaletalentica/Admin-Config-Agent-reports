@@ -1,1 +1,0 @@
-{'entryId': 416, 'sectionId': 29, 'flags': 1, 'entryName': 'TEXT_27', 'entryFriendlyName': 'TEXT_27', 'strValue': 'CUSTOM_TASK_TEXT2', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 298320.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

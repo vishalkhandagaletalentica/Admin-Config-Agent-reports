@@ -1,2 +1,0 @@
-Filters currently shown in the Cycle Time report:
-- Include Project Wait Time

@@ -1,1 +1,0 @@
-I enabled subprojects for Sand Chart. The Subprojects option is now enabled.

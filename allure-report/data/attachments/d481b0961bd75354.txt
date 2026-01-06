@@ -1,1 +1,0 @@
-Yes — auto-linking when inserting a task is enabled.

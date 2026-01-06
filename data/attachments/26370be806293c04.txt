@@ -1,0 +1,1 @@
+Understood — the Concerto Pipeline client section (Application -> Concerto Pipeline). The MultiProjectSchedulingSpeedFactor is currently set to 2.

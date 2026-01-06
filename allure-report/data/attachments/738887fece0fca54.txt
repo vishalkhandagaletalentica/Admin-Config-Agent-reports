@@ -1,1 +1,0 @@
-The default selection for the Full Kit Manager filters is "All Full Kit Managers".

@@ -1,1 +1,0 @@
-The current display name for task participants in the filtering pane is "Team Members."

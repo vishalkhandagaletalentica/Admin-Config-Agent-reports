@@ -1,0 +1,1 @@
+The Task Type filter is titled "Tasks and Subtasks".

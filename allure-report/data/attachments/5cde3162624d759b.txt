@@ -1,1 +1,0 @@
-The current value for "Duration in days" (column headings) is: "New Buffer Consumption".

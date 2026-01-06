@@ -1,1 +1,0 @@
-Yes, the project labels are currently displayed on the chart.

@@ -1,0 +1,1 @@
+{'entryId': 434, 'sectionId': 31, 'flags': 1, 'entryName': 'MSP_TASK_ID', 'entryFriendlyName': 'MSP_TASK_ID', 'strValue': 'MSP_TASK_ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 318680.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

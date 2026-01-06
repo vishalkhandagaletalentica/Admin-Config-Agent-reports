@@ -1,1 +1,0 @@
-{'entryId': 462, 'sectionId': 11, 'flags': 0, 'entryName': 'PROJECT_MANAGER_TYPE', 'entryFriendlyName': 'Project Role', 'strValue': 'Project Role', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'The display name in Project report.', 'rangeList': None, 'validationRule': None, 'sequenceId': 119240.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

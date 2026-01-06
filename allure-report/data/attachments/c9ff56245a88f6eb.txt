@@ -1,1 +1,0 @@
-The Actual Output accurately reflects the factual correctness of the Expected Output by stating that the setting for including cancelled projects is currently disabled, which aligns with the fact that cancelled projects are not included in the Throughput report. Additionally, it directly addresses the intent of the Input question regarding the current setting.

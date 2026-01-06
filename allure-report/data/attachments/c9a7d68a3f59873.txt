@@ -1,1 +1,0 @@
-The filter name for percentage of compliant Task Managers has been updated from "% Compliant Task Mgrs" to "% Compliant Task Managers."

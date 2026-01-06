@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Priority Normalized Float (Adv. filter mapping)', 'Normalized Float (Adv. filter mapping)'], 'value': None, 'section': None, 'entry': None, 'url': None}

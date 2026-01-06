@@ -1,1 +1,0 @@
-{'entryId': 123, 'sectionId': 10, 'flags': 0, 'entryName': 'BM_LAST_UPDATE', 'entryFriendlyName': 'Buffer Management Last Update', 'strValue': 'Last BM Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Last BM Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 102460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

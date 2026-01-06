@@ -1,1 +1,0 @@
-The current title displayed for "Scheduling mode - cc only" in ConWeb views and reports is "Classical CC".

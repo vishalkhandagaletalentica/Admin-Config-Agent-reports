@@ -1,1 +1,0 @@
-The current title displayed for the In Process filter is "In Progress".

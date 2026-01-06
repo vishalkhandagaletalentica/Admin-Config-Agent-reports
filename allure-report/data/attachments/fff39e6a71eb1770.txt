@@ -1,1 +1,0 @@
-The start delay display in the filtering pane is set to "Show Start Delay."

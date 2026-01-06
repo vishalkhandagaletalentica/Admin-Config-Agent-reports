@@ -1,1 +1,0 @@
-Task update email alerts have been successfully enabled.

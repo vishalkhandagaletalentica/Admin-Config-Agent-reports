@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Executive -> Queues Drilldown', 'Metrics -> Drum Throughput Drilldown'], 'value': None, 'section': None, 'entry': None, 'url': None}

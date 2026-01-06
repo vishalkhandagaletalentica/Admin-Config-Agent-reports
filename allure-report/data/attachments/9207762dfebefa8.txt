@@ -1,1 +1,0 @@
-The display name for "Select Filepath" in Filters has been updated to "File Path Selector".

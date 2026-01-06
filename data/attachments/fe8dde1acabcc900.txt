@@ -1,0 +1,1 @@
+Is the planning assistant feature currently enabled in the planning client?

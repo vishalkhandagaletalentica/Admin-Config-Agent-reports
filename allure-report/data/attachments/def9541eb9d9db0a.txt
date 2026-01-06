@@ -1,1 +1,0 @@
-The filter name for End of Yesterday has been successfully updated to "Yesterday's End".

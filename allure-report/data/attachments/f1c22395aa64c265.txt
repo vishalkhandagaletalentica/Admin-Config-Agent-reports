@@ -1,1 +1,0 @@
-The current title used for the filter named User And Team is "User Team Filter."

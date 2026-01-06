@@ -1,0 +1,34 @@
+Hidden fields in the Print Preview for the Project Mgr -> Contractual Milestone Chain View/Milestone Penetrating Chain are:
+- Constraint Date
+- Document Access Links
+- Disable Auto Document Link
+- Project Name
+- [new value]
+- Chain Sequence Number
+- New MSP ID
+- Resources
+- Expected Finish
+- Help Needed
+- Not Ready To Start
+- NewUID
+- Text1
+- RZ Reference
+- Expected Enhancements
+- Hours Remaining
+- CUSTOM_TASK_TEXT5
+- QA Check
+- Technician
+- New Zone
+- Job Status
+- Route Key
+- Security Code Updated
+- Need Date
+- Planned Finish Date
+- BM Sequence Updated
+- Water Depth
+- % FB Cnsm`d
+- New Participants
+- Planned Finish Constraint
+- Max % MB Cnsm
+- Est Rem Dur
+- SNET Date

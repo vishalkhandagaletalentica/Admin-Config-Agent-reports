@@ -1,1 +1,0 @@
-The update for the Buffer Size (Subproject) has been successfully completed. The new value is "New Buffer Size".

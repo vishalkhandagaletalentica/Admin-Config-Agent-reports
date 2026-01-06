@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it accurately states that the portfolio status is disabled, which aligns with the Expected Output. It directly addresses the intent of the Input question, providing a clear and relevant response. The only minor difference is in phrasing, but this does not affect the factual correctness.

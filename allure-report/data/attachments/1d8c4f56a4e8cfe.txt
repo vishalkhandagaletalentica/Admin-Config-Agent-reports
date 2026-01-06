@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by confirming the title displayed for the Resource Manager. However, it lacks the additional context provided in the Expected Output regarding the filtering pane, which slightly reduces its completeness.

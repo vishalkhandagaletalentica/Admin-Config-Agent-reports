@@ -1,0 +1,1 @@
+update configuration setting to 'xyz' for error display during commit of project.

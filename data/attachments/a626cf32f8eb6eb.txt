@@ -1,0 +1,1 @@
+{'entryId': 1212, 'sectionId': 10, 'flags': 0, 'entryName': 'WIP_COMPLIANCE', 'entryFriendlyName': 'WIP Compliance', 'strValue': 'Task WIP Compliance', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task WIP Compliance.', 'rangeList': None, 'validationRule': None, 'sequenceId': 124240.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

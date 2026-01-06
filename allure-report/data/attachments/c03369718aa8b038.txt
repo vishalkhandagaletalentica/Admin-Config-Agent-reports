@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_EXTERNAL_LINK_CONFIGURATION', 'entry': 'EXTERNAL_LINKS_VOLUME_REPORT_ENABLED', 'url': None}

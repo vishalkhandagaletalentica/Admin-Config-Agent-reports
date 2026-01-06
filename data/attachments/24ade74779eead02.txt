@@ -1,0 +1,1 @@
+{'entryId': 2741, 'sectionId': 120, 'flags': 0, 'entryName': 'CC_COL_PRESET1_NAME', 'entryFriendlyName': 'Column Preset 1 Name', 'strValue': 'DEFAULT', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Name for CC Column Preset 1', 'rangeList': None, 'validationRule': None, 'sequenceId': 1254820.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

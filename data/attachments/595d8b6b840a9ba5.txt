@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Attribute4 mandatory', 'Project Attribute5 mandatory', 'Project Attribute8 mandatory'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by providing the current mapping for the Task Late Start Date in the Gantt filter. It accurately states that the mapping is set to 'Late Start,' which aligns perfectly with the Expected Output.

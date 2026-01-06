@@ -1,1 +1,0 @@
-The current field mapping settings for the advanced filter in the Gantt chart are set to taskMgrUpdated.

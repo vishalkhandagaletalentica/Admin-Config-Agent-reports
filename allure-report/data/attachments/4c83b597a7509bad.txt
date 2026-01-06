@@ -1,1 +1,0 @@
-{'entryId': 1522, 'sectionId': 10, 'flags': 0, 'entryName': 'LAST_WEEK', 'entryFriendlyName': 'Last Week', 'strValue': 'Last Week', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Last Week in  R&R Task Mgt report.', 'rangeList': None, 'validationRule': None, 'sequenceId': 130440.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

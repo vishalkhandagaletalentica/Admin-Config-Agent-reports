@@ -1,1 +1,0 @@
-{'entryId': 1299, 'sectionId': 10, 'flags': 0, 'entryName': 'PRIORITY_COMPLIANCE', 'entryFriendlyName': 'Priority Compliance', 'strValue': 'Priority Compliance', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Priority Compliance.', 'rangeList': None, 'validationRule': None, 'sequenceId': 125980.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

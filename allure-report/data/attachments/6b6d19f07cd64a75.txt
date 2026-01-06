@@ -1,1 +1,0 @@
-The current title displayed for the Full Kit Release Date column is "New Release Date."

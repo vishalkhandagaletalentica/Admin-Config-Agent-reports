@@ -1,3 +1,0 @@
-The following columns are currently hidden in the import report:
-- New Zone
-- Task Calendar Name

@@ -1,1 +1,0 @@
-The current custom text field is CUSTOM_TASK_TEXT10.

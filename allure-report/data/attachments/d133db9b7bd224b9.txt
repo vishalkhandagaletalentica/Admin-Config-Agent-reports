@@ -1,1 +1,0 @@
-The Auto Escalated Tasks Count in Column Headings is already set to Auto Escalated Tasks Total. No update is needed.

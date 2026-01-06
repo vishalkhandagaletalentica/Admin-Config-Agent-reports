@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that Project Attribute8 validation is enabled. However, it lacks the explicit mention of 'current status,' which is present in the Expected Output, leading to a slight deduction.

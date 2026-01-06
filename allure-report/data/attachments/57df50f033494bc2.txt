@@ -1,1 +1,0 @@
-The current display name for the report inclusion is "Include in Summary."

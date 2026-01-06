@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': {'old': 'enabled', 'new': 'disabled'}, 'section': 'SGD_RESOURCE_REQUIREMENT_CHARTS', 'entry': 'SHOWOHPROJECTLOAD', 'url': None}

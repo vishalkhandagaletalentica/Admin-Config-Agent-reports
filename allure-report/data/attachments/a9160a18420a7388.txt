@@ -1,1 +1,0 @@
-Please update the display name for the "Parameter" column header to "New Parameter".

@@ -1,0 +1,4 @@
+The following columns are currently hidden in the Manage Users report:
+- Show In Expanded Filters
+- Windows User ID
+- Alert Address

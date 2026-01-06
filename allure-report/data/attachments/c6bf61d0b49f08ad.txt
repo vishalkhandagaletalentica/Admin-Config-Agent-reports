@@ -1,1 +1,0 @@
-The Show On Time Delivery Rolling Average setting is currently disabled.

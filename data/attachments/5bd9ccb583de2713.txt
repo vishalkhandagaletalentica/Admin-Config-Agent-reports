@@ -1,0 +1,1 @@
+{'entryId': 1733, 'sectionId': 11, 'flags': 0, 'entryName': 'OH', 'entryFriendlyName': 'On Hold', 'strValue': 'On Hold', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'On Hold', 'rangeList': None, 'validationRule': None, 'sequenceId': 144660.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

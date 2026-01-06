@@ -1,1 +1,0 @@
-The current title displayed for Text 22 in the reports is "Updated Column 22".

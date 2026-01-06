@@ -1,0 +1,1 @@
+In the Column Headers section ("Display Name for By Who in Column Headers."), the display name for "By Who" is already set to "Assigned To."

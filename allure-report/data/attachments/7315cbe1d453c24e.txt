@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'What is the current setting for the scheduling bucket size?'}, {'role': 'assistant', 'content': 'The scheduling bucket size is set to Monthly.'}, {'role': 'user', 'content': 'Update it to Weekly.'}, {'role': 'assistant', 'content': 'The scheduling bucket size is already set to Weekly. No update is needed.'}]

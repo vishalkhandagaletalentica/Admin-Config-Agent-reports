@@ -1,0 +1,1 @@
+Updated the Task Ready to Start Email Subject to "Task ready to start-Project=%NEW_PROJECT_NAME%,msptaskid=%NEW_MSP_TASK_ID%,taskuid=%NEW_TASKUNIQUEID%,task desc=%NEW_TASK_DESCRIPTION%". Previous value was "Task ready to start-Project=%PROJECT_NAME%,msptaskid=%MSP_TASK_ID%,taskuid=%TASKUNIQUEID%,task desc=%TASK_DESCRIPTION%".

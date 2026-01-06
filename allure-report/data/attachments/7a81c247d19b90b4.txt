@@ -1,1 +1,0 @@
-What is the current column name for TEXT3 used in Task Excel updates?

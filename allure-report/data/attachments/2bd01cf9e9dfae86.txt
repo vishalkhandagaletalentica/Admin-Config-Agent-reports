@@ -1,1 +1,0 @@
-The command is invalid because 'Project Attribute6 mandatory' requires a value of type integer (valueType: 3), but you are attempting to set it to a string ('xyz'). Please provide an integer value within the allowed range. For example, you could use the command: `update Project Attribute6 mandatory set value to 1`.

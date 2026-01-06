@@ -1,1 +1,0 @@
-The DisableNotResponding setting in the Critical Chain client has been set to disabled. Previous value: enabled. New value: disabled.

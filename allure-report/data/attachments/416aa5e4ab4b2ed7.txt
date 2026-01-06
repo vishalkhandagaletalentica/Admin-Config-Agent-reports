@@ -1,1 +1,0 @@
-The current settings for the searchable text columns related to resources with units are "TASK_RESOURCES_LIST."

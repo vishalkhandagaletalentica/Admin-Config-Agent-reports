@@ -1,1 +1,0 @@
-{'entryId': 1243, 'sectionId': 76, 'flags': 0, 'entryName': 'CUSTOM_TASK_TEXT1', 'entryFriendlyName': 'Text1', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Display checklist for Custom Text1.', 'rangeList': None, 'validationRule': None, 'sequenceId': 784860.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['CCCB (yellow threshold when chain complete = 100%)', 'CCFB (yellow threshold when chain complete = 100%)', 'CMSB (yellow threshold when chain complete = 100%)'], 'value': None, 'section': None, 'entry': None, 'url': None}

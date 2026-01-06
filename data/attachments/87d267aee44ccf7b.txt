@@ -1,0 +1,1 @@
+The "Inherit Task Priorities from P2P Links" setting is enabled — task priorities and colors are being inherited from P2P links.

@@ -1,1 +1,0 @@
-{'entryId': 1435, 'sectionId': 10, 'flags': 0, 'entryName': 'ERP_ID', 'entryFriendlyName': 'ERP Id', 'strValue': 'ERP Id', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name For ERP Id', 'rangeList': None, 'validationRule': None, 'sequenceId': 128700.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

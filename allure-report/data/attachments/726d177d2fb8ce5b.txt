@@ -1,1 +1,0 @@
-Is the option to show completed contractual milestones in the project status report currently enabled?

@@ -1,1 +1,0 @@
-The Buffer Manually Modified setting has been successfully updated to "Updated Buffer Name".

@@ -1,1 +1,0 @@
-{'entryId': 658, 'sectionId': 11, 'flags': 0, 'entryName': 'CHART_TYPE', 'entryFriendlyName': 'Chart Type', 'strValue': 'New Chart Type', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Chart Type in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 123160.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

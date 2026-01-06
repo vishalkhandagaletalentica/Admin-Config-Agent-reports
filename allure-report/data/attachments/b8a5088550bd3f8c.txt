@@ -1,1 +1,0 @@
-The current default sorting order is: ascending by EARLIEST_ARRIVAL, then descending by SORTN2.

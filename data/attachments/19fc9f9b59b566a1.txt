@@ -1,0 +1,1 @@
+{'entryId': 2405, 'sectionId': 143, 'flags': 0, 'entryName': 'INTEGRATION_TASK_HOST', 'entryFriendlyName': 'SMTP Server Name', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'SMTP Server Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 1478100.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

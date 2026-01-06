@@ -1,1 +1,0 @@
-The current titles displayed for the Resources in the filtering pane are "Resources."

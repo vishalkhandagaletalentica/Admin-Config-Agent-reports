@@ -1,1 +1,0 @@
-How many digits are currently set for fractional rounding in the load calculation for the Sand Chart?

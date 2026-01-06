@@ -1,1 +1,0 @@
-The current title displayed for the Customer filter in the reports is "Customer."

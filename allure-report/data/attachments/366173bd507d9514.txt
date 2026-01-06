@@ -1,1 +1,0 @@
-Updated the Task Custom Text field for external system subtask ID to CUSTOM_TASK_TEXT1.

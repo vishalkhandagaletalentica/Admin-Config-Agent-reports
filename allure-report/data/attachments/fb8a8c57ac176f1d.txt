@@ -1,1 +1,0 @@
-{'entryId': 354, 'sectionId': 10, 'flags': 0, 'entryName': 'P2P_FROM_UNIQUE_ID', 'entryFriendlyName': 'From Unique Identifier', 'strValue': 'New Unique ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P From Unique ID', 'rangeList': None, 'validationRule': None, 'sequenceId': 107080.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

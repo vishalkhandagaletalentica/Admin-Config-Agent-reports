@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'What is the current default number of items set to expand for the escalation delay data?'}, {'role': 'assistant', 'content': 'The default number of items to expand for escalation delay data is 1.'}, {'role': 'user', 'content': 'Set it to 2'}, {'role': 'assistant', 'content': 'I will set the default number of items to expand from 1 to 2.'}]

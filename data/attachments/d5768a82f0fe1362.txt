@@ -1,0 +1,1 @@
+The current setting for the first column preset in Float mode is Task Name, NewCheckList, New Early Start, Late Finish, New Late Start, Late Finish, Actual Start Date, Actual End Date, Updated Dur, Task Duration, New Float Value, Normalized Float, Task Calendar Name, SNET Date, Planned Finish Date.

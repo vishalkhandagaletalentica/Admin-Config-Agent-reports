@@ -1,0 +1,1 @@
+The option to display past data in the Full Kit Compliance report is disabled.

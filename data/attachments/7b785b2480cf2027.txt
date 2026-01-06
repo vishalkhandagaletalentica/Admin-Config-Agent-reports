@@ -1,0 +1,1 @@
+update configuration setting "Subtask Custom Text Fields to display in Subtask Details" to 12345

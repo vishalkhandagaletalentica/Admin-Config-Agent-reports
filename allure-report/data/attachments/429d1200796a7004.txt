@@ -1,1 +1,0 @@
-The start delay setting (Show Start Delay) in Buffer Diagnostics is enabled.

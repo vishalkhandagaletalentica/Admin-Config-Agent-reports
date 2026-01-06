@@ -1,1 +1,0 @@
-{'entryId': 576, 'sectionId': 11, 'flags': 0, 'entryName': 'PEAK', 'entryFriendlyName': 'Peak Load:Capacity', 'strValue': 'Peak Load Capacity', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Peak L:C in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121520.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

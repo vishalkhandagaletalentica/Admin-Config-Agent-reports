@@ -1,1 +1,0 @@
-The Actual Output accurately lists the filters available for the Issue Resolution report, aligning closely with the Expected Output. While the structure differs slightly, the factual content is correct and directly addresses the intent of the Input question. The only minor deduction is for the format of the list, which is not as concise as the Expected Output.

@@ -1,1 +1,0 @@
-The filter title in the Filtering Pane is already set to "Ignore Buff Consmd". No update is needed.

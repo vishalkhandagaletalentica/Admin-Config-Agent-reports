@@ -1,1 +1,0 @@
-The Actual Output provides a display name for the Load to Capacity filter, but it incorrectly states it as 'L:C -> L:C' instead of the expected 'L:C'. This introduces an incorrect fact, which detracts from the overall accuracy. Additionally, while it addresses the intent of the question, the response is not factually correct, leading to a lower score.

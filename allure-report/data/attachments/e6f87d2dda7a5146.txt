@@ -1,1 +1,0 @@
-{'entryId': 234, 'sectionId': 12, 'flags': 0, 'entryName': 'P2PPREDECESSORS', 'entryFriendlyName': 'P2P Predecessors', 'strValue': 'P2P Predecessors', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P Predecessors', 'rangeList': None, 'validationRule': None, 'sequenceId': 124680.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

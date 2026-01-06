@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'update TEXT_26 to 12345'}, {'role': 'assistant', 'content': 'Which configuration section contains “TEXT_26”?'}, {'role': 'user', 'content': 'The section name is "Text columns."'}, {'role': 'assistant', 'content': 'Under Text columns, TEXT_26 is set to 12345.'}]

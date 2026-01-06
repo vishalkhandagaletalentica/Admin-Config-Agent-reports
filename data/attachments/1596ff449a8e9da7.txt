@@ -1,0 +1,1 @@
+The current setting for the font size labeled as x-small in the filtering pane is x-small.

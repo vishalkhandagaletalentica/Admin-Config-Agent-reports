@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Common — parameters that are common to the ConWeb reports', 'SubTask → Common — parameters that are common to subtasks for the ConWeb reports'], 'value': None, 'section': None, 'entry': None, 'url': None}

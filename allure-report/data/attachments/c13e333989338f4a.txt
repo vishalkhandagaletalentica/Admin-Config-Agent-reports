@@ -1,1 +1,0 @@
-The setting "Show Full Name in Reports" has been successfully updated to disable the display of the Full Name in reports.

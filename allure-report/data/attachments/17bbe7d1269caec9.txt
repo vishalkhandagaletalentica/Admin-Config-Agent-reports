@@ -1,1 +1,0 @@
-{'entryId': 335, 'sectionId': 10, 'flags': 0, 'entryName': 'P2P_FROM_MSP_ID', 'entryFriendlyName': 'From MS Project Identifier', 'strValue': 'From MSP ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P From MSP ID', 'rangeList': None, 'validationRule': None, 'sequenceId': 106700.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

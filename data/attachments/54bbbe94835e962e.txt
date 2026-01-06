@@ -1,0 +1,1 @@
+The Task Status Filter for Project Chain View already includes NOT_STARTED_NS, IN_PROGRESS_IP, RELEASED_RL, and COMPLETED_CO_TASKSTATUS. No update is needed.

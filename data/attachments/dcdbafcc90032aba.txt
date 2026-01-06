@@ -1,0 +1,1 @@
+The current setting for the task level priorities in the Task Manager report is Days.

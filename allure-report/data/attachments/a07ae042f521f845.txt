@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List -> Filters available (Filters available to be displayed in the report for Task Mgr)', 'Planning Client -> Table View Float mode -> Column Order (Column order in the report)', 'None of these — I will provide the exact section and entry names'], 'value': None, 'section': None, 'entry': None, 'url': None}

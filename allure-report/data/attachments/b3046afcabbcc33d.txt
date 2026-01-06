@@ -1,1 +1,0 @@
-Can you show me if the option to apply buffers on scheduling is currently enabled?

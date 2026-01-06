@@ -1,1 +1,0 @@
-The default display name for "Default Display Name for From Task Manager" was updated from "From Task Mgr/Participant" to "From Task Manager".

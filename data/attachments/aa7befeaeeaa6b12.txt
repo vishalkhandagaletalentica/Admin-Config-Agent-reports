@@ -1,0 +1,4 @@
+Filters currently displayed in the Executive report:
+- Author: Portfolio
+- Category: Product Code
+- Subject: Customer

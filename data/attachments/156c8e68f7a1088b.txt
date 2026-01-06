@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics → Pipelining — Project Unit (applies to Pipelining report)', 'Metrics → Throughput — Project Unit (applies to Throughput report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

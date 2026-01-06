@@ -1,1 +1,0 @@
-The filters currently set not to display in the Project Status report are New Product Code, Portfolio, and Project Role.

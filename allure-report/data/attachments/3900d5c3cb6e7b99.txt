@@ -1,1 +1,0 @@
-The current mapping for Successor UIDs in the advanced filter for Gantt is "successorIds".

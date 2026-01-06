@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the default sorting order as related to 'START_DATE', but it fails to specify that the sorting is in descending order, which is a crucial detail in the Expected Output. This omission affects the factual correctness of the response, leading to a partial answer to the input question.

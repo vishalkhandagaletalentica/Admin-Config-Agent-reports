@@ -1,1 +1,0 @@
-The Actual Delay report is currently displaying this default filter: Milestone Updated (Milestone).

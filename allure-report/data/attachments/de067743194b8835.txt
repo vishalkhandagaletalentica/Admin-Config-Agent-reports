@@ -1,1 +1,0 @@
-The current title displayed for the Task Successor Name in the reports is "New Successor Name."

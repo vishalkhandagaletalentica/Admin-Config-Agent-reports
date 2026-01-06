@@ -1,1 +1,0 @@
-The current setting for reducing task switching in the Critical Chain client is enabled.

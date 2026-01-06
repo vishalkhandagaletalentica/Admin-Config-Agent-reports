@@ -1,1 +1,0 @@
-The current setting for displaying whether a task's expected start date is today is "Sugg/Likely Start Today."

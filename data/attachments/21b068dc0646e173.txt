@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Project Control (Project Control report)', 'Project Mgr -> Modify Projects (Modify Projects)', 'Project Mgr/Resource Mgr -> Assign Task Managers (Assign Task Managers)'], 'value': None, 'section': None, 'entry': None, 'url': None}

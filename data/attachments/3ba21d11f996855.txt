@@ -1,0 +1,1 @@
+The Actual Output incorrectly states that the display delay is set to 'Delay', which is not factually correct as it misrepresents the expected output. Additionally, it fails to provide the specific format of 'Delay' as indicated in the Expected Output, leading to a lack of clarity in addressing the input question.

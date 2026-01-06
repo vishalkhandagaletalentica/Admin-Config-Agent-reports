@@ -1,1 +1,0 @@
-The current advanced-filter mapping for Task Text 67 is "NewText67".

@@ -1,1 +1,0 @@
-The current buffer penetration level that triggers the yellow color for the buffer when the chain complete is at zero percent is 33.

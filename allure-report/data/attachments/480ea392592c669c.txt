@@ -1,1 +1,0 @@
-The Update Compliance Period for Purchasing Tasks (hrs) in the Task Mgt report is set to 150 hours.

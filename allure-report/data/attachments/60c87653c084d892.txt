@@ -1,1 +1,0 @@
-The current mapping for the Task Duration in the advanced filter is DU.

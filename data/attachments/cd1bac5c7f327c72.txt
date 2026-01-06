@@ -1,0 +1,1 @@
+The default sort order is: Priority Level (ascending), Priority Level Penetration (descending), Earliest Arrival (ascending), Sort Window Start (ascending).

@@ -1,3 +1,0 @@
-The command is invalid because the value for the Field Delimiter must be a string, not an integer. The expected type is a string representing a single character or a specific delimiter like a comma or semicolon. 
-
-For example, a correct command would be: `set Field Delimiter to ','` or `set Field Delimiter to ';'`.

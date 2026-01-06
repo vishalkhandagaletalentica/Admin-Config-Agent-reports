@@ -1,1 +1,0 @@
-The current title displayed for the Predecessor Task UIDs in the Gantt chart is "New Predecessor UIDs."

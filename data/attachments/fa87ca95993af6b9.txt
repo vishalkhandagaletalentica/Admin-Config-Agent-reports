@@ -1,0 +1,1 @@
+Yes — the setting is enabled (the logged-in user will be automatically selected).

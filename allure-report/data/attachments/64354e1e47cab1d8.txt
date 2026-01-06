@@ -1,1 +1,0 @@
-The default Print Preview font size for Modify Projects and Project Repair is set to FONT_LARGE.

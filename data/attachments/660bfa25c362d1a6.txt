@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_COLUMN_NAMES', 'entry': 'UNIQUE_TASK_COUNT', 'url': None}

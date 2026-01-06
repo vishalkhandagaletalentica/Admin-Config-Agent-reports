@@ -1,1 +1,0 @@
-{'entryId': 999, 'sectionId': 56, 'flags': 0, 'entryName': 'SUBJECT_TYPE', 'entryFriendlyName': 'Customer Type', 'strValue': None, 'floatValue': None, 'intValue': 2, 'valueType': 0, 'itemDesc': 'Customer Type', 'rangeList': '$RANGE:0,3', 'validationRule': None, 'sequenceId': 579980.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

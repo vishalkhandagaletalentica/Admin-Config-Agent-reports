@@ -1,1 +1,0 @@
-The current titles displayed in the filtering pane are "Display Project Tags."

@@ -1,1 +1,0 @@
-The setting to enable checkin of CCX files has been successfully updated to disabled.

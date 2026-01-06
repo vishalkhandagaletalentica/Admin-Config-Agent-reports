@@ -1,1 +1,0 @@
-The display name for the Task Manager filter was updated from "Task Mgr Filter" to "New Task Manager Filter".

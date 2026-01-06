@@ -1,1 +1,0 @@
-The current title displayed for the original type in the column headings is "Orig Link Type."

@@ -1,1 +1,0 @@
-The Days setting in Project Mgr -> Full Kit Report was updated from 60 to 30.

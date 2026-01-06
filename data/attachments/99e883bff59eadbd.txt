@@ -1,0 +1,1 @@
+I attempted to update Hidden Fields for Executive -> Stuck Task List but the update failed because the system could not validate the multi-list format for the value. Please provide a properly formatted list of column identifiers (not a single number), or tell me how you'd like the hidden columns specified and I will try again.

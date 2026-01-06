@@ -1,1 +1,0 @@
-The Queue Column Name has been updated from "Queue" to "Task Queue".

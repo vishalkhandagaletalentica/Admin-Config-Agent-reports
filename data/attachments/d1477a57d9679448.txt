@@ -1,0 +1,1 @@
+The Number of rows to display per page is now set to 20.

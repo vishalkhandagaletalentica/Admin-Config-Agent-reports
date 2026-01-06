@@ -1,0 +1,1 @@
+The current fixed size for the default project buffer is 5 hours.

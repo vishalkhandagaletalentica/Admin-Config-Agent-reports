@@ -1,1 +1,0 @@
-The title displayed for the Current Month column in the R&R Full Kit Compliance report is "New Month."

@@ -1,1 +1,0 @@
-Yes — the "Use Custom Task Identifier" setting in Integration is disabled.

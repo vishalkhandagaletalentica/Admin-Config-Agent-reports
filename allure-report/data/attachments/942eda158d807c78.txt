@@ -1,1 +1,0 @@
-The “Allow Expected Completion date of PT to be earlier than suggested start date” setting in Task List is disabled.

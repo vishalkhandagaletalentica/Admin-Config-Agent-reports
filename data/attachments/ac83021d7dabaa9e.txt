@@ -1,0 +1,1 @@
+The section name is "Executive -> Performance report/view" and the entry name is "When this option is checked, OTD data will not be shown anymore and only Rolling Average values will be shown."

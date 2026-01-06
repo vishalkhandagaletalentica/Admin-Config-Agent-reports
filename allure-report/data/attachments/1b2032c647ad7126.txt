@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_PLANNING_CLIENT_FK_PANEL', 'entry': 'HIDDEN_FIELDS', 'url': None}

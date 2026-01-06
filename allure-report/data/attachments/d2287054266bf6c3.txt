@@ -1,3 +1,0 @@
-The command is invalid because the value type for 'Text4' is 3, which indicates that it expects an integer value. The provided value 'abcde' is a string and not compatible with the expected type. 
-
-Please provide an integer value. For example, you could use a command like: `update Text4 set value to 10`.

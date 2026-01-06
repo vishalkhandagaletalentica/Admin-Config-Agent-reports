@@ -1,1 +1,0 @@
-The current buffer penetration value for coloring the buffer yellow when the chain is complete (DBR Project Type) is 40.

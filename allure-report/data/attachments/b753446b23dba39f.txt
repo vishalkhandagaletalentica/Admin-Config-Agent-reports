@@ -1,1 +1,0 @@
-Is the option to include users with access to all divisions in the Full Kit Manager and Help Needed dropdowns currently enabled?

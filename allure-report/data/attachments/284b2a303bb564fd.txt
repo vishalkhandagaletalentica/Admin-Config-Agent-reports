@@ -1,1 +1,0 @@
-{'entryId': 923, 'sectionId': 10, 'flags': 0, 'entryName': 'USER_NAME', 'entryFriendlyName': 'User Name', 'strValue': 'User Name Updated', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for User Name in Column Headers', 'rangeList': None, 'validationRule': None, 'sequenceId': 118460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

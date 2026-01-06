@@ -1,1 +1,0 @@
-Print Font Size for the Task Incomplete Predecessors report was updated from FONT_MEDIUM to FONT_LARGE.

@@ -1,1 +1,0 @@
-The default number of scenarios shown in the Recent list on the Pipeline Manager Launch Screen is 20.

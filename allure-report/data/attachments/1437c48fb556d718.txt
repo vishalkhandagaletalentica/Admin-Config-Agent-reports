@@ -1,1 +1,0 @@
-The default horizon length is 5000 days.

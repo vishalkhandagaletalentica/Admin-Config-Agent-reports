@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_BUFF_DIAGNOSITCS', 'entry': 'COLUMN_ORDER', 'url': None}

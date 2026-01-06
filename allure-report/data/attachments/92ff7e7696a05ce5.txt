@@ -1,1 +1,0 @@
-The current title displayed for the Leveled Task Float in the Gantt view is "New Leveled Float."

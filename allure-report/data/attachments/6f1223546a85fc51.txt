@@ -1,9 +1,0 @@
-Filters available to be displayed in the Executive report:
-- Author
-- Category
-- Subject
-- Attribute1
-- Attribute2
-- Attribute3
-- Attribute4
-- Attribute5

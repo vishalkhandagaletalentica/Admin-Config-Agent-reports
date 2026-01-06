@@ -1,3 +1,0 @@
-The command is invalid because the value type for Text6 is set to 2, which indicates that it expects a string value. You provided an integer (12345) instead. 
-
-Please provide a string value. For example, you could use the command: `update Text6 set value to 'Sample Text'`.

@@ -1,1 +1,0 @@
-The filters currently being displayed in the report are Portfolio, New Product Code, and Customer.

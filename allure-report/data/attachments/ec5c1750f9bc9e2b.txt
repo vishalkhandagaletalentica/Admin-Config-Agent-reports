@@ -1,1 +1,0 @@
-Please update the display name for Interval in Filters to "New Interval".

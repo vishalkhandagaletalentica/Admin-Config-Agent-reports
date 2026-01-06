@@ -1,1 +1,0 @@
-The default number of revisions loaded in the revision history is 20.

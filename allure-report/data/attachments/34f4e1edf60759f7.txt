@@ -1,1 +1,0 @@
-The columns hidden in the Print Preview for your projects are New Product Code, Customer, Portfolio, BM Last Update, Last Update Date, Project Unique ID, Description, Project Identity Type, Parent Project Name, Division, Last Checkin Date, Checkin MPD Version, Design Team Needed, Project Attribute 5, Project Attribute 6, New Project Attribute Value, and [insert new value here].

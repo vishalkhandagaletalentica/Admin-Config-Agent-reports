@@ -1,1 +1,0 @@
-The total number of retries is 5.

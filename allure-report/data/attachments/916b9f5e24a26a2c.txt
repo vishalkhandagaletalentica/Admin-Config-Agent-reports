@@ -1,1 +1,0 @@
-The setting "Allow task completion only if checklist complete" is already enabled. No update is needed.

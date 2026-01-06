@@ -1,1 +1,0 @@
-update configuration setting for "Default Horizon (For Completed Tasks)" to "abcde"

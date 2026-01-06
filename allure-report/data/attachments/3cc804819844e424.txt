@@ -1,1 +1,0 @@
-{'entryId': 2372, 'sectionId': 142, 'flags': 0, 'entryName': 'INTEGRATION_SUBTASK_HOST', 'entryFriendlyName': 'SMTP Server Name', 'strValue': 'smtp.example.com', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'SMTP Server Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 1467440.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

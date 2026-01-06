@@ -1,1 +1,0 @@
-I tried to enable the "Include Planned Throughput/Cycle Time" filter but couldn't apply the change because you don't have privileges to update configurations. The filter is currently disabled. Please grant update privileges or ask an administrator to enable it.

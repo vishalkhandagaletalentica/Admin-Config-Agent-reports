@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Yellow Y intercept at 100 X (when chain complete is 100%)', 'Yellow Y intercept at 0 X (when chain complete is 0%)'], 'value': None, 'section': None, 'entry': None, 'url': None}

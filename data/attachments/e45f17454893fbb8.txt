@@ -1,0 +1,1 @@
+The Actual Output accurately reflects the factual information provided in the Expected Output, stating that the default WIP limit is 10 for each phase and overall. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

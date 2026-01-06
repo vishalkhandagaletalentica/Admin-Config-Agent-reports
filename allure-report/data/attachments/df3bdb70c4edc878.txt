@@ -1,1 +1,0 @@
-The current value of Custom Task Text Field 8 in "Task Mgr -> Task List -> Search Columns for Task Table" is: CUSTOM_TASK_TEXT8

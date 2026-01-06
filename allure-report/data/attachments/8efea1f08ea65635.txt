@@ -1,3 +1,0 @@
-The command is incorrect because the value "abcde" is not a valid input for the configuration setting "Show Managers Only in Project Mgr Filter." This setting expects an integer value (valueType: 3), typically either 0 or 1, where 0 might represent 'false' and 1 might represent 'true'. 
-
-Please use a valid integer value, for example: `update configuration setting "Show Managers Only in Project Mgr Filter" to 1`.

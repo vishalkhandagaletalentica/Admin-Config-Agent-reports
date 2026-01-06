@@ -1,0 +1,1 @@
+Section mismatch: Sheet='RULES_AND_RESULTS', Metadata='FULL_KIT_LIST_REPORT'

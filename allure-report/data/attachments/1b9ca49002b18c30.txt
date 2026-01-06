@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_COLUMN_NAMES', 'entry': 'REM_CH_FROM_VENDOR_TASK', 'url': None}

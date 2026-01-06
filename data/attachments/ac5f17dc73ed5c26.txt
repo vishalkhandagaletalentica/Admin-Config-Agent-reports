@@ -1,0 +1,1 @@
+The 'Log Message when no file inside processing folder' has been enabled.

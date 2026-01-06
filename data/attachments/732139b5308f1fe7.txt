@@ -1,0 +1,1 @@
+{'entryId': 1025, 'sectionId': 10, 'flags': 0, 'entryName': 'MS_DUE_DATE', 'entryFriendlyName': 'Milestone Due Date', 'strValue': 'Milestone Due Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Milestone Due Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 120500.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

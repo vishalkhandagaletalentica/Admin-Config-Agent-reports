@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Project Attribute 6 to "New Customer Name".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Project Attribute 6" entry?'}, {'role': 'user', 'content': 'The section name is "Column Headings".'}, {'role': 'assistant', 'content': 'Project Attribute 6 has been updated to "New Customer Name".'}]

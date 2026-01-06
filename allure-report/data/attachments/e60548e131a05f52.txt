@@ -1,1 +1,0 @@
-The current window size set for grouping the priority tasks in the report is 5.

@@ -1,0 +1,1 @@
+The display name for Actions in column headers has been successfully updated to "New Actions".

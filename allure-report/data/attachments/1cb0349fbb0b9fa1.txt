@@ -1,1 +1,0 @@
-The filters currently set to be displayed in the Full Kit Report are New Kit Manager, Project, Horizon, Portfolio, New Product Code, Customer, Updated Status, Division, Min Percent Complete, Design Team Needed, Project Attribute 5, Project Attribute 6, New Project Attribute Value, and [insert new value here].

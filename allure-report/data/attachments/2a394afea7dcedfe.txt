@@ -1,1 +1,0 @@
-The current number of rows displayed per page in the Full Kit Report is 50.

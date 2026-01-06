@@ -1,1 +1,0 @@
-The current color setting for the task display in the reports is blue.

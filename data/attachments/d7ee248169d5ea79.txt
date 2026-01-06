@@ -1,0 +1,3 @@
+The command you provided is invalid because the value you are trying to set, '12345', is not of the allowed type. The allowed range for the 'value' is a multi-list format, not an integer. 
+
+Please provide a value in the correct format. For example, you could use a command like: `update Hidden Fields set value to 'Option1,Option2';` where 'Option1' and 'Option2' are valid entries for the multi-list.

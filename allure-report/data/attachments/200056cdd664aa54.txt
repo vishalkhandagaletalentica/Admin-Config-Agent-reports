@@ -1,1 +1,0 @@
-Please update the Subtask Manager ID in Task List to 'New Subtask Task Mgr'.

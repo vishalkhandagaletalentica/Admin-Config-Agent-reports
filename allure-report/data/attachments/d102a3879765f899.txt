@@ -1,1 +1,0 @@
-The current mapping for the Task Stop Date in the advanced filter settings for Gantt is "stopDate".

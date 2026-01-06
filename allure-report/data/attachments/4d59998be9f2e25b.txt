@@ -1,1 +1,0 @@
-The Fixed Property column title is "Fixed Property."

@@ -1,0 +1,1 @@
+I found the Red Project Delay setting for months in the past (Date Range — X months in the past; valid range 0–20). I could not find a matching “months in the future” setting for that same report. Would you like me to (A) search other sections for a related future-months setting, or (B) proceed with just the past-months value?

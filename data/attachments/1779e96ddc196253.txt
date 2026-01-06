@@ -1,0 +1,1 @@
+{'entryId': 647, 'sectionId': 27, 'flags': 0, 'entryName': 'TASK_STATUS', 'entryFriendlyName': 'Task Status Filter', 'strValue': 'NS,IP', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Default Task Status Filter', 'rangeList': '$MULTILIST:NS,CO,IP', 'validationRule': None, 'sequenceId': 266950.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

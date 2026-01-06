@@ -1,0 +1,1 @@
+The command is invalid because the value type for Text8 is 3, which indicates it requires a float value, not a string. Please provide a valid float value. For example, a correct command could be: `update Text8 set value to 12.34`.

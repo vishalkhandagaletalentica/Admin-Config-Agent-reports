@@ -1,1 +1,0 @@
-The current setting for the column title displayed for Project End or Contractual Milestone buffer in Pipeline Web is "New Planned Buffer Value."

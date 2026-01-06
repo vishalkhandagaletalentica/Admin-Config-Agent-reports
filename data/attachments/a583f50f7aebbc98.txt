@@ -1,0 +1,1 @@
+The Actual Output lists several columns as hidden, but none of them match the columns specified in the Expected Output. This indicates a complete factual inaccuracy. Additionally, while the response is structured clearly, it fails to address the intent of the question correctly, as it provides incorrect information about the hidden columns.

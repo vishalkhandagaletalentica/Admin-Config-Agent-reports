@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the filter name as 'Project Weight', which aligns with the intent of the Input question. However, it does not match the Expected Output's specific format of 'PROJECT_WEIGHT', which is a factual discrepancy. The response is relevant and addresses the question, but the difference in phrasing affects the overall accuracy.

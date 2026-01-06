@@ -1,1 +1,0 @@
-{'entryId': 441, 'sectionId': 31, 'flags': 1, 'entryName': 'EXEC_RESOURCE_NOTES', 'entryFriendlyName': 'EXEC_RESOURCE_NOTES', 'strValue': 'EXECMGT_RESOURCE_NOTES', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 318820.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

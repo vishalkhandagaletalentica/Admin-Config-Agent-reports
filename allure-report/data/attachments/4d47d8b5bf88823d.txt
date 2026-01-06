@@ -1,1 +1,0 @@
-{'entryId': 2782, 'sectionId': 2, 'flags': 0, 'entryName': 'PROJECT_DATE_FORMAT', 'entryFriendlyName': 'Project Date Format', 'strValue': 'MM/DD/YYYY', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Date Format', 'rangeList': None, 'validationRule': None, 'sequenceId': 75640.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

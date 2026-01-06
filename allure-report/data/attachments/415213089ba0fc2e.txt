@@ -1,1 +1,0 @@
-Please update the setting to disable the inclusion of Project Participant data with the Project Manager filter query.

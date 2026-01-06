@@ -1,5 +1,0 @@
-The command is invalid because the value for `Text3` should be a string, but you are trying to assign an integer (`12345`). The expected type is a string. 
-
-Please provide a string value, such as:
-
-`update configuration set Text3 = 'Order Number'`

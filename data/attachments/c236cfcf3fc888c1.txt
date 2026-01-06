@@ -1,0 +1,1 @@
+You can select up to 10 chains in the Gantt view.

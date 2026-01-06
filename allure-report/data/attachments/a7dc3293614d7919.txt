@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Chain View — include only Red Chains leading to PE', 'CMS Chain Report — include only Red Chains leading to CMS', 'Contractual Milestone Chain View — include only Red Chains for milestones', 'Common → Filter Names — the filter pane title “Include only Red Chains”'], 'value': None, 'section': None, 'entry': None, 'url': None}

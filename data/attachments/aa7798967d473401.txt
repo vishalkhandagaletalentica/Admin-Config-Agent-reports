@@ -1,0 +1,3 @@
+The command is invalid because the expected type for the value is an integer, but you provided a string ('xyz'). Please provide a valid integer value within the allowed range. 
+
+For example, you could use a command like: `update "Normalized Total Float Range for Yellow" set value to 12;`

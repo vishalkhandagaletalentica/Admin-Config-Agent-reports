@@ -1,1 +1,0 @@
-{'entryId': 215, 'sectionId': 11, 'flags': 0, 'entryName': 'FILTERING', 'entryFriendlyName': 'Filtering', 'strValue': 'New Milestone Filters', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'FILTERING', 'rangeList': None, 'validationRule': None, 'sequenceId': 114300.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

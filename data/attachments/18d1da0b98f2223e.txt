@@ -1,0 +1,1 @@
+I checked the column name for Breakdown in Export to Excel Task Update History — it is already set to "Breakdown". No update was performed.

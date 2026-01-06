@@ -1,1 +1,0 @@
-Default Rolling Average Period (X periods in past) updated from 7 to 3.

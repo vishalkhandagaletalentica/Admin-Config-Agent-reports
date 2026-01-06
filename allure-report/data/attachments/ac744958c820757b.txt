@@ -1,1 +1,0 @@
-The current title displayed for the Past Weeks column in the reports is "Previous Weeks."

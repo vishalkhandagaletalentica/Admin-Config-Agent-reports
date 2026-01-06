@@ -1,1 +1,0 @@
-Use the multi-list/column mapping name SGD_FILTER_NAMES for that report filter entry. I can proceed to add "New Filter Value" using that mapping when you confirm.

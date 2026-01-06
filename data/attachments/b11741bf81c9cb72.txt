@@ -1,0 +1,1 @@
+Can you show me whether the Projected Date calculation during Buffer Management is based on the required buffer or the Project End task?

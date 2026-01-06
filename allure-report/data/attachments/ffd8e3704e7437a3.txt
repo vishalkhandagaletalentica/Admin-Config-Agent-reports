@@ -1,1 +1,0 @@
-Please update the P2P Predecessors to a new value. Set it to "New P2P Predecessor Items".

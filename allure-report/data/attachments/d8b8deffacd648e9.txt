@@ -1,1 +1,0 @@
-The maximum concurrent users allowed for Pipeline Web usage has been successfully updated to 6.

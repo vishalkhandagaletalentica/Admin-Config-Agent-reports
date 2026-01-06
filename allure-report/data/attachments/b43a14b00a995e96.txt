@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_PLANNING_CLIENT_RESOURCE_PANEL', 'entry': 'HIDDEN_FIELDS', 'url': None}

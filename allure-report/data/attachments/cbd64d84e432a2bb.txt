@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by providing the current display name. However, it lacks the additional context present in the Expected Output, which specifies 'for the select filepath in the filters.' This omission prevents a perfect score.

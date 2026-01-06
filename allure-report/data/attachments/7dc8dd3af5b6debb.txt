@@ -1,1 +1,0 @@
-The second custom task text field (Custom Task Text Field 2) is currently set to "test-field-2-test-2".

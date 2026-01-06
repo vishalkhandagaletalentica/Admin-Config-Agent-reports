@@ -1,1 +1,0 @@
-The Sort By Priority Fields Within Windows Of setting has been updated from 1 to 5.

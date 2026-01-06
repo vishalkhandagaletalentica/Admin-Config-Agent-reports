@@ -1,0 +1,1 @@
+update configuration setting for "Projected Date (in Results and Rules)" to 12345

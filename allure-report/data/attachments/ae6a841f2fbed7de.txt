@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'set ColorPriority4 to 12345'}, {'role': 'assistant', 'content': 'Which configuration section contains the "ColorPriority4" entry?'}, {'role': 'user', 'content': 'The section name is Buffer Management.'}, {'role': 'assistant', 'content': 'The ColorPriority4 setting has been updated from "H" to "12345".'}]

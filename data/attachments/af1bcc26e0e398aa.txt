@@ -1,0 +1,1 @@
+Interval Type for the Flow Trend report has been updated from Days to Weeks.

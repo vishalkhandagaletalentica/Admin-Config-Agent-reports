@@ -1,0 +1,1 @@
+{'entryId': 522, 'sectionId': 40, 'flags': 0, 'entryName': 'ROWS_PER_PAGE', 'entryFriendlyName': 'Rows Per Page', 'strValue': None, 'floatValue': None, 'intValue': 10, 'valueType': 0, 'itemDesc': 'Number of projects displayed per page.', 'rangeList': '$RANGE:1,99999', 'validationRule': None, 'sequenceId': 0.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

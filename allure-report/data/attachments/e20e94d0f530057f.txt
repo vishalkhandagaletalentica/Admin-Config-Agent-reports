@@ -1,1 +1,0 @@
-Enabled the option to have the logged-in user automatically selected in the Full Kit Manager filter.

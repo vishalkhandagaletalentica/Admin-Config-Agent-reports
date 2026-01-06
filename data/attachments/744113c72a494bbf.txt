@@ -1,0 +1,14 @@
+The following columns are currently hidden in the Assign Task Managers report:
+- Text1
+- RZ Reference
+- Expected Enhancements
+- Hours Remaining
+- CUSTOM_TASK_TEXT5
+- QA Check
+- Technician
+- New Zone
+- Job Status
+- Route Key
+- UID123
+- New MSP ID
+- Sort Window Start

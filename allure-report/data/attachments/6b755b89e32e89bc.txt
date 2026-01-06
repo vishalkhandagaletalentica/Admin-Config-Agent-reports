@@ -1,1 +1,0 @@
-The sort criterion (Sort Chains By) was updated from PROJECTED_DATE to CHAIN_NUM.

@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by providing the correct display name. However, it lacks the additional context present in the Expected Output, which specifies that it is related to the issue resolution chart. This minor omission prevents a perfect score.

@@ -1,1 +1,0 @@
-I couldn't apply that change because you don't have privileges to update configurations. The Program Performance Past Periods (Months) is currently set to 3.

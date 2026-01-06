@@ -1,1 +1,0 @@
-Calendar validation before BM is now enabled.

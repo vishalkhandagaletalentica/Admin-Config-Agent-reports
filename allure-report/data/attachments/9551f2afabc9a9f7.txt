@@ -1,1 +1,0 @@
-What is the current display name for action items in the column headers?

@@ -1,0 +1,1 @@
+What is the current setting for how often the headers are displayed in the ConWeb reports?

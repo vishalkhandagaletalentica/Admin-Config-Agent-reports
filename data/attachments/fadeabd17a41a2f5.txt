@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_COLUMN_NAMES', 'entry': 'PROJ_UPD_COMPLIANCE', 'url': None}

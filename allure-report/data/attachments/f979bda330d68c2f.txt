@@ -1,1 +1,0 @@
-The Edit Network column title is "Network Configuration."

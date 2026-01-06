@@ -1,1 +1,0 @@
-The Work Card Status has been updated to EXEC_CUSTOM_TASK_TEXT1.

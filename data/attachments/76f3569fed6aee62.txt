@@ -1,0 +1,2 @@
+The following column is currently hidden in the Chain View report:
+- Task Manager

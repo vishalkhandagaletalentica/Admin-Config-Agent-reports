@@ -1,0 +1,6 @@
+The filters currently displayed are:
+- Project
+- Status
+- Project Manager
+- New Product Code
+- Division

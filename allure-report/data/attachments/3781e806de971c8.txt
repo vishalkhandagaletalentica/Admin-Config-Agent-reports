@@ -1,1 +1,0 @@
-The Consume feeding buffers policy is currently set to: Consume feeding buffers.

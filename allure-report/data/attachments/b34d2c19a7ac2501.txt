@@ -1,6 +1,0 @@
-The command is invalid because the value type for "Hidden Fields (Print)" is a multi-list (valueType: 2), which requires a list of allowed string values rather than a single integer (12345). 
-
-The expected format is a comma-separated list of values. 
-
-A correct example command would be: 
-`update Hidden Fields (Print) set value to MSP_TASK_ID,NO_DELAY_DURATION,NO_DELAY_START`

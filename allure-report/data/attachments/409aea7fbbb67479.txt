@@ -1,1 +1,0 @@
-The Sort Order is already set to 12345. No update is needed.

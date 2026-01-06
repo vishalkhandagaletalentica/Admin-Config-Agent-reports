@@ -1,1 +1,0 @@
-The Project Status filter dropdown value is already set to "On Hold (OH)". No update is needed.

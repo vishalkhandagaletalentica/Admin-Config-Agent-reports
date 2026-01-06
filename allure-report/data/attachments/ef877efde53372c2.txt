@@ -1,1 +1,0 @@
-The current column mapping for Text10 when importing a CSV or Excel file in the Planning client is FIRST_CRT_DATE.

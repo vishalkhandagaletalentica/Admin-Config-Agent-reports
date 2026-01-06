@@ -1,1 +1,0 @@
-The current resource name that users can search for tasks is RESOURCE_NAME.

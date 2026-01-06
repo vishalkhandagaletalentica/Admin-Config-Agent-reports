@@ -1,1 +1,0 @@
-The current title displayed for the Activity/Task/Checklist-Item in the reports is "New Task Name."

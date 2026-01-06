@@ -1,1 +1,0 @@
-The Task Remaining Duration change history display is set to "Delta Rem Dur."

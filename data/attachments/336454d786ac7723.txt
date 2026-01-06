@@ -1,0 +1,1 @@
+The setting “limit stretch for unfixed & In Process projects” in Concerto Pipeline client parameters is disabled (stretch will be limited).

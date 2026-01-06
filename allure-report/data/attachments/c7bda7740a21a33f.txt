@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Can you show me if the subprojects are set to be displayed in the Project Control view?'}, {'role': 'assistant', 'content': 'Subprojects are currently disabled in the Project Control view.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Subprojects are now enabled in the Project Control view.'}]

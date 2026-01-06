@@ -1,1 +1,0 @@
-I updated the filter name for Task Color to "Exclude Completed."

@@ -1,1 +1,0 @@
-The current title displayed for the "No Addl Delay Start" column in the reports is "No Addl Delay Start".

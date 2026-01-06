@@ -1,1 +1,0 @@
-The Project Participants column header has been updated to "Project Team Members."

@@ -1,1 +1,0 @@
-Yes — the Hide Remaining Duration option is currently enabled (the Remaining Duration column will be hidden when applicable).

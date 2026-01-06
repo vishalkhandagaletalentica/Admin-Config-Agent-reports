@@ -1,1 +1,0 @@
-Windows Logon for the Concerto Pipeline Client has been enabled.

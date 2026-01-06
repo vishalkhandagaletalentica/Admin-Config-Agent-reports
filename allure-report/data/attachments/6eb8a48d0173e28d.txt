@@ -1,1 +1,0 @@
-Resource highlighting is currently disabled.

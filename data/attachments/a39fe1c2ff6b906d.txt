@@ -1,0 +1,1 @@
+The current number of periods used to calculate the rolling average in the Actual Delay report is 5.

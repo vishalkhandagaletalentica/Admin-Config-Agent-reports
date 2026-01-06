@@ -1,1 +1,0 @@
-The report filters are already set to Project Manager, Project, Start Date, and Task Status. No update is needed.

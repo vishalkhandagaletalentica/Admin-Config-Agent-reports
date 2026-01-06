@@ -1,1 +1,0 @@
-The current title for the Max Resource Cap column in the reports is "Max Resource Cap."

@@ -1,0 +1,1 @@
+Under the Application Server section, the item “Enable Subtasks for Planned Projects” is recognized and is currently disabled.

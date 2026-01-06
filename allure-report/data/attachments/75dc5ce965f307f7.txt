@@ -1,1 +1,0 @@
-Updated “New Buffer” column heading from "New Buffer (d)" to "New Buffer (e)".

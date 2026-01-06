@@ -1,1 +1,0 @@
-{'entryId': 2426, 'sectionId': 10, 'flags': 0, 'entryName': 'OUTLINE_LEVEL', 'entryFriendlyName': 'Outline Level', 'strValue': 'Outline Level', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Outline Level (Gantt)', 'rangeList': None, 'validationRule': None, 'sequenceId': 148520.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

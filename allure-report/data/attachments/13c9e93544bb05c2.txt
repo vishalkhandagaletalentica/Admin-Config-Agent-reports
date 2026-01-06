@@ -1,1 +1,0 @@
-The column name "Critical" has been updated to "Important".

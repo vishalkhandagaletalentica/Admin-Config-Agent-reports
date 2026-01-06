@@ -1,1 +1,0 @@
-The Print Font Size is already set to FONT_LARGE. No update is needed.

@@ -1,1 +1,0 @@
-The current title for the priority source of a task in the Task Details feature is "P2P Successor Project."

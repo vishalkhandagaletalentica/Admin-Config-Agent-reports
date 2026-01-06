@@ -1,1 +1,0 @@
-The advanced filter mapping for Task Early Finish Date is set to "New EF".

@@ -1,0 +1,1 @@
+The option to include past help needed in the gate reports is enabled.

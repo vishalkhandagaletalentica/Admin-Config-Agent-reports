@@ -1,1 +1,0 @@
-The Task Mgr → Task List → Search Columns for Task Table — TASK_DESCRIPTION is already set to "TASK_DESCRIPTION". No update is needed.

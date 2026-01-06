@@ -1,1 +1,0 @@
-The setting “Allow update expected completion date for purchasing tasks” is currently disabled.

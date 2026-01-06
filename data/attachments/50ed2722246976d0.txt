@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_INTEGRATION_TASK', 'entry': 'INTEGRATION_TASK_ENABLESSL', 'url': None}

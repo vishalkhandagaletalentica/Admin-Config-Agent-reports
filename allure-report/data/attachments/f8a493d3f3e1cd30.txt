@@ -1,1 +1,0 @@
-Can you show me the current setting for whether to display only managers in the project manager filter?

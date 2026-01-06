@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_FILTER_NAMES', 'entry': 'EVERY_30_DAYS_FROM_TODAY', 'url': None}

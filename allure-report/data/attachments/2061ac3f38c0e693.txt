@@ -1,1 +1,0 @@
-The Green Project Buffer for DBR Project Type is set to 5.

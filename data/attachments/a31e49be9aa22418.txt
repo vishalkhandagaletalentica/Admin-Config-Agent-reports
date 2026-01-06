@@ -1,0 +1,1 @@
+The current display name for the Group By option in the filters is "Group By Updated."

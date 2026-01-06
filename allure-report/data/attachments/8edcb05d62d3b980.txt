@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Executive (Executive section: controls for the Executive report)', 'Project Mgr -> Modify Projects (Project Manager: Modify Projects report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

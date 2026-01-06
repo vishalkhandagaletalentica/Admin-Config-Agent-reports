@@ -1,0 +1,1 @@
+{'entryId': 2429, 'sectionId': 10, 'flags': 1, 'entryName': 'EARLY_START_DATE', 'entryFriendlyName': 'Early Start Date', 'strValue': 'New Early Start', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Early Start Date (Gantt)', 'rangeList': None, 'validationRule': None, 'sequenceId': 148580.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,0 +1,1 @@
+{'entryId': 1164, 'sectionId': 10, 'flags': 0, 'entryName': 'OTD', 'entryFriendlyName': 'On Time Delivery', 'strValue': 'Timeliness of Delivery', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name for On Time Delivery.', 'rangeList': None, 'validationRule': None, 'sequenceId': 123280.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

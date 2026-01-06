@@ -1,0 +1,1 @@
+ColorPriority7 in Buffer Priorities (Buffer Management) is set to H.

@@ -1,0 +1,1 @@
+Completed projects are currently displayed (the "Complete" setting in Modify Projects is enabled).

@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the TaskId setting to "NewTaskId".'}, {'role': 'assistant', 'content': 'Which configuration section contains the TaskId setting?'}, {'role': 'user', 'content': 'The section name is Task Excel.'}, {'role': 'assistant', 'content': 'The TaskId has been updated to "NewTaskId".'}]

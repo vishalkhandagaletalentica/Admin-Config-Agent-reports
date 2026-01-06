@@ -1,1 +1,0 @@
-The yellow threshold for the CCCB buffer is 70.

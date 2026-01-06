@@ -1,1 +1,0 @@
-The current title displayed for Custom Task Date Field 24 is "Date24".

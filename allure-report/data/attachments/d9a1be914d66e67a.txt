@@ -1,1 +1,0 @@
-The current title for the Past Days column in the reports is "Past Days."

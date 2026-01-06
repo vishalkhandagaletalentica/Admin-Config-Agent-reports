@@ -1,0 +1,1 @@
+Yes — the "Allow Modify Last update date" option is currently enabled.

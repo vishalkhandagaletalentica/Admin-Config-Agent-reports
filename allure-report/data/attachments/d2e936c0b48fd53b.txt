@@ -1,1 +1,0 @@
-The Cycle Time report uses Planned Date for bucketization.

@@ -1,1 +1,0 @@
-The current setting for balancing resources in the scheduling plan is disabled.

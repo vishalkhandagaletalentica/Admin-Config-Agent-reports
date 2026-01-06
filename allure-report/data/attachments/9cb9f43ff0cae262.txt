@@ -1,1 +1,0 @@
-The Bucket selection Filter Name for Resource Portal in Html has been successfully updated to "Resource Bucket".

@@ -1,1 +1,0 @@
-The Task Status filter dropdown is already set to "Completed (CO)". No update is needed.

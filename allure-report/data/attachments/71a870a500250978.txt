@@ -1,1 +1,0 @@
-The filter name for Day has been updated to "New Day".

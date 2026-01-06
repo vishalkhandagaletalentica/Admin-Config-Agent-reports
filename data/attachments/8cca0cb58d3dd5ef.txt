@@ -1,0 +1,1 @@
+Is the option to prompt for Help Needed during task updates currently enabled?

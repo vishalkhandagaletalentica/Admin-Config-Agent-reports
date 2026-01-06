@@ -1,1 +1,0 @@
-The current setting for the mapping of the Task Early Finish Date in the advanced filter for Gantt is "New EF".

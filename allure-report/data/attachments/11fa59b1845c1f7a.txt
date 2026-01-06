@@ -1,1 +1,0 @@
-Please update the Sort Order to B-PROJECT_NAME,B-MS_NAME,B-PROJECT_REPORT_STATUS.

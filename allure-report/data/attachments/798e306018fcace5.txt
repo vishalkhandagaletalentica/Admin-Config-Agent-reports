@@ -1,1 +1,0 @@
-Please update the data format of representation in the Purchase Dates Integration report to "By Project".

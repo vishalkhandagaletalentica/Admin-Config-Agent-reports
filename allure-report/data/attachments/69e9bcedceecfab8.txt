@@ -1,1 +1,0 @@
-The auto rollup duration feature is currently disabled.

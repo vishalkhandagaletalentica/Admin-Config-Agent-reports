@@ -1,1 +1,0 @@
-The current number of periods used to calculate the rolling average for the On-Time Delivery report is 8.

@@ -1,3 +1,0 @@
-The command "update sort order to 12345" is invalid because the sort order should be specified using a key-value pair string or a comma-separated list of such pairs. The expected format for the sort order is a string containing the column names you wish to sort by, such as 'A-PROJECT_NAME,D-CHANGED_DATE', which indicates sorting by multiple columns.
-
-Please use a valid command like: "update sort order to A-PROJECT_NAME,D-CHANGED_DATE;"

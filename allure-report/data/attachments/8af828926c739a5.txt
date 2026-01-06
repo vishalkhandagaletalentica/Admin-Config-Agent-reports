@@ -1,1 +1,0 @@
-The current column order for the Drum Throughput Drilldown report is not set.

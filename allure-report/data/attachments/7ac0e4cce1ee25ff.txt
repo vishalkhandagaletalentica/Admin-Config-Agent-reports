@@ -1,1 +1,0 @@
-{'entryId': 753, 'sectionId': 37, 'flags': 0, 'entryName': 'CUSTOM_TASK_TEXT8', 'entryFriendlyName': 'Custom Task Text Field 8', 'strValue': 'New Zone', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Custom Task Text Field 8', 'rangeList': '', 'validationRule': None, 'sequenceId': 385060.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

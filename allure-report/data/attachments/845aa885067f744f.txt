@@ -1,1 +1,0 @@
-The current setting for the field mapping of Remaining Duration in the advanced filter is RDU.

@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RULE1', 'entry': 'PROJECT_UNIT', 'url': None}

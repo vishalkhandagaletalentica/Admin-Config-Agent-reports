@@ -1,1 +1,0 @@
-The current title for the Planned Count column is "New Planned Count".

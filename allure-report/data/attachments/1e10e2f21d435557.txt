@@ -1,1 +1,0 @@
-The command is invalid because the expected value type is an integer (valueType: 3), but you provided a string ("abcde"). Please provide an integer value within the allowed range. For example, you could use a command like: `update configuration "Enable Task Update History" to 1` if you want to enable it, or `0` to disable it.

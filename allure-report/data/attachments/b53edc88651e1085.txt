@@ -1,1 +1,0 @@
-Yes, the filters automatically collapse when a report is created.

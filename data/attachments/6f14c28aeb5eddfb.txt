@@ -1,0 +1,1 @@
+{'entryId': 272, 'sectionId': 17, 'flags': 0, 'entryName': 'CMS', 'entryFriendlyName': 'Contractual Milestones ', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Specifies if Contractual Milestones should be displayed', 'rangeList': None, 'validationRule': None, 'sequenceId': 175440.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

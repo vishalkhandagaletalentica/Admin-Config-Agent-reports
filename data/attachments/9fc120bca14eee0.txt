@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Priority setting to "High".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Priority" setting you want to update?'}, {'role': 'user', 'content': 'The section name is "Column Headings."'}, {'role': 'assistant', 'content': 'The Priority column heading has been updated from "Priority" to "High".'}]

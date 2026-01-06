@@ -1,1 +1,0 @@
-The command is invalid because the value for "Enable Subproject" should be a string, not an integer. Please provide a string value. A correct example command would be: `update configuration set Enable Subproject to 'S2M_SP_Name143Sake_Updated';`

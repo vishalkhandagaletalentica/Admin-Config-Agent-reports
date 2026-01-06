@@ -1,0 +1,1 @@
+{'entryId': 874, 'sectionId': 10, 'flags': 0, 'entryName': 'NO_DELAY_START', 'entryFriendlyName': 'No Addl Delay Start', 'strValue': 'No Addl Delay Start', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'No Addl Delay Start', 'rangeList': None, 'validationRule': None, 'sequenceId': 117480.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

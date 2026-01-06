@@ -1,1 +1,0 @@
-The current setting for the task manager parameter used in the email alerts is 12345.

@@ -1,0 +1,1 @@
+Hidden fields for Print Preview (Project Manager) updated to TREND_INDICATOR, MILESTONE_DESC, PROJECT_STATUS.

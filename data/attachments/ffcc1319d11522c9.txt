@@ -1,0 +1,1 @@
+The current column heading title for Resource Notes is "New Participants."

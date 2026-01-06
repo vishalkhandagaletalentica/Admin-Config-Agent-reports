@@ -1,0 +1,1 @@
+The Resource Manager column heading is "RESOURCE_MANAGER_ID -> RESOURCE_MANAGER_ID".

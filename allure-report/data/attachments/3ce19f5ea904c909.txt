@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the current chain type as SUCCESSOR_CHAINS, aligning with the Expected Output. However, it includes additional information about an update to 'Stuck Task(s)' that is not present in the Expected Output, which could be seen as introducing unnecessary detail. Overall, it addresses the intent of the question effectively.

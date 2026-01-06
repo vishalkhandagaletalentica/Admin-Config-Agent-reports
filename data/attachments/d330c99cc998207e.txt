@@ -1,0 +1,1 @@
+What is the current setting for the second column preset in the planning client's table view for cost center mode?

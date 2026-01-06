@@ -1,0 +1,1 @@
+update configuration set Default Horizon to abcde

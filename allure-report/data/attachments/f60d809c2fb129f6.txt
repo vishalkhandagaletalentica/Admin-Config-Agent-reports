@@ -1,1 +1,0 @@
-What is the current filter name for the time interval in the Actual Delay report?

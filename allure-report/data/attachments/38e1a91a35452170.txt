@@ -1,1 +1,0 @@
-The default sorting order for the Throughput drill down report is: CURRENT_BUCKET_STATUS (descending), PROJECT_NAME (ascending), PROJECT_REPORT_STATUS (ascending).

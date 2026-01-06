@@ -1,1 +1,0 @@
-The current title for roll up duration is "Roll up new value".

@@ -1,0 +1,1 @@
+{'entryId': 2414, 'sectionId': 124, 'flags': 0, 'entryName': 'ROLLUPRESOURCES', 'entryFriendlyName': 'Default Roll up Resources Value', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Default Roll up Resources Value', 'rangeList': None, 'validationRule': None, 'sequenceId': 1288280.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

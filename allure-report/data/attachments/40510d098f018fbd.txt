@@ -1,1 +1,0 @@
-The warning for committing projects with mismatched resource groups is currently disabled.

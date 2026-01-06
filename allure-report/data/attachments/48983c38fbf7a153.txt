@@ -1,1 +1,0 @@
-The option to exclude planned status trend points is currently enabled.

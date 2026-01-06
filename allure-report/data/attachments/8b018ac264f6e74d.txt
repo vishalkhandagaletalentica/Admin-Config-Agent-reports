@@ -1,1 +1,0 @@
-The Number of Intervals to Display in the Flow Trend report was updated from 5 to 10.

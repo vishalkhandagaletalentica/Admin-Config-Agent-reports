@@ -1,0 +1,1 @@
+Email alerts for HelpNeeded closed are now disabled. They were previously enabled.

@@ -1,1 +1,0 @@
-{'entryId': 2838, 'sectionId': 119, 'flags': 1, 'entryName': 'EnableSAPIntegration', 'entryFriendlyName': 'Enable SAP Integration', 'strValue': '12345', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Enable SAP Integration Module', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

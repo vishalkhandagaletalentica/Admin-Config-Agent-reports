@@ -1,1 +1,0 @@
-Please enable the flag to generate data for Purchase Dates Integration during BM.

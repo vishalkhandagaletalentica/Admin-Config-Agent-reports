@@ -1,0 +1,1 @@
+{'entryId': 765, 'sectionId': 48, 'flags': 0, 'entryName': 'DBR_CCCB-R-Priority', 'entryFriendlyName': 'Red Project Buffer', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 0, 'itemDesc': 'Red Project Buffer', 'rangeList': None, 'validationRule': None, 'sequenceId': 495300.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

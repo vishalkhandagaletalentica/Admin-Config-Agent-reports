@@ -1,1 +1,0 @@
-The title for completed items in the filtering pane is "In Progress".

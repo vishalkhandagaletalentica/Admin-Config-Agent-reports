@@ -1,1 +1,0 @@
-The current value for the global float validation setting is enabled.

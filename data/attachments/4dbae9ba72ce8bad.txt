@@ -1,0 +1,1 @@
+The default number of intervals displayed in the Flow Trend report is 15.

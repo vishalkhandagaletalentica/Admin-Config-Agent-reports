@@ -1,1 +1,0 @@
-The current percentage for the default size of the Capacity Buffer is 20%.

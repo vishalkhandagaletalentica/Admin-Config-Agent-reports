@@ -1,0 +1,1 @@
+I can't determine whether the SAP Integration Module is enabled. The "Enable SAP Integration" setting is currently set to "67890" (string).

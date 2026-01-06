@@ -1,1 +1,0 @@
-The current priority setting for the Red Milestone Buffer is 2.

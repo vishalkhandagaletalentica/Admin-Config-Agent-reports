@@ -1,1 +1,0 @@
-Please update the Monthly Trend Points setting to EVERY_30_DAYS_FROM_TODAY.

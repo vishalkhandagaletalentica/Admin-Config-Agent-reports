@@ -1,1 +1,0 @@
-The default selection for the Full Kit Task Desc filter has been updated from "All Full Kit Task Desc" to "New Full Kit Task Desc".

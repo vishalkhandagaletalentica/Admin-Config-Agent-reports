@@ -1,1 +1,0 @@
-Queue Persistence Interval is now set to 45.

@@ -1,0 +1,1 @@
+{'entryId': 2270, 'sectionId': 56, 'flags': 0, 'entryName': 'SUBJECT_MANDATORY', 'entryFriendlyName': 'Customer mandatory', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Customer mandatory', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

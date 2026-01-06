@@ -1,1 +1,0 @@
-The Filtering Pane entry "Days for Delta/Decreased Rem Dur Calculations" is currently set to "In Last Month".

@@ -1,0 +1,1 @@
+I couldn't enable Show Rolling Average in the Throughput report because your account does not have privileges to update configuration settings. Please ask an administrator with the necessary privileges to enable this setting, or let me know if you'd like me to prepare the change for an admin to apply.

@@ -1,1 +1,0 @@
-The current filter name for Red/Yellow/Green/Other is "Green/Other".

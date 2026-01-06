@@ -1,5 +1,0 @@
-The command to update the Sort Order is invalid because the value provided (12345) is not of the correct type. The Sort Order expects a string value consisting of sortable column keys, not an integer. 
-
-Please provide a value that matches the allowed format, such as a comma-separated list of sortable column keys. 
-
-For example, a correct command would be: `update Sort Order to D-CURRENT_BUCKET_STATUS,A-PROJECT_NAME,A-PROJECT_REPORT_STATUS;`

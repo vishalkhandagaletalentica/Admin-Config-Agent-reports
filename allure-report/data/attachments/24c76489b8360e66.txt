@@ -1,1 +1,0 @@
-The division used in bulk import is PROD.

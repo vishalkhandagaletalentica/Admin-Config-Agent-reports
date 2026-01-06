@@ -1,1 +1,0 @@
-{'entryId': 132, 'sectionId': 10, 'flags': 0, 'entryName': 'BUFFER_PENETRATION', 'entryFriendlyName': 'Buffer Consumed', 'strValue': 'Buffer Cnsmd', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Buffer Consumed', 'rangeList': None, 'validationRule': None, 'sequenceId': 102640.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

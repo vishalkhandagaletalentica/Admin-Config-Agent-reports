@@ -1,0 +1,5 @@
+The command you provided to update the setting 'Filters to display' with the value '12345' is invalid because '12345' is not an allowed value. The expected type for this setting is a list of predefined keys, specifically from the allowed range: AUTHOR, CATEGORY, SUBJECT, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4, ATTRIBUTE5. 
+
+Please format your update command using one or more of the allowed values, such as: 
+
+`update setting 'Filters to display' to 'AUTHOR,CATEGORY'`

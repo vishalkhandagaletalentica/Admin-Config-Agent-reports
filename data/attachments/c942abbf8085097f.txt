@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Custom Task Text Field 7 — Common, Task → Custom Task Text Fields', 'Task Text 7 — Common → Column Names'], 'value': None, 'section': None, 'entry': None, 'url': None}

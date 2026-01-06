@@ -1,0 +1,6 @@
+The following columns are currently hidden in the Earned Hours Report:
+- Date1
+- Date2
+- MMH
+- Status
+- MCN

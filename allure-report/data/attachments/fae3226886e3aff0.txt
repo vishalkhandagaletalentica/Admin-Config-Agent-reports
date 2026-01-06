@@ -1,1 +1,0 @@
-The hidden columns were updated: previously "12345", now "CUSTOM_TASK_TEXT8,TASK_CALENDAR_NAME".

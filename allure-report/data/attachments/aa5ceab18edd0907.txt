@@ -1,1 +1,0 @@
-No — the load from On Hold projects is currently not displayed in the Resource Requirement Charts (Include On Hold Projects is disabled).

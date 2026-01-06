@@ -1,1 +1,0 @@
-The email address set up for authentication with the Streamliner API is user@example.com.

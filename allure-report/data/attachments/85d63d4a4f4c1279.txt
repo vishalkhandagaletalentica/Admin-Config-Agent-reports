@@ -1,1 +1,0 @@
-The mapping for Custom Task Text Field 78 in the advanced filter is "NewText78".

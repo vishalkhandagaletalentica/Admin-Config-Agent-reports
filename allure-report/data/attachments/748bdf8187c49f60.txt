@@ -1,1 +1,0 @@
-The "no rounding" setting has been updated to "rounding".

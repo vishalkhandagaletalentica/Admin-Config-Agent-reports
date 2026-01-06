@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names — Longest Chain Remaining (column title used in column headings)', 'Common -> Column Names — Longest Chain Remaining (display name used in headers)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The Resources entry (Resources with Units in the brackets) is currently set to: "Resources".

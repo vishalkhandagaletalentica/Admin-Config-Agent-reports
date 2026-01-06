@@ -1,1 +1,0 @@
-The FK/PT Delay is already set to "Delay(d)". No update is needed.

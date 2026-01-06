@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List -> Project Mgr (Hidden Fields for Project Mgr)', 'Task List -> Task Mgr (Hidden Fields for Task Mgr)', 'Task List -> Resource Mgr (Hidden Fields for Resource Mgr)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+Print Font Size updated from FONT_LARGE to FONT_XLARGE.

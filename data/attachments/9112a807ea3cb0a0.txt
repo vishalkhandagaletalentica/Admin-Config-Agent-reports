@@ -1,0 +1,1 @@
+Updated the "Remaining Duration (hours)" column heading to "Task Duration (h)".

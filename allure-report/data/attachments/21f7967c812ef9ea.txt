@@ -1,1 +1,0 @@
-The correct section name is "Project Control" and the item description is "Default setting for Show Managers Only in Project Mgr Filter."

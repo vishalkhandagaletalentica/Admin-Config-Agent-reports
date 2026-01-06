@@ -1,1 +1,0 @@
-Completed projects are not currently set to be displayed in the Issue Resolution report.

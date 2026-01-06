@@ -1,3 +1,0 @@
-The command to update the Sort Order is invalid because the value '12345' is not within the allowed range. The Sort Order expects a specific set of sortable options, which are typically defined in the $SORTABLELIST. 
-
-Please provide a valid sortable value instead. For example, you could use a value like 'A-CHAIN_NAME' or any other allowed option from the $SORTABLELIST.

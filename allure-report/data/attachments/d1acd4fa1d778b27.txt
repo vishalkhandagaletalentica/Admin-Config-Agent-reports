@@ -1,1 +1,0 @@
-The "Sort By Priority Fields Within Windows Of" setting for the Task Level Priorities By Resource report is set to 5.

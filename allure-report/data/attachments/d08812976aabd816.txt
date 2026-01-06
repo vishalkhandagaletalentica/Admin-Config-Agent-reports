@@ -1,1 +1,0 @@
-Set it to "Column A,Column B".

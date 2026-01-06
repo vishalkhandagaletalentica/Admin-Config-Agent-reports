@@ -1,1 +1,0 @@
-The current mapping for the custom task date field 28 in the advanced filter is Date29.

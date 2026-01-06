@@ -1,0 +1,3 @@
+The command to update the "Auto DB Compact Frequency" to 'abcde' is invalid because the expected value type is an integer, and 'abcde' is not a valid integer. The allowed values are non-negative integers, with a default of 0. 
+
+Please provide a valid integer value, such as '0' or '1'. For example, the correct command could be: `update Auto DB Compact Frequency to 1`.

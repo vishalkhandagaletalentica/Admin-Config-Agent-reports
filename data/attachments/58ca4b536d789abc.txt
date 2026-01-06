@@ -1,0 +1,1 @@
+{'type': 'error', 'selectable_values': None, 'value': {'old': 'Pred', 'new': 'Successors'}, 'section': 'SGD_COLUMN_NAMES', 'entry': 'PREDECESSORS', 'url': None}

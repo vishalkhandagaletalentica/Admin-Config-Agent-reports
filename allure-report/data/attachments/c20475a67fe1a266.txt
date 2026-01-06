@@ -1,1 +1,0 @@
-The default cycle time for new targets is 150 days.

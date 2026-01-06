@@ -1,0 +1,1 @@
+{'entryId': 578, 'sectionId': 11, 'flags': 0, 'entryName': 'PRIORITY', 'entryFriendlyName': 'Priority', 'strValue': 'Priority', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Priority in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121560.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

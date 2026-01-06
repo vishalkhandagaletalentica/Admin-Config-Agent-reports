@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_CONTROL_QUEUES', 'entry': 'DAYS_TO_DEPLETE_FOR_QUEUE_OVER_THRESHOLD', 'url': None}

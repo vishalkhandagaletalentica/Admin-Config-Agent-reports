@@ -1,1 +1,0 @@
-The filter name "European" has been updated to "EU Region."

@@ -1,1 +1,0 @@
-The rolling average period in the Actual Delay report is 5 periods.

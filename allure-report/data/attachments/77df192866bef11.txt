@@ -1,1 +1,0 @@
-The surge capacity for the queues report is set to 20%.

@@ -1,0 +1,1 @@
+{'type': 'error', 'selectable_values': None, 'value': {'old': 'disabled', 'new': 'enabled'}, 'section': 'SGD_CHECKIN_VALIDATION', 'entry': 'CS_PHASE_NONBLANKGRP_NOT_FOUND_ERROR', 'url': None}

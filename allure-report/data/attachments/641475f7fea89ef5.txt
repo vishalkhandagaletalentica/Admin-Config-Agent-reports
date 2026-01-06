@@ -1,1 +1,0 @@
-The Actual Output correctly states the default target for new On-Time Delivery entries as 95%, which aligns with the Expected Output. However, it slightly deviates in wording by omitting 'value' and using 'target' instead, which does not affect the factual correctness. The response is relevant and directly addresses the intent of the question.

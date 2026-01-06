@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Application -> Concerto Critical Chain — DisableNotResponding', 'Buffer Management — DisableNotResponding'], 'value': None, 'section': None, 'entry': None, 'url': None}

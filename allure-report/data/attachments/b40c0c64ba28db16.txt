@@ -1,1 +1,0 @@
-Please update the Fixed Stretch Limit Override for Fixed Projects (Days) to 5 days.

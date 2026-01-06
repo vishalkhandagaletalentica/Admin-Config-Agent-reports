@@ -1,3 +1,0 @@
-The command to update the Print Font Size is invalid because the value '12345' is not within the allowed range. The acceptable values for Print Font Size are: FONT_XSMALL, FONT_SMALL, FONT_MEDIUM, FONT_LARGE, FONT_XLARGE. Please provide a valid value from this list. 
-
-For example, you could use: `update Print Font Size to FONT_LARGE`.

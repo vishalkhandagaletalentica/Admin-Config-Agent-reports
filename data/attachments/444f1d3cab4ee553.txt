@@ -1,0 +1,1 @@
+Yes, the External Mailer is currently enabled for alert generation during auto BM.

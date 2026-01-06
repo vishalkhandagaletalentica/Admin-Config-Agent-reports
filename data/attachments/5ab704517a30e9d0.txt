@@ -1,0 +1,1 @@
+The number of projects to display in the project list main report has been successfully updated to 10.

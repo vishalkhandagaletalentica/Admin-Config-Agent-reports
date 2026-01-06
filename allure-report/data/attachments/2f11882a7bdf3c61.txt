@@ -1,1 +1,0 @@
-The current setting for the first column preset in the table view for CC mode is New CheckList, Task Type, Task Name, New Start Date, Status, Resources, Updated Dur, Predecessors Updated, Successor Tasks, CUSTOM_TASK_TEXT5.

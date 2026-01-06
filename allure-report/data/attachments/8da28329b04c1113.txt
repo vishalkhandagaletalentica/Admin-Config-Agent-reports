@@ -1,1 +1,0 @@
-{'entryId': 873, 'sectionId': 10, 'flags': 0, 'entryName': 'TASK_BUFF_PEN', 'entryFriendlyName': 'Buffer Cnsm', 'strValue': 'Buffer Cnsm`d (%)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Buffer Pen.', 'rangeList': None, 'validationRule': None, 'sequenceId': 117460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

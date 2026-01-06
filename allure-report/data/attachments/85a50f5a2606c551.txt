@@ -1,1 +1,0 @@
-The execution time for Subtask Excel is 8000.

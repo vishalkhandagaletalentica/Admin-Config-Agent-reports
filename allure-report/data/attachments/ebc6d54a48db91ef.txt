@@ -1,1 +1,0 @@
-The column header "Date Resolved" has been updated to "Resolved Date".

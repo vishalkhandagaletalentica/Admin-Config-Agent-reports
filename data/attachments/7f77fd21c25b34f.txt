@@ -1,0 +1,1 @@
+{'entryId': 2120, 'sectionId': 11, 'flags': 0, 'entryName': '4QUARTERS', 'entryFriendlyName': '4 Quarters', 'strValue': '4 Quarters', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': '4 Quarters', 'rangeList': None, 'validationRule': None, 'sequenceId': 152400.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

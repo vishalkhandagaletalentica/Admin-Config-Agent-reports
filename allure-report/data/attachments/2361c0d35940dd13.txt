@@ -1,1 +1,0 @@
-The current mapping for the Custom Task Date Field 21 in the advanced filter settings is Date21.

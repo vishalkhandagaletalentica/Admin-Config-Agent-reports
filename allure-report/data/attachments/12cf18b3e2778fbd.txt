@@ -1,1 +1,0 @@
-update configuration set Enable Subproject to 12345;

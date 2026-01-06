@@ -1,1 +1,0 @@
-The current title set for the Project Manager in the filtering options is "Project Manager."

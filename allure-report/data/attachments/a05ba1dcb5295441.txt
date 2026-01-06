@@ -1,1 +1,0 @@
-{'entryId': 61, 'sectionId': 7, 'flags': 0, 'entryName': 'CCCB-Y-Priority', 'entryFriendlyName': 'Yellow Project Buffer', 'strValue': None, 'floatValue': None, 'intValue': 2, 'valueType': 0, 'itemDesc': 'Yellow Project Buffer', 'rangeList': None, 'validationRule': None, 'sequenceId': 71220.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

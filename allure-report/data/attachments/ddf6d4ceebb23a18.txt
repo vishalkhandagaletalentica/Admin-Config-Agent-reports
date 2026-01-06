@@ -1,3 +1,0 @@
-The command to update the horizon length is invalid because the value 'abcde' is not an integer and is out of the expected range. The horizon length must be an integer between 1 and 99999. 
-
-Please use a valid integer value within the allowed range. For example, you could use the command: `update horizon length to '30'`.

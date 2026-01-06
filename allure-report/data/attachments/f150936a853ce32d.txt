@@ -1,1 +1,0 @@
-The update for the title of the reason filters in the buffer consumption chart has been successfully changed to "Assistance Required".

@@ -1,1 +1,0 @@
-The display type for the Throughput report is set to "Drum name".

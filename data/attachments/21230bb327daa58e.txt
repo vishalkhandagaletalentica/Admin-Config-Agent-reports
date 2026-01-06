@@ -1,0 +1,1 @@
+I attempted to set Subtask ReadOnly Fields to "12345" but the update failed because this setting requires a validated multi-select value in the system's expected format. I couldn't apply the change. Would you like to provide the value in the required multilist format, or should I leave it unchanged?

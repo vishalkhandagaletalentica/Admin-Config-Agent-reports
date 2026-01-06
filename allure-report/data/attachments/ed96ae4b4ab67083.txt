@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_EXEC_STATUS_REPORT', 'entry': 'SHOW_INDIVIDUAL_TREND_CHART', 'url': None}

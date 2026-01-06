@@ -1,1 +1,0 @@
-The column name used for Predecessors in the Subtask Excel is "Predecessors".

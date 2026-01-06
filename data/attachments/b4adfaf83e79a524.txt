@@ -1,0 +1,4 @@
+The following columns are currently hidden in the Milestone panel report:
+- Custom Date 2
+- Stretch (d)
+- Custom Date 1

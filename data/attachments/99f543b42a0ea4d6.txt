@@ -1,0 +1,1 @@
+The command to update the Surge Capacity (% Additional Capacity) is invalid because the value 'abcde' is not within the allowed range of 1 to 999. The expected type is an integer. Please provide a numeric value within the specified range. For example, you could use the command: `update Surge Capacity (% Additional Capacity) to 50`.

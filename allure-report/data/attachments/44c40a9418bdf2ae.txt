@@ -1,1 +1,0 @@
-Can you show me how many subtasks are currently set to be loaded in the subtask-only view?

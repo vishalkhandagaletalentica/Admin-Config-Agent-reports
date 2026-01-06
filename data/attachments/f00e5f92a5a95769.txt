@@ -1,0 +1,1 @@
+{'entryId': 721, 'sectionId': 46, 'flags': 1, 'entryName': 'CUSTOM_TASK_TEXT3', 'entryFriendlyName': 'CUSTOM_TASK_TEXT3', 'strValue': 'CUSTOM_TASK_TEXT3', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 474420.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

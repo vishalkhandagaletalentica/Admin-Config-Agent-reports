@@ -1,0 +1,1 @@
+The current title for the CheckList indicator in the column headings is NewCheckList.

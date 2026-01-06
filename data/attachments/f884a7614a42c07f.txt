@@ -1,0 +1,1 @@
+{'entryId': 1814, 'sectionId': 11, 'flags': 0, 'entryName': 'PLANNED_PL', 'entryFriendlyName': 'Planned (PL)', 'strValue': 'Planned (PL)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Used in Project Status filter dropdown.', 'rangeList': None, 'validationRule': None, 'sequenceId': 146280.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

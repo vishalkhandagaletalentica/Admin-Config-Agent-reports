@@ -1,0 +1,1 @@
+The current setting for whether help is displayed in the filtering pane is "Breakdown Help Needed."

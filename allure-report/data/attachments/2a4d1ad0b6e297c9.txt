@@ -1,1 +1,0 @@
-The current default feeding buffer size is 5 hours.

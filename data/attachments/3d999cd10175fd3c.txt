@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it states that the Due Date history uses 45 past days, which aligns perfectly with the Expected Output. Additionally, it directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

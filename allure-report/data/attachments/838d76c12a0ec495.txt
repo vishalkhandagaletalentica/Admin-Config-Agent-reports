@@ -1,1 +1,0 @@
-The "Include Ignored Tasks" filter is currently set to: "Exclude Ignored Tasks".

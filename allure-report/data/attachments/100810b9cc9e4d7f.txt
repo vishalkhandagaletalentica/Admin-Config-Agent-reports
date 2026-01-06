@@ -1,1 +1,0 @@
-The "End of Last Quarter" filter in the Filtering Pane was updated to "End of Last Quarter 2023."

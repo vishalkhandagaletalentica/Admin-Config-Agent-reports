@@ -1,0 +1,1 @@
+I checked the "Task Manager Filters" default selection: it is already set to "All Task Managers". No update is needed.

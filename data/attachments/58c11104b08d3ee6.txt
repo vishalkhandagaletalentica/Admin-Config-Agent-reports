@@ -1,0 +1,1 @@
+{'entryId': 2748, 'sectionId': 147, 'flags': 0, 'entryName': 'FLOAT_COL_PRESET1_NAME', 'entryFriendlyName': 'Column Preset 1 Name', 'strValue': 'Basic', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Name for Float Column Preset 1', 'rangeList': None, 'validationRule': None, 'sequenceId': 1524960.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

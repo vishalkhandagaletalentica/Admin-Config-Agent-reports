@@ -1,0 +1,1 @@
+update configuration set "Default Project Buffer % size" to "abcde"

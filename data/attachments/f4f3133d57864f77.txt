@@ -1,0 +1,1 @@
+Can you show me if the automatic loading of Project Status Data is enabled when I click the Project Manager Tab?

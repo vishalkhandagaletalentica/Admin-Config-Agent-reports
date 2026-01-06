@@ -1,1 +1,0 @@
-The Task Participants Type has been updated from USER_AND_TEAM to USER.

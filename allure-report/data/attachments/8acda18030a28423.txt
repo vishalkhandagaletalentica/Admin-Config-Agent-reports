@@ -1,1 +1,0 @@
-{'entryId': 1325, 'sectionId': 10, 'flags': 0, 'entryName': 'TOTAL_IMS', 'entryFriendlyName': 'IMS', 'strValue': 'New IMS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'The total number of Internal milestones (IMS) per project.', 'rangeList': None, 'validationRule': None, 'sequenceId': 126500.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

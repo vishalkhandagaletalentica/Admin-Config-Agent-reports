@@ -1,8 +1,0 @@
-Filters related to Gate Reports (what can be displayed):
-- Filters Available — Specify the filter names to display. All names listed here can be selected as default filters in the report.
-- Filters To Display — Select the default filters to display in the report.
-- Include Past Help Needed — Include Past Help Needed.
-- Include Future Flow Days Line — Default value and Show/Hide status for the "Include Future Flow Days Line" checkbox in report filter.
-- Compare With — Date used to compute project delay (affects filtering).
-- Months in Past to Show Data for Aircraft — Number of months in the past to include for aircraft data (0–20).
-- Months in Past to Show Data for Constraints — Number of months in the past to include for constraints data (0–20).

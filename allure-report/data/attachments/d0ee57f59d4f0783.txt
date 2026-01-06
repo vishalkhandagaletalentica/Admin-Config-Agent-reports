@@ -1,1 +1,0 @@
-The Task Penetrating Chain report's Columns hidden in Print Preview already include those fields. No update is needed.

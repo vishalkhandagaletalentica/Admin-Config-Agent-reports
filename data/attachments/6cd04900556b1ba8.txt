@@ -1,0 +1,1 @@
+The Chain Type for the Project Chain View is set to RTS_CHAINS.

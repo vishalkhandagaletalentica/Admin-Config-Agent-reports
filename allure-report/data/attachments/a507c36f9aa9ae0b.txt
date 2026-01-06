@@ -1,1 +1,0 @@
-In "Column Headings", the Description is set to "Description used in cancelled reason name".

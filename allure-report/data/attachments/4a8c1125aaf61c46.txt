@@ -1,1 +1,0 @@
-The current display name for Task Manager and Project reports is "All Roles."

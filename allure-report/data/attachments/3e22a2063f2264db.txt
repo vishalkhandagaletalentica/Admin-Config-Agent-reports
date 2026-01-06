@@ -1,1 +1,0 @@
-The Actual Output correctly identifies that the setting expects a boolean value, aligning with the Input's request. However, it fails to address the discrepancy with the Expected Output, which states that the expected value type is an integer, not a boolean. This introduces incorrect facts and does not fully address the intent of the Input, leading to a low score.

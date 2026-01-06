@@ -1,1 +1,0 @@
-The titles currently displayed in the filtering pane for the reports are "Everything."

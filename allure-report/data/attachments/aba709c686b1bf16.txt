@@ -1,1 +1,0 @@
-The display name for the Load filter in the Resource Portal is: L:C -> L:C

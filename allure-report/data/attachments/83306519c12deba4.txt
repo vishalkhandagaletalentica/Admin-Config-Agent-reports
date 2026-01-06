@@ -1,1 +1,0 @@
-The current mapping for the Text1 column in the checklist integration is SAPchecklist.

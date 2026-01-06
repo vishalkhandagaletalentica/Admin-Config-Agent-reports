@@ -1,0 +1,1 @@
+The milestone on-time threshold in the Project Status report is set to 0.95.

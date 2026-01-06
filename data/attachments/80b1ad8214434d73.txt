@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Planning Client -> Import Field Mapping — Text9 (import CSV/Excel field mapping)', 'Integration -> Task — Text9 (Task Excel column name)', 'Planning Client -> Adv. Filter Field Mapping — Text 9 (advanced filter key mapping)'], 'value': None, 'section': None, 'entry': None, 'url': None}

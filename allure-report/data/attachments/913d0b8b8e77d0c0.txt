@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Metrics -> Task Mgt — Update Compliance Period For Purchasing Tasks (hrs) (numeric parameter, used by Task Mgt report)', 'Common -> Filter Names — Update Compliance Period for Purchasing Tasks (hrs) (display/filter label)'], 'value': None, 'section': None, 'entry': None, 'url': None}

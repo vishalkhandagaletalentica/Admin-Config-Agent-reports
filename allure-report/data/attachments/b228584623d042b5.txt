@@ -1,3 +1,0 @@
-The report is currently set to display these default filters:
-- New Kit Manager
-- New Full Kit Task Desc

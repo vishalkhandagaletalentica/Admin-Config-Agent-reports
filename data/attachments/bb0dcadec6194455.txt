@@ -1,0 +1,1 @@
+I attempted to set the column order to "Resource,Manager" but the update failed: the system reports there is no column definition for this section/entry and the column-list format could not be validated. Please provide a valid column definition list for this report or tell me how you want the columns specified and I’ll try again.

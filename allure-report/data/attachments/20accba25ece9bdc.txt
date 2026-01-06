@@ -1,1 +1,0 @@
-{'entryId': 875, 'sectionId': 10, 'flags': 0, 'entryName': 'NO_DELAY_COMPL', 'entryFriendlyName': 'No Addl Delay Finish', 'strValue': 'No Additional Delay Finish', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'No Addl Delay Finish', 'rangeList': None, 'validationRule': None, 'sequenceId': 117500.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

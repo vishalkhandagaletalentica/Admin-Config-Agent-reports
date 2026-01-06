@@ -1,0 +1,1 @@
+{'entryId': 1976, 'sectionId': 10, 'flags': 0, 'entryName': 'SNET_DATE', 'entryFriendlyName': 'SNET Date', 'strValue': 'SNET Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'SNET Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 139520.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

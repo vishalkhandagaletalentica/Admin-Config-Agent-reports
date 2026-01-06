@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that the option to hide the Remaining Duration column is enabled. While the phrasing differs from the Expected Output, it maintains the same factual meaning. The response is clear and professional, with no incorrect facts or assumptions introduced.

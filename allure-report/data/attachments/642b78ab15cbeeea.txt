@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_STUCK_TASK', 'entry': 'DEFAULT_BUFFCNSMD_SELECTION', 'url': None}

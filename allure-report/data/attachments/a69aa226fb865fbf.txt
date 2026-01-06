@@ -1,1 +1,0 @@
-Yes — the Amazon SNS push option is currently enabled.

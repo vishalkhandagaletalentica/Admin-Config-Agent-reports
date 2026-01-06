@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Resource Mgr -> Resource Needs — Subprojects', 'Resource Mgr -> Sand Chart — Subprojects', 'Project Mgr -> Pipeline View — Subprojects'], 'value': None, 'section': None, 'entry': None, 'url': None}

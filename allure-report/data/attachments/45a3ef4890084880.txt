@@ -1,1 +1,0 @@
-The current title displayed for the No Additional Delay Duration column is "No Addl Delay Duration".

@@ -1,1 +1,0 @@
-{'entryId': 2128, 'sectionId': 10, 'flags': 0, 'entryName': 'BASELINE_START', 'entryFriendlyName': 'Baseline Start', 'strValue': '2023-11-01', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Baseline Start date of the task', 'rangeList': None, 'validationRule': None, 'sequenceId': 142560.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

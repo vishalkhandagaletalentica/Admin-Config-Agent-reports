@@ -1,1 +1,0 @@
-Updated the custom text field for storing scope information to CUSTOM_TASK_TEXT5.

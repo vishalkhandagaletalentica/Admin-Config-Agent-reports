@@ -1,0 +1,1 @@
+{'entryId': 614, 'sectionId': 10, 'flags': 0, 'entryName': 'URL_NAME', 'entryFriendlyName': 'URL/Name', 'strValue': 'URL/Name', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for URL/Name in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 112280.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

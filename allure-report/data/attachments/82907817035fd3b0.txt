@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Default Milestone Buffer % size to 75.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Default Milestone Buffer % size" entry?'}, {'role': 'user', 'content': 'The section name is CC Settings.'}, {'role': 'assistant', 'content': 'Default Milestone Buffer % size updated from 50 to 75.'}]

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Control (Project Details Report)', 'Modify Projects', 'Assign Task Managers'], 'value': None, 'section': None, 'entry': None, 'url': None}

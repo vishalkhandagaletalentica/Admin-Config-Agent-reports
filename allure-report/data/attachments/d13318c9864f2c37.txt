@@ -1,1 +1,0 @@
-{'entryId': 1122, 'sectionId': 10, 'flags': 0, 'entryName': 'PLANNED_CT', 'entryFriendlyName': 'Planned Cycle Time', 'strValue': 'Planned Cycle Time (d)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Planned Cycle Time.', 'rangeList': None, 'validationRule': None, 'sequenceId': 122440.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,1 +1,0 @@
-No — the "Show Rolling Average" option for the Throughput report is currently disabled.

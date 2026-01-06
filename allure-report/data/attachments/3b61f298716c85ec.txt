@@ -1,1 +1,0 @@
-I attempted to update the Column Order for the Tabular View in Pipeline Web, but the update failed because the system could not validate the column list format. Please provide a valid comma-separated column list using the allowed column names, or tell me which columns (by friendly name and order) you want and I will try again.

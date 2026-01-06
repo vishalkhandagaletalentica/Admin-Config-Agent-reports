@@ -1,0 +1,1 @@
+Calculate Float based color considering Normalized Total Float is set to RELATIVE (uses relative normalized total float where the minimum is treated as 0).

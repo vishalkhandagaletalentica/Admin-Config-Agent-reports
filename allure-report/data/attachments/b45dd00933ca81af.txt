@@ -1,1 +1,0 @@
-The current buffer penetration value for the yellow coloring in the DBR Project Type is 50.

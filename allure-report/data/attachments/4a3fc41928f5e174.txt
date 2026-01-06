@@ -1,1 +1,0 @@
-The currently hidden columns in the project report are EST_REM_DUR and ENABLE_AUTO_DOC_LINK.

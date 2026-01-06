@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Bulk Import — Project Attribute 8 (section: BULK_IMPORT, entry: ATTRIBUTE5)', 'Common -> Column Names — Project Attribute 8 (section: SGD_COLUMN_NAMES, entry: ATTRIBUTE5)', 'Common -> Filter Names — Project Attribute 8 (section: SGD_FILTER_NAMES, entry: ATTRIBUTE5)'], 'value': None, 'section': None, 'entry': None, 'url': None}

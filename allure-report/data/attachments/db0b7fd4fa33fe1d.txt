@@ -1,5 +1,0 @@
-The command you provided is invalid because the expected type for the 'value' is a multi-list, not an integer. The allowed values should be a comma-separated list of strings. 
-
-You should provide the value in a format like this: 'TASKUNIQUEID,MSP_TASK_ID,TASK_DESCRIPTION,TASK_STATUS'. 
-
-A correct example command would be: `update Hidden Fields set value to TASKUNIQUEID,MSP_TASK_ID,TASK_DESCRIPTION,TASK_STATUS`.

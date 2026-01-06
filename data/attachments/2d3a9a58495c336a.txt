@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_WIP_REPORT', 'entry': 'DEFAULT_COLUMN_WIDTH', 'url': None}

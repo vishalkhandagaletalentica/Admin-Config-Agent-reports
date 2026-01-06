@@ -1,1 +1,0 @@
-The column name "% Compliant Full Kit Mgrs" was updated to "% Compliant Full Kit Managers".

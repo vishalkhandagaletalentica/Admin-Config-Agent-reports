@@ -1,1 +1,0 @@
-{'entryId': 1477, 'sectionId': 10, 'flags': 0, 'entryName': 'CRITICAL', 'entryFriendlyName': 'Critical', 'strValue': 'Critical', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Critical.', 'rangeList': None, 'validationRule': None, 'sequenceId': 129540.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

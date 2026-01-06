@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'Alerts', 'entry': 'ENABLE_AWS_SNS', 'url': None}

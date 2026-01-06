@@ -1,0 +1,5 @@
+The command to update the configuration is invalid because the value type is expected to be a multi-list, but you are attempting to set it to a single integer (12345). The allowed values should be a comma-separated list of strings, similar to those found in the `strValue` field.
+
+Please use a command that includes a valid multi-list value. For example, you could use:
+
+`update configuration set value to EXPECTED_FINISH,CUSTOM_TASK_TEXT1,CUSTOM_TASK_TEXT2;`

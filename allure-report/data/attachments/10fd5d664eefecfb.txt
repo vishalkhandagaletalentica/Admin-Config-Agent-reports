@@ -1,1 +1,0 @@
-The filter value for the Line Chart has been successfully updated to "Line 1".

@@ -1,1 +1,0 @@
-The current setting for the buffer penetration level that determines when the buffer turns yellow is 80.

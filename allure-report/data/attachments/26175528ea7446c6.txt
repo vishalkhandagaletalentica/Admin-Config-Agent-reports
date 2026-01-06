@@ -1,1 +1,0 @@
-The filter name "Every Monday" is already set to "Weekly Monday". No update is needed.

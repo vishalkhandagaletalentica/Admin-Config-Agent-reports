@@ -1,0 +1,1 @@
+{'type': 'success', 'selectable_values': None, 'value': {'old': {'Executive -> Project Status': 'DUE_DATE', 'Executive -> Red Projects': '12345'}, 'new': {'Executive -> Project Status': 'PLANNED_DATE', 'Executive -> Red Projects': 'PLANNED_DATE'}}, 'section': 'SGD_PIPELINE_CONTROL, SGD_PIPELINE_CONTROL_PROJ_LIST', 'entry': 'SORTTYPE, SORT', 'url': None}

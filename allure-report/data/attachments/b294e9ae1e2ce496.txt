@@ -1,1 +1,0 @@
-The current subject line for the Task Ready to Start email is: Task ready to start-Project=%NEW_PROJECT_NAME%,msptaskid=%NEW_MSP_TASK_ID%,taskuid=%NEW_TASKUNIQUEID%,task desc=%NEW_TASK_DESCRIPTION%

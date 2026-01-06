@@ -1,1 +1,0 @@
-The "Reset Count at Fiscal Year Start" setting has been disabled.

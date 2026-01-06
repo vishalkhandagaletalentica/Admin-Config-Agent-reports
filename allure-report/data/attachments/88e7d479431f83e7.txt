@@ -1,1 +1,0 @@
-The filter name for CO has been successfully updated to "New CO".

@@ -1,1 +1,0 @@
-The current mapping for Task Date 15 (Custom Task Date Field) in the advanced filter is "Date16".

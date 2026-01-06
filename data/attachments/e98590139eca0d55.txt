@@ -1,0 +1,1 @@
+The setting "Show Completed Subtasks" has been successfully updated to enabled.

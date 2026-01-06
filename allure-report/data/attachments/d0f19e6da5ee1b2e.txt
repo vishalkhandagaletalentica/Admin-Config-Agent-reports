@@ -1,1 +1,0 @@
-The setting to prevent MS Project from showing a "not responding" message is currently enabled.

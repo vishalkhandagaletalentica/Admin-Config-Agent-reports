@@ -1,1 +1,0 @@
-The current setting for rounding the duration reduction is "Round to nearest quarter."

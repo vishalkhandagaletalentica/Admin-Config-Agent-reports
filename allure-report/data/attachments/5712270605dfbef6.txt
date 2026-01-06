@@ -1,1 +1,0 @@
-The Actual Output partially addresses the intent of the Input by mentioning 'Display Project Tags,' which aligns with the Expected Output. However, it incorrectly states the title as 'Show Project Labels' instead of acknowledging the correct section name 'Filters to display.' This introduces a factual inaccuracy and does not fully align with the Input's request.

@@ -1,1 +1,0 @@
-The display name for Incl Current Period Detail in the Issue Resolution filter options has been successfully updated to "Include Current Period Details."

@@ -1,1 +1,0 @@
-What is the current scheduling mode for the column headings in the ConWeb views and reports?

@@ -1,0 +1,1 @@
+Done — the Automatically Update %FK Complete Based on Checklist Items setting is now disabled.

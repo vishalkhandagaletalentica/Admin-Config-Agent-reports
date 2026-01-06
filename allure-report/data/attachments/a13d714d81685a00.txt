@@ -1,1 +1,0 @@
-The task color in the filtering pane is set to "Task Color".

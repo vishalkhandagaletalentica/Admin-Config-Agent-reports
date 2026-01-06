@@ -1,1 +1,0 @@
-The current title displayed for the delay of the escalated task in the reports is "Escalation Delay."

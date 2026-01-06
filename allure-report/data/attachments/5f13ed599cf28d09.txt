@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'What is the default number of intervals displayed in the Flow Trend report?'}, {'role': 'assistant', 'content': 'The default number of intervals displayed in the Flow Trend report is 15.'}, {'role': 'user', 'content': 'Set it to 20'}, {'role': 'assistant', 'content': 'The Number of Intervals to Display is already set to 20. No update is needed.'}]

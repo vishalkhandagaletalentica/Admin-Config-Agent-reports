@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Expected Completion Date to "ECD".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Expected Completion Date" entry?'}, {'role': 'user', 'content': 'The section name is "Column Headings."'}, {'role': 'assistant', 'content': 'The column heading "Expected Completion Date" was updated to "ECD".'}]

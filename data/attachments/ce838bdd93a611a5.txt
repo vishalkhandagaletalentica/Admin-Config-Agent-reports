@@ -1,0 +1,1 @@
+The current setting for the period type for purchasing tasks in the Task Management report is Day.

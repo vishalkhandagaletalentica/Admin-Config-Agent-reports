@@ -1,1 +1,0 @@
-What columns are currently hidden in the Throughput drill down report?

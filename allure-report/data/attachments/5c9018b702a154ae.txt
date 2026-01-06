@@ -1,1 +1,0 @@
-The current column heading title for that custom field is "Date30Updated".

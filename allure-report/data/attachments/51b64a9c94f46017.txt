@@ -1,1 +1,0 @@
-The current default sorting order for the Modify Projects feature is by Start Date in descending order.

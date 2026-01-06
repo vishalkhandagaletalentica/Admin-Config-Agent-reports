@@ -1,0 +1,1 @@
+ConWeb reports are set to display 50 rows per page.

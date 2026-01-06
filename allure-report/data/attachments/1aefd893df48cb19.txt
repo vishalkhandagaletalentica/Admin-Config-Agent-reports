@@ -1,1 +1,0 @@
-The current title displayed for the Drum Phase Cycle Time column is "New Drum Phase Cycle Time."

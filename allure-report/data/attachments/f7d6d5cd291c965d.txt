@@ -1,1 +1,0 @@
-The section name is "Calendar" and the entry is "Number of Shifts available in working times."

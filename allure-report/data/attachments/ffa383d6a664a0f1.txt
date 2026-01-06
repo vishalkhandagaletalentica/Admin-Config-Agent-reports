@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Default Start Week (in the past) for Buffer Trend — number of weeks back used by default', 'Max Start Week (in the past) for Buffer Trend — the most distant allowed week to compare'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The option to include completed tasks in the project view is enabled.

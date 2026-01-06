@@ -1,0 +1,1 @@
+I updated Custom Task Text Field 32 to "NewText32" in the Adv. filter in Gantt mapping.

@@ -1,0 +1,1 @@
+Please update the columns hidden in the report to CUSTOM_TASK_TEXT8,TASK_CALENDAR_NAME.

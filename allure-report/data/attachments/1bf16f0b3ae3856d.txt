@@ -1,1 +1,0 @@
-The current title displayed for the Quarters filter in the filtering pane is "Fiscal Quarters."

@@ -1,3 +1,0 @@
-The command to update the configuration setting for "Hidden Fields (Print)" is invalid because the provided value "12345" is not of the expected type. The allowed values should be a comma-separated list of strings corresponding to the hidden fields.
-
-Please provide a valid value that matches the expected format. For example, you can use: "TASK_TYPE,CONSTRAINT_DATE,PROJECT_UNIQUE_ID".

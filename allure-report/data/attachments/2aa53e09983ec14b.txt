@@ -1,1 +1,0 @@
-The Planned option in Project Status is currently disabled.

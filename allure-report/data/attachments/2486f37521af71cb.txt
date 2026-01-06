@@ -1,3 +1,0 @@
-The Project Chain View currently has these columns hidden:
-- Est Rem Dur
-- Enable Auto Document Link

@@ -1,1 +1,0 @@
-The advanced-filter mapping for Task Early Start Date is set to "New Value".

@@ -1,1 +1,0 @@
-{'entryId': 615, 'sectionId': 10, 'flags': 0, 'entryName': 'USER', 'entryFriendlyName': 'User', 'strValue': 'User', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for User in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 112300.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

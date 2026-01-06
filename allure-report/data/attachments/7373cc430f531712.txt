@@ -1,1 +1,0 @@
-The Actual Start Date in the advanced filter is currently mapped to "AS".

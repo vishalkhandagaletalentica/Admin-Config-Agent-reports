@@ -1,1 +1,0 @@
-Under the ConWeb reports section, the Hide Remaining Duration Field is currently enabled.

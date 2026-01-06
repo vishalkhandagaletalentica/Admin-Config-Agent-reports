@@ -1,1 +1,0 @@
-The current default date interval for the Pipeline View report is weekly.

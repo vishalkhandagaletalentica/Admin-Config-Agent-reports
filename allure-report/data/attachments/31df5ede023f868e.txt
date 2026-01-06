@@ -1,1 +1,0 @@
-The filter currently being displayed in the On-Time Delivery report is Milestone Updated.

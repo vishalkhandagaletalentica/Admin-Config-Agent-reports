@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Filter By', 'Filter Changes', 'Name/Description'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+Under "common parameters for planning client", "%Limit for Float Group C" is set to 80.

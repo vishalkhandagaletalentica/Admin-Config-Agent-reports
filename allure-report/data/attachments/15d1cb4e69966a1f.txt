@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the On Hold setting to disabled.'}, {'role': 'assistant', 'content': "Which configuration section contains the 'On Hold' setting you'd like to disable?"}, {'role': 'user', 'content': 'The section name is Buffering page.'}, {'role': 'assistant', 'content': 'Do you mean the "On Hold" entry within the Buffering page section?'}]

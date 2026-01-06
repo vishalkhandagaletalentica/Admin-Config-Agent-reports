@@ -1,0 +1,1 @@
+What is the current status of the temporary table used for storage in the Subtask Excel updates?

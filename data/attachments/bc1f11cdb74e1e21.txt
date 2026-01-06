@@ -1,0 +1,1 @@
+The default sorting order is ascending by FK_CHECKLIST_SEQID.

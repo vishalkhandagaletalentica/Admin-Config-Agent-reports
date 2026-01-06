@@ -1,0 +1,1 @@
+The Actual Output accurately lists the current column order for the Tabular View report, matching the Expected Output in content. While the phrasing differs slightly, it maintains factual correctness and directly addresses the input question. The only minor deduction is due to the lack of a complete sentence structure in the response.

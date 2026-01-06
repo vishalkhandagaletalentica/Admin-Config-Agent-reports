@@ -1,1 +1,0 @@
-The Actual Output partially addresses the intent of the Input by mentioning the filter name and its setting. However, it incorrectly states that the filter is set to 'Exclude Planned Cycle Time,' while the Expected Output clarifies that the current setting is to exclude planned cycle time. This discrepancy affects factual correctness, leading to a deduction in points.

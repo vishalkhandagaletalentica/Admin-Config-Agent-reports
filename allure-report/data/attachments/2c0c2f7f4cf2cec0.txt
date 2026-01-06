@@ -1,1 +1,0 @@
-{'entryId': 178, 'sectionId': 10, 'flags': 0, 'entryName': 'P2PPLANNING_ORIG_TYPE', 'entryFriendlyName': 'Original Link Type', 'strValue': 'Orig Link Type', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2PPLANNING_ORIG_TYPE', 'rangeList': None, 'validationRule': None, 'sequenceId': 103560.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

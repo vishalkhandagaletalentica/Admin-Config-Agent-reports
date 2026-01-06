@@ -1,1 +1,0 @@
-The Task template name was updated from "Name" to "New Name".

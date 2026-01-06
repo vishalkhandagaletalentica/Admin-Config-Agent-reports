@@ -1,1 +1,0 @@
-{'entryId': 1028, 'sectionId': 10, 'flags': 0, 'entryName': 'BY_HELP_NEEDED', 'entryFriendlyName': 'By Help Needed', 'strValue': 'By Help Needed', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'By Help Needed', 'rangeList': None, 'validationRule': None, 'sequenceId': 120560.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

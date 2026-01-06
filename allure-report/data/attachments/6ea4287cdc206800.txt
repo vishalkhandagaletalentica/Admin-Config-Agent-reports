@@ -1,1 +1,0 @@
-{'entryId': 461, 'sectionId': 11, 'flags': 0, 'entryName': 'TASK_MANAGER_TYPE', 'entryFriendlyName': 'Task Role', 'strValue': 'Task Role', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'The display name in Task Mgr report.', 'rangeList': None, 'validationRule': None, 'sequenceId': 119220.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

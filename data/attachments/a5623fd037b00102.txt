@@ -1,0 +1,1 @@
+{'entryId': 144, 'sectionId': 10, 'flags': 0, 'entryName': 'ACTUAL_START_DATE', 'entryFriendlyName': 'Actual Start Date', 'strValue': 'Actual Start Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Actual Start Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 102880.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

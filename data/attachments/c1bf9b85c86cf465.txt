@@ -1,0 +1,1 @@
+The current title set for the 6 Months filter in the reports is 12 Months.

@@ -1,1 +1,0 @@
-The current title displayed for normal issues in the filtering pane is "Not marked as Buffer Recovery."

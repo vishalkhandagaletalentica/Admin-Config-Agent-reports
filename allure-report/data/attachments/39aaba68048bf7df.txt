@@ -1,1 +1,0 @@
-What is the current SMTP server name being used for the Subtask Excel updates?

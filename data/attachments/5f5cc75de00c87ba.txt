@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the current default sorting order for the task checklist items?'}, {'role': 'assistant', 'content': 'The default sort is ascending by Checklist Sequence ID.'}, {'role': 'user', 'content': 'Update this setting to B-CHECKLIST_SEQID'}, {'role': 'assistant', 'content': 'No change needed — the default sort is already set to B-CHECKLIST_SEQID.'}]

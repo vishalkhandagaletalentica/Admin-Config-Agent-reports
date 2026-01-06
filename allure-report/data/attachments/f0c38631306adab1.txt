@@ -1,3 +1,0 @@
-The update command is invalid because the value type for Text3 is set to 2, which indicates it should be a string, not an integer. You need to provide a string value instead of a numeric one. 
-
-Please use a command like this: `update Text3 set value to 'New Column Name'`.

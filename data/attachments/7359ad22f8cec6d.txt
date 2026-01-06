@@ -1,0 +1,1 @@
+{'entryId': 2396, 'sectionId': 143, 'flags': 0, 'entryName': 'INTEGRATION_TASK_TEXT2_COLUMN', 'entryFriendlyName': 'Text2', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name of TEXT2', 'rangeList': None, 'validationRule': None, 'sequenceId': 1477920.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

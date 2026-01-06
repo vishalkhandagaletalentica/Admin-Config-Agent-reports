@@ -1,1 +1,0 @@
-The default subtasks type has been successfully updated to SUBTASK_TYPE_NETWORK.

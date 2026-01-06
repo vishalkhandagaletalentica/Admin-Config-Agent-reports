@@ -1,1 +1,0 @@
-The current title for the Full Kit/Purchasing Task column in the reports is "New Full Kit/Purchasing Task."

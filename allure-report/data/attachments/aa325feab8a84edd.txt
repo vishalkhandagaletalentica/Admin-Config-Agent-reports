@@ -1,1 +1,0 @@
-The current default horizon length set for the system is 1500 days.

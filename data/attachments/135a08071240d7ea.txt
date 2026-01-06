@@ -1,0 +1,1 @@
+The command is invalid because the value 'abcde' is of the wrong type; it should be an integer. The expected type for 'Number of Intervals to Display' is an integer value. Please provide a valid integer within a sensible range. For example, you could use the command: `update configuration set Number of Intervals to Display = 10`.

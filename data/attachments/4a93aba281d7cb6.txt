@@ -1,0 +1,1 @@
+I disabled "Show logged in user selected in the Task Manager Filter" in the Task List section. The filter will no longer auto-select the logged-in user.

@@ -1,0 +1,1 @@
+The Actual Delay report includes 2 months in the past and 2 months in the future from the current month.

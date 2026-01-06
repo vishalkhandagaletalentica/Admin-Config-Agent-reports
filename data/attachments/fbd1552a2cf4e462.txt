@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'BufferManagement', 'entry': 'LockMachineName', 'url': None}

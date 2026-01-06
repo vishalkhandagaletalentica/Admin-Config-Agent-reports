@@ -1,1 +1,0 @@
-The current chain type set for the Project Chain View is RTS_CHAINS.

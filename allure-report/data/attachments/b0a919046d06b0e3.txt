@@ -1,3 +1,0 @@
-The command you provided is invalid because the expected value type for the "Show Project Description" setting is an integer (valueType: 3), but you have supplied a string ("abcde"). Please provide an integer value within the allowed range. 
-
-A correct example command could be: `update_configuration --Show_Project_Description 1` or `update_configuration --Show_Project_Description 0`.

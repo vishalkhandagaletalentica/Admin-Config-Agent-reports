@@ -1,1 +1,0 @@
-The Duration Display Format in Gantt has been successfully updated to 2.

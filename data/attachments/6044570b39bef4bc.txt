@@ -1,0 +1,1 @@
+Text4 column mapping updated from "Unrestricted Usage Qty" to "Restricted Usage Qty".

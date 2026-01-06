@@ -1,1 +1,0 @@
-Under Buffer Diagnostics -> By Help Needed, the "Show Team Members in Task Manager Filter" option is disabled.

@@ -1,1 +1,0 @@
-The current setting for task status in the Task Level Priorities By Resource report includes New and IP.

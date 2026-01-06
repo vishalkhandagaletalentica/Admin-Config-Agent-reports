@@ -1,1 +1,0 @@
-{'entryId': 140, 'sectionId': 10, 'flags': 0, 'entryName': 'PENETRATING_TASK_COMMENTS', 'entryFriendlyName': 'Comments (Penetrating Task)', 'strValue': 'Comments', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Comments', 'rangeList': None, 'validationRule': None, 'sequenceId': 102800.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

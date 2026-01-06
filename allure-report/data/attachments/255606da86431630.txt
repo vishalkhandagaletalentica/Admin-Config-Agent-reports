@@ -1,1 +1,0 @@
-The roll-up duration in the advanced filter mapping is set to "rollupRemainingDuration".

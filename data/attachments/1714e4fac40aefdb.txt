@@ -1,0 +1,1 @@
+Updated the filter display name "Show Hierarchy" to "Display Hierarchy".

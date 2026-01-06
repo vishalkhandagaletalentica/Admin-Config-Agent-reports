@@ -1,1 +1,0 @@
-I'm a Configuration Management Assistant, so I can only help with viewing and updating configuration settings. I can't answer general questions about people or skills. I can help you check configuration values, update them, list available sections, or show entries within a section. Which configuration would you like to work on?

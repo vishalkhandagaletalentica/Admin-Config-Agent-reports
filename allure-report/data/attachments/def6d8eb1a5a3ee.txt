@@ -1,1 +1,0 @@
-The current column name for Task Participants in the task update settings is "Participants".

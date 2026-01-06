@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List -> Task Mgr (Print Preview hidden fields)', 'Task List -> Project Mgr (Print Preview hidden fields)', 'Task List -> Resource Mgr (Print Preview hidden fields)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+I tried to set the Chart Type to LINE_CHART in Metrics -> On‑Time Delivery, but the update failed because you don't have privileges to modify configuration entries. Please request the necessary permissions or ask an administrator to apply this change.

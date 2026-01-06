@@ -1,1 +1,0 @@
-The current filter name for the minimum percentage completion for the release is "Minimum Percentage Completion for Release."

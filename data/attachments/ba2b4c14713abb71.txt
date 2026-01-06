@@ -1,0 +1,1 @@
+Projects are considered stale after 48 hours since the last Buffer Management run.

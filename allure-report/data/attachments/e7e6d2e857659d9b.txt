@@ -1,1 +1,0 @@
-The advanced filter mapping for Resume Date is set to "resumeDate".

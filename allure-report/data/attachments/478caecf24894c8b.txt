@@ -1,1 +1,0 @@
-The current mapping for the Task Name in the advanced filter is "taskName".

@@ -1,1 +1,0 @@
-Please disable the option to show On Time Delivery Rolling Average.

@@ -1,1 +1,0 @@
-The current column title for Project Weight Units is "Project Weight".

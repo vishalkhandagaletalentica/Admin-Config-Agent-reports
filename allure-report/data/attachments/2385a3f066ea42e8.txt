@@ -1,1 +1,0 @@
-Please update the Project Attribute Field For External Project Name to ATTRIBUTE2.

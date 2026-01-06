@@ -1,1 +1,0 @@
-Updated: the default sort for task templates is now set to "Task template last modified time stamp."

@@ -1,0 +1,1 @@
+No, the automatic update for the %FK Complete is not enabled whenever checklist items are changed.

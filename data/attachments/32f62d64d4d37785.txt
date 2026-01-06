@@ -1,0 +1,1 @@
+What is the current filter name for the time interval in the Pipelining report?

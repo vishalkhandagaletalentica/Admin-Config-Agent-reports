@@ -1,1 +1,0 @@
-The current email subject used for the subtask updates is "Notification: Concerto Subtasks Integration for file-".

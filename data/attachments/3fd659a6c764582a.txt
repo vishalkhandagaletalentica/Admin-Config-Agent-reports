@@ -1,0 +1,3 @@
+The command to update "Filters To Display" is invalid because the provided value '12345' is not of the allowed type. This setting expects a multi-list value, which should be one or more of the following: TASKMANAGER, PROJECT, STARTDATE, TASKSTATUS, AUTHOR, CATEGORY, SUBJECT, DIVISION.
+
+A correct example command would be: `set Filters To Display to TASKMANAGER,PROJECT`.

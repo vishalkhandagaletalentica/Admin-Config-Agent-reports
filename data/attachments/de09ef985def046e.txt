@@ -1,0 +1,8 @@
+The filters currently being displayed in the Task Management report are:
+- Horizon
+- Task Status: In Progress
+- Task Manager: Task Manager Pro
+- Project
+- Division
+- Author: Portfolio
+- Task Type

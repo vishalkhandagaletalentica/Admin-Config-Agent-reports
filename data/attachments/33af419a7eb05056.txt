@@ -1,0 +1,7 @@
+The command you provided is invalid because the value you are trying to set, '12345', is not an allowed value for the 'Filters to display' configuration. The expected type is a multi-list of specific options. 
+
+Allowed values include: TASKMANAGER, PROJECT, STARTDATE, AUTHOR, CATEGORY, SUBJECT.
+
+To correct your command, you should specify one or more of the allowed values. For example, you could use:
+
+`update configuration set Filters to display = TASKMANAGER,PROJECT;`

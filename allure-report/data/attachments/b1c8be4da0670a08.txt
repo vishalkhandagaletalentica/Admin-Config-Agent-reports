@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_TASKLIST_BATCHPRINT', 'entry': 'INCLUDE_IN_RPT_TASKS', 'url': None}

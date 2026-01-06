@@ -1,0 +1,1 @@
+{'entryId': 1871, 'sectionId': 10, 'flags': 0, 'entryName': 'DELTA_CT', 'entryFriendlyName': 'Delta CT', 'strValue': 'Delta CT', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Delta CT.', 'rangeList': None, 'validationRule': None, 'sequenceId': 137420.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

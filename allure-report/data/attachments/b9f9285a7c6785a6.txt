@@ -1,1 +1,0 @@
-The ColorPriority4 setting has been updated from "H" to "12345".

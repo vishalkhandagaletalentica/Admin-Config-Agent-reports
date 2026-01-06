@@ -1,1 +1,0 @@
-Updated the display name for Help Needed Created By to "Submitted By."

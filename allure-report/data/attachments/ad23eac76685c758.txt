@@ -1,1 +1,0 @@
-The default Print Preview font size for the Full Kit Report is Medium.

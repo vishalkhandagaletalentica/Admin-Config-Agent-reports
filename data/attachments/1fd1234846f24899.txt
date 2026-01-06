@@ -1,0 +1,1 @@
+I couldn't enable Task Update History because your account doesn't have permission to update configurations. Please contact an administrator or use an account with the required privileges and try again.

@@ -1,1 +1,0 @@
-The Gantt advanced filter mapping for "Late Start" is currently set to "Late Start".

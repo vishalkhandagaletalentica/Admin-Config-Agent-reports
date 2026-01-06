@@ -1,1 +1,0 @@
-Please update the display name for Subtask Status in Filters to "New Subtask Status".

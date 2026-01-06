@@ -1,1 +1,0 @@
-{'entryId': 1346, 'sectionId': 80, 'flags': 0, 'entryName': 'CCCB_FIXED', 'entryFriendlyName': None, 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 0, 'itemDesc': None, 'rangeList': '$RANGE:0,99999', 'validationRule': None, 'sequenceId': 889600.0, 'groupOrMerge': '$MERGE:CCCB_PERCENT', 'attributeFlag': 0.0, 'attrBack': None}

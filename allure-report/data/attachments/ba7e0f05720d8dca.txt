@@ -1,1 +1,0 @@
-The current setting for the searchable text columns related to the MSP Task ID is MSP_TASK_ID.

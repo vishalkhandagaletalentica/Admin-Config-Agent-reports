@@ -1,0 +1,1 @@
+The advanced password validation rule (no numeric first/last character, must include a number, and enforce minimum length) is currently disabled.

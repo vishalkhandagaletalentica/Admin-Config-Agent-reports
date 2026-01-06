@@ -1,0 +1,1 @@
+{'entryId': 261, 'sectionId': 16, 'flags': 0, 'entryName': 'CHART', 'entryFriendlyName': 'Include Chart', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Show Project Status Chart in Project Status Report', 'rangeList': None, 'validationRule': None, 'sequenceId': 165220.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

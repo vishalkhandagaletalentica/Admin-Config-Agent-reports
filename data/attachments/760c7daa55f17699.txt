@@ -1,0 +1,1 @@
+The Column Order for the Buffer Diagnostics → Pen Chains report is not currently set.

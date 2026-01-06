@@ -1,1 +1,0 @@
-No — the Rem Dur Decrease advanced filter for IP tasks is currently disabled in the Escalated Tasks report.

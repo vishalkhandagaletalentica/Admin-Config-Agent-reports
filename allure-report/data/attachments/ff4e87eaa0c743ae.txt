@@ -1,1 +1,0 @@
-20 rows are set to display per page in the Edit Project Info feature.

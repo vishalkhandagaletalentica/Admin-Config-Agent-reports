@@ -1,1 +1,0 @@
-{'entryId': 962, 'sectionId': 55, 'flags': 0, 'entryName': 'BREAKDOWN_BY_PROJECT', 'entryFriendlyName': 'Projects', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Breakdown Tasks by Projects', 'rangeList': None, 'validationRule': None, 'sequenceId': 569240.0, 'groupOrMerge': '$GROUP:BREAKDOWN_BY', 'attributeFlag': 0.0, 'attrBack': ''}

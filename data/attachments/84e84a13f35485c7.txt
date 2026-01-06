@@ -1,0 +1,7 @@
+The following columns are currently hidden in the Red Project Delay drill down report:
+- Last BM Date
+- Last Update
+- NewUID
+- [insert new value here] (Title)
+- Pipeline Priority
+- Division

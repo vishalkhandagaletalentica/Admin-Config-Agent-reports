@@ -1,1 +1,0 @@
-{'entryId': 214, 'sectionId': 11, 'flags': 0, 'entryName': 'COMPLETED', 'entryFriendlyName': 'Completed', 'strValue': 'Completed', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'COMPLETED', 'rangeList': None, 'validationRule': None, 'sequenceId': 114280.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

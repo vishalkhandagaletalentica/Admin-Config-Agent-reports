@@ -1,1 +1,0 @@
-Updated the hidden fields for the Subtask List report to the requested columns.

@@ -1,1 +1,0 @@
-The "Include Project Details" setting in Project Mgr -> Project Status has been disabled.

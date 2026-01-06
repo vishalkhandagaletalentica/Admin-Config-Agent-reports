@@ -1,0 +1,1 @@
+Report Duration Display Format updated from 4 to 2.

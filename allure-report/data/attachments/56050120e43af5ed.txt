@@ -1,1 +1,0 @@
-Chain Type has been updated to SUCCESSOR_CHAINS.

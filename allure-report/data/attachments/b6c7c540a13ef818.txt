@@ -1,1 +1,0 @@
-{'entryId': 1668, 'sectionId': 93, 'flags': 0, 'entryName': 'HIDDEN_FIELDS', 'entryFriendlyName': 'Hidden Fields', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Specifies the columns hidden in checklist.', 'rangeList': '$MULTILIST:', 'validationRule': None, 'sequenceId': 963360.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,1 +1,0 @@
-The title shown is “Rolling Average Period”.

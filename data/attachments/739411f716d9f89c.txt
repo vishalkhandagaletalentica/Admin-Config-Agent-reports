@@ -1,0 +1,1 @@
+No change needed — the display name is already set to "Include in Summary" in the Task Details section.

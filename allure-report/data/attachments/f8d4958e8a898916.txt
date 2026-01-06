@@ -1,1 +1,0 @@
-What is the current SMTP server name for bulk imports?

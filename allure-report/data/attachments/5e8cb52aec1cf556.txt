@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List → Task Mgr (applies to Task Mgr)', 'Task List → Project Mgr (applies to Project Mgr)', 'Project Mgr → Project Chain View / Project Penetrating Chain'], 'value': None, 'section': None, 'entry': None, 'url': None}

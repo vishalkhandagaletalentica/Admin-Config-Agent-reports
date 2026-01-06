@@ -1,0 +1,1 @@
+Understood — the Sort Order entry controls the default sorting order for Task Level Priorities By Project.

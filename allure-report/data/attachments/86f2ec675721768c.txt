@@ -1,1 +1,0 @@
-Can you show me if the subprojects are set to be displayed in the Project Control view?

@@ -1,1 +1,0 @@
-The columns hidden in the Print Preview for the Pipeline View report are TREND INDICATOR, MILESTONE DESC, PROJECT STATUS, DELAY IN DAY AND HOUR, and PROJECT TITLE.

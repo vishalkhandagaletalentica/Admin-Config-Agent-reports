@@ -1,1 +1,0 @@
-The current title used in the Task Status filter dropdown is NS, IP, CO, NEW.

@@ -1,0 +1,1 @@
+Updated. The Subtask Manager name in the filter is now set to "New Subtask Manager".

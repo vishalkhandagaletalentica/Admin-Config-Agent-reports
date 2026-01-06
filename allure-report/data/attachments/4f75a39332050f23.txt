@@ -1,1 +1,0 @@
-No — the option to display Actual Delay is currently disabled.

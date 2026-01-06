@@ -1,1 +1,0 @@
-The Custom Task Date Field 16 mapping in the Advanced Filter is set to "Date16."

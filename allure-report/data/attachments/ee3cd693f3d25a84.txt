@@ -1,1 +1,0 @@
-The current default date interval selection for the trend chart is Weekly.

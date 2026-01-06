@@ -1,0 +1,1 @@
+No update needed. The hidden fields in Print Preview for "Tasks Delayed By Help Needed" already include: MSP_TASK_ID, NO_DELAY_DURATION, NO_DELAY_START, NO_DELAY_COMPL, RESOURCE_NOTES, COMMENTS, CCCB_PENETRATION, CMSB_PENETRATION, CCFB_PENETRATION, DAYS_OPEN.

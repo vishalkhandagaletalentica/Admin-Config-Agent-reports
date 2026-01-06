@@ -1,1 +1,0 @@
-The Min Task Escalated Duration (in Days) is already set to "Escalated". No update is needed.

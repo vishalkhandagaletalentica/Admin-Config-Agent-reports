@@ -1,1 +1,0 @@
-Please update the Default Subtask View to Subtask Detail View.

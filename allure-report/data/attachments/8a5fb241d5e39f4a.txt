@@ -1,1 +1,0 @@
-The display name for Enable Subtasks in Column Headers has been successfully updated to "Subtasks Enabled".

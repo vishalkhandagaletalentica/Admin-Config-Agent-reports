@@ -1,0 +1,1 @@
+The scheduling bucket size is set to Monthly.

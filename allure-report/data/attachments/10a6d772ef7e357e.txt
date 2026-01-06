@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_P2P_PEN_CHAIN', 'entry': 'COLUMN_ORDER', 'url': None}

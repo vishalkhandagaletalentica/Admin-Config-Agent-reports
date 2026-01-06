@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it conveys that the SMTP server name for bulk imports is not set, which aligns with the Expected Output's indication that it is not specified. The response directly addresses the intent of the Input question, providing a relevant answer. The slight difference in wording does not detract from its correctness.

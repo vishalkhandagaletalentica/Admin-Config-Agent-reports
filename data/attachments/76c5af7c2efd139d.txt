@@ -1,0 +1,1 @@
+{'entryId': 1273, 'sectionId': 10, 'flags': 0, 'entryName': 'CHECKLIST_DATE2', 'entryFriendlyName': 'Date2', 'strValue': 'Date2', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name for Date2 in Task Checklist', 'rangeList': None, 'validationRule': None, 'sequenceId': 125460.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

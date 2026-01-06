@@ -1,1 +1,0 @@
-The Pipelining report is currently displaying these filters: Author → Portfolio, Category → New Product Code, Subject → Customer, Attribute1 → Design Team Needed.

@@ -1,0 +1,1 @@
+I found the "Validate Calendars before BM" setting under Buffer Management and it is currently enabled. I still cannot apply the change because you do not have privileges to update configurations. Would you like instructions for who can make this change or to prepare the exact request you can send to an admin?

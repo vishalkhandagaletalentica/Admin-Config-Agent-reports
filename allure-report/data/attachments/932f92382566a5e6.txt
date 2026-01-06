@@ -1,1 +1,0 @@
-What is the current value for the rollup duration reduction during buffer management?

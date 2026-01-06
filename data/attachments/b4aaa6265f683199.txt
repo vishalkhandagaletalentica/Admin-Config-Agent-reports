@@ -1,0 +1,1 @@
+Comments are searchable — current value: COMMENTS.

@@ -1,0 +1,1 @@
+Yes, the option to display the Custom Line in the On-Time Delivery report is currently enabled.

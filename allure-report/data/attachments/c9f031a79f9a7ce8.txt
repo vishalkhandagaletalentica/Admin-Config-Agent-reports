@@ -1,1 +1,0 @@
-I couldn't apply that column order because the system rejected it: No column definition was found for this report's column list format. Could you provide a different column order value or ask me to show the current column order first?

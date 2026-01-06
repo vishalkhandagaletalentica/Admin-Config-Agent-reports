@@ -1,1 +1,0 @@
-What is the current setting for displaying the virtual option in the column headings?

@@ -1,1 +1,0 @@
-The "Show Rolling Average" filter name in the Cycle Time report has been updated to "Average Cycle Time".

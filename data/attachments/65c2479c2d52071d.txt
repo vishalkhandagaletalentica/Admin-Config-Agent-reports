@@ -1,0 +1,1 @@
+update configuration set Include On Hold Projects to 'maybe'

@@ -1,1 +1,0 @@
-The current filter name set for the Time Interval in the On-Time Delivery report is Monthly.

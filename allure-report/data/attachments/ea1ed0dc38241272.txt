@@ -1,1 +1,0 @@
-{'entryId': 988, 'sectionId': 10, 'flags': 1, 'entryName': 'ATTRIBUTE2', 'entryFriendlyName': 'Project Attribute 5', 'strValue': 'Delayed Completion', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Attribute 5', 'rangeList': None, 'validationRule': None, 'sequenceId': 119760.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

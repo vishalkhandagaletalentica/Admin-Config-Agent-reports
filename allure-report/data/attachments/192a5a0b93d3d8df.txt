@@ -1,1 +1,0 @@
-The warning for resource group discrepancies during project commits is currently disabled.

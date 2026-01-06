@@ -1,0 +1,1 @@
+Under Column Headings, the item "Subtask type Sequential" is set to Sequential.

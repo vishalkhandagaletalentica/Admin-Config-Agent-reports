@@ -1,0 +1,1 @@
+update configuration set Text3 = 12345

@@ -1,1 +1,0 @@
-Please enable the setting to not allow Full Kit successor task updates before the release of Full Kit.

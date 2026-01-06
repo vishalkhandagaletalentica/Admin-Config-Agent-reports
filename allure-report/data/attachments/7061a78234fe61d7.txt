@@ -1,1 +1,0 @@
-The auto rollup resource feature is currently disabled.

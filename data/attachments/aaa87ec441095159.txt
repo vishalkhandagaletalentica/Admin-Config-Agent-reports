@@ -1,0 +1,6 @@
+The command you provided to update "Column Order" to a numeric value (12345) is invalid because the expected data type for this setting is a string representing a comma-separated list of key-value pairs or similar formats. 
+
+You should provide values as a list rather than a single number. 
+
+A correct example command would be:  
+`update Column Order to DIVISION -> Division,AUTHOR -> Portfolio,CATEGORY -> Updated Product Code;`

@@ -1,1 +1,0 @@
-The option to allow multiple users to collaborate in Gantt has been successfully enabled.

@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'RULES_AND_RESULTS', 'entry': 'START_OF_WEEK', 'url': None}

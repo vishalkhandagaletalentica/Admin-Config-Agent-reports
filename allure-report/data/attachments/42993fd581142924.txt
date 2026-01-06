@@ -1,1 +1,0 @@
-I attempted to update the Hidden Fields (Print) for Task Level Priorities By Resource but encountered an issue: the system could not find column definitions needed to validate the new list, so the update was not applied. Would you like me to (1) save the raw list anyway, (2) show the current column definitions so you can adjust the list, or (3) cancel this update?

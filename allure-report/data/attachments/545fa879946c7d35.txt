@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr → Edit Attributes — Hidden Fields (Commit/Edit Report)', 'Common, Checklist → Task Custom Text Fields — Hidden Fields (Checklist)', 'Common, Checklist → Full Kit Task Custom Text Fields — Hidden Fields (Full Kit Checklist)'], 'value': None, 'section': None, 'entry': None, 'url': None}

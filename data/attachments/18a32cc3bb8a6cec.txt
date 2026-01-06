@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_INTEGRATION_SUBTASK', 'entry': 'INTEGRATION_SUBTASK_SUBTASKPARTICIPANTS_COLUMN', 'url': None}

@@ -1,1 +1,0 @@
-The filter name for past periods data was updated to "Previous".

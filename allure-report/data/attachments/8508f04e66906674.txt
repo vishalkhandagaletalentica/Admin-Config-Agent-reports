@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Common → Filter Names — TM Task WIP Count for Purchasing Tasks (display/title string)', 'Metrics → Task Mgt — TM Task WIP Count for Purchasing Tasks (numeric task WIP count)'], 'value': None, 'section': None, 'entry': None, 'url': None}

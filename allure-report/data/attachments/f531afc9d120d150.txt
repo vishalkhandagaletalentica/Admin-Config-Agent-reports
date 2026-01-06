@@ -1,1 +1,0 @@
-I disabled the setting “Show Users And Teams From All Divisions In Assign Participants Dialog” in Task List -> Common. It was enabled and is now disabled.

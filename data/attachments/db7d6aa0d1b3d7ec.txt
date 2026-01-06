@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Application -> Concerto Critical Chain (force zero duration for all Internal Milestones)', 'Task List -> Common (restrict IMS tasks to zero duration in Tasklist/Chain view)'], 'value': None, 'section': None, 'entry': None, 'url': None}

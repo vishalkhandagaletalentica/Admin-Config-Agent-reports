@@ -1,1 +1,0 @@
-{'entryId': 2440, 'sectionId': 10, 'flags': 0, 'entryName': 'CC_ONLY', 'entryFriendlyName': 'Classical CC', 'strValue': 'Classical CC', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'CC settings : Scheduling mode - cc only', 'rangeList': None, 'validationRule': None, 'sequenceId': 148800.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

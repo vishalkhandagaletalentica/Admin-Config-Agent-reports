@@ -1,1 +1,0 @@
-The filter name shown for Data is "NewData".

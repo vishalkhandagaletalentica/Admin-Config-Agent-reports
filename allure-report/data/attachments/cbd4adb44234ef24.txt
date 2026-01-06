@@ -1,1 +1,0 @@
-The current title displayed for the Work Card Description column is "Updated Work Card Description."

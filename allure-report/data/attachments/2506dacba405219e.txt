@@ -1,1 +1,0 @@
-The correct section name is "Program Mgr," and the item description refers to "Filters available to be displayed in the report."

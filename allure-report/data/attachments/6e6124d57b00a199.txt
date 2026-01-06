@@ -1,1 +1,0 @@
-The Task Manager filtering pane title is "New Task Manager Filter".

@@ -1,1 +1,0 @@
-The Actual Output accurately reflects the Expected Output by correctly stating the mapping for the task float in the advanced filter for the Gantt chart as 'TF'. It directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information.

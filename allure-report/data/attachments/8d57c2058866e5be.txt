@@ -1,1 +1,0 @@
-The current title displayed for the Response column in the reports is "Response (d)".

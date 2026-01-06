@@ -1,3 +1,0 @@
-The default sort order is:
-- FULLKIT_DATE — ascending
-- PERCENT_FK_COMPLETE — ascending

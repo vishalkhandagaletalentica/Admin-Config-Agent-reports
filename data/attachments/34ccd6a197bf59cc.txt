@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the current display name for the average days escalated. It matches the Expected Output in meaning, even though the phrasing is slightly different. There are no incorrect facts or unrelated entries introduced.

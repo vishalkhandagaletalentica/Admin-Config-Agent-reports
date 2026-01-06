@@ -1,1 +1,0 @@
-That setting is a text field, not an on/off toggle. "Enabling" it means giving it a non-empty text value. Its current value is "New Zone" — since it's already set, it is effectively enabled. To change (or enable) it, tell me the exact text you want stored and I will apply the update.

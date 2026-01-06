@@ -1,1 +1,0 @@
-The Show Completed Bucket setting for Subtask View has been successfully updated to disabled.

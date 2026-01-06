@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_SAP_INTEGRATION_COMMON', 'entry': 'UPDATE_PT_EXP_COMPL_DATE', 'url': None}

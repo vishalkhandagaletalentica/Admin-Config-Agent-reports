@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'WORK_CARD_INFORMATION', 'entry': 'DATE_RANGE', 'url': None}

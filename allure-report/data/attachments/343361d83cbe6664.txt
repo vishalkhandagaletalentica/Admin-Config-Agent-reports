@@ -1,1 +1,0 @@
-{'entryId': 105, 'sectionId': 10, 'flags': 0, 'entryName': 'RESOURCE_MANAGER_ID', 'entryFriendlyName': 'Resource Manager', 'strValue': 'Resource Mgr', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Resource Mgr', 'rangeList': None, 'validationRule': None, 'sequenceId': 102100.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

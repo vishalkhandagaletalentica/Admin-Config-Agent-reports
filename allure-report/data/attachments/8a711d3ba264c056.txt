@@ -1,1 +1,0 @@
-The setting for "Automatically Load Resource L:C Report" has been successfully updated to disabled.

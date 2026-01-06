@@ -1,1 +1,0 @@
-{'entryId': 1868, 'sectionId': 10, 'flags': 0, 'entryName': 'BASE', 'entryFriendlyName': 'Base', 'strValue': 'Base', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Base.', 'rangeList': None, 'validationRule': None, 'sequenceId': 137360.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

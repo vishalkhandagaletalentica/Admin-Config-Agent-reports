@@ -1,0 +1,1 @@
+The custom text field used for the external task name in the Earned Hours Report is currently set to: Custom Task Text 1

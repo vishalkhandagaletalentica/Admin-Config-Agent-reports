@@ -1,0 +1,1 @@
+The current default sorting order for the Exclude Projects page is: Project Name (ascending), Buffer Penetration (descending), Delta CT (descending).

@@ -1,0 +1,2 @@
+The following column is hidden in Print Preview for Work Card Information:
+- Disable Auto Document Link

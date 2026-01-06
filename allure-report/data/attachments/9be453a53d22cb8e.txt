@@ -1,1 +1,0 @@
-The current title for the Predecessor Task Unique ID column is "New Predecessor UID."

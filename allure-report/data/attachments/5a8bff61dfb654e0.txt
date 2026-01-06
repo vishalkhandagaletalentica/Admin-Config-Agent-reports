@@ -1,1 +1,0 @@
-The Apply Buffers option is currently disabled.

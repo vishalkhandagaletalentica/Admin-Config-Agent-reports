@@ -1,1 +1,0 @@
-{'entryId': 930, 'sectionId': 52, 'flags': 0, 'entryName': 'REGULAR', 'entryFriendlyName': 'In Process', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Specifies if In Process projects should be displayed.', 'rangeList': '', 'validationRule': None, 'sequenceId': 538600.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

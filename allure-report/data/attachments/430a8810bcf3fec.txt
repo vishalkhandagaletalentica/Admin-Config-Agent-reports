@@ -1,1 +1,0 @@
-The Task Float title in the Gantt view is "New Float Value".

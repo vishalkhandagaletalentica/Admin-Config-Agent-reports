@@ -1,1 +1,0 @@
-The Sort Order has been updated from "A-DATE_CREATED,A-BUFFER_TARGET_DATE" to "12345".

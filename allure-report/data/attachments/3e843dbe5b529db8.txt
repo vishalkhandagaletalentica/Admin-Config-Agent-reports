@@ -1,1 +1,0 @@
-{'entryId': 91, 'sectionId': 9, 'flags': 0, 'entryName': 'COLOR_CC_TASKS', 'entryFriendlyName': 'Highlight Critical Chain Tasks', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Color and italicize Critical Chain tasks.', 'rangeList': None, 'validationRule': None, 'sequenceId': 91820.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

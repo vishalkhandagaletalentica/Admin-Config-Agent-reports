@@ -1,1 +1,0 @@
-The display name for tasks in the filtering pane is "New Tasks".

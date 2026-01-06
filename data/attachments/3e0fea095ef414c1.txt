@@ -1,0 +1,1 @@
+Yes, completed Action Items are included in the Project Status report.

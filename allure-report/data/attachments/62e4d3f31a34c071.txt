@@ -1,1 +1,0 @@
-The current default sorting order for the Full Kit task checklist items is 12345.

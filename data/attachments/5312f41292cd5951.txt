@@ -1,0 +1,1 @@
+The column name for TEXT1 used by the Task Excel is currently not set.

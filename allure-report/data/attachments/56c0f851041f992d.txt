@@ -1,1 +1,0 @@
-Please update the configuration setting to CUSTOM_TASK_TEXT5.

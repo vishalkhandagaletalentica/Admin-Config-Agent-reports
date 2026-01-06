@@ -1,0 +1,1 @@
+The current value set for the number of days that determines the priority levels for activities is 15 days.

@@ -1,1 +1,0 @@
-The current buffer penetration level that turns the zone red when the chain is not complete is 15.

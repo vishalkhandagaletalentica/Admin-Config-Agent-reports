@@ -1,1 +1,0 @@
-The display name for the commit date is "Revision Date".

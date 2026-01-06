@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it matches the Expected Output in meaning, stating that the display name for the file type filter is 'Document Type.' It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names — Subtask Manager (for Subtask)', 'Integration -> Subtask — SubtaskManager (integration column)'], 'value': None, 'section': None, 'entry': None, 'url': None}

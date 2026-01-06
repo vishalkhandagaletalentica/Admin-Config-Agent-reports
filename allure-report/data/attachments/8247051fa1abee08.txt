@@ -1,1 +1,0 @@
-The current title displayed for the average delay of escalated red tasks in the reports is "Esc Red Task Delay Avg (d)".

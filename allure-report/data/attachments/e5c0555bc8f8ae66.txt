@@ -1,1 +1,0 @@
-The current title displayed for the Tasks Updated/Total Tasks column in the reports is "Updated Tasks/Total Tasks."

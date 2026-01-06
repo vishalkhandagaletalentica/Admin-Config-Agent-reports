@@ -1,0 +1,1 @@
+The current filter name for showing the full path for all chains is enabled.

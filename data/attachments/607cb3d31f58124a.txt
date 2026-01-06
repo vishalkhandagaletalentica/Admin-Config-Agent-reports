@@ -1,0 +1,1 @@
+The Description mapping for the Checklist Integration is set to "New Description".

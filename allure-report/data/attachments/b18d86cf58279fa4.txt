@@ -1,1 +1,0 @@
-The current display name for the team in the column headers is Team Alpha.

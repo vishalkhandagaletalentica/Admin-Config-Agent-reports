@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Create overload in forward resource-leveling based on (Planning Client -> Common)', 'No Overload (Common -> Column Names)'], 'value': None, 'section': None, 'entry': None, 'url': None}

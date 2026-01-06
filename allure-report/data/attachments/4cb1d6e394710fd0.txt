@@ -1,3 +1,0 @@
-The command to update the Sort Order is invalid because the value '12345' is not within the allowed range of sortable options. The expected type is a string that corresponds to one of the sortable list values. 
-
-Please provide a valid sorting order value from the allowed sortable list. For example, you could use a command like: `update Sort Order to B-PROJECT_NAME`.

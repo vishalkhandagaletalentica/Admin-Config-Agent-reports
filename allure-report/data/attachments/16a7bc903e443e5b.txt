@@ -1,1 +1,0 @@
-Please update the Load Breakdown Filter Name for the Resource Portal in Html to "Load Breakdown Updated".

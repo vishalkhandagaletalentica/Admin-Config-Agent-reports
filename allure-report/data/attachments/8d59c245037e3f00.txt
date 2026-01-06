@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr -> Project Status — Show Project Labels', 'Executive -> Project Status — Show Project Labels'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by stating that resource leveling is currently disabled. While the phrasing differs slightly from the Expected Output, it conveys the same factual meaning. The response is relevant and does not introduce incorrect facts or assumptions.

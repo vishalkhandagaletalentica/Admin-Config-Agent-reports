@@ -1,0 +1,3 @@
+The command is invalid because the value 'maybe' is not an accepted type for the setting 'Display Past Data', which requires an integer value (valueType: 3). The allowed values are typically 0 or 1, where 0 might represent 'false' and 1 represents 'true'. 
+
+Please use a command like: `set Display Past Data to 1` to enable displaying past data or `set Display Past Data to 0` to disable it.

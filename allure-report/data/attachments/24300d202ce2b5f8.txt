@@ -1,1 +1,0 @@
-Please update the default sorting order to Planned Date.

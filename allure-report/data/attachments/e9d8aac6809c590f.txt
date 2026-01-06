@@ -1,1 +1,0 @@
-The report is currently displaying these filters: Resource Manager, Start Date, In Progress.

@@ -1,1 +1,0 @@
-The Show Project Description option in the WIP Report is now disabled.

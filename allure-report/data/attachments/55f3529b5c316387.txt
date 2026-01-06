@@ -1,1 +1,0 @@
-Project Review Interval is now set to 30 days.

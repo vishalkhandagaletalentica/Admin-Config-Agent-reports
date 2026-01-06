@@ -1,0 +1,1 @@
+I couldn't apply the update to Scheduling bucket size (Weekly) because you don't have privileges to update configurations. Please ask an administrator to grant update rights or let me know if you'd like me to prepare a change request or try again after permissions are granted.

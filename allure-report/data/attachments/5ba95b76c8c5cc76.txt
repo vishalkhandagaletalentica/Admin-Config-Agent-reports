@@ -1,1 +1,0 @@
-The current filter name for the Period Type is "Period Type".

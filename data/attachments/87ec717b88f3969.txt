@@ -1,0 +1,3 @@
+The command to set the "Projected Date based on Required Buffer" to 'abcde' is invalid because it requires an integer value (valueType: 3). The allowed values are typically 0 or 1. 
+
+Please provide a valid integer value, such as 1 to enable the calculation based on the required buffer. The correct command would be: `set Projected Date based on Required Buffer to 1`.

@@ -1,1 +1,0 @@
-{'entryId': 1880, 'sectionId': 11, 'flags': 0, 'entryName': 'PROJECT_ROLE', 'entryFriendlyName': 'Project Role', 'strValue': 'Project Role', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Role', 'rangeList': None, 'validationRule': None, 'sequenceId': 147600.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

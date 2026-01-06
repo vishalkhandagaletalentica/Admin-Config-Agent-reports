@@ -1,1 +1,0 @@
-I updated the Advanced filter mapping for Custom Task Date Field 25 from 'Date25' to 'Date26'.

@@ -1,0 +1,1 @@
+The number of periods currently set for calculating the rolling average in the throughput report is 10.

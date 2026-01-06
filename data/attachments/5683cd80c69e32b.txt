@@ -1,0 +1,1 @@
+The option to include a link to the task list in the project status report is disabled.

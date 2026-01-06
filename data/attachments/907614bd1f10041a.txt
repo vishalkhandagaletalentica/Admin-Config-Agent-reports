@@ -1,0 +1,1 @@
+{'entryId': 2773, 'sectionId': 124, 'flags': 1, 'entryName': 'GROUP_C_MIN_FLOAT', 'entryFriendlyName': 'Float Group C', 'strValue': None, 'floatValue': None, 'intValue': 41, 'valueType': 0, 'itemDesc': 'Min and max value for Float Group C.', 'rangeList': None, 'validationRule': None, 'sequenceId': 1295460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

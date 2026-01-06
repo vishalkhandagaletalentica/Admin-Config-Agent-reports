@@ -1,6 +1,0 @@
-The command to update the "Task mgr parameter name" is invalid because the value provided (12345) is of the wrong type; it should be a string, not an integer. The expected type for this parameter is a string. 
-
-Please use a valid string value, such as "task_manager_v4" or "task_manager_v5". 
-
-A correct command would be:  
-`update configuration setting for "Task mgr parameter name" to "task_manager_v4"`

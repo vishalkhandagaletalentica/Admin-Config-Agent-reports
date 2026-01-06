@@ -1,0 +1,1 @@
+The Actual Output lists several text columns, but it does not match the Expected Output, which specifies 'Project Mgr' as the current setting. This indicates a factual inaccuracy. Additionally, while the response addresses the intent of the question about searchable text columns, it fails to provide the specific information requested, leading to a partial answer.

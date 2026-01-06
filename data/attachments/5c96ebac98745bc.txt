@@ -1,0 +1,1 @@
+The Sort Order in Executive -> Full Kit And Purchasing Delays is now set to "12345".

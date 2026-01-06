@@ -1,1 +1,0 @@
-The Activity Priority Code is already set to APC. No update is needed.

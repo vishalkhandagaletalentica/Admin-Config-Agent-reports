@@ -1,1 +1,0 @@
-The Change in Milestone Penetration (in Days) Threshold has been updated from 4 to 5.

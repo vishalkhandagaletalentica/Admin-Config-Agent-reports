@@ -1,1 +1,0 @@
-The Duration column heading has been updated from "Buffer Consumption" to "New Buffer Consumption."

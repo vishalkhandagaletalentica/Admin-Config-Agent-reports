@@ -1,1 +1,0 @@
-{'entryId': 1625, 'sectionId': 10, 'flags': 0, 'entryName': 'CL_DELAY', 'entryFriendlyName': 'Checklist Delay', 'strValue': 'Checklist Delay (d)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Checklist Delay.', 'rangeList': None, 'validationRule': None, 'sequenceId': 132500.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

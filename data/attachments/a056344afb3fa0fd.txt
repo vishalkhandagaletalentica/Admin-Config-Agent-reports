@@ -1,0 +1,1 @@
+The option to load non-base calendars data for scheduling is currently enabled.

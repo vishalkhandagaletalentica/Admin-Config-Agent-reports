@@ -1,0 +1,1 @@
+{'entryId': 991, 'sectionId': 10, 'flags': 1, 'entryName': 'ATTRIBUTE5', 'entryFriendlyName': 'Project Attribute 8', 'strValue': 'SalesForce Number', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Attribute 8', 'rangeList': None, 'validationRule': None, 'sequenceId': 119820.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

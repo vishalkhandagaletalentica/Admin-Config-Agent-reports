@@ -1,1 +1,0 @@
-Completed projects are currently not being displayed on the Exclude Projects page.

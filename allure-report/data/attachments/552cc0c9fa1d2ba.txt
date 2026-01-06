@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the filter name as 'End of Previous Period,' which aligns with the Expected Output. However, it fails to explicitly state that this is the current filter name for the 'End of Last Period,' which is a key detail in the Expected Output. This omission partially addresses the intent of the Input question, leading to a deduction in points.

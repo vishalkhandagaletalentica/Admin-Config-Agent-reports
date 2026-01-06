@@ -1,1 +1,0 @@
-Show Team Members in Full Kit Task Manager Filter under Metrics → Full Kit Compliance has been enabled.

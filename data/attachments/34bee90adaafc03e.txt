@@ -1,0 +1,1 @@
+The default sorting order for Resource Requirement Charts (Sort Order (Group by project)) is A-PROJECT_NAME,D-PRIORITY_LEVEL_PENETRATION,A-PRIORITY_LEVEL.

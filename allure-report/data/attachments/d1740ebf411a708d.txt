@@ -1,1 +1,0 @@
-The current directory where files are stored after integration is "Processed Data."

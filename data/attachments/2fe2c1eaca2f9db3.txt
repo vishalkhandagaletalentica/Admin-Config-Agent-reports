@@ -1,0 +1,4 @@
+The command you provided is invalid because the value '12345' is of the wrong type. The expected type for 'Automatic Link Description' is a string. 
+
+Please use a valid string value. For example, you can use:  
+`update Automatic Link Description set value to 'New Description'`

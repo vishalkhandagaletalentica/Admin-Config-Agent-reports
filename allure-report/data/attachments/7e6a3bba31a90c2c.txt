@@ -1,1 +1,0 @@
-The Subtask Manager ID in Task List was updated from "Subtask Task Mgr" to "New Subtask Task Mgr".

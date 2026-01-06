@@ -1,1 +1,0 @@
-The display issue type was updated from "Issue Type" to "New Issue Type".

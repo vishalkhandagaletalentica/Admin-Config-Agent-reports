@@ -1,1 +1,0 @@
-The Show WIP Chart setting is now enabled by default.

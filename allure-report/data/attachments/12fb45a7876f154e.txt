@@ -1,4 +1,0 @@
-The default sorting order is:
-- Actual Delay — descending
-- MS Name — ascending
-- Project Name — ascending

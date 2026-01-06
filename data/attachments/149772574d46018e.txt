@@ -1,0 +1,1 @@
+ColorPriority0 in Buffer Priorities was updated from R to G.

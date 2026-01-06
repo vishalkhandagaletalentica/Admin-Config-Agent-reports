@@ -1,1 +1,0 @@
-The current value for the buffer penetration that triggers the red color for the DBR when the chain is complete is 75.

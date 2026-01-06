@@ -1,0 +1,1 @@
+{'entryId': 1189, 'sectionId': 11, 'flags': 0, 'entryName': 'PERIODS', 'entryFriendlyName': 'Periods', 'strValue': 'Periods', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Periods portion of Display Past x Periods.', 'rangeList': None, 'validationRule': None, 'sequenceId': 133780.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,1 +1,0 @@
-The Actual Output lists specific searchable text columns, which is somewhat relevant to the Input, but it does not directly address the intent of checking the current text columns for searching tasks as indicated in the Expected Output. Additionally, the response lacks context about the Task Manager ID mentioned in the Expected Output, leading to a partial answer.

@@ -1,0 +1,1 @@
+The current setting for displaying issue types in the filtering pane is "New Issue Type".

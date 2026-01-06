@@ -1,1 +1,0 @@
-{'entryId': 193, 'sectionId': 10, 'flags': 0, 'entryName': 'MANAGER', 'entryFriendlyName': 'Manager', 'strValue': 'Manager', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Manager', 'rangeList': None, 'validationRule': None, 'sequenceId': 103860.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

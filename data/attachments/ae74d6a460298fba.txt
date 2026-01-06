@@ -1,0 +1,1 @@
+{'entryId': 2801, 'sectionId': 146, 'flags': 0, 'entryName': 'PHASE', 'entryFriendlyName': 'Phase', 'strValue': 'Phase', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Phase', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

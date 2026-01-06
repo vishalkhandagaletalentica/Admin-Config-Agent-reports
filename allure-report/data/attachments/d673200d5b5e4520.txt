@@ -1,1 +1,0 @@
-The filter value for the Line chart is "Line 1".

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Delay (Actual Delay Report) — Common -> Column Names (column title)', 'Delay (Actual Delay Report) — Common -> Column Names (weighted header)', 'Show Actual Delay — Executive -> Project Status (enable/disable)', 'Compare With — Gate Reports (date to compare delay against)'], 'value': None, 'section': None, 'entry': None, 'url': None}

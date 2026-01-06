@@ -1,1 +1,0 @@
-The current custom text field set to display in the detail view is: Custom Text Field 2.

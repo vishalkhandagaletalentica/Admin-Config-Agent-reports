@@ -1,0 +1,3 @@
+The command is invalid because the value '12345' is not an allowed option. The expected value type is either 'RELATIVE' or 'ABSOLUTE'. Please use one of these allowed values. 
+
+For example, a correct command would be: `update configuration setting to ABSOLUTE`.

@@ -1,1 +1,0 @@
-The current title displayed for the Task Early Finish Date in the reports is "Late Finish."

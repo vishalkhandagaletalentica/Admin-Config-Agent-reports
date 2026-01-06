@@ -1,1 +1,0 @@
-I've disabled displaying subprojects in the Pipelining report; subprojects are now hidden.

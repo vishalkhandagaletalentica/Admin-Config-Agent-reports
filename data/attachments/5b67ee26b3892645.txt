@@ -1,0 +1,1 @@
+{'entryId': 2119, 'sectionId': 11, 'flags': 0, 'entryName': '12MONTHS', 'entryFriendlyName': '12 Months', 'strValue': '12 Months', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': '12 Months', 'rangeList': None, 'validationRule': None, 'sequenceId': 152380.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

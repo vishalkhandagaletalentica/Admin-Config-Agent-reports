@@ -1,3 +1,0 @@
-The command is invalid because the value 'abcde' is not an integer, which is required for the 'Days' configuration setting. The expected type is an integer within the range of 0 to 9999. 
-
-Please provide a valid integer value, for example: `update configuration set Days = 30`.

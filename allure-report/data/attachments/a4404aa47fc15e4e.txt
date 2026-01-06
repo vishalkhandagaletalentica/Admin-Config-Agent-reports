@@ -1,1 +1,0 @@
-The yellow threshold for CCFB when chain complete is 0% is 33.

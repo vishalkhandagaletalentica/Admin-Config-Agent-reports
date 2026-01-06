@@ -1,1 +1,0 @@
-The current default setting for the performance period type in the program manager is Quarterly.

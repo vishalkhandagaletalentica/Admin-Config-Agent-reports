@@ -1,1 +1,0 @@
-The column name for Text4 in the Full Kit Task Checklist has been successfully updated to 'Text4 Updated'.

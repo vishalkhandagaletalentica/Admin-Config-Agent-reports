@@ -1,1 +1,0 @@
-Please update the number of tasks displayed in the widget to 15.

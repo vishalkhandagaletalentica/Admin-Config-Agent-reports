@@ -1,0 +1,16 @@
+Hidden columns in the Executive -> Queues Drilldown report:
+- Project Manager
+- UID123
+- New Start Date
+- % Project Buffer Consumption
+- % MB Cnsm`d
+- Text1
+- RZ Reference
+- Expected Enhancements
+- Hours Remaining
+- CUSTOM_TASK_TEXT5
+- QA Check
+- Technician
+- New Zone
+- Job Status
+- Route Key

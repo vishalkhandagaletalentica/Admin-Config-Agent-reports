@@ -1,1 +1,0 @@
-The Auto Rollup Resource setting is set to "New Auto Rollup Resource" — that is a string value and does not clearly indicate enabled or disabled.

@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question regarding the visibility of columns in the Pipelining drill down report. While the phrasing differs slightly from the Expected Output, it conveys the same factual meaning. There are no incorrect facts or unrelated entries introduced, and the response maintains a professional tone.

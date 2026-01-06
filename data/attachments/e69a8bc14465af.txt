@@ -1,0 +1,6 @@
+Which 'Hidden Fields' entry should I update —
+
+1) Task Mgr -> Task List -> Subtasks — Hidden Fields
+2) Task Mgr -> Subtask List — Hidden Fields
+
+Please reply with 1 or 2.

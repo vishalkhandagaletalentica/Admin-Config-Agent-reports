@@ -1,0 +1,1 @@
+In Full Kit Mgr -> Full Kit Report, "Show Managers Only in Full Kit Mgr Filter" is disabled.

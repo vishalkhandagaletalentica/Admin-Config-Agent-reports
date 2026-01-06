@@ -1,0 +1,1 @@
+I checked the "project status cancel filter in Set Status dropdown" — it is already set to "Cancelled". No update is needed.

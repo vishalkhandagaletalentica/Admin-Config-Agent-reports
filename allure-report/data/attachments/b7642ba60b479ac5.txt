@@ -1,1 +1,0 @@
-{'entryId': 166, 'sectionId': 10, 'flags': 0, 'entryName': 'P2PADD_FINISH_DT', 'entryFriendlyName': 'Finish Date', 'strValue': 'Finish Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2PADD_FINISH_DT', 'rangeList': None, 'validationRule': None, 'sequenceId': 103320.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

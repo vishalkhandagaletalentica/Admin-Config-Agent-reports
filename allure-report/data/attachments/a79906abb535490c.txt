@@ -1,1 +1,0 @@
-Auto-saving revisions on schedule is currently enabled.

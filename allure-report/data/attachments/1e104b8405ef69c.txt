@@ -1,1 +1,0 @@
-Renamed the column heading "Help Needed Tasks Count" to "Auto Escalated Tasks Count."

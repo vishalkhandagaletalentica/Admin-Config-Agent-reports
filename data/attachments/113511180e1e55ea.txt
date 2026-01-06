@@ -1,0 +1,1 @@
+The 'Past Days (%)' column heading is currently set to: Past Days (%).

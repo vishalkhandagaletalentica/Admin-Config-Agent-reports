@@ -1,0 +1,1 @@
+The Sort Order must reference valid sortable column tokens (strings). Use one or more column tokens separated by commas. Examples of valid tokens you can use: PROJECT_NAME, PROJECT_STATUS, PLANNED_DATE, PROJECTED_DATE, PROJECT_MANAGER_DISPLAYNAME, PRIORITY_LEVEL. Which token(s) would you like to set as the Sort Order?

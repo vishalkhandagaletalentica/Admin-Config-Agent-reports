@@ -1,1 +1,0 @@
-Attribute Type has been updated from "Type" to "Select Items or User Input".

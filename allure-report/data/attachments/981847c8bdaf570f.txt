@@ -1,1 +1,0 @@
-{'entryId': 218, 'sectionId': 11, 'flags': 0, 'entryName': 'LATEONLY', 'entryFriendlyName': 'Late Only', 'strValue': 'Late Arrival', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'LATEONLY', 'rangeList': None, 'validationRule': None, 'sequenceId': 114360.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

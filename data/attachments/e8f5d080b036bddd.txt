@@ -1,0 +1,1 @@
+I enabled inclusion of On Hold projects in both reports View Resource L:C and View Tasks By Resource.

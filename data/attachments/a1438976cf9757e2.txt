@@ -1,0 +1,1 @@
+The Actual Output lists several columns that are claimed to be hidden in the Print Preview, but it includes incorrect entries and omits some from the Expected Output. While it addresses the intent of the Input question, the discrepancies in the column names and the presence of additional incorrect columns lead to a partial alignment with the factual correctness requirement.

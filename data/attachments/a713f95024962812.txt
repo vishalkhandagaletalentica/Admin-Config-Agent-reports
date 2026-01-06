@@ -1,0 +1,1 @@
+I couldn't disable "Show On Time Delivery Rolling Average" — it is currently enabled and the update failed because you don't have privileges to change configurations. Please grant update privileges or ask an administrator to apply this change.

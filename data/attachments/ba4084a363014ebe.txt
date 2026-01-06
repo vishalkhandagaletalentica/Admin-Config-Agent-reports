@@ -1,0 +1,1 @@
+The “Sort By Priority Fields Within Windows Of” setting in Project Mgr → Task Level Priorities By Task Mgr was updated from 1 to 5.

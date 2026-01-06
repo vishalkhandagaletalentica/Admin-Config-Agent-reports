@@ -1,0 +1,3 @@
+The command is invalid because the value type for 'Subprojects' is set to 3, which indicates that it requires an integer value. The provided value 'abcde' is a string and not a valid integer. 
+
+Please provide an integer value instead. For example, you could use the command: `update Subprojects set value = 2`.

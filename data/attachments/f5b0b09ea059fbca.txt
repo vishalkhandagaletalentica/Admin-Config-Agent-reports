@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Full Kit Mgr → Full Kit Report (Print Preview font size)', 'Project Mgr → Full Kit Report (Print Preview font size)'], 'value': None, 'section': None, 'entry': None, 'url': None}

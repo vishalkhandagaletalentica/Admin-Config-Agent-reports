@@ -1,1 +1,0 @@
-{'entryId': 2124, 'sectionId': 11, 'flags': 0, 'entryName': '7DAY', 'entryFriendlyName': '7 days', 'strValue': '7 days', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': '7 days', 'rangeList': None, 'validationRule': None, 'sequenceId': 152480.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

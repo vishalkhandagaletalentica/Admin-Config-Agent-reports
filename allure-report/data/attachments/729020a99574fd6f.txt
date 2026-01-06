@@ -1,1 +1,0 @@
-{'entryId': 116, 'sectionId': 10, 'flags': 0, 'entryName': 'COMMENTS', 'entryFriendlyName': 'Comments', 'strValue': 'Comments Updated', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Comments', 'rangeList': None, 'validationRule': None, 'sequenceId': 102320.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

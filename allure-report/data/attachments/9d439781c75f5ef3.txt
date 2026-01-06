@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Chain View / Hidden Fields (Print) — Columns hidden in Print Preview', 'Task List → Subtasks / Hidden Fields (Print) — Columns hidden in Print Preview', 'Task Level Priorities By Resource / Hidden Fields (Print) — Columns hidden in Print Preview'], 'value': None, 'section': None, 'entry': None, 'url': None}

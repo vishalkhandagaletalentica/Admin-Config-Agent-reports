@@ -1,1 +1,0 @@
-ColorPriority3 in Buffer Priorities is set to N.

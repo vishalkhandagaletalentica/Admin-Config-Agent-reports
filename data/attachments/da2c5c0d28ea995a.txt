@@ -1,0 +1,1 @@
+What is the current title displayed for the Projected Delay of chain in the Chain View Summary?

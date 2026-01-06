@@ -1,1 +1,0 @@
-Please update the column name to be displayed in the project attribute management screen to "Project Exclusiveness Validation".

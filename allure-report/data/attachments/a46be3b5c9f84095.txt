@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the term 'Due Date Tolerance' but fails to provide the expected numeric percentage, which is crucial for factual correctness. It partially addresses the intent of the Input by acknowledging the term but does not fulfill the requirement of stating the percentage, leading to a significant deduction.

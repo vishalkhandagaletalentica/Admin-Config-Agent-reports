@@ -1,1 +1,0 @@
-The Actual Output accurately reflects the Expected Output by confirming the title displayed for the Alternate Resource Manager. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

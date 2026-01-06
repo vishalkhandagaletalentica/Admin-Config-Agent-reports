@@ -1,1 +1,0 @@
-Updated the Email Body to "Your request has been successfully completed. Attached are the relevant documents."

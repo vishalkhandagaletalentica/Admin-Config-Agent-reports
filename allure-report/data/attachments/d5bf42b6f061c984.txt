@@ -1,1 +1,0 @@
-The Sort Order for the Pipelining drill down report was updated from "D-PROJECT_REPORT_STATUS,D-A-PERCENT_CHAIN_COMPLETE,A-PROJECT_NAME" to "12345".

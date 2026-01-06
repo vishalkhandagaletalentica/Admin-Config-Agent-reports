@@ -1,1 +1,0 @@
-The “Sort By Priority Fields Within Windows Of” setting in Task List is already set to 10. No update is needed.

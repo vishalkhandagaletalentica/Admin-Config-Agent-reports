@@ -1,1 +1,0 @@
-The Due Date Tolerance is set to "Due Date Tolerance" — this entry is a string and does not contain a numeric percentage.

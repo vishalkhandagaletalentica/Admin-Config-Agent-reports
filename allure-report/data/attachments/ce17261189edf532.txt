@@ -1,1 +1,0 @@
-The Auto Rollup Duration (Column Headings) is set to "New Auto RU Dur" — this is a string, not a boolean flag, so it is not clearly enabled or disabled.

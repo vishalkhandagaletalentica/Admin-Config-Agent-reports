@@ -1,1 +1,0 @@
-The currently hidden columns in the report for action items are BY WHO, BUFFER TARGET DATE, DATE CREATED, and RESOLVED DATE.

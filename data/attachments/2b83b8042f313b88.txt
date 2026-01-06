@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names — Task Date 19 (column heading title)', 'Planning Client -> Adv. Filter Field Mapping — Task Date 19 (advance filter mapping)'], 'value': None, 'section': None, 'entry': None, 'url': None}

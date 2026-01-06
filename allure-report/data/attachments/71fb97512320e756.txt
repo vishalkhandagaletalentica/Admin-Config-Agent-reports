@@ -1,1 +1,0 @@
-ColorPriority1 is already set to G. No update is needed.

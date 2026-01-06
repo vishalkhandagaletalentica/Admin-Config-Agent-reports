@@ -1,1 +1,0 @@
-The column name for users who have opened the network for editing has been successfully updated to "Editors Network".

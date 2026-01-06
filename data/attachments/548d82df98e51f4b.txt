@@ -1,0 +1,1 @@
+The Resource Name is mapped to the column "RESCODE".

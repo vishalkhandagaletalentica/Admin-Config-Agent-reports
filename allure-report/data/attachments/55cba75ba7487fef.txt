@@ -1,1 +1,0 @@
-The sender address for subtask update emails is "Support" <support@realization.com>.

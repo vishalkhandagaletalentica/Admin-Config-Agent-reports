@@ -1,0 +1,6 @@
+Filters currently hidden in the report:
+- Designers Required
+- Project Attribute 5
+- Project Attribute 6
+- Project Attribute 7
+- Project Attribute 8

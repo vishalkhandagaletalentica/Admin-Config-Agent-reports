@@ -1,1 +1,0 @@
-The current display name shown in the filtering pane is "Name".

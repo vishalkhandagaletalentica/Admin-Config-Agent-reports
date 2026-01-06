@@ -1,1 +1,0 @@
-The "Medium" filter name in the Filtering pane is already set to "medium". No update is needed.

@@ -1,1 +1,0 @@
-I couldn't find a configuration entry matching 'Yellow activity min/max days'. Could you provide the section name and entry name, or describe the setting differently (for example, the 'Float Priorities' section or the entry 'Normalized Total Float Range for Yellow')?

@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_CONTROL_ACTIONITEM', 'entry': 'INCLUDE_PROJECTLEVEL_ACTIONITEMS', 'url': None}

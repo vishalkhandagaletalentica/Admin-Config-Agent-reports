@@ -1,1 +1,0 @@
-The current setting for whether comments can be searched by users is "COMMENTS."

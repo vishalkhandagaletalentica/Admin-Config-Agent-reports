@@ -1,1 +1,0 @@
-The Rows per page setting has been updated from 50 to 75.

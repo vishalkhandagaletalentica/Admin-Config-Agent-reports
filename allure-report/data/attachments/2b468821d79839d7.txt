@@ -1,1 +1,0 @@
-The current mapping for Task Date 23 (Custom Task Date Field) in the advanced filter is "54321".

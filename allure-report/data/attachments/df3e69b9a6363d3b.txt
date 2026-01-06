@@ -1,1 +1,0 @@
-The current title for the Max % MB Cnsm column in the reports is "Max % MB Cnsm."

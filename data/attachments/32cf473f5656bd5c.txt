@@ -1,0 +1,9 @@
+The command to update the "Date Format" is invalid because the provided value "12345" is not an allowed type. The expected type for this setting is a string, specifically either "American" or "European". 
+
+Please use a valid value such as: 
+
+`update configuration setting "Date Format" to "American"` 
+
+or 
+
+`update configuration setting "Date Format" to "European"`

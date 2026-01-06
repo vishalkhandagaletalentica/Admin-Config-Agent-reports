@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Common (applies to Task List feature for Project Mgt, Resource Mgt and Task Mgt)', 'Project Mgr/Resource Mgr -> Escalated Tasks (applies to Escalated Tasks report)', 'Buffer Diagnostics -> By Help Needed (applies to "By Help Needed" report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

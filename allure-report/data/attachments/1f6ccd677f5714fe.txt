@@ -1,1 +1,0 @@
-The setting for "ERROR-0190:CMS Names in project should match CMS names associated with the phases" has been successfully updated to disable error display during the add or check in of the project.

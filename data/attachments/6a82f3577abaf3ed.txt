@@ -1,0 +1,1 @@
+The "Show logged in user selected in the Task Manager Filter" option in Project Mgr -> Task Level Priorities By Task Mgr is now enabled (the logged-in user will be automatically selected).

@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_MODIFY_PROJECTS', 'entry': 'PRINT_FONT_SIZE', 'url': None}

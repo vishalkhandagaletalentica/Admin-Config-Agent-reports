@@ -1,1 +1,0 @@
-The current appearance setting for the first custom subtask text field is 67890.

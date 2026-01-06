@@ -1,0 +1,3 @@
+The command is invalid because the value for "Email Subject" must be a string, not an integer. The expected type is a string. Please provide a valid string value for the update. 
+
+For example, you could use: `update configuration setting "Email Subject" to "New Update Notification"`

@@ -1,0 +1,1 @@
+The Queue Trend Interval is currently 12 weeks. I will update it to 8 weeks.

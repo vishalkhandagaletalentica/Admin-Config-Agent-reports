@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Subtask Manager — the filter title used across views', 'Filters to display — which filters are shown in the Task Manager', 'Filters available — which filters can be shown in the Task Manager'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Planning Client -> Table View CC mode (Column Preset 3 Name)', 'Planning Client -> Table View Float mode (Column Preset 3 Name)', 'Planning Client -> Table View CC mode (alternate) (Column Preset 3 Name)'], 'value': None, 'section': None, 'entry': None, 'url': None}

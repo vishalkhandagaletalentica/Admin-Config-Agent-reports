@@ -1,1 +1,0 @@
-The option to save auto-saved project revisions during planning is turned off.

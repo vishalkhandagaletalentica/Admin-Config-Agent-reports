@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'update Automatic Link Description set value to 12345'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Automatic Link Description” entry?'}, {'role': 'user', 'content': 'The section name is "Task Document Links."'}, {'role': 'assistant', 'content': 'Automatic Link Description updated from "Bing" to "12345".'}]

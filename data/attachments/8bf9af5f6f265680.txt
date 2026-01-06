@@ -1,0 +1,1 @@
+{'entryId': 2409, 'sectionId': 143, 'flags': 0, 'entryName': 'INTEGRATION_TASK_EMAIL_TO', 'entryFriendlyName': 'Email To', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Email to', 'rangeList': None, 'validationRule': None, 'sequenceId': 1478180.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,0 +1,1 @@
+The Actual Output correctly conveys the factual information that the setting for showing only managers in the Project Control filter is enabled, aligning with the Expected Output. However, it slightly deviates from the specific phrasing of 'Project Mgr Filter' by using 'Project Control filter,' which could lead to minor confusion regarding the exact terminology used in the Input.

@@ -1,1 +1,0 @@
-The current filter name for Compute Delay Using is "Compute Delay Using."

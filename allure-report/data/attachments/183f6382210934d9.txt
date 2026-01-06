@@ -1,1 +1,0 @@
-No — displaying the average for the current period in the Issue Resolution report is disabled.

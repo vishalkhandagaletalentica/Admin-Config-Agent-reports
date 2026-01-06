@@ -1,1 +1,0 @@
-{'entryId': 1863, 'sectionId': 10, 'flags': 0, 'entryName': 'CHECKLIST_INDICATOR', 'entryFriendlyName': 'CheckList', 'strValue': 'CheckList', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name CheckList indicator', 'rangeList': None, 'validationRule': None, 'sequenceId': 137260.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

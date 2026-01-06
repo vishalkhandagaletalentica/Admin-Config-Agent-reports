@@ -1,0 +1,1 @@
+{'entryId': 1813, 'sectionId': 11, 'flags': 0, 'entryName': 'STATUS', 'entryFriendlyName': 'Status (Task Status)', 'strValue': 'Task Status', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Status in Task List.', 'rangeList': None, 'validationRule': None, 'sequenceId': 146260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

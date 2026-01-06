@@ -1,0 +1,1 @@
+The chart option is included in the filtering pane as "Include Graph."

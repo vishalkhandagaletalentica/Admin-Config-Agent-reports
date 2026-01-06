@@ -1,1 +1,0 @@
-{'entryId': 2389, 'sectionId': 143, 'flags': 0, 'entryName': 'INTEGRATION_TASK_TASKID_COLUMN', 'entryFriendlyName': 'TaskId', 'strValue': 'NewTaskId', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name of TaskId', 'rangeList': None, 'validationRule': None, 'sequenceId': 1477780.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

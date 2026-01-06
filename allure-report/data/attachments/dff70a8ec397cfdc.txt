@@ -1,1 +1,0 @@
-The current title being used for the End of Yesterday filter in the reports is "Yesterday's End."

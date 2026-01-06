@@ -1,0 +1,1 @@
+The Actual Output accurately reflects the factual content of the Expected Output by confirming that the Shortage Quantity column is mapped to 'Shortage Quantity'. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions, maintaining a professional tone.

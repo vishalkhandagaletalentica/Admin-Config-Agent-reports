@@ -1,0 +1,1 @@
+The current column mapping for Text9 when importing a CSV or Excel file in the Planning client is set to Ascending.

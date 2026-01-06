@@ -1,1 +1,0 @@
-The setting for Include Cancelled Projects has been successfully updated to disabled.

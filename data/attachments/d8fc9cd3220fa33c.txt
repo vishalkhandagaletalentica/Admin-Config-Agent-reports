@@ -1,0 +1,12 @@
+Current filters available to display in the Issue Resolution report:
+- Task Manager Pro
+- Project
+- Portfolio
+- New Product Code
+- Customer
+- Task Type
+- Design Team Needed
+- Project Attribute 5
+- Project Attribute 6
+- New Project Attribute Value
+- [insert new value here]

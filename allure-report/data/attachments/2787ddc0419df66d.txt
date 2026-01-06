@@ -1,1 +1,0 @@
-The current threshold for the total number of tasks with durations of less than a specified number of days is 10 Days.

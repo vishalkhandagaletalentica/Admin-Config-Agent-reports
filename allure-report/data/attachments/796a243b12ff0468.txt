@@ -1,1 +1,0 @@
-The current title being used for the Checklist Item Close Date in the reports is "Checklist Item Close Date."

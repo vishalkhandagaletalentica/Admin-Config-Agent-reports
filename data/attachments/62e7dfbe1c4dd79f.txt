@@ -1,0 +1,3 @@
+The command is invalid because the value 12345 is not of the correct type. The allowed values for the "value" field are restricted to the following: CUSTOM_DATE1, CUSTOM_DATE2, or PLANNED_DATE. 
+
+Please use one of the allowed values. For example, you can update the command to: `update Hidden Fields set value to CUSTOM_DATE2`.

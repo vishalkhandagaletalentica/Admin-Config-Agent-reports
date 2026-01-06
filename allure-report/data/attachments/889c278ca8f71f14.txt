@@ -1,1 +1,0 @@
-The filter "End of Bucket" in the filtering pane is currently set to "End of Bucket Updated."

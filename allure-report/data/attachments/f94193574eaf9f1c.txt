@@ -1,1 +1,0 @@
-The Task Custom Text Field for External Task is set to CUSTOM_TASK_TEXT3.

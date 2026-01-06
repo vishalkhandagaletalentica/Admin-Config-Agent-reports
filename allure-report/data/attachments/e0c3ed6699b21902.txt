@@ -1,1 +1,0 @@
-The Default Rolling Average Period is already set to 10 periods. No update is needed.

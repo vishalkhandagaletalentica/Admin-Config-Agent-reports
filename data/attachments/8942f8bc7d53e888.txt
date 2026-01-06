@@ -1,0 +1,89 @@
+Here are the Advanced Filter field mapping entries for the Gantt chart (Planning Client -> Adv. Filter Field Mapping):
+- Actual Dur(sh)
+- Actual Finish
+- Actual Start
+- Task Date 11  (Custom Task Date Field)
+- Task Date 12  (Custom Task Date Field)
+- Task Date 13  (Custom Task Date Field)
+- Task Date 14  (Custom Task Date Field)
+- Task Date 15  (Custom Task Date Field)
+- Task Date 16  (Custom Task Date Field)
+- Task Date 17  (Custom Task Date Field)
+- Task Date 18  (Custom Task Date Field)
+- Task Date 19  (Custom Task Date Field)
+- Task Date 20  (Custom Task Date Field)
+- Task Date 21  (Custom Task Date Field)
+- Task Date 22  (Custom Task Date Field)
+- Task Date 23  (Custom Task Date Field)
+- Task Date 24  (Custom Task Date Field)
+- Task Date 25  (Custom Task Date Field)
+- Task Date 26  (Custom Task Date Field)
+- Task Date 27  (Custom Task Date Field)
+- Task Date 28  (Custom Task Date Field)
+- Task Date 29  (Custom Task Date Field)
+- Task Date 30  (Custom Task Date Field)
+- Task Number 11  (Custom Task Number Field)
+- Task Number 12  (Custom Task Number Field)
+- Task Number 13  (Custom Task Number Field)
+- Task Number 14  (Custom Task Number Field)
+- Task Number 15  (Custom Task Number Field)
+- Task Number 16  (Custom Task Number Field)
+- Task Number 17  (Custom Task Number Field)
+- Task Number 18  (Custom Task Number Field)
+- Task Number 19  (Custom Task Number Field)
+- Task Number 20  (Custom Task Number Field)
+- Task Number 21  (Custom Task Number Field)
+- Task Number 22  (Custom Task Number Field)
+- Task Number 23  (Custom Task Number Field)
+- Task Number 24  (Custom Task Number Field)
+- Task Number 25  (Custom Task Number Field)
+- Task Number 26  (Custom Task Number Field)
+- Task Number 27  (Custom Task Number Field)
+- Task Number 28  (Custom Task Number Field)
+- Task Number 29  (Custom Task Number Field)
+- Task Number 30  (Custom Task Number Field)
+- Text 1
+- Text 2
+- Text 3
+- Text 4
+- Text 5
+- Text 6
+- Text 7
+- Text 8
+- Text 9
+- Text 10
+- Task Text 31 through Task Text 80 (various custom task text fields)
+- Debuf Chain Len
+- Early Finish
+- Early Start
+- Finish
+- Float(sh)
+- Late Finish
+- Late Start
+- Leveled Early Finish
+- Leveled Early Start
+- Leveled Float
+- LOE Progress Type
+- Normalized Float(sh)
+- Predecessors
+- Successors
+- Plan Finish
+- Phase
+- Predecessor UIDs
+- Priority Normalized Float(sh)
+- Rem Dur(sh)
+- Participants
+- Resume Date
+- Rollup Dur(sh)
+- SNET Date
+- Start
+- Stop Date
+- Successor UIDs
+- Task Calendar Name
+- Duration(sh)
+- Task Manager
+- Resources
+- Status
+- Task Type
+- Task
+- UID

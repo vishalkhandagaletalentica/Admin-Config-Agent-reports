@@ -1,1 +1,0 @@
-The current title displayed for the concerto division filter in the Import Teams interface is "Concerto Division."

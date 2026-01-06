@@ -1,1 +1,0 @@
-Show Cycle Time is now disabled.

@@ -1,1 +1,0 @@
-{'entryId': 570, 'sectionId': 11, 'flags': 0, 'entryName': 'MILESTONE', 'entryFriendlyName': 'Milestone', 'strValue': 'Milestone', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Milestone in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121400.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-The current setting for including planned cycle time in the filter options is to exclude planned cycle time.

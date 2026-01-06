@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RULES_AND_RESULTS', 'entry': 'FISCAL_YEAR_START', 'url': None}

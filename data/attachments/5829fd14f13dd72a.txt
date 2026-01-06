@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Buffer Consumption — column title (Common -> Column Names)', 'Delta Buff Cnsmd (NS) — Task buffer consumption in days (Common -> Column Names)', 'Rollup Reduction — buffer duration reduction (Buffer Management)'], 'value': None, 'section': None, 'entry': None, 'url': None}

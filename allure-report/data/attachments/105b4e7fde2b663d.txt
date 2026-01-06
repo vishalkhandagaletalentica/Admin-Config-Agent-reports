@@ -1,1 +1,0 @@
-The filter name is "Red/Yellow/Other".

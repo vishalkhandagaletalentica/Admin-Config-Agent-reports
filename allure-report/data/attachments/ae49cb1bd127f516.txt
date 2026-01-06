@@ -1,1 +1,0 @@
-The option to update the status for purchasing tasks is enabled.

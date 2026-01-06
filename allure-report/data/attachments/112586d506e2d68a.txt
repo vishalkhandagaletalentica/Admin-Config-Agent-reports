@@ -1,1 +1,0 @@
-The Supportable column heading has been updated from "Supportable" to "Not Supportable".

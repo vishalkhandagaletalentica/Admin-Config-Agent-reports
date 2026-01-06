@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List -> Task Mgr', 'Task List -> Resource Mgr', 'Task List -> Project Mgr'], 'value': None, 'section': None, 'entry': None, 'url': None}

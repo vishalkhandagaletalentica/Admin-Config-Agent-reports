@@ -1,1 +1,0 @@
-{'entryId': 961, 'sectionId': 55, 'flags': 0, 'entryName': 'BREAKDOWN_BY', 'entryFriendlyName': 'Breakdown By', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 0, 'itemDesc': 'Breakdown Task List with the following criteria', 'rangeList': None, 'validationRule': None, 'sequenceId': 569220.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

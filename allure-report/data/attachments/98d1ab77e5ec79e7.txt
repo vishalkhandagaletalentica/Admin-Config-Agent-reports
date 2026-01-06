@@ -1,1 +1,0 @@
-{'entryId': 1547, 'sectionId': 87, 'flags': 0, 'entryName': 'TASK_UPDT_ROWS_PER_PAGE', 'entryFriendlyName': 'Rows Per Page', 'strValue': None, 'floatValue': None, 'intValue': 50, 'valueType': 0, 'itemDesc': 'Rows per page', 'rangeList': '$RANGE:1,99999', 'validationRule': None, 'sequenceId': 900940.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

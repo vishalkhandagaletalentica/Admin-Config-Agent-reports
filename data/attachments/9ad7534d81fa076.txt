@@ -1,0 +1,1 @@
+The display name for Today has been updated to "Current Day".

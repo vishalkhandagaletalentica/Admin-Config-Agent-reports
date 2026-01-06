@@ -1,1 +1,0 @@
-Updated: the filter "End of Last Month" is now "End of Previous Month".

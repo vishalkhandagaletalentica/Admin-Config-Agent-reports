@@ -1,1 +1,0 @@
-The current title displayed for the Help Needed details in the reports is "Updated details regarding the help needed."

@@ -1,0 +1,1 @@
+The current column name for Subtask resources in Excel is "SubTaskResourceName".

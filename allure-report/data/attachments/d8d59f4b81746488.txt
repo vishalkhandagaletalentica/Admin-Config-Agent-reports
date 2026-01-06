@@ -1,1 +1,0 @@
-{'entryId': 990, 'sectionId': 10, 'flags': 1, 'entryName': 'ATTRIBUTE4', 'entryFriendlyName': 'Project Attribute 7', 'strValue': 'Sale Order Number', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Attribute 7', 'rangeList': None, 'validationRule': None, 'sequenceId': 119800.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

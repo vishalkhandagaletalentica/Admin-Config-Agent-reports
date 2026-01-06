@@ -1,0 +1,1 @@
+{'entryId': 359, 'sectionId': 17, 'flags': 0, 'entryName': 'COLUMN_ORDER', 'entryFriendlyName': 'Column Order', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column order in the report', 'rangeList': '$MULTILIST:', 'validationRule': None, 'sequenceId': 177180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

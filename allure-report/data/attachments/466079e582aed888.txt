@@ -1,1 +1,0 @@
-{'type': 'success', 'selectable_values': None, 'value': {'old': 'Comparison', 'new': 'DUE_DATE'}, 'section': 'SGD_FILTER_NAMES', 'entry': 'COMPARE_WITH', 'url': None}

@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it accurately states the title displayed for the Old Due Date column, matching the Expected Output in meaning. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions. The slight difference in punctuation does not affect the factual correctness.

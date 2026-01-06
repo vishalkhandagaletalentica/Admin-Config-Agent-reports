@@ -1,1 +1,0 @@
-What is the current filter name used for the "Compare With" option in the performance report?

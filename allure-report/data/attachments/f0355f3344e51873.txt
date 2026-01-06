@@ -1,1 +1,0 @@
-The Task Custom Text field for trace as Milestone has been successfully updated to "MILESTONE".

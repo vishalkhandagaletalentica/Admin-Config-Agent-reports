@@ -1,1 +1,0 @@
-The current setting for the appearance of the custom task text field 7 is enabled.

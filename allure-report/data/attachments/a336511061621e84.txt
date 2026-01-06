@@ -1,1 +1,0 @@
-The current title displayed for the finish date in the reports is "Finish Date."

@@ -1,1 +1,0 @@
-The error that blocked commits when a project's Resource has a different group than the Global Resource File has been disabled.

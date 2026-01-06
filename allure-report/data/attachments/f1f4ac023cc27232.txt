@@ -1,1 +1,0 @@
-The current title for the Additional Required Buffer column is: "Addl. Req. Buffer (d)".

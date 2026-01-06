@@ -1,1 +1,0 @@
-The current mapping for the Text3 field in the Checklist Integration is "PO No.".

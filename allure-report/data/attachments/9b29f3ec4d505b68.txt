@@ -1,1 +1,0 @@
-The currently hidden column in the Print Preview for the Work Card Information report is ENABLE_AUTO_DOC_LINK.

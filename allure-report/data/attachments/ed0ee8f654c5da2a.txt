@@ -1,1 +1,0 @@
-The Group By display name in Filters was updated from "Group By" to "Group By Updated".

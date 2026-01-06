@@ -1,0 +1,1 @@
+The current default Program Performance Period Type is Quarterly.

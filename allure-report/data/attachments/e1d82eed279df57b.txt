@@ -1,1 +1,0 @@
-The display name for the Batch Print List Filter has been successfully updated to "New Batch Print List Filter".

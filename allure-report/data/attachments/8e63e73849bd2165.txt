@@ -1,1 +1,0 @@
-The current title displayed for the Task Desc in the Gantt view is "[insert new value here]".

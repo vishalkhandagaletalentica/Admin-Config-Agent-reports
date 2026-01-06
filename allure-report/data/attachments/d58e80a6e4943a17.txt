@@ -1,1 +1,0 @@
-The Resource Manager task search is set to only show tasks (the Task Type Filter is set to "Only Tasks").

@@ -1,0 +1,1 @@
+{'entryId': 1227, 'sectionId': 10, 'flags': 0, 'entryName': 'RESPONSE', 'entryFriendlyName': 'Response', 'strValue': 'Response (d)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Response (d).', 'rangeList': None, 'validationRule': None, 'sequenceId': 124540.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

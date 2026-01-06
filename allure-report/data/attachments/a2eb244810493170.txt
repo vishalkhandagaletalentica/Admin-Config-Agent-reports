@@ -1,1 +1,0 @@
-The "Show L:C % value in Buckets" setting has been disabled. It was previously enabled and is now disabled.

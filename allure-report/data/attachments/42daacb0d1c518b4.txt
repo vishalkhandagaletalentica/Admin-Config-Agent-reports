@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the display name for the Weekly filter as 'Weekly Updated', which aligns with the Expected Output. However, it lacks the additional context provided in the Expected Output regarding the display name being specifically for reports, which slightly detracts from its completeness in addressing the input's intent.

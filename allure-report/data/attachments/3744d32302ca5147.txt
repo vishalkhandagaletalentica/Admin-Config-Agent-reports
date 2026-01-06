@@ -1,1 +1,0 @@
-The section name is "Tabular View in Pipeline Web," and the item description is "Column order in the report."

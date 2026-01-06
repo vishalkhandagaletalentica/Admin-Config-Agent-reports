@@ -1,1 +1,0 @@
-What is the current default date interval for the Pipeline View report?

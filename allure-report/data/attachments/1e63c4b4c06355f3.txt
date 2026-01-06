@@ -1,1 +1,0 @@
-Is the option to schedule background pipeline simulations enabled after an auto BM run?

@@ -1,0 +1,1 @@
+No — Complete projects are currently disabled (not displayed) in the Issue Resolution report.

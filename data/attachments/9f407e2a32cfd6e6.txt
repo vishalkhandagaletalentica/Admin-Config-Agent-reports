@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'BULK_IMPORT', 'entry': None, 'url': None}

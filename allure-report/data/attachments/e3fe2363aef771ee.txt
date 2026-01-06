@@ -1,1 +1,0 @@
-The current title for the Total Days Escalated column in the reports is "Total Days Escalated (d)".

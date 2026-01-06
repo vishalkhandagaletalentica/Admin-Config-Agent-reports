@@ -1,0 +1,1 @@
+There is no specific date set in configuration for the Planned Finish milestone. The configuration defines the column label as "Planned Finish Date."

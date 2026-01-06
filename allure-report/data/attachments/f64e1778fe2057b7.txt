@@ -1,1 +1,0 @@
-{'entryId': 2843, 'sectionId': 153, 'flags': 0, 'entryName': 'MANAGER', 'entryFriendlyName': 'Project Manager', 'strValue': 'ResAdmin', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Manager', 'rangeList': None, 'validationRule': None, 'sequenceId': 1586860.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,1 +1,0 @@
-I couldn't update "Enable SAP Integration" to Disabled because you don't have privileges to update configurations. Current value remains Enabled. Would you like me to open a permission request or provide steps to get the required access?

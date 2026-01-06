@@ -1,1 +1,0 @@
-The Auto Rollup Resource flag is set to "New Auto Rollup Resource".

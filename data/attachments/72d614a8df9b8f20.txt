@@ -1,0 +1,1 @@
+The current setting for calculating the rolling average in the performance report is 10 periods.

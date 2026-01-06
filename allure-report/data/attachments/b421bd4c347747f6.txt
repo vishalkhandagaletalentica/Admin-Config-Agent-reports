@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_GLOBAL_RES_FILE', 'entry': 'COLUMN_ORDER', 'url': None}

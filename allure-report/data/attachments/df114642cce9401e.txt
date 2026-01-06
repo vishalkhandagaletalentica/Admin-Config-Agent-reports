@@ -1,1 +1,0 @@
-Is the option to validate all calendars against the global resource file currently enabled?

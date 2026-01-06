@@ -1,1 +1,0 @@
-The current filters set to be displayed in the Red Project Delay report are Portfolio by Author, New Product Code by Category, Customer by Subject, Design Team Needed by Attribute1, Project Attribute 5 by Attribute2, Project Attribute 6 by Attribute3, New Project Attribute Value by Attribute4, and [insert new value here] by Attribute5.

@@ -1,0 +1,1 @@
+I disabled the setting so checklist items will not be shown when the Full Kit status is set to "Released."

@@ -1,0 +1,3 @@
+The command to update "Hidden Fields" is invalid because the value type expected is a multi-list, not an integer. You should provide a list of allowed values instead. 
+
+Please use a command like: `set Hidden Fields to "value1,value2"` where "value1" and "value2" are valid entries based on the allowed multi-list options.

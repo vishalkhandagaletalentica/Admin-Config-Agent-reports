@@ -1,1 +1,0 @@
-Can I check what the current title is for the Successor Task UIDs in the Gantt view?

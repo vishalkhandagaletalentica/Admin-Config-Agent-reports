@@ -1,0 +1,1 @@
+Updated: The Days setting in the Full Kit Report (Date Range) was changed from 30 to 45.

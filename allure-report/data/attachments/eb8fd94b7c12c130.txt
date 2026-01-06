@@ -1,1 +1,0 @@
-The Default Option in Milestones Filter is now set to All CMS/PE.

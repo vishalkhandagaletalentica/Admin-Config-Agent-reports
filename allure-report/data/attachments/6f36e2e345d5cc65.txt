@@ -1,1 +1,0 @@
-The default grouping for resource requirement reports (Resource Mgr -> Resource Needs) is PROJECT.

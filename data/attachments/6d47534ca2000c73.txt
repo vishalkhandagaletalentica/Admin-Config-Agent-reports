@@ -1,0 +1,1 @@
+What is the current mapping for the shortage quantity column in the checklist integration?

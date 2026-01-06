@@ -1,1 +1,0 @@
-update RESOURCE_NOTES set value to 12345

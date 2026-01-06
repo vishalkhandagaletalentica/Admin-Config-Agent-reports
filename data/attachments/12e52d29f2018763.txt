@@ -1,0 +1,1 @@
+{'entryId': 1830, 'sectionId': 11, 'flags': 0, 'entryName': 'NS_IP', 'entryFriendlyName': 'NS, IP', 'strValue': 'NS,IP', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Used in Task Status filter dropdown.', 'rangeList': None, 'validationRule': None, 'sequenceId': 146600.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

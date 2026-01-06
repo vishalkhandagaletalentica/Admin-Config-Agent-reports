@@ -1,0 +1,5 @@
+The following columns are currently hidden in the Project Review report:
+- UID
+- MSP ID
+- Description
+- Status

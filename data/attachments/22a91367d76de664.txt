@@ -1,0 +1,1 @@
+The current setting for how items are selected in the ConWeb views and reports is "Select Items or User Input."

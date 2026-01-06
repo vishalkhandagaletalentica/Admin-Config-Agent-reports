@@ -1,0 +1,1 @@
+{'entryId': 1203, 'sectionId': 11, 'flags': 0, 'entryName': 'WEEK', 'entryFriendlyName': 'Week', 'strValue': 'Week', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for week.', 'rangeList': None, 'validationRule': None, 'sequenceId': 134060.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

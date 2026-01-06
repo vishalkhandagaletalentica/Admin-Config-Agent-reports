@@ -1,1 +1,0 @@
-Update this setting to AUTHOR -> Portfolio,DIVISION -> Division,SUBJECT -> Customer,ATTRIBUTE1 -> Designers Required,ATTRIBUTE2 -> Project Attribute 5,ATTRIBUTE3 -> Project Attribute 6,ATTRIBUTE4 -> Updated Project Attribute Value,ATTRIBUTE5 -> Project Attribute 8.

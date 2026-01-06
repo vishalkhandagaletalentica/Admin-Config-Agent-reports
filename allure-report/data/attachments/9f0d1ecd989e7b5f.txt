@@ -1,1 +1,0 @@
-{'entryId': 560, 'sectionId': 11, 'flags': 0, 'entryName': 'DISPLAY', 'entryFriendlyName': 'Display', 'strValue': 'Display', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Display.', 'rangeList': None, 'validationRule': None, 'sequenceId': 121200.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

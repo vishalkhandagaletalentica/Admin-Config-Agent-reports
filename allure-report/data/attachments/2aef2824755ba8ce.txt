@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that queuing messages via AWS SQS is enabled. However, it lacks the specificity of the Expected Output by omitting the phrase 'the option to queue messages using the AWS SQS Service,' which slightly reduces its alignment with the expected detail.

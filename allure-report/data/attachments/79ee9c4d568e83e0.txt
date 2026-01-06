@@ -1,1 +1,0 @@
-The Load Breakdown filter name for the Resource Portal in HTML has been updated to "Load Breakdown Updated".

@@ -1,1 +1,0 @@
-The Login web page for email alerts is set to "directTM.aspx".

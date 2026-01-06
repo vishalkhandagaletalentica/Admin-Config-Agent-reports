@@ -1,1 +1,0 @@
-The filtering-pane label “Show All the Project Chains” is already set to "All Project Chains". No update is needed.

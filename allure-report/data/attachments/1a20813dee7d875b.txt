@@ -1,1 +1,0 @@
-Update this setting to A-PERCENT_FK_COMPLETE,A-FULLKIT_DATE

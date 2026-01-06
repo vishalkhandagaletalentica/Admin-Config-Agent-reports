@@ -1,1 +1,0 @@
-Please update the Display Name for Move feeding Buffer option to "New Feeding Buffer".

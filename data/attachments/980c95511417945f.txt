@@ -1,0 +1,1 @@
+The current setting for updating the planned start date for planned projects is "Update Planned Start For Planned Projects".

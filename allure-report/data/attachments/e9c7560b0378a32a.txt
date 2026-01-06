@@ -1,1 +1,0 @@
-The current title for the filter name used for regular tasks is "Updated Regular Tasks."

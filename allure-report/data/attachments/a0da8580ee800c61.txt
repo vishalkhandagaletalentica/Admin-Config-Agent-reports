@@ -1,1 +1,0 @@
-The display name for the All Status filter is "All Status Updated".

@@ -1,1 +1,0 @@
-The “Load from Planned projects” setting in Resource Mgr is disabled — load from Planned projects will not be shown in View Resource L:C or View Tasks By Resource.

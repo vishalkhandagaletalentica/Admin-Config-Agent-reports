@@ -1,0 +1,1 @@
+The current setting for displaying the titles in the filtering pane is "Include only Red Chains."

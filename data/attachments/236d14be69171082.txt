@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['1) Task Mgr -> Task List -> Search Columns for Task Table — Custom Task Text Field 7', '2) Task Mgr -> Search Columns for Task Table — TEXT_27', '3) Task Mgr -> Search Columns for Task Table — TEXT_28', '4) Common, Task -> Custom Task Text Fields — Custom Task Text Field 7'], 'value': None, 'section': None, 'entry': None, 'url': None}

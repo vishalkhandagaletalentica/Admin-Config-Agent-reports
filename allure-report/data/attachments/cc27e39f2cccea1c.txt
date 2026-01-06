@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Enable Display Of Tasks By Shifts — (boolean) toggles display of tasks by Shift 1/2/3', 'Shifts — (string) filter name shown in the filtering pane', 'Subtask Manager (in Subtask List) — (string) Subtask Manager ID'], 'value': None, 'section': None, 'entry': None, 'url': None}

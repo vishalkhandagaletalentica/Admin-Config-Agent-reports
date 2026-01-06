@@ -1,0 +1,1 @@
+The current value for the column name of CUSTOMTEXT6 is empty.

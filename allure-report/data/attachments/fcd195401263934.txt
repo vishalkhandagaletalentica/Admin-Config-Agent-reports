@@ -1,1 +1,0 @@
-Please update the Bucket selection Filter Name for Resource Portal in Html to "Resource Bucket".

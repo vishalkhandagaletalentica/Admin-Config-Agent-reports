@@ -1,1 +1,0 @@
-The display name for the "Parameter" column header has been successfully updated to "New Parameter".

@@ -1,1 +1,0 @@
-Default Start Week for Buffer Trend has been updated to 5.

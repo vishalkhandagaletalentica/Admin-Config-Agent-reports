@@ -1,0 +1,28 @@
+Common (parameters for ConWeb reports):
+- Auto Populate Custom Dates — If disabled, custom dates will not auto populate
+- Highlight Critical Chain Tasks — Color and italicize Critical Chain tasks
+- Color Scheme Includes CCFB — Color Scheme Includes CCFB
+- Custom Path — Used for downloading the Realization Project Viewer installer
+- Cyan Highlight Tasks For — Integer (1–9999): tasks scheduled to start in the first interval (days/hours/shifts)
+- Cyan Color Interval Unit — (unit for cyan interval)
+- Include Hours for Date/Duration Display Format — 0: short date only; 1: include time and show days/hours
+- Enable Task Update History — Enable Task Update History
+- Enable Custom Path for Realization Project Viewer — Toggle custom download path for viewer
+- Enable Display Of Tasks By Shifts — Enable displaying tasks by up to 3 shifts
+- Enable Export to Excel for Office 2003 or Higher — Allow export to Excel 2003+
+- Enable Export To Excel for Office 2000-2003 — Allow export to Excel
+- Header Interval — Display headers at intervals (number of rows)
+- Hide Remaining Duration Field — Hide Remaining Duration column (if "Est Dur" not hidden)
+- Hide Time Component from Date — 0: show time; 1: hide time (default 1)
+- Ignore Buffer Consumed Value — Buffer consumption threshold
+- Ignore Buffer Consumed — Ignore projects with buffer consumption over a value (for status/trend)
+- Rows Per Page — Number of rows to display per page
+- Security Label Interval — Rows after which a security label is shown for marked projects
+- Shift 1 Finish — (shift 1 finish time)
+- Shift 1 — Shift 1 start time (earliest shift)
+- Shift 2 Finish — (shift 2 finish time)
+- Shift 2 — Shift 2 start time (must be after Shift 1 finish)
+- Shift 3 Finish — (shift 3 finish time)
+- Shift 3 — Shift 3 start time (must be after Shift 2 finish)
+- Updated to 4.0 — Updated to 4.0
+- Use Resource Calendar For Task Duration — If checked, use resource calendar to calculate task duration

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Common -> Column Names: Task Date 23 (Custom Task Date Field)', 'Planning Client -> Adv. Filter Field Mapping: Task Date 23 (Custom Task Date Field)', 'Common -> Column Names: Task Number 23 (Custom Task Number Field)'], 'value': None, 'section': None, 'entry': None, 'url': None}

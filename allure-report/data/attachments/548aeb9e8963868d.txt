@@ -1,5 +1,0 @@
-The command is invalid because the value type for "Red Y intercept at 0 X" is an integer (intValue), but you are trying to set it to a string ('abcde'). The expected type is an integer between the allowed range. 
-
-For example, you could use a valid integer value like 75. 
-
-The correct command would be: `update configuration set Red Y intercept at 0 X = 75`

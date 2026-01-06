@@ -1,1 +1,0 @@
-{'entryId': 649, 'sectionId': 44, 'flags': 0, 'entryName': 'IntervalType', 'entryFriendlyName': 'Interval Type', 'strValue': 'Weeks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Default selection for interval type.', 'rangeList': '$LIST:Days,Weeks', 'validationRule': None, 'sequenceId': 452980.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

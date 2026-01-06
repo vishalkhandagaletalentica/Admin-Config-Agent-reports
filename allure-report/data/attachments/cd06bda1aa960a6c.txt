@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the current portfolio type as 3, which aligns with the Expected Output. While the phrasing differs slightly, the factual content is accurate and directly addresses the intent of the Input question. The response is concise and professional, with no incorrect facts or assumptions introduced.

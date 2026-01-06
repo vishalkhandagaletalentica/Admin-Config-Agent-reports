@@ -1,0 +1,1 @@
+Automatically Load Executive Dashboard Report is now enabled. Previously it was disabled.

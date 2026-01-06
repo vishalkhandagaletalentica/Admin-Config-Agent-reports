@@ -1,1 +1,0 @@
-Please update the Delay header display name in the Actual Delay report to "Actual Delay".

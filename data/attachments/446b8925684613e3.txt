@@ -1,0 +1,1 @@
+Done — the setting to include Project Participant data with the Project Manager filter query is now disabled.

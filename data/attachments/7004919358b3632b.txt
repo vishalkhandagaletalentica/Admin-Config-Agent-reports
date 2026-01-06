@@ -1,0 +1,1 @@
+Updated the Planned filter label to Scheduled in the filtering pane.

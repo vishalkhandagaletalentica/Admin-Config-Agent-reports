@@ -1,0 +1,3 @@
+The command is invalid because the value '12345' is not of the expected type. The allowed values for the 'Interval Type' are 'Days' or 'Weeks'. 
+
+Please use a command like: `update Interval Type to Days` or `update Interval Type to Weeks`.

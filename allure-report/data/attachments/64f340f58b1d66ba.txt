@@ -1,1 +1,0 @@
-The current title displayed for the column name of changed values in the export to Excel task update history is "Updated Value."

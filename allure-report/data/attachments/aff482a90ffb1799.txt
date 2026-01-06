@@ -1,1 +1,0 @@
-Yes — project labels are currently enabled and shown on the chart.

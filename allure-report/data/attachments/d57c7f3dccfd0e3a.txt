@@ -1,1 +1,0 @@
-The current title displayed for the Delay column in the reports is "10 days."

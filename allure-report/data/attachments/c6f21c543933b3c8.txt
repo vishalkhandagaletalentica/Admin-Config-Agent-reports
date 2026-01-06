@@ -1,1 +1,0 @@
-{'entryId': 1468, 'sectionId': 11, 'flags': 0, 'entryName': 'LIGHT_GREEN', 'entryFriendlyName': 'Light Green', 'strValue': 'Light Green', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Light Green.', 'rangeList': None, 'validationRule': None, 'sequenceId': 139360.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

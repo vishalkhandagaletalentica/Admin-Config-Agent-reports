@@ -1,1 +1,0 @@
-The Sort Order for Subtask List is already set to B-NAME. No update is needed.

@@ -1,0 +1,1 @@
+Please update the fields to display in Compact view to include Subtask Desc,Rem.Dur,Project Name,Subtask Task Mgr,Parent Task Description,Sugg./Likely Start.

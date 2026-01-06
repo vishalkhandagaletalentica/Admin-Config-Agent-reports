@@ -1,0 +1,1 @@
+The current mapping for Custom Task Text Field 64 in the advanced filter is "Text64".

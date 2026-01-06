@@ -1,1 +1,0 @@
-The setting "Include Internal Milestone in Filter" has been successfully updated to disable the inclusion of Internal Milestones in the Filters.

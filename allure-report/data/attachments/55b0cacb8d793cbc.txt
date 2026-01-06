@@ -1,1 +1,0 @@
-The Maximum number of project revisions is already set to 75. No update is needed.

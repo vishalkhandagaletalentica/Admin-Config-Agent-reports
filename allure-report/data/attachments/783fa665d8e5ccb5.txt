@@ -1,1 +1,0 @@
-The display of security labels in Concerto Enterprise and Web has been successfully enabled.

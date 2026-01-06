@@ -1,0 +1,1 @@
+The filter "Every 7 Days From Today" in the filtering pane has been renamed to "Weekly Filter".

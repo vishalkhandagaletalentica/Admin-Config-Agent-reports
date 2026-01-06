@@ -1,1 +1,0 @@
-Yes — comments are mandatory when dates are modified (the setting is enabled).

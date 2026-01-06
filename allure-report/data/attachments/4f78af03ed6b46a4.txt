@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the title of the filter as 'Weekly Monday', which aligns with the Expected Output. However, it fails to explicitly mention that this title corresponds to the filter named 'Every Monday', which is a key detail from the Input. This omission slightly detracts from the completeness of the response.

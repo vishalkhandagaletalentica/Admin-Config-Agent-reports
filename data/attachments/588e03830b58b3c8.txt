@@ -1,0 +1,1 @@
+I attempted to set the mapping to CUSTOM_TASK_TEXT1 but the update failed due to insufficient privileges. The current setting is CUSTOM_TASK_TEXT2. Please grant the required privileges or have an administrator apply the change.

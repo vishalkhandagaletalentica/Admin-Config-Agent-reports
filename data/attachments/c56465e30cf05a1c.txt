@@ -1,0 +1,1 @@
+The current email body used for task updates is: "Your request has been successfully completed. Attached are the relevant documents."

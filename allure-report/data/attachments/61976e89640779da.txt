@@ -1,1 +1,0 @@
-Updated the display name for Subprojects to "New Subprojects".

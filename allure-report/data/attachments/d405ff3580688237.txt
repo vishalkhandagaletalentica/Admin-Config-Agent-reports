@@ -1,1 +1,0 @@
-The current status of the search feature for the Resource Manager tasks is RESOURCE_MANAGER_ID.

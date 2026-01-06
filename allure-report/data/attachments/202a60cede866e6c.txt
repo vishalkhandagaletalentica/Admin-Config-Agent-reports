@@ -1,1 +1,0 @@
-The Sort Order in Metrics -> On-Time Delivery Drilldown was updated from "A-PROJECT_NAME,A-MS_NAME,A-PROJECT_REPORT_STATUS" to "12345".

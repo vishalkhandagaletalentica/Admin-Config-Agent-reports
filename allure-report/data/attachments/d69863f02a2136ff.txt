@@ -1,1 +1,0 @@
-{'entryId': 982, 'sectionId': 11, 'flags': 1, 'entryName': 'ATTRIBUTE1', 'entryFriendlyName': 'Project Attribute 4', 'strValue': 'Designers Required', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Attribute 4', 'rangeList': None, 'validationRule': None, 'sequenceId': 129640.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

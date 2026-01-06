@@ -1,0 +1,8 @@
+The command you provided is invalid because the value type for the 'Hidden Fields' entry is a multi-list, which means it expects a list of specific string values rather than a single integer (12345). 
+
+The expected type is a comma-separated list of strings corresponding to the allowed values. Based on the provided strValue, you could use any combination of the existing fields.
+
+For example, a correct command could be: 
+```
+update Hidden Fields set value to MSP_TASK_ID,NO_DELAY_DURATION;
+```

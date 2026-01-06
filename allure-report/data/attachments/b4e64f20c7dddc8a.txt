@@ -1,1 +1,0 @@
-The current title displayed for Work Card Labor in the Work Card Details report is "Labor Hours."

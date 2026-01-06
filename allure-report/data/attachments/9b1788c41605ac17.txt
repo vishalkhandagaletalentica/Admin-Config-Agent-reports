@@ -1,1 +1,0 @@
-The default Capacity Buffer is 10% of load.

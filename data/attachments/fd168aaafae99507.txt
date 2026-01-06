@@ -1,0 +1,3 @@
+The command is incorrect because the value type for RESOURCE_NOTES is a string (strValue), but you are trying to set it to an integer (12345). The expected type is a string. 
+
+A correct example command would be: `update RESOURCE_NOTES set value to 'Your note here'`.

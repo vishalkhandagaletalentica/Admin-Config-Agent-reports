@@ -1,0 +1,1 @@
+The Issue Type (in Common -> Filter Names) was updated from "Marked as Buffer Recovery" to "Marked as Buffer Recovery".

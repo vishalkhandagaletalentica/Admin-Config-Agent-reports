@@ -1,0 +1,1 @@
+update configuration "Automatically Load Project Status Report" set value to "abcde"

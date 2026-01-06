@@ -1,1 +1,0 @@
-Can you show me which columns are currently hidden in the report for the Milestone panel?

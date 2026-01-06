@@ -1,0 +1,3 @@
+The command to update the "Hidden Fields" value is invalid because the expected type is a multi-list, but you are attempting to set it to a single integer value (12345). The allowed values should be a comma-separated list of strings that correspond to the hidden fields. 
+
+A correct example command would be: `update Hidden Fields set value to BM_LAST_UPDATE,LAST_UPDATE_DATE,PROJECT_UNIQUE_ID`.

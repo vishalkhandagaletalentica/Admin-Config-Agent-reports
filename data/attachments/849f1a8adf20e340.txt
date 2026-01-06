@@ -1,0 +1,1 @@
+{'entryId': 148, 'sectionId': 10, 'flags': 0, 'entryName': 'MILESTONE_TYPE', 'entryFriendlyName': 'Milestone Type', 'strValue': 'Milestone Type', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Milestone Type', 'rangeList': None, 'validationRule': None, 'sequenceId': 102960.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

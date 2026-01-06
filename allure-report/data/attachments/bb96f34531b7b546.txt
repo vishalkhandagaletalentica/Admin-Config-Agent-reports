@@ -1,1 +1,0 @@
-{'entryId': 197, 'sectionId': 11, 'flags': 0, 'entryName': 'ALL', 'entryFriendlyName': 'All', 'strValue': 'Everything.', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'ALL', 'rangeList': None, 'validationRule': None, 'sequenceId': 113940.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

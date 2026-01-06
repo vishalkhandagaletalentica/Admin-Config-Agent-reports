@@ -1,1 +1,0 @@
-The filters currently being displayed in the Buffer Diagnostics Penetrating Chain report are Division, Project Manager, Portfolio, New Product Code, and Customer.

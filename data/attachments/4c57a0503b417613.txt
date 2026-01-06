@@ -1,0 +1,1 @@
+No — the global custom task identifier is disabled for project imports.

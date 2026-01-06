@@ -1,1 +1,0 @@
-The column order for the Stuck Tasks Delays report is not set (no columns configured).

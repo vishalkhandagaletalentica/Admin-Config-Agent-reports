@@ -1,3 +1,0 @@
-Updated the default sort order for Full Kit Report to:
-- PERCENT_FK_COMPLETE — ascending
-- FULLKIT_DATE — ascending

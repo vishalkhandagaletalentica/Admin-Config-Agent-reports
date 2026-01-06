@@ -1,1 +1,0 @@
-Updated. The email subject for bulk imports is now "Bulk Import Notification".

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Sort By Priority Fields Within Windows Of — Task Mgr / Subtask List', 'Sort By Priority Fields Within Windows Of — Task List (Common)', 'Task Color (priority colors filter)', 'Enable project level task manager compliances'], 'value': None, 'section': None, 'entry': None, 'url': None}

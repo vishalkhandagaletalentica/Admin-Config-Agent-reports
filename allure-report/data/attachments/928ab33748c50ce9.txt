@@ -1,1 +1,0 @@
-The buffer penetration that turns a DBR buffer red when the buffer's chain complete is 0% is 67%.

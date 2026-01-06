@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the "On Hold" setting to disabled.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “On Hold” setting?'}, {'role': 'user', 'content': 'The section name is Buffer Diagnostics.'}, {'role': 'assistant', 'content': 'The On Hold setting in Buffer Diagnostics is now disabled.'}]

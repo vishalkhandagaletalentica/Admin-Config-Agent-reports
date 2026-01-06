@@ -1,0 +1,7 @@
+The following columns are hidden in the On‑Time Delivery report:
+- Last BM Date
+- Last Update
+- NewUID
+- [insert new value here]
+- Pipeline Priority
+- Division

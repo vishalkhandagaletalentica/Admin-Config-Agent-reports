@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['CCFB', 'CCCB', 'CMSB'], 'value': None, 'section': None, 'entry': None, 'url': None}

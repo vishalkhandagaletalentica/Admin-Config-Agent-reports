@@ -1,0 +1,1 @@
+Checklists in the Batch Printing report have been enabled.

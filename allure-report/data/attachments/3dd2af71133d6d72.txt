@@ -1,1 +1,0 @@
-The display name for the Subtask List in Headers has been successfully updated to "Updated Subtask List".

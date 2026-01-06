@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the current display name for the Average Buffer Consumed option. However, it lacks the additional context of specifying that it is in the Issue Resolution filter, which is present in the Expected Output. This omission prevents a perfect score.

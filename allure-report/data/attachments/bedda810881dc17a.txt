@@ -1,1 +1,0 @@
-The current filters being used in the "By Help Needed" report are Category: New Product Code and Author: Portfolio.

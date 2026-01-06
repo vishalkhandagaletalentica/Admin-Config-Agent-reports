@@ -1,1 +1,0 @@
-The current task fields that can be updated during the integration are TASK_STATUS and REMAINING_DURATION.

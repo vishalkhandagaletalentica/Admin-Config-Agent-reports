@@ -1,1 +1,0 @@
-What is the current mapping for the custom task date field 24 in the advanced filter for the Gantt?

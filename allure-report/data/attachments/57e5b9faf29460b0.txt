@@ -1,1 +1,0 @@
-I've disabled the redirect to the external system for Tier3 details; Tier3 external redirects are now disabled.

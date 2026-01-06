@@ -1,1 +1,0 @@
-{'entryId': 384, 'sectionId': 10, 'flags': 0, 'entryName': 'SEQUENCEID', 'entryFriendlyName': 'Sequence Identifier (Subtask List)', 'strValue': 'Seq ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Sequence Id', 'rangeList': None, 'validationRule': None, 'sequenceId': 107680.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-Please update the column mapping for Text3 to "Invoice Number".

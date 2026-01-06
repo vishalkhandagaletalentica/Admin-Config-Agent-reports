@@ -1,1 +1,0 @@
-The Actual Output identifies a hidden column but incorrectly states 'Disable Auto Document Link' instead of the expected 'ENABLE_AUTO_DOC_LINK'. This factual inaccuracy significantly impacts the response, as it does not align with the Expected Output. Additionally, while the response addresses the intent of the Input question, the incorrect information leads to a low score.

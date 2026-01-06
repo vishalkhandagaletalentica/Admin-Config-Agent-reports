@@ -1,1 +1,0 @@
-Please update the Projected Cycle Time to "Estimated Cycle Duration (d)".

@@ -1,1 +1,0 @@
-The "Use Projected Date With Stretch" option in Executive -> Performance is now enabled.

@@ -1,1 +1,0 @@
-The title shown in the filtering pane for the project is "Project".

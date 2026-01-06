@@ -1,1 +1,0 @@
-The current title for the Task Remaining Duration in hours shown in the reports is "Task Duration (h)".

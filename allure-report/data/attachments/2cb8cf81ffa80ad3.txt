@@ -1,1 +1,0 @@
-The Actual Output provides a status for the BMRun option but uses 'set to 1' instead of 'enabled', which does not align with the Expected Output. While it addresses the intent of the question, the factual inaccuracy regarding the status leads to a deduction in points.

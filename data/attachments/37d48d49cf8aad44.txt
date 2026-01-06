@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the title displayed for Worsened in the filters. However, it uses a colon instead of quotation marks, which slightly deviates from the Expected Output's formatting. Overall, the response is clear and relevant.

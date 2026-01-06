@@ -1,0 +1,1 @@
+I attempted to update the Revised Baseline Early Start mapping to REV_ES_NEW but failed because I don't have privileges to update configurations. The current mapping is REV_ES. You can either ask an administrator with config-write privileges to apply this change or I can provide the exact update payload/command to give them. Which would you like?

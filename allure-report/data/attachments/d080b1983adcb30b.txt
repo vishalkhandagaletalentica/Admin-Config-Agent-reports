@@ -1,1 +1,0 @@
-The Delay column in the Actual Delay Report has been successfully updated to 'New Delay (d)'.

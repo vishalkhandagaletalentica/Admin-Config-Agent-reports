@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List → Task Mgr (Task Mgr)', 'Task List → Project Mgr (Project Mgr)', 'Task List → Resource Mgr (Resource Mgr)'], 'value': None, 'section': None, 'entry': None, 'url': None}

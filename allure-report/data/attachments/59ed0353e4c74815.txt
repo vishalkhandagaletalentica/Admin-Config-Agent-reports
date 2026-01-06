@@ -1,1 +1,0 @@
-The current username set for connecting to the Primavera database is empty.

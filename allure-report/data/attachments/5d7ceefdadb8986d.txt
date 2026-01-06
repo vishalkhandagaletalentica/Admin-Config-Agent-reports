@@ -1,1 +1,0 @@
-The current column mapping for Start Date is INT_ES.

@@ -1,0 +1,13 @@
+Hidden columns in Buffer Diagnostics → Pen Chains report:
+- Gap With Chain Pred
+- New MSP ID
+- No Addl Delay Start
+- No Additional Delay Finish
+- % Chain Pen
+- Updated Dur
+- % Project Buffer Consumption
+- No Addl Delay Duration
+- % MB Cnsm`d
+- % FB Cnsm`d
+- New Participants
+- Comments Updated

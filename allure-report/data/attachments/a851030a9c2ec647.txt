@@ -1,1 +1,0 @@
-update EXEC_CUSTOM_TASK_TEXT10 set value to 12345

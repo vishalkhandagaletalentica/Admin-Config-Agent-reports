@@ -1,1 +1,0 @@
-The Actual Output partially addresses the intent of the Input by providing a title related to the completion percentage of subtasks. However, it fails to include the full context of the section name and the specific entry name, which are crucial for factual correctness. The response is not entirely irrelevant but lacks completeness and clarity, leading to a moderate score.

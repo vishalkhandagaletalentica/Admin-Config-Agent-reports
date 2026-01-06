@@ -1,1 +1,0 @@
-update_setting "Sort Chains By" to 12345

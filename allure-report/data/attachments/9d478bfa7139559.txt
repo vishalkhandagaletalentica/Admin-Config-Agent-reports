@@ -1,1 +1,0 @@
-The command is invalid because the value 'abcde' is not an integer and does not fall within the accepted range of 1 to 20. The expected type is an integer. Please provide a value within the allowed range. For example, you can use the command: `update configuration set Number of tasks displayed in the widget to 5`.

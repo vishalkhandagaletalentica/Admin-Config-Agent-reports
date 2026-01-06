@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Manager — Column title (Common -> Column Names)', 'Update Task Manager — Column title (Common -> Column Names)', 'Task Manager — Filter name (Common -> Filter Names)'], 'value': None, 'section': None, 'entry': None, 'url': None}

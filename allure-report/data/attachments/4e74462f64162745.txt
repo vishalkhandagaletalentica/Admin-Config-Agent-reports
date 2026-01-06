@@ -1,1 +1,0 @@
-Subprojects are currently enabled in the Project Status view.

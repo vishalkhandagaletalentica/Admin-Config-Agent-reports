@@ -1,1 +1,0 @@
-The filter name "Month" has been updated to "New Month Name.".

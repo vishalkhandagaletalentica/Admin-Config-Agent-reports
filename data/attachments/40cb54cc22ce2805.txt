@@ -1,0 +1,1 @@
+Which entry within the “searchable text columns” section should I update to CUSTOM_TASK_TEXT2? (Please provide the entry name or describe which searchable field you mean.)

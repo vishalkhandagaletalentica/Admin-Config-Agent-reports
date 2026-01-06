@@ -1,1 +1,0 @@
-{'entryId': 566, 'sectionId': 11, 'flags': 0, 'entryName': 'GREEN', 'entryFriendlyName': 'Green', 'strValue': 'New Green Display Name.', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Green in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121320.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

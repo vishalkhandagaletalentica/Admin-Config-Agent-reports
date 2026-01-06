@@ -1,1 +1,0 @@
-The setting 'Store Custom Task UID in' has been successfully updated to 'CUSTOM_TASK_TEXT2'.

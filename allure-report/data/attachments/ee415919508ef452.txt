@@ -1,1 +1,0 @@
-The requirement for a password during logon has been disabled.

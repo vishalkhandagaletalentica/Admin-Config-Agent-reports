@@ -1,1 +1,0 @@
-The section name is "WIP Report" and the specific entry is "Default Column Width (in px) for In Progress/In Queue columns."

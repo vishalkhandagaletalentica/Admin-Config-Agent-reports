@@ -1,1 +1,0 @@
-The current window height for the Critical Chain Planning client is 30.

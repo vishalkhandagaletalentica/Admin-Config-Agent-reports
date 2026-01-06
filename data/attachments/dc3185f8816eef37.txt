@@ -1,0 +1,1 @@
+The current buffer penetration level at which the buffer turns yellow when the chain is complete is 50.

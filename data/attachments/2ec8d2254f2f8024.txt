@@ -1,0 +1,3 @@
+The command is invalid because the value type you are trying to set is not allowed. The expected value type for 'Hidden Fields' is a multi-list, but you are attempting to set it to a numeric value (12345). 
+
+Please provide a valid multi-list value. For example, you could use a command like: `update Hidden Fields set value to ENABLE_AUTO_DOC_LINK,ANOTHER_OPTION;`.

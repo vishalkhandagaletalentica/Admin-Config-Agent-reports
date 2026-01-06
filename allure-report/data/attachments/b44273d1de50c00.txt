@@ -1,1 +1,0 @@
-{'entryId': 2039, 'sectionId': 11, 'flags': 0, 'entryName': 'GROUP_BY', 'entryFriendlyName': 'Group By', 'strValue': 'Group By Updated', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Group By in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 150780.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

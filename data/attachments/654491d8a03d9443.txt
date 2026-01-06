@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Planning Client -> Adv. Filter Field Mapping — Status (advance filter key mapping)', 'Checklist Integration -> Fields Mapping for Checklist — Status (Excel column mapping)', 'Integration -> Task — Status (task status column name)'], 'value': None, 'section': None, 'entry': None, 'url': None}

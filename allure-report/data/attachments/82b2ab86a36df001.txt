@@ -1,1 +1,0 @@
-What is the current display name for the "Parameter" column header in the Custom Settings of Results & Rules?

@@ -1,1 +1,0 @@
-Task priorities and colors are being inherited from P2P links.

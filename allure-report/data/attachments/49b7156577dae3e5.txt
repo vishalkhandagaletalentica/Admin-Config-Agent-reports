@@ -1,1 +1,0 @@
-The current title for task scope in the column headings is "Scope".

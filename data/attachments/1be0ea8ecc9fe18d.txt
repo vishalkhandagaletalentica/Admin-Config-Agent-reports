@@ -1,0 +1,1 @@
+{'entryId': 2819, 'sectionId': 142, 'flags': 0, 'entryName': 'INTEGRATION_SUBTASK_COMMENTS_COLUMN', 'entryFriendlyName': 'Comments', 'strValue': 'Comments', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name of Comments', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

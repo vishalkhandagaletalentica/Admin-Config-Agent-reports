@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': {'old': 2, 'new': 5}, 'section': 'SGD_PIPELINE_CONTROL_ESCALTION_DELAY', 'entry': 'DEF_ITEMS_TO_EXPAND', 'url': None}

@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by confirming that the Planned setting is enabled. However, it lacks the explicit mention of 'current status' found in the Expected Output, which slightly detracts from its completeness.

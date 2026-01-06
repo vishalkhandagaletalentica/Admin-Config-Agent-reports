@@ -1,1 +1,0 @@
-The "Use Optimized Get Data Query" setting was updated from 0 (disabled) to 1 (enabled).

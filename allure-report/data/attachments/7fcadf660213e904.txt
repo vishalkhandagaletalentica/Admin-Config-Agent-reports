@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List -> Col Order — Column Order', 'Project Mgr -> Pipeline View — Sort Order', 'Metrics -> Exclude Projects — Sort Order', 'Common, Checklist -> Task — Sort Order'], 'value': None, 'section': None, 'entry': None, 'url': None}

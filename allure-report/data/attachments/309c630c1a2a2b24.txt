@@ -1,1 +1,0 @@
-I couldn't disable the "Allow Modify Last update date" setting. It is currently enabled, and I do not have the privileges required to change this configuration. Please ask an administrator to set it to disabled or grant me update privileges, and I can apply the change.

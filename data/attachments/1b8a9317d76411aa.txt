@@ -1,0 +1,1 @@
+Is the option to include resources in the Stuck Task Delay report currently enabled?

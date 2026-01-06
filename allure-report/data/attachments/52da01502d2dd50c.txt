@@ -1,1 +1,0 @@
-Updated the 'Compare' filter display name to "Comparison".

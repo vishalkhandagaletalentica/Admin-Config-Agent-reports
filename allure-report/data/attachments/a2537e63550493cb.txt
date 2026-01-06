@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Fractional Rounding Digits to 4.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Fractional Rounding Digits" setting?'}, {'role': 'user', 'content': 'The section name is Sand Chart.'}, {'role': 'assistant', 'content': 'Fractional Rounding Digits in Resource Mgr -> Sand Chart updated from 3 to 4.'}]

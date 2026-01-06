@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Work Card Id to EXEC_CUSTOM_TASK_TEXT1.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Work Card Id” entry?'}, {'role': 'user', 'content': 'The section name is "Work Card to Subtask Model Migration."'}, {'role': 'assistant', 'content': 'The Work Card Id has been updated to EXEC_CUSTOM_TASK_TEXT1.'}]

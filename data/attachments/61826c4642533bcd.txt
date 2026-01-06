@@ -1,0 +1,1 @@
+The currently hidden columns in the task checklist report are CHECKLIST_TEXT1, CHECKLIST_TEXT2, CHECKLIST_TEXT3, CHECKLIST_TEXT4, CHECKLIST_DATE1, and CHECKLIST_DATE2.

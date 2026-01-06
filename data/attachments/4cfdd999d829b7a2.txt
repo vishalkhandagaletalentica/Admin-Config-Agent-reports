@@ -1,0 +1,1 @@
+Server logging for BM Lock is now enabled.

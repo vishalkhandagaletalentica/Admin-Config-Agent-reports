@@ -1,1 +1,0 @@
-The current column name being used for the subtask status is "Subtask Status".

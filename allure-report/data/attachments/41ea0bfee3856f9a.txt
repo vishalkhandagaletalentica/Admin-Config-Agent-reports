@@ -1,1 +1,0 @@
-I tried to set Task Status to "12345" but the update failed: the system could not validate the value against the entry’s expected format (No column definition found for this entry; cannot validate the multi-list format). You can set one of the allowed status values (for example: NS, CO, IP), or provide a different valid string. How would you like to proceed?

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Full Kit Mgr -> Full Kit Report (Hidden Fields)', 'Full Kit Mgr -> Full Kit Report (Hidden Fields (Print))', 'Project Mgr -> Full Kit Report (Hidden Fields)', 'Project Mgr -> Full Kit Report (Hidden Fields (Print))'], 'value': None, 'section': None, 'entry': None, 'url': None}

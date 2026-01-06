@@ -1,5 +1,0 @@
-The command to set the "Show Push out project schedule option" is invalid because the provided value 'abcde' is not of the correct type. This setting requires an integer value (valueType: 3). 
-
-Please provide a valid integer value, such as '1' for enabling or '0' for disabling the option. 
-
-A correct command example would be: `set Show Push out project schedule option to '1'` to enable the feature.

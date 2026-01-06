@@ -1,1 +1,0 @@
-The option to export to Excel for Office 2003 or Higher has been disabled.

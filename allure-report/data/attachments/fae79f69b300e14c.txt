@@ -1,1 +1,0 @@
-{'entryId': 2178, 'sectionId': 10, 'flags': 0, 'entryName': 'ACTUAL_VALUE', 'entryFriendlyName': 'Actual Value', 'strValue': 'Current Value in DB', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Attributes value saved in DB.', 'rangeList': None, 'validationRule': None, 'sequenceId': 143560.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

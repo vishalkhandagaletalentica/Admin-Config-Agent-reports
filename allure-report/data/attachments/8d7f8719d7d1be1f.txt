@@ -1,1 +1,0 @@
-The current value for the customer type in the project settings is 2.

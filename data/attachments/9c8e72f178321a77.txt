@@ -1,0 +1,1 @@
+The current column mapping for UNITS when importing a CSV or Excel file is QTY and NEW_VALUE.

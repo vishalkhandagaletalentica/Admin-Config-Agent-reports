@@ -1,1 +1,0 @@
-{'entryId': 1012, 'sectionId': 56, 'flags': 0, 'entryName': 'ATTRIBUTE5_STATUS', 'entryFriendlyName': 'Project Attribute8 Status', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Project Attribute8 Status', 'rangeList': None, 'validationRule': None, 'sequenceId': 580240.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

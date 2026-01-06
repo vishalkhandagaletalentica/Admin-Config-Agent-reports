@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'FULL_KIT_COMPLIANCE_REPORT', 'entry': 'DISPLAY_PAST_PERIOD', 'url': None}

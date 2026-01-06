@@ -1,0 +1,1 @@
+{'entryId': 582, 'sectionId': 11, 'flags': 0, 'entryName': 'RED', 'entryFriendlyName': 'Red', 'strValue': 'Crimson', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Red in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121640.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

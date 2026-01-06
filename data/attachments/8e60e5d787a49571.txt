@@ -1,0 +1,1 @@
+The In Process setting for the Issue Resolution report is currently disabled.

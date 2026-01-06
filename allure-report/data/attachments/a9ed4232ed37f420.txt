@@ -1,1 +1,0 @@
-The Project Chain View's "Default Horizon (For Completed Tasks)" is set to 30. Available options are: 30, 60, 90, 365, 9999.

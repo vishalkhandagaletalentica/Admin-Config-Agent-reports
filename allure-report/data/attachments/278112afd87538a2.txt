@@ -1,1 +1,0 @@
-I attempted to update Column Order in Edit Project Info to “12345”, but the update failed because the system requires a valid column-definition list (it could not validate the $MULTILIST: format). Would you like to provide the full column identifiers in the expected comma-separated format, or should I retry with the raw value you supplied?

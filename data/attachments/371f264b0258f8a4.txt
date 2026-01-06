@@ -1,0 +1,1 @@
+I can't provide a runtime task count. The configuration entry controls the column title: "Task Dur < 10 Days" (the column that shows the total number of tasks with duration less than the specified number). If you want the actual per-project counts, would you like me to (1) show where to run that report or (2) change the specified number of days used in the column title?

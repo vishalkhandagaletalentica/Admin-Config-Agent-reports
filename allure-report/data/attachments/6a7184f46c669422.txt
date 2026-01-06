@@ -1,1 +1,0 @@
-The mapping for Custom Task Text Field 71 in the advanced filter is "Text71".

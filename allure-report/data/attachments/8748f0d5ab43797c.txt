@@ -1,1 +1,0 @@
-The filtering pane titles currently show: New Milestone Filters.

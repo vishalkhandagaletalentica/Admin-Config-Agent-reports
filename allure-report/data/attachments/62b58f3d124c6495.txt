@@ -1,1 +1,0 @@
-The current title used in the Project Status filter dropdown is "Planned (PL)".

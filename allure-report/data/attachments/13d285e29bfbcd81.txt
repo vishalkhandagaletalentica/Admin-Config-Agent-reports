@@ -1,1 +1,0 @@
-The stream column is named "StreamName".

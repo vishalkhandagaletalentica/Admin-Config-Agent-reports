@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that the option is enabled. While it does not match the phrasing of the Expected Output, it conveys the same factual meaning. The slight difference in wording does not detract from its correctness.

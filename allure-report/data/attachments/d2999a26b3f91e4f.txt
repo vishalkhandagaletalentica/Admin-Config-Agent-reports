@@ -1,1 +1,0 @@
-{'entryId': 2116, 'sectionId': 11, 'flags': 0, 'entryName': '4WEEKS', 'entryFriendlyName': '4 Weeks', 'strValue': '4 Weeks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': '4 Weeks', 'rangeList': None, 'validationRule': None, 'sequenceId': 152320.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

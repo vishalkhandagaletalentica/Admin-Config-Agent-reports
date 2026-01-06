@@ -1,1 +1,0 @@
-The Actual Start column mapping in "Mapping of fields when importing CSV/Excel file in Planning client" is set to "Actual Start."

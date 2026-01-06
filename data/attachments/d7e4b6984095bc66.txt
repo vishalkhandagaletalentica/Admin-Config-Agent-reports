@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['TM Task WIP Count (Task Manager)', 'TM Task WIP Count for Purchasing Tasks'], 'value': None, 'section': None, 'entry': None, 'url': None}

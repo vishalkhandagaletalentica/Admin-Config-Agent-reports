@@ -1,0 +1,1 @@
+{'entryId': 2369, 'sectionId': 142, 'flags': 0, 'entryName': 'INTEGRATION_SUBTASK_CUSTOMTEXT8_COLUMN', 'entryFriendlyName': 'CustomText8', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name of CUSTOMTEXT8', 'rangeList': None, 'validationRule': None, 'sequenceId': 1467380.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

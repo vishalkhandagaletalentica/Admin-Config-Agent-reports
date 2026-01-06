@@ -1,0 +1,1 @@
+The current mapping for the custom task text field 54 in the advanced filter for the Gantt chart is NewText54.

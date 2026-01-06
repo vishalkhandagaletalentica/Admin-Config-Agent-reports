@@ -1,1 +1,0 @@
-The Business Unit mandatory setting is currently disabled (not mandatory).

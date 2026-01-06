@@ -1,0 +1,1 @@
+What is the current default setting for how the chain summary is sorted?

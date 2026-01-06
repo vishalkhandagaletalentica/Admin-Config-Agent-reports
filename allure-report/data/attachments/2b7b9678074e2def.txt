@@ -1,1 +1,0 @@
-The current priority level for ColorPriority5 is "H".

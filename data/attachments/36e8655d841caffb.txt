@@ -1,0 +1,1 @@
+{'entryId': 274, 'sectionId': 17, 'flags': 0, 'entryName': 'CCFB', 'entryFriendlyName': 'Feeding Buffers', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Specifies if Feeding Buffers should be displayed', 'rangeList': None, 'validationRule': None, 'sequenceId': 175480.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

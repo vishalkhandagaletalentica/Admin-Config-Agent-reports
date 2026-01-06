@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'Alerts', 'entry': 'SQS_QUEUE_NAME_FOR_BM', 'url': None}

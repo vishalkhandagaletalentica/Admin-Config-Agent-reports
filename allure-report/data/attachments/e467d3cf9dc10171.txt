@@ -1,1 +1,0 @@
-The Do Not Limit Stretch setting in Application -> Concerto Pipeline was changed from enabled to disabled.

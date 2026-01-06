@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List -> Common (Task Manager filter)', 'Project Mgr/Resource Mgr -> Escalated Tasks', 'Buffer Diagnostics -> By Help Needed'], 'value': None, 'section': None, 'entry': None, 'url': None}

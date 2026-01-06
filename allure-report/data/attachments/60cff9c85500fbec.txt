@@ -1,1 +1,0 @@
-The Actual Output accurately reflects the factual correctness of the Expected Output, stating that the current title for the Planned filter is 'Scheduled,' which aligns perfectly with the Expected Output. Additionally, it directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information.

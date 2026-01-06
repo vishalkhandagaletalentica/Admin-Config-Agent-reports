@@ -1,1 +1,0 @@
-The Scheduling bucket size was updated from "Monthly" to "Weekly".

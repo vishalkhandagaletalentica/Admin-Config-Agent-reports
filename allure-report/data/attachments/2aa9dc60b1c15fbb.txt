@@ -1,1 +1,0 @@
-{'entryId': 2139, 'sectionId': 10, 'flags': 0, 'entryName': 'TASK_TEMPLATE_NAME', 'entryFriendlyName': 'Task template name', 'strValue': 'Name', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task template name', 'rangeList': None, 'validationRule': None, 'sequenceId': 142780.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

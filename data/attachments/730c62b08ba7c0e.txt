@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Project Weight to New Project Weight.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Project Weight" entry?'}, {'role': 'user', 'content': 'The section name is "Filtering Pane Titles."'}, {'role': 'assistant', 'content': 'Project Weight has been updated to New Project Weight.'}]

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr -> Project Status (Project Status view/report)', 'Metrics -> Exclude Projects (Exclude Projects page)', 'Admin -> Edit Project Info (Edit Project Info)'], 'value': None, 'section': None, 'entry': None, 'url': None}

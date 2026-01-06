@@ -1,1 +1,0 @@
-The Actual Output is factually correct, as it accurately states that the option to display past data is disabled, which aligns with the Expected Output indicating it is turned off. The response directly addresses the intent of the Input question without introducing incorrect facts or unrelated information. The slight difference in wording does not detract from its correctness.

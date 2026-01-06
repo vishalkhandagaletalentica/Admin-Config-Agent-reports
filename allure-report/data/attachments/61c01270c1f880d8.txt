@@ -1,1 +1,0 @@
-The SNS Topic Subscriber Endpoint URL for Buffer Management is: /api/v1/subscribeBufferManagementMessage

@@ -1,1 +1,0 @@
-The current column order in the Milestone report is not specified.

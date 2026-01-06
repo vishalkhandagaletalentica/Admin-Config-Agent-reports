@@ -1,0 +1,1 @@
+{'entryId': 2276, 'sectionId': 56, 'flags': 0, 'entryName': 'ATTRIBUTE5_MANDATORY', 'entryFriendlyName': 'Project Attribute8 mandatory', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Project Attribute8 mandatory', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

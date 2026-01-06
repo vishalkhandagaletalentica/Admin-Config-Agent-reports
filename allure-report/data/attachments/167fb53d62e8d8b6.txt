@@ -1,1 +1,0 @@
-{'entryId': 974, 'sectionId': 11, 'flags': 0, 'entryName': 'TASK_PARTICIPANTS', 'entryFriendlyName': 'Task Participants', 'strValue': 'Team Members', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Task Participants', 'rangeList': None, 'validationRule': None, 'sequenceId': 129480.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

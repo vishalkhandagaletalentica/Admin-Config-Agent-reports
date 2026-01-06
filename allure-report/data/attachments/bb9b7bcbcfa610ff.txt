@@ -1,1 +1,0 @@
-Updated the Current Month column heading to "New Month."

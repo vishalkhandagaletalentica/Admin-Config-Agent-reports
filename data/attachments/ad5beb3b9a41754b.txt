@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_SAP_INTEGRATION_COMMON', 'entry': 'UPDATE_EXPECTED_FINSIH_DATE', 'url': None}

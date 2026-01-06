@@ -1,1 +1,0 @@
-The "Committed, In Queue" setting under Buffering is now disabled. It was previously enabled.

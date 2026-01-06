@@ -1,0 +1,5 @@
+The command you provided is invalid because the value type for "Column Preset 3" is set to 2, which indicates it expects a string value (strValue) rather than a numeric value. The correct format should include a valid string from the allowed values.
+
+The allowed values for "Column Preset 3" include: FLOAT_COLOR, PRIORITY_NUMBER, EARLIEST_KEY_EVENT, EARLIEST_MILESTONE_EVENT, EARLIEST_TEST_EVENT, TASKNAME, CHECKLIST_INDICATOR, EARLY_START_DATE, EARLY_FINISH_DATE, LATE_START_DATE, LATE_FINISH_DATE, ACTUAL_START_DATE, ACTUAL_END_DATE, REMAINING_DURATION, TASK_DURATION, FLOAT, NORMALIZED_FLOAT, TASK_CALENDAR_NAME, SNET_DATE, P2PMS_DATE, TASK_RESOURCES_LIST, P2PADD_PREDECESSORTASK, P2PADD_SUCCESSORTASK, TASK_TYPE, OPPORTUNITYWINDOW, FORWARDRANKING, DISTANCE, RELATIVEPRIORITY.
+
+Please provide a valid string value from the list above. For example, you could use the command: `update Column Preset 3 set value to PRIORITY_NUMBER;`.
