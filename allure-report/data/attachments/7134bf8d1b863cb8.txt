@@ -1,0 +1,1 @@
+The current setting for displaying Successor Chains in the filtering pane is "Updated Successor Chains to Stuck Task(s)."

@@ -1,0 +1,1 @@
+Is the option to display completed action items currently turned on or off in the Project Control report?

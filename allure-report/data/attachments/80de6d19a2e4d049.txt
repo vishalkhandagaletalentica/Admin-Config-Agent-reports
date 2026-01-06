@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'CYCLETIME', 'entry': 'DEFAULT_CT_TARGET_VALUE', 'url': None}

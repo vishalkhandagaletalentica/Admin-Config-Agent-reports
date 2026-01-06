@@ -1,0 +1,1 @@
+{'entryId': 2519, 'sectionId': 146, 'flags': 0, 'entryName': 'CUSTOM_TASK_TEXT5', 'entryFriendlyName': 'Text 5', 'strValue': 'Text5', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Text 5', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510380.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,0 +1,1 @@
+{'entryId': 1964, 'sectionId': 30, 'flags': 1, 'entryName': 'PRED_TASKID', 'entryFriendlyName': 'PROJECT_NAME', 'strValue': 'PROJECT_NAME', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

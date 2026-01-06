@@ -1,0 +1,1 @@
+The “6 Months” filter label in the Filtering pane was updated from “6 Months” to “12 Months.”

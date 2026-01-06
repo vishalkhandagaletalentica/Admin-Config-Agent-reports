@@ -1,0 +1,3 @@
+The command to update the Queue Trend Interval (In Weeks) is invalid because the provided value 'abcde' is not a numeric value. The expected type is an integer within the range of 1 to 999. 
+
+Please provide a valid integer value within this range. For example, you can use the command: `update Queue Trend Interval (In Weeks) to 12`.

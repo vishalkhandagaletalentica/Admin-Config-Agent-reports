@@ -1,0 +1,9 @@
+The following columns are hidden in the Executive → Red Projects report:
+- Highest Priority Level
+- Highest Priority Level Consumption
+- New Planned Start
+- Trend Chart
+- Planned Date
+- Last Update
+- New Update Compliance
+- New Additional Details

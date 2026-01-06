@@ -1,0 +1,1 @@
+{'entryId': 334, 'sectionId': 10, 'flags': 0, 'entryName': 'HAS_TASK_LINKS', 'entryFriendlyName': 'View Document Links', 'strValue': 'View Document Links', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'View Document Links', 'rangeList': None, 'validationRule': None, 'sequenceId': 106680.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+The current mapping for the Description column in the checklist integration is New Description.

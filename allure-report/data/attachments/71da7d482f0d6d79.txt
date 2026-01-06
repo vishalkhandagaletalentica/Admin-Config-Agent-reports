@@ -1,0 +1,1 @@
+{'entryId': 600, 'sectionId': 10, 'flags': 0, 'entryName': 'COMMIT_DATE', 'entryFriendlyName': 'Commit Date', 'strValue': 'Commit Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Commit Date in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 112000.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

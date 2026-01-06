@@ -1,0 +1,1 @@
+What is the current setting for calculating the float based color with respect to the normalized total float value?

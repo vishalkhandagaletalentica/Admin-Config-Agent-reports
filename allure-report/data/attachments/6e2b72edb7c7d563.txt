@@ -1,0 +1,1 @@
+{'entryId': 620, 'sectionId': 10, 'flags': 0, 'entryName': 'ACTION_ITEM', 'entryFriendlyName': 'Action Item', 'strValue': 'Task', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Action Item in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 112400.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

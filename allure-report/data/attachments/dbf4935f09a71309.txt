@@ -1,0 +1,1 @@
+{'entryId': 1983, 'sectionId': 10, 'flags': 0, 'entryName': 'PULL_IN_OFFSET', 'entryFriendlyName': 'Pull-In Offset', 'strValue': 'Pull-In Offset', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Pull-In Offset', 'rangeList': None, 'validationRule': None, 'sequenceId': 139660.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

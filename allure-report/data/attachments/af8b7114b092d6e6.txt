@@ -1,0 +1,1 @@
+The current status of the duration reduction option in the client settings is set to Round to Quarter.

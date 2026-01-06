@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Manager Filter (Common -> Filter Names)', 'Filters to display (Task List -> Task Mgr)', 'Filters Available (Task Mgr -> Subtask List)'], 'value': None, 'section': None, 'entry': None, 'url': None}

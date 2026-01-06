@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the In Process setting to disabled.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “In Process” setting?'}, {'role': 'user', 'content': 'The section name is Exclude Projects.'}, {'role': 'assistant', 'content': 'The In Process setting is now disabled. It was enabled before.'}]

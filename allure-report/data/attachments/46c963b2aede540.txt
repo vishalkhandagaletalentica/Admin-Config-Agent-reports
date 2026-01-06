@@ -1,0 +1,1 @@
+update configuration setting 'Enable resource highlighting (Requires BM Run)' to 'abcde'

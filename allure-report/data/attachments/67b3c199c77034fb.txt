@@ -1,0 +1,1 @@
+The Rows per page for Subtask List was 100 and is now set to 50.

@@ -1,0 +1,8 @@
+Current filters displayed in the Task List report:
+- Horizon
+- Task Status
+- Task Manager
+- Project
+- Division
+- Portfolio
+- Task Type

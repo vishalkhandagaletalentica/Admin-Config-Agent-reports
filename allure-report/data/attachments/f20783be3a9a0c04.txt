@@ -1,0 +1,1 @@
+{'entryId': 1067, 'sectionId': 11, 'flags': 0, 'entryName': 'INCLUDE_START_DELAY', 'entryFriendlyName': 'Show Start Delay', 'strValue': 'Show Start Delay', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Show Start Delay', 'rangeList': None, 'validationRule': None, 'sequenceId': 131340.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

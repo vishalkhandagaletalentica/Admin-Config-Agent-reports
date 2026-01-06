@@ -1,0 +1,1 @@
+{'entryId': 1537, 'sectionId': 86, 'flags': 0, 'entryName': 'HIDDEN_FIELDS', 'entryFriendlyName': 'Hidden Fields', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Columns hidden in report', 'rangeList': '$MULTILIST:', 'validationRule': None, 'sequenceId': 890740.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

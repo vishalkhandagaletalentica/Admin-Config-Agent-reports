@@ -1,0 +1,1 @@
+The Full Kit Manager column name has been successfully updated to "Full Kit Manager".

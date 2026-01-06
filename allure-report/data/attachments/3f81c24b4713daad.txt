@@ -1,0 +1,1 @@
+The mapping for Custom Task Text Field 33 in the advanced filter settings is "NewText33".

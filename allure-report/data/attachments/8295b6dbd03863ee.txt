@@ -1,0 +1,1 @@
+The current display name used in the Task Manager and Project reports is "Manager."

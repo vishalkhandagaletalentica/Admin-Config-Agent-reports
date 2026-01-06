@@ -1,0 +1,3 @@
+The command to update the Task Status Filter is invalid because the value '12345' is not within the allowed range of values. The expected values are: NS_IP, NOT_STARTED_NS, IN_PROGRESS_IP, COMPLETED_CO_TASKSTATUS, or NS_IP_CO. 
+
+A correct example command would be: `update Task Status Filter to NOT_STARTED_NS`.

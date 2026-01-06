@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Released', 'RL', 'Released (RL)'], 'value': None, 'section': None, 'entry': None, 'url': None}

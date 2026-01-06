@@ -1,0 +1,1 @@
+The setting "Show Rolling Average" has been successfully updated to disable the display of Rolling Average in the Throughput report.

@@ -1,0 +1,1 @@
+The current setting for the compliance period in hours for purchasing tasks is "Update Compliance Period for Purchasing Tasks (hrs)".

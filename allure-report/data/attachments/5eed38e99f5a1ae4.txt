@@ -1,0 +1,1 @@
+How many tasks are currently set to be displayed in the task list widget?

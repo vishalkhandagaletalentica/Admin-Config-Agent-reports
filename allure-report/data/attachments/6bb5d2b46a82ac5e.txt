@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PLANNING_CLIENT_COMMON', 'entry': 'CUSTOM_FIELD_FOR_SCOPE_INFORMATION', 'url': None}

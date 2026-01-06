@@ -1,0 +1,1 @@
+{'entryId': 176, 'sectionId': 10, 'flags': 0, 'entryName': 'P2PPLANNING_TARGET_DATE', 'entryFriendlyName': 'Target Date', 'strValue': 'Target Dt', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2PPLANNING_TARGET_DATE', 'rangeList': None, 'validationRule': None, 'sequenceId': 103520.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

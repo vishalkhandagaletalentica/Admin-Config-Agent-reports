@@ -1,0 +1,1 @@
+The Actual Output correctly states the default sorting order for the Buffering page as '54321', which aligns with the Expected Output. However, it includes quotation marks around the number, which is unnecessary and slightly deviates from the expected format. Overall, it directly addresses the intent of the question and provides the correct factual information.

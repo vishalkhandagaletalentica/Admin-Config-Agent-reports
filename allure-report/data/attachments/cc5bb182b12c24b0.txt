@@ -1,0 +1,1 @@
+Please update the column mapping for Text4 to "Restricted Usage Qty".

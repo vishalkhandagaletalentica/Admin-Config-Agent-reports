@@ -1,0 +1,1 @@
+The "Display Project List In Print Preview" setting in the Red Project Delay report has been disabled.

@@ -1,0 +1,1 @@
+Display of Full Name in reports has been disabled; reports will now show the User ID. This change may require a server refresh or restart (or Auto BM) to take effect if server caching is enabled.

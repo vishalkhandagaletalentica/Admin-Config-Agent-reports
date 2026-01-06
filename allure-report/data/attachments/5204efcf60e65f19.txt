@@ -1,0 +1,1 @@
+{'entryId': 1704, 'sectionId': 11, 'flags': 0, 'entryName': 'IP-S', 'entryFriendlyName': 'IP-S', 'strValue': 'IP-S', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for IP Stuck work card status.', 'rangeList': None, 'validationRule': None, 'sequenceId': 144080.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

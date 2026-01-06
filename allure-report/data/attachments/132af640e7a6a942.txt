@@ -1,0 +1,1 @@
+Updated the display name in column headers: "Max Cuml L:C" is now "Maximum Cumulative Load".

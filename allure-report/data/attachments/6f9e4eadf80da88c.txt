@@ -1,0 +1,1 @@
+The current number of completed phases set for the Gate report is 15.

@@ -1,0 +1,1 @@
+{'entryId': 439, 'sectionId': 31, 'flags': 1, 'entryName': 'EXEC_TASK_DESCRIPTION', 'entryFriendlyName': 'EXEC_TASK_DESCRIPTION', 'strValue': 'EXECMGT_TASK_DESCRIPTION', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 318780.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

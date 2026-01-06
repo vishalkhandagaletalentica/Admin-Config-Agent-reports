@@ -1,0 +1,1 @@
+{'entryId': 1264, 'sectionId': 11, 'flags': 0, 'entryName': 'SUBTASKS', 'entryFriendlyName': 'Subtasks', 'strValue': 'Subtasks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Subtasks.', 'rangeList': None, 'validationRule': None, 'sequenceId': 135280.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Subtask type Network — Common -> Column Names', 'Subtask Type (Gantt) — Common -> Column Names', 'Add SubTask Type — Integration -> Subtask'], 'value': None, 'section': None, 'entry': None, 'url': None}

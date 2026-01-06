@@ -1,0 +1,1 @@
+Yes — project-level action items are currently being displayed in the Action Item dialog (enabled).

@@ -1,0 +1,3 @@
+The command is invalid because the value '12345' is not of the expected type. The allowed values for 'Chart Type' are limited to the following options: BAR_CHART, LINE_CHART. Please use one of these values.
+
+For example, a correct command would be: `update configuration set Chart Type to BAR_CHART`.

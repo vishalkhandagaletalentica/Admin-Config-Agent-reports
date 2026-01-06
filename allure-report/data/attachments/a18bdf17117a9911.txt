@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_GRPT_ACT_BY_RES_SEARCH_COLUMNS', 'entry': 'RESOURCE_NAME', 'url': None}

@@ -1,0 +1,1 @@
+Enabled the option to use the time of day as the horizon start for buffer management.

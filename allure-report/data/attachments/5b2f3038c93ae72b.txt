@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_GRID_REPORT', 'entry': 'AUTO_POPULATE_CUSTOM_DATES', 'url': None}

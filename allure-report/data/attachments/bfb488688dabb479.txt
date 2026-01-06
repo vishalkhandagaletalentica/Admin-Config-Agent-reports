@@ -1,0 +1,1 @@
+I've updated Task Text 74 in the Adv. filter in Gantt section from "Text74" to "NewText74".

@@ -1,0 +1,1 @@
+The Priority column heading has been updated from "Priority" to "High".

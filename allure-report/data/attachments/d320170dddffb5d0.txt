@@ -1,0 +1,1 @@
+{'entryId': 1219, 'sectionId': 10, 'flags': 0, 'entryName': 'CURRENT_WEEK', 'entryFriendlyName': 'Current Week', 'strValue': 'Next Week', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Current Week.', 'rangeList': None, 'validationRule': None, 'sequenceId': 124380.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

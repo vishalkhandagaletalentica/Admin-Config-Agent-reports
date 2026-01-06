@@ -1,0 +1,1 @@
+The current title for the Last Commit Date column in the reports is "Last Commit Timestamp."

@@ -1,0 +1,18 @@
+The following columns are currently hidden in the Task Level Priorities By Resource report:
+- Expected Finish
+- Text1
+- RZ Reference
+- Expected Enhancements
+- Hours Remaining
+- CUSTOM_TASK_TEXT5
+- Security Code Updated
+- NewUID
+- Disable Auto Document Link
+- Constraint Date
+- Sort Window Start
+- QA Check
+- Technician
+- New Zone
+- Job Status
+- Route Key
+- Help Needed

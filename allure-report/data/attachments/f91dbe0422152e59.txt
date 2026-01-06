@@ -1,0 +1,1 @@
+The advanced-filter field mapped to Actual End Date (Actual Finish) is "AF".

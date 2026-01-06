@@ -1,0 +1,1 @@
+The current column name for the Percent Full Kit Complete in the Full Kit Report is 50.

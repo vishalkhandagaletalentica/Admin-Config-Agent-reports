@@ -1,0 +1,1 @@
+{'entryId': 1268, 'sectionId': 10, 'flags': 0, 'entryName': 'CHECKLIST_TEXT1', 'entryFriendlyName': 'Text1', 'strValue': 'WBS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name for Text1 in Task Checklist', 'rangeList': None, 'validationRule': None, 'sequenceId': 125360.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

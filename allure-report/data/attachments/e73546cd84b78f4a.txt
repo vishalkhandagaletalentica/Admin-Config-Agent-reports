@@ -1,0 +1,1 @@
+{'entryId': 131, 'sectionId': 10, 'flags': 0, 'entryName': 'DELAY_IN_DAYS', 'entryFriendlyName': 'Delay (in Days)', 'strValue': 'Delay (d)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Delay(d)', 'rangeList': None, 'validationRule': None, 'sequenceId': 102620.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

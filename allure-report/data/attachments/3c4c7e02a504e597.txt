@@ -1,0 +1,1 @@
+The report display type in the Cycle Time report was updated from TIME_INTERVALS to PROJECTS.

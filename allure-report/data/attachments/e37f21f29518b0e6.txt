@@ -1,0 +1,1 @@
+{'entryId': 2745, 'sectionId': 120, 'flags': 0, 'entryName': 'CC_COL_PRESET3_NAME', 'entryFriendlyName': 'Column Preset 3 Name', 'strValue': 'DEV', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Name for CC Column Preset 3', 'rangeList': None, 'validationRule': None, 'sequenceId': 1254900.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

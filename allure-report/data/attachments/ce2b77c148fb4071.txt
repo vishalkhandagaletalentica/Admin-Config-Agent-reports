@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the title displayed as 'Changed By', which aligns with the Expected Output. However, it lacks the specificity of mentioning that this title is for the 'Changed By' column in the reports, which is a key detail in the Expected Output. This omission affects the completeness of the response, leading to a deduction in points.

@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_EXEC_STATUS_REPORT', 'entry': 'INCLUDE_WORKCARD_INFO_LINK', 'url': None}

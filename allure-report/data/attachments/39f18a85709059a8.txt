@@ -1,0 +1,1 @@
+The currently hidden columns in the report are: Actual Chain Start, P2PADD Finish Date, Author, Category, Subject, Project Rank, Attribute 1, Project Manager Display Name, Attribute 2, Attribute 3, Attribute 4, and Attribute 5.

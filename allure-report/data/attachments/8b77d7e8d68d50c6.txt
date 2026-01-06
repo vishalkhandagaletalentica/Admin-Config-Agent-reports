@@ -1,0 +1,1 @@
+{'entryId': 2850, 'sectionId': 153, 'flags': 0, 'entryName': 'ATTRIBUTE4', 'entryFriendlyName': 'Project Attribute 7', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Attribute 7', 'rangeList': None, 'validationRule': None, 'sequenceId': 1587000.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

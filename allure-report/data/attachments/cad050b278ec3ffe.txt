@@ -1,0 +1,1 @@
+{'entryId': 94, 'sectionId': 10, 'flags': 1, 'entryName': 'CATEGORY', 'entryFriendlyName': 'Business Unit', 'strValue': 'New Product Code', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Business Unit', 'rangeList': None, 'validationRule': None, 'sequenceId': 101880.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

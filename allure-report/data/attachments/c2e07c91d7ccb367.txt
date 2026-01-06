@@ -1,0 +1,1 @@
+For "Text columns that can be searched by users to locate tasks" → Custom Task Text Field 1: there is no restricted list of allowed values, so any string is accepted. Its current value is "CUSTOM_TASK_TEXT1."

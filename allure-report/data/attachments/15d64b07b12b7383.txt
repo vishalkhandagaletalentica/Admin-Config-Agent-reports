@@ -1,0 +1,1 @@
+The email sending feature for updates at the end of the integration is disabled.

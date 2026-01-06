@@ -1,0 +1,1 @@
+{'entryId': 192, 'sectionId': 10, 'flags': 0, 'entryName': 'NAME', 'entryFriendlyName': 'Name', 'strValue': 'Name', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 103840.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

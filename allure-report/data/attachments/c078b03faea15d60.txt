@@ -1,0 +1,1 @@
+The current column mapping for Duration when importing CSV or Excel files is "DU".

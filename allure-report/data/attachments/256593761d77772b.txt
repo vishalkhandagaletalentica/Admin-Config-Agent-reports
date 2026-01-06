@@ -1,0 +1,1 @@
+I attempted to update the Hidden Filters but the system rejected the change: it couldn't validate the $MULTILIST format for PROJECT_EXCLUSION → Hidden Filters. Would you like to (A) provide a different value that matches the allowed multilist items, or (B) proceed and save the exact text as a raw string if that's supported? Please tell me which option you prefer.

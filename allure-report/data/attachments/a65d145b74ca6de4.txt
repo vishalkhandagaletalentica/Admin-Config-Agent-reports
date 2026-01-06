@@ -1,0 +1,1 @@
+The current allowed percentage of cross links is 25%.

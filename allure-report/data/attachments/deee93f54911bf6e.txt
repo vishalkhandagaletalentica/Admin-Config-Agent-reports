@@ -1,0 +1,2 @@
+The columns hidden in Print Preview for the Resource Mgr → Global Resource File report are:
+- IS_VIRTUAL

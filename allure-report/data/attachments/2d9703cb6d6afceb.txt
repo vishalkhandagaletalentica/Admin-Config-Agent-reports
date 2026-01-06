@@ -1,0 +1,1 @@
+The current default stretch limit for fixed projects is 5 days.

@@ -1,0 +1,1 @@
+I could not find a section literally named "Column headings" in the configuration. The item "Future Flow Days" is in the "Common -> Column Names" section and is already set to "Upcoming Flow Days".

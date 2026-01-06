@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the current column name for the task's remaining duration in Excel as 'TaskRemDurationNew', which matches the Expected Output in factual content. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

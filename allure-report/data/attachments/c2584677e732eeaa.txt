@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Project Control (Hidden Fields for Project Control report)', 'Project Mgr/Resource Mgr -> Assign Task Managers (Hidden Fields for Assign Task Managers)'], 'value': None, 'section': None, 'entry': None, 'url': None}

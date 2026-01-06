@@ -1,0 +1,1 @@
+Updated the Default group by for Resource Needs reports from "RESOURCES" to "PROJECT".

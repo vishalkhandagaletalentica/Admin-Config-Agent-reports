@@ -1,0 +1,1 @@
+{'entryId': 1902, 'sectionId': 10, 'flags': 0, 'entryName': 'CHANGED_REASON', 'entryFriendlyName': 'Reason For Change', 'strValue': 'Reason For Change', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Item Name of Reason For Change', 'rangeList': None, 'validationRule': None, 'sequenceId': 138040.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

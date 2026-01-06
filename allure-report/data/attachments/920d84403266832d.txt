@@ -1,0 +1,1 @@
+{'entryId': 1324, 'sectionId': 10, 'flags': 0, 'entryName': 'TOTAL_CMS', 'entryFriendlyName': 'CMS', 'strValue': 'CMS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'The total number of Contractual milestones (CMS) per project.', 'rangeList': None, 'validationRule': None, 'sequenceId': 126480.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

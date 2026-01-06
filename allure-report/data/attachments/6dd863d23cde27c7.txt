@@ -1,0 +1,1 @@
+{'entryId': 565, 'sectionId': 11, 'flags': 0, 'entryName': 'FROM', 'entryFriendlyName': 'From', 'strValue': 'From', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for From in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121300.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

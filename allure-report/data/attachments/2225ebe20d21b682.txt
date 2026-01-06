@@ -1,0 +1,7 @@
+The following columns are currently hidden in the Actual Delay drill down report:
+- Last BM Date
+- Last Update
+- NewUID
+- Title (no display name set)
+- Pipeline Priority
+- Division

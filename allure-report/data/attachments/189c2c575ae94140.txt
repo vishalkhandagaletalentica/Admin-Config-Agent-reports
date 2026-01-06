@@ -1,0 +1,4 @@
+The command to update the value to '12345' is invalid because the expected type for the value is a string representing a multi-list of allowed options, not an integer. The allowed values include options such as DIVISION, AUTHOR, CATEGORY, SUBJECT, and others listed. 
+
+A correct example command would be: 
+`update Hidden Fields set value to DIVISION,AUTHOR,CATEGORY`

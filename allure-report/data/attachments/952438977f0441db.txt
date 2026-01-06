@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_COLUMN_NAMES', 'entry': 'REQD_BUFFER_SIZE', 'url': None}

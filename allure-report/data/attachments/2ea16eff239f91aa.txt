@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Date1 (for Full Kit Task Checklist)', 'Date2 (for Full Kit Task Checklist)', 'Full Kit Completion Date'], 'value': None, 'section': None, 'entry': None, 'url': None}

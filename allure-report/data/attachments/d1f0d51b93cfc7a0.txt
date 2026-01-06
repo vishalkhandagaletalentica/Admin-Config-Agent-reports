@@ -1,0 +1,1 @@
+The Show Managers Only in Project Mgr Filter setting for the Project Status view/report is currently disabled.

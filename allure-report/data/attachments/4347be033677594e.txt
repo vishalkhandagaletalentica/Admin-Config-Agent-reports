@@ -1,0 +1,5 @@
+The command is invalid because the value '12345' is not of the expected type for the configuration setting. The expected type is a comma-separated list of values, as indicated by the strValue in the data. 
+
+You should provide a list of values in the format of a string, such as: 'Task Type,Ready to start,Custom Task Text1,Custom Task Text2'. 
+
+Please use a command like this: `update configuration set value to 'Task Type,Ready to start,Custom Task Text1,Custom Task Text2';`

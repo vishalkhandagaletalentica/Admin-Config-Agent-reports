@@ -1,0 +1,1 @@
+Please enable the option to show participants in the Task Manager list.

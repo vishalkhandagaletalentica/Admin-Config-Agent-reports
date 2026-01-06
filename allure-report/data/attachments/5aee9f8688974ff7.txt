@@ -1,0 +1,1 @@
+Is the option to include users with indirect group membership in the report currently enabled or disabled?

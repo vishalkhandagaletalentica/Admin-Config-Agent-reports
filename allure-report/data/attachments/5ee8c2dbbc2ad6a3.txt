@@ -1,0 +1,1 @@
+{'entryId': 2013, 'sectionId': 10, 'flags': 0, 'entryName': 'SUBTASK_TYPE_PARALLEL', 'entryFriendlyName': 'Subtask type Parallel', 'strValue': 'Sequential', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask type Parallel', 'rangeList': None, 'validationRule': None, 'sequenceId': 140260.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

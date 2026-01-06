@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common → Column Names — Date2 (Column Name for Date2 in Task Checklist)', 'Checklist Integration → Fields Mapping — Date2 (Specifies column mapping with excel file column of Date2)'], 'value': None, 'section': None, 'entry': None, 'url': None}

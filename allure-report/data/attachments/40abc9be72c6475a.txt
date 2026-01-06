@@ -1,0 +1,1 @@
+Default Horizon is now set to 6 Months.

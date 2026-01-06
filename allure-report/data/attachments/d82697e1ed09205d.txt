@@ -1,0 +1,3 @@
+The command you provided to update the Sort Order with the value '12345' is invalid because the expected type for the value is a string from the allowed range $SORTABLELIST, not an integer. 
+
+Please use a valid string value from the sortable list. For example, a correct command could be: `update Sort Order set value to 'B-FK_CHECKLIST_SEQID';`

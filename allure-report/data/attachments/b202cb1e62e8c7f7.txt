@@ -1,0 +1,1 @@
+Can you show me the current setting for splitting in-progress tasks for MS-Project display based on the Concerto schedule?

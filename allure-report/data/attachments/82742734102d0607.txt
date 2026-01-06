@@ -1,0 +1,1 @@
+{'entryId': 956, 'sectionId': 10, 'flags': 0, 'entryName': 'GROUP_MEMBERSHIP', 'entryFriendlyName': 'Group Membership', 'strValue': 'Group Membership', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': "The User's group name", 'rangeList': None, 'validationRule': None, 'sequenceId': 119120.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

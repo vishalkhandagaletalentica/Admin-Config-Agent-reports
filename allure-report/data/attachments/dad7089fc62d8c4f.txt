@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Duration Decrease Unit to Hours.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Duration Decrease Unit" setting?'}, {'role': 'user', 'content': 'The section name is "Escalated Tasks report."'}, {'role': 'assistant', 'content': 'The Duration Decrease Unit has been set to Hours.'}]

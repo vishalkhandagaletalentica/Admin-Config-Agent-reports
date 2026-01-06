@@ -1,0 +1,1 @@
+The current filter name set for the Time Interval in the Issue Resolution report is "Day."

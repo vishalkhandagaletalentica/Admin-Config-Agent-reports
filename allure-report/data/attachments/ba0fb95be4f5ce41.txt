@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the value to "14 days".'}, {'role': 'assistant', 'content': 'Which configuration (section and entry) should I update to “14 days”?'}, {'role': 'user', 'content': 'The section name is "Filtering Pane Titles" and the entry name is "7 days".'}, {'role': 'assistant', 'content': 'Updated the "7 days" filtering pane title to "14 days."'}]

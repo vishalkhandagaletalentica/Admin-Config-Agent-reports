@@ -1,0 +1,1 @@
+The command is invalid because the value "abcde" is of the wrong type; it must be an integer within the allowed range of 1 to 999. Please provide a valid integer value. For example, you could use the command: `update "Past Periods In Tooltip" to 5`.

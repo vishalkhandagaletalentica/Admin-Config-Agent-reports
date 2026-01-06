@@ -1,0 +1,1 @@
+{'entryId': 1222, 'sectionId': 10, 'flags': 0, 'entryName': 'PAST_DAYS', 'entryFriendlyName': 'Past Days', 'strValue': 'Past Days', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Past Days.', 'rangeList': None, 'validationRule': None, 'sequenceId': 124440.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

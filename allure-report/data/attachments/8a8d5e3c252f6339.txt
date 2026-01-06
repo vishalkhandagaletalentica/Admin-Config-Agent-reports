@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Percent Complete setting to DPC_NEW.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Percent Complete” setting?'}, {'role': 'user', 'content': 'The section name is the "Mapping Fields" section.'}, {'role': 'assistant', 'content': 'The Percent Complete setting has been updated to DPC_NEW.'}]

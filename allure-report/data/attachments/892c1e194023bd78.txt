@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Planning Client -> Import Field Mapping — Text7 (column mapping when importing CSV/Excel)', 'Planning Client -> Adv. Filter Field Mapping — Text 7 (advance filter key mapping)', 'Integration -> Task — Text7 (column name of TEXT7)'], 'value': None, 'section': None, 'entry': None, 'url': None}

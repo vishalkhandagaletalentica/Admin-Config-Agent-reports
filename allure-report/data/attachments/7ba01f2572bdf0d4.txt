@@ -1,0 +1,6 @@
+The command is invalid because the `value` being set is of type integer (12345) while the current `strValue` is a string ('Number13'). You should provide a string value instead. 
+
+A correct example command would be:  
+`update configuration set value = 'New String Value' where entryFriendlyName = 'Task Number 13';` 
+
+Please replace 'New String Value' with an appropriate string.

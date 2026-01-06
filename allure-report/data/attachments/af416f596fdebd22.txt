@@ -1,0 +1,1 @@
+What is the current title displayed for the filtering pane regarding the last 7 days?

@@ -1,0 +1,1 @@
+The option to display subprojects in the Throughput report is currently disabled.

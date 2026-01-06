@@ -1,0 +1,1 @@
+The current default font size set for Print Preview in the Task Penetrating Chain report is extra-large.

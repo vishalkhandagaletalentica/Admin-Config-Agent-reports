@@ -1,0 +1,1 @@
+The command is invalid because the expected value type is an integer (intValue), but you provided a string ("abcde"). Please provide a valid integer value within the allowed range. For example, you could use the command: `update_config "Red Project Buffer" 3`.

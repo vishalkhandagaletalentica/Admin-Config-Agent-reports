@@ -1,0 +1,1 @@
+The current setting for the text columns that users can search to find tasks is "Project Mgr".

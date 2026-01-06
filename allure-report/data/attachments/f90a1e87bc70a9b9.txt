@@ -1,0 +1,1 @@
+Please update the Project Attribute6 mandatory setting to disabled.

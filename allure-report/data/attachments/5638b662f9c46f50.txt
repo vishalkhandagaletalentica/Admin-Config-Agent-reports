@@ -1,0 +1,1 @@
+{'entryId': 1136, 'sectionId': 11, 'flags': 0, 'entryName': 'CUSTOM_DATE1', 'entryFriendlyName': 'Custom Date 1', 'strValue': '2023-10-01', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter value for Custom Date 1.', 'rangeList': None, 'validationRule': None, 'sequenceId': 132720.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

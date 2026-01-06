@@ -1,0 +1,1 @@
+The column name "Priority" was updated from "High" to "Updated Priority Name".

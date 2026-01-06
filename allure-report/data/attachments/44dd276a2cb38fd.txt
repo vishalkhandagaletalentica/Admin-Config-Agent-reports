@@ -1,0 +1,1 @@
+update configuration set Include Contractual Milestones to 'abcde'

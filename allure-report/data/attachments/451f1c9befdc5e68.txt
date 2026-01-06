@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Current Help Needed setting to disabled.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Current Help Needed” setting?'}, {'role': 'user', 'content': 'The section name is Buffer Diagnostics.'}, {'role': 'assistant', 'content': 'Which entry in Buffer Diagnostics do you mean?'}]

@@ -1,0 +1,1 @@
+{'entryId': 552, 'sectionId': 11, 'flags': 0, 'entryName': 'BIWEEKLY', 'entryFriendlyName': 'Bi-Weekly', 'strValue': 'Bi-Weekly', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Bi-Weekly in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121040.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

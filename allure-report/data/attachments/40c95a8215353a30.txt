@@ -1,0 +1,7 @@
+The following columns are currently hidden in the Actual Delay report:
+- Last BM Date
+- Last Update
+- UID
+- Description
+- Pipeline Priority
+- Division

@@ -1,0 +1,1 @@
+{'entryId': 2398, 'sectionId': 143, 'flags': 0, 'entryName': 'INTEGRATION_TASK_TEXT4_COLUMN', 'entryFriendlyName': 'Text4', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name of TEXT4', 'rangeList': None, 'validationRule': None, 'sequenceId': 1477960.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,0 +1,1 @@
+The window size used to group priority tasks for Project Mgr → Task Level Priorities By Task Mgr is 5.

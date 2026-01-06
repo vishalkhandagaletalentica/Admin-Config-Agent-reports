@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'How many tasks are currently set to be displayed in the task list widget?'}, {'role': 'assistant', 'content': 'The task list widget is set to display 5 tasks.'}, {'role': 'user', 'content': 'Set it to 10.'}, {'role': 'assistant', 'content': 'Updated — the task list widget was changed from 5 to 10 tasks.'}]

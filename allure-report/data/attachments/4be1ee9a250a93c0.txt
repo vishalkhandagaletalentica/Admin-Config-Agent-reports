@@ -1,0 +1,1 @@
+Can you show me whether the option to include ignored tasks in the filtering pane is enabled or disabled?

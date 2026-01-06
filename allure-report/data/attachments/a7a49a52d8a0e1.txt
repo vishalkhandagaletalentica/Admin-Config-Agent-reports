@@ -1,0 +1,1 @@
+{'entryId': 413, 'sectionId': 29, 'flags': 1, 'entryName': 'TEXT_18', 'entryFriendlyName': 'TEXT_18', 'strValue': 'COMMENTS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 298260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

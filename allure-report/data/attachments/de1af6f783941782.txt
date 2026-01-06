@@ -1,0 +1,2 @@
+Project Status report — default sort: "54321" (the configured sort token for the report).
+Red Projects report — default sort: "PLANNED_DATE -> Planned Date,ACTUAL_DATE" (sorts first by Planned Date, then by Actual Date).

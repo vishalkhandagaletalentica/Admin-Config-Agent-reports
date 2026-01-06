@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Custom Task Text Field 3', 'Custom Task Text Field 5', 'Custom Task Text Field 10', 'Task Text 50 (Custom Task Text Field) — Adv. Filter Mapping', 'Task Text 50 (Custom Task Text Field) — Column Name'], 'value': None, 'section': None, 'entry': None, 'url': None}

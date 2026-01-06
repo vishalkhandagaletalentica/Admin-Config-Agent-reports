@@ -1,0 +1,1 @@
+I attempted to update Hidden Fields in Project Chain View but the update failed: no column definition was found for that section/entry and the system cannot validate the $MULTILIST: format. Please provide a valid multilist value (a comma-separated list of allowed column tokens) or tell me how you'd like to proceed.

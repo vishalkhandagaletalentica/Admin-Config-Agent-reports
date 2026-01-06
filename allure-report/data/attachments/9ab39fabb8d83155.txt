@@ -1,0 +1,1 @@
+{'entryId': 1466, 'sectionId': 11, 'flags': 0, 'entryName': 'LIGHT_RED', 'entryFriendlyName': 'Light Red', 'strValue': 'Bright Red', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Light Red.', 'rangeList': None, 'validationRule': None, 'sequenceId': 139320.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

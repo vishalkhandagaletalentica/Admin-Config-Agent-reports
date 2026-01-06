@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['CMSB — red trigger at 100% chain complete', 'CCFB — red trigger at 100% chain complete', 'CCCB — red trigger at 100% chain complete'], 'value': None, 'section': None, 'entry': None, 'url': None}

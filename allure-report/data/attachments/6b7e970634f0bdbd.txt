@@ -1,0 +1,1 @@
+Can you show me whether the error warnings are currently enabled for project commits?

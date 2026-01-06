@@ -1,0 +1,1 @@
+The Skill column heading was updated from "Skill" to "Work Card Skill".

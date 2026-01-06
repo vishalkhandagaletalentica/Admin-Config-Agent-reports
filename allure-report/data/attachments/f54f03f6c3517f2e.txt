@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it accurately states the column title as 'Incomplete,' which matches the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions, and the phrasing is acceptable despite not mirroring the Expected Output's structure.

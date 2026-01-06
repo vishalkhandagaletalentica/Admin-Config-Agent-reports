@@ -1,0 +1,1 @@
+The Streamliner email for authentication is user@example.com.

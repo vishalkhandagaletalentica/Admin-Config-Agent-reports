@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Chain Type to SUCCESSOR_CHAINS.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Chain Type" setting?'}, {'role': 'user', 'content': 'The section name is Contractual Milestone Chain View.'}, {'role': 'assistant', 'content': 'Chain Type has been updated to SUCCESSOR_CHAINS.'}]

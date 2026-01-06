@@ -1,0 +1,1 @@
+The Integration -> Subtask column labeled “Successors” has been updated to “New Successors.”

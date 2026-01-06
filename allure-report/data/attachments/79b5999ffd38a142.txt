@@ -1,0 +1,1 @@
+{'entryId': 235, 'sectionId': 12, 'flags': 0, 'entryName': 'P2PSUCCESSORS', 'entryFriendlyName': 'P2P Successors', 'strValue': 'P2P Successors', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P Successors', 'rangeList': None, 'validationRule': None, 'sequenceId': 124700.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

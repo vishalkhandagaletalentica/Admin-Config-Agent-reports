@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the On Hold setting to disabled.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "On Hold" setting?'}, {'role': 'user', 'content': 'The section name is "Executive -> Project Status and Executive -> Red Projects reports."'}, {'role': 'assistant', 'content': 'The On Hold setting has been disabled.'}]

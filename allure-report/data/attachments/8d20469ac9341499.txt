@@ -1,0 +1,1 @@
+update configuration set Enable Automatic Links to 'xyz';

@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Cancel Reason to "Cancellation Reason Updated".'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Cancel Reason” entry?'}, {'role': 'user', 'content': 'The section name is Column Headings.'}, {'role': 'assistant', 'content': 'The Cancel Reason has been updated to "Cancellation Reason Updated".'}]

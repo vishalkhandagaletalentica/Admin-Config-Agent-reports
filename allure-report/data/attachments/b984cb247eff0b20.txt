@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the correct column name. However, it lacks the additional context present in the Expected Output, which specifies 'used for task status in Task Excel.' This minor omission prevents a perfect score.

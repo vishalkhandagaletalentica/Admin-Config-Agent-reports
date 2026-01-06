@@ -1,0 +1,1 @@
+{'entryId': 1158, 'sectionId': 10, 'flags': 0, 'entryName': 'GO_LIVE_DATE', 'entryFriendlyName': 'Go-Live Date', 'strValue': 'Go-Live Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name for Go-Live Date.', 'rangeList': None, 'validationRule': None, 'sequenceId': 123160.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,0 +1,1 @@
+{'entryId': 906, 'sectionId': 11, 'flags': 0, 'entryName': 'PAST_REASONS', 'entryFriendlyName': 'Past Help Needed', 'strValue': 'Previous', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Help Needed used in the past', 'rangeList': None, 'validationRule': None, 'sequenceId': 128120.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

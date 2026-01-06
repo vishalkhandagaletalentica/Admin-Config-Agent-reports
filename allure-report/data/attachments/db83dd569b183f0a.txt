@@ -1,0 +1,1 @@
+{'entryId': 2310, 'sectionId': 24, 'flags': 0, 'entryName': 'NO_OF_RETRIES', 'entryFriendlyName': 'Number of Retries', 'strValue': None, 'floatValue': None, 'intValue': 3, 'valueType': 0, 'itemDesc': 'The total number of retries. Range (0 to 100).', 'rangeList': None, 'validationRule': None, 'sequenceId': 286200.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

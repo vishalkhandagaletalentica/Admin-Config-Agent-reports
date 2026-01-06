@@ -1,0 +1,1 @@
+What is the current mapping for the custom task date field 14 in the advanced filter?

@@ -1,0 +1,1 @@
+{'entryId': 987, 'sectionId': 10, 'flags': 1, 'entryName': 'ATTRIBUTE1', 'entryFriendlyName': 'Project Attribute 4', 'strValue': 'New Contractual Due Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Attribute 4', 'rangeList': None, 'validationRule': None, 'sequenceId': 119740.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

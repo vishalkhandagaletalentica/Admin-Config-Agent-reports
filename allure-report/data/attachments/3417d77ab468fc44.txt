@@ -1,0 +1,1 @@
+The default sorting order for Executive -> Red Projects was updated from "PLANNED_DATE -> Planned Date" to "PLANNED_DATE, ACTUAL_DATE".

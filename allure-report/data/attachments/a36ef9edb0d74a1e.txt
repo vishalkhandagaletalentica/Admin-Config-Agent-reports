@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please set the column name of CUSTOMTEXT6 to a new value.'}, {'role': 'assistant', 'content': 'What would you like the column title for CustomText6 to be?'}, {'role': 'user', 'content': 'The column title for CustomText6 should be set to a new value.'}, {'role': 'assistant', 'content': 'What should the new column title for CustomText6 be?'}]

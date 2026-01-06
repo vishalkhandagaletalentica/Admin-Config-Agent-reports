@@ -1,0 +1,1 @@
+I attempted to update Column Order for the On‑Time Delivery drill down report but the update failed: the system could not validate the multi-list format for the value you provided. Please provide a valid column-list value in the report's expected format (a multi-item list), or tell me if you want to store a plain string instead.

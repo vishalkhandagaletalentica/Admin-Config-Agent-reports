@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the sort criterion to CHAIN_NUM.'}, {'role': 'assistant', 'content': "Which configuration section contains the 'sort criterion' setting?"}, {'role': 'user', 'content': "The section name is 'Chain View Summary'."}, {'role': 'assistant', 'content': 'The sort criterion (Sort Chains By) was updated from PROJECTED_DATE to CHAIN_NUM.'}]

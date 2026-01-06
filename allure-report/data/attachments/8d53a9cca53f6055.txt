@@ -1,0 +1,12 @@
+I checked Column Preset 3 (Table view in planning client). Each of your requested items is present:
+- Task Type — present
+- Task Name — present
+- NewCheckList — present
+- Updated Dur — present
+- Predecessors Updated — present
+- Successor Tasks — present
+- Resources — present
+- Status — present
+- Task Duration — present
+- New Start Date — present
+There’s no misunderstanding: the preset already contains all ten columns you listed.

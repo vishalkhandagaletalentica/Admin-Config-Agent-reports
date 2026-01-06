@@ -1,0 +1,1 @@
+{'entryId': 1232, 'sectionId': 11, 'flags': 0, 'entryName': 'PROJECT_COUNT', 'entryFriendlyName': 'Project Count', 'strValue': 'Project Count', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Project Count.', 'rangeList': None, 'validationRule': None, 'sequenceId': 134640.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,0 +1,1 @@
+update configuration set Number of tasks displayed in the widget to 'abcde'

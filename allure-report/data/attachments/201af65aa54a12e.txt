@@ -1,0 +1,1 @@
+The current data point setting for the buckets in the Red Project Delay report is END_OF_BUCKET.

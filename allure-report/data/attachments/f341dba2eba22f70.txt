@@ -1,0 +1,4 @@
+The following columns are currently hidden in the Drum Throughput Drilldown report:
+- NewUID
+- [insert new value here]
+- Division

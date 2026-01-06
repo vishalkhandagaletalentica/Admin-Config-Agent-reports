@@ -1,0 +1,1 @@
+{'entryId': 2290, 'sectionId': 11, 'flags': 0, 'entryName': 'TASK_ONLY', 'entryFriendlyName': 'Only Tasks', 'strValue': 'Only Tasks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Used in the scope for Task Search dropdown.', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

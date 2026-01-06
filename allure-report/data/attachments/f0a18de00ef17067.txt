@@ -1,0 +1,1 @@
+Please update the Delay (in Results and Rules) setting to "Delay Time".

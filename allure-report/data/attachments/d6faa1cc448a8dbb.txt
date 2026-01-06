@@ -1,0 +1,1 @@
+The columns in the report are currently visible.

@@ -1,0 +1,1 @@
+{'entryId': 367, 'sectionId': 11, 'flags': 0, 'entryName': 'COMPLETEDCMS', 'entryFriendlyName': 'Completed CMS', 'strValue': 'Completed CMS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display name for Completed CMS.', 'rangeList': None, 'validationRule': None, 'sequenceId': 117340.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

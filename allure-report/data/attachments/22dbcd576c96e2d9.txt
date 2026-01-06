@@ -1,0 +1,1 @@
+The option to include completed tasks in the milestone view is enabled.

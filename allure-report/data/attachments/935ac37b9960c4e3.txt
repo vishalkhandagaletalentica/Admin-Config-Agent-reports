@@ -1,0 +1,1 @@
+The filter name for "Week" has been updated to "New Week."

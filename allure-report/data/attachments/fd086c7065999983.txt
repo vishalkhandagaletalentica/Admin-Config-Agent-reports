@@ -1,0 +1,1 @@
+The SNET Date column is currently mapped to "PS".

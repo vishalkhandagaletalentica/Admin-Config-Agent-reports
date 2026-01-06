@@ -1,0 +1,1 @@
+Updated the Cycle Time report’s Time Interval filter label from "Time Interval" to "Monthly".

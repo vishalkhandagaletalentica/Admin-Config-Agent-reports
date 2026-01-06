@@ -1,0 +1,1 @@
+The Header Interval has been successfully updated to 20.

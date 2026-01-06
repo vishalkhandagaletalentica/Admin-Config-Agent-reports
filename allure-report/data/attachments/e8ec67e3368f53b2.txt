@@ -1,0 +1,1 @@
+{'entryId': 1409, 'sectionId': 84, 'flags': 1, 'entryName': 'ATTRIBUTE4', 'entryFriendlyName': 'ATTRIBUTE4', 'strValue': 'ATTRIBUTE4', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 868180.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

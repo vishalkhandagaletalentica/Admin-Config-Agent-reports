@@ -1,0 +1,4 @@
+The report is currently showing these filters:
+
+- New Kit Manager
+- New Full Kit Task Desc

@@ -1,0 +1,3 @@
+The command you provided is invalid because the value type for the server parameter name is expected to be a string, but you are attempting to set it to an integer (12345). The expected type is a string. 
+
+Please use a valid string value. For example, a correct command would be: `update server_parameter_name set value = 'new_server_name'`.

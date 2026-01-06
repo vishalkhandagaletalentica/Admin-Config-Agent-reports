@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It clearly states that the automatic update for %FK Complete is disabled when checklist items change, which aligns perfectly with the Expected Output. There are no incorrect facts or unrelated entries introduced, and the tone is professional and concise.

@@ -1,0 +1,1 @@
+What is the current title displayed for the x-large font size in the filtering pane?

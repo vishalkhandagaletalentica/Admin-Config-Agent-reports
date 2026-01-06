@@ -1,0 +1,1 @@
+I attempted to set “Columns hidden in report” in “Full Kit task checklist items” to "12345", but the update failed: the system requires a $MULTILIST-formatted value and could not validate the entry. Would you like to provide a properly formatted multi-list value, or cancel this change?

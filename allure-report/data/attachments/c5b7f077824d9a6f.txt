@@ -1,0 +1,1 @@
+The current default selection for the Full Kit Task Description filter is "New Full Kit Task Desc."

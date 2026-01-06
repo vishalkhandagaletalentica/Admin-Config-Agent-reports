@@ -1,0 +1,1 @@
+I attempted to update the Column Order but the system failed to apply the change: it couldn't find the column definitions for that report and therefore could not validate the multi-list format. Would you like help formatting the column order correctly (e.g., using column_key -> Label entries separated by commas) or should I try again with a different value?

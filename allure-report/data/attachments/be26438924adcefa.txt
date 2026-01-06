@@ -1,0 +1,1 @@
+The current title displayed for the "From" filter in the filtering pane is "Sender."

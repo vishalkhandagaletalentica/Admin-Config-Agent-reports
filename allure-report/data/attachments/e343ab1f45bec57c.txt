@@ -1,0 +1,1 @@
+{'entryId': 66, 'sectionId': 7, 'flags': 0, 'entryName': 'CCFB-R-Priority', 'entryFriendlyName': 'Red Feeding Buffer', 'strValue': None, 'floatValue': None, 'intValue': 8, 'valueType': 0, 'itemDesc': 'Red Feeding Buffer', 'rangeList': None, 'validationRule': None, 'sequenceId': 71320.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+Yes — the filtering pane title for Internal Milestones is "New Internal Milestones."

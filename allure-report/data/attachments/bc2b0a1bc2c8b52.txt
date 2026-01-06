@@ -1,0 +1,1 @@
+The setting "Calculate Float based color considering Normalized Total Float" in Float Priorities has been set to relative.

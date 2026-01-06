@@ -1,0 +1,1 @@
+The Actual Output lists numerous titles shown in the filtering pane but fails to address the intent of the Input question, which asks for the current status of those titles. The Expected Output indicates that the status is 'Currently Under Review,' which is not mentioned in the Actual Output, leading to a complete misalignment with the evaluation steps.

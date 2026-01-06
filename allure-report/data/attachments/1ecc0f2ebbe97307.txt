@@ -1,0 +1,1 @@
+Can you show me the current setting for including cancelled projects in the Throughput report?

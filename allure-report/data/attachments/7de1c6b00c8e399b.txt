@@ -1,0 +1,1 @@
+The current setting for the Content field when a task is ready to start is: "The following task is ready to start. Click on %LINK% to go to the Task List page. Project Name: %PROJECT_NAME% MSPTask Id: %MSP_TASK_ID% Task Unique ID: %TASKUNIQUEID% Task Description: %TASK_DESCRIPTION%."

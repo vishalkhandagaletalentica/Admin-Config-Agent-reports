@@ -1,0 +1,1 @@
+The Exceptions From Variable Capacity File heading in Column Headings in ConWeb Views and Reports was updated from "Exceptions" to "Updated Exceptions".

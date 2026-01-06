@@ -1,0 +1,5 @@
+The command is invalid because the value type for "Hidden Fields" is a multi-list, which requires a string of values rather than a single integer. The expected type is a comma-separated list of string values. 
+
+You should provide a value like 'BM_LAST_UPDATE,LAST_UPDATE_DATE,PROJECT_UNIQUE_ID,TITLE,PIPELINE_PRIORITY,DIVISION'.
+
+A correct command would be: `update Hidden Fields set value to 'BM_LAST_UPDATE,LAST_UPDATE_DATE,PROJECT_UNIQUE_ID,TITLE,PIPELINE_PRIORITY,DIVISION'`.

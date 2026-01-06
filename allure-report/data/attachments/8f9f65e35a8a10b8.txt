@@ -1,0 +1,1 @@
+{'entryId': 139, 'sectionId': 10, 'flags': 0, 'entryName': 'PENETRATING_TASK_LAST_UDPATE', 'entryFriendlyName': 'Last Update (Penetrating Task)', 'strValue': 'Last Update', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Last Update', 'rangeList': None, 'validationRule': None, 'sequenceId': 102780.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the current value for the custom task text field that I can search?'}, {'role': 'assistant', 'content': 'Which custom task text field did you mean? Please pick one:'}, {'role': 'user', 'content': 'I meant Custom Task Text Field 1.'}, {'role': 'assistant', 'content': 'Custom Task Text Field 1 is set to "test-input-2".'}]

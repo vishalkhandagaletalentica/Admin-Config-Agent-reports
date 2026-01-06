@@ -1,0 +1,5 @@
+The command you provided attempts to set the value to '12345', which is not an allowed type or value. The expected value type is a multi-list selection from the allowed range: TASKMANAGER, PROJECT, STARTDATE, AUTHOR, CATEGORY, SUBJECT. 
+
+You should specify one or more of these allowed options. For example, a correct command would be: 
+
+`update Filters available set value to TASKMANAGER,PROJECT;`

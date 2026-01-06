@@ -1,0 +1,3 @@
+The command to update the "Sort Order" is invalid because the value provided (12345) is not of the correct type. The expected value should be a string from the allowed sortable list, not an integer. 
+
+Please provide a valid sort order string from the allowed sortable list. For example, you could use a command like: `update Sort Order to A-FK_CHECKLIST_SEQID`.

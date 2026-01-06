@@ -1,0 +1,1 @@
+{'entryId': 1821, 'sectionId': 11, 'flags': 0, 'entryName': 'ESCALATED_TASKS', 'entryFriendlyName': 'Escalated Tasks', 'strValue': 'Escalated Tasks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Escalated Tasks', 'rangeList': None, 'validationRule': None, 'sequenceId': 146420.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

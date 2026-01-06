@@ -1,0 +1,1 @@
+The Actual Output is factually correct and aligns closely with the Expected Output, providing the same essential information about resource highlighting being disabled. However, it includes an additional detail about the requirement for the next Buffer Management run, which, while informative, is not part of the Expected Output. This slight deviation prevents a perfect score.

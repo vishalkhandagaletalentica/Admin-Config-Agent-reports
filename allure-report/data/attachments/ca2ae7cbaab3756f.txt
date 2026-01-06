@@ -1,0 +1,1 @@
+Resource calendar for task duration is now enabled.

@@ -1,0 +1,1 @@
+The current title displayed for the project in the column headings is "Project Name."

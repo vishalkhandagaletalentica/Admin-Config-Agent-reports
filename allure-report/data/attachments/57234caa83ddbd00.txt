@@ -1,0 +1,4 @@
+The command you provided to update the "Filters To Display" setting is invalid because the value `12345` is not of the correct type. The expected type is a multi-list selection, which should be one or more of the following allowed values: DIVISION, PROJECTMANAGER, AUTHOR, CATEGORY, SUBJECT, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4, ATTRIBUTE5.
+
+Please provide a valid value or command, such as:  
+`update Filters To Display set value to DIVISION,PROJECTMANAGER`

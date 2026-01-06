@@ -1,0 +1,1 @@
+The current fields that trigger the Last Update date in the Full Kit Report are Task Status, Percent Complete, and Full Kit Date.

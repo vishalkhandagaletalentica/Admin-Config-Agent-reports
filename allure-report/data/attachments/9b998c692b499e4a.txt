@@ -1,0 +1,1 @@
+What is the current value for Project Attribute 7 in the bulk import settings?

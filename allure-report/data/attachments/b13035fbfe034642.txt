@@ -1,0 +1,1 @@
+The SNS Topic Display Name for Project CheckIn has been updated to "New Project CheckIn".

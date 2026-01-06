@@ -1,0 +1,1 @@
+The current setting for the Task Checklist Field used to specify Baseline Duration in the Earned Hours Report is CHECKLIST_TEXT2.

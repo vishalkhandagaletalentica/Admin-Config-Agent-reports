@@ -1,0 +1,1 @@
+{'entryId': 1228, 'sectionId': 10, 'flags': 0, 'entryName': 'ESCALATION_STATUS', 'entryFriendlyName': 'Escalation Status', 'strValue': 'Escalation Status', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Escalation Status.', 'rangeList': None, 'validationRule': None, 'sequenceId': 124560.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,0 +1,1 @@
+The Date Range (From X months in past to Y months in future) for the Throughput report was updated from 2 months to 5 months.

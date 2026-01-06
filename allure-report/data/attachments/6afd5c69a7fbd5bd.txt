@@ -1,0 +1,1 @@
+The option to export reports to MS Excel is currently disabled.

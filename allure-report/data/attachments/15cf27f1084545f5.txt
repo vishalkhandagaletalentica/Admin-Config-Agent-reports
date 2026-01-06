@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Task Mgr (Columns hidden in Print Preview for Task Mgr)', 'Task List -> Resource Mgr (Columns hidden in Print Preview for Resource Mgr)', 'Task List -> Project Mgr (Columns hidden in Print Preview for Project Mgr)'], 'value': None, 'section': None, 'entry': None, 'url': None}

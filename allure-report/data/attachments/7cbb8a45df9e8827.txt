@@ -1,0 +1,1 @@
+Is the Capacity Buffer in Pipeline Planning currently enabled or disabled?

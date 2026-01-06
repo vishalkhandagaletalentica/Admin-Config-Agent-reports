@@ -1,0 +1,1 @@
+Is the global custom task identifier option enabled for project imports?

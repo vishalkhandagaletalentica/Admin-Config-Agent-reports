@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Due Date Tolerance', 'Project Buffer Consumption (%)'], 'value': None, 'section': None, 'entry': None, 'url': None}

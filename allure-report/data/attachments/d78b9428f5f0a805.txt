@@ -1,0 +1,1 @@
+{'entryId': 654, 'sectionId': 11, 'flags': 0, 'entryName': 'WORK_IN_PROCESS', 'entryFriendlyName': 'WIP', 'strValue': 'Work In Progress', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Work In Process in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 123080.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

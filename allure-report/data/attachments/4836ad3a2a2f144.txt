@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Manager — main list column names', 'Task Mgr → Subtask List — hidden/searchable fields', 'Integration → Task — Task Manager column name'], 'value': None, 'section': None, 'entry': None, 'url': None}

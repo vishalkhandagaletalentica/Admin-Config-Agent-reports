@@ -1,0 +1,1 @@
+{'entryId': 2768, 'sectionId': 10, 'flags': 0, 'entryName': 'PRECLUDE_FLOAT_ALLOCATION', 'entryFriendlyName': 'Preclude Float Allocation', 'strValue': 'PFA', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Preclude Float Allocation', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

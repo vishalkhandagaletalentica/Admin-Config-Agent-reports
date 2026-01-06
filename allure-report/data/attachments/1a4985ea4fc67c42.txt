@@ -1,0 +1,1 @@
+The filter value for Bar Chart was updated from "Bar" to "Bar Chart."

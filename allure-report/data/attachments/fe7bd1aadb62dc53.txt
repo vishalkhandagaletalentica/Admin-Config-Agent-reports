@@ -1,0 +1,1 @@
+update configuration set value to 'abcde' where entryFriendlyName = 'Red Y intercept at 100 X';

@@ -1,0 +1,1 @@
+{'entryId': 2209, 'sectionId': 10, 'flags': 0, 'entryName': 'EXEC_START_DATE', 'entryFriendlyName': 'Start Date(for SubTask)', 'strValue': 'Start Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Start Date of subtask', 'rangeList': None, 'validationRule': None, 'sequenceId': 144180.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

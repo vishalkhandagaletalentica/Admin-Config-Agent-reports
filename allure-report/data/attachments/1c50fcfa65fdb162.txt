@@ -1,0 +1,1 @@
+The Print Preview font size for Metrics reports was updated from FONT_MEDIUM to FONT_LARGE.

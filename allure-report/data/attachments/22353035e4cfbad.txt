@@ -1,0 +1,5 @@
+The command you provided is invalid because the value type for "Hidden Fields" is not compatible with a numeric value like 12345. Since the value type is 2, it indicates that a multi-list string is expected. 
+
+Please provide a comma-separated list of valid options for the "Hidden Fields." 
+
+For example, you could use: `update Hidden Fields set value to 'Option1,Option2'`.

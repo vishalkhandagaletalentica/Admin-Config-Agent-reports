@@ -1,0 +1,1 @@
+The Actual Output accurately reflects the Expected Output by providing the correct default sorting order for the Project Review report. It directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information.

@@ -1,0 +1,1 @@
+The error warnings for project commits are currently disabled.

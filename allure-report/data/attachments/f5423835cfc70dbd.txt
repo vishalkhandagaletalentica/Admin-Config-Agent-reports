@@ -1,0 +1,1 @@
+{'entryId': 866, 'sectionId': 10, 'flags': 0, 'entryName': 'BASELINE_DURATION', 'entryFriendlyName': 'Baseline Duration', 'strValue': 'Baseline Duration', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Baseline Duration', 'rangeList': None, 'validationRule': None, 'sequenceId': 117320.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

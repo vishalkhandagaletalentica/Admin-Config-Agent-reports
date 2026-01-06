@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Custom Task Text Field 5', 'Custom Task Text Field 3', 'Custom Task Text Field 10', 'Task Text 77 (Custom Task Text Field)', 'Task Text 73 (Custom Task Text Field)', 'Task Text 71 (Custom Task Text Field)'], 'value': None, 'section': None, 'entry': None, 'url': None}

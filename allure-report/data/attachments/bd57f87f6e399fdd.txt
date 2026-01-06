@@ -1,0 +1,1 @@
+{'entryId': 173, 'sectionId': 10, 'flags': 0, 'entryName': 'P2PPLANNING_MILESTONE', 'entryFriendlyName': 'Milestone', 'strValue': 'New Milestone', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Milestone Task', 'rangeList': None, 'validationRule': None, 'sequenceId': 103460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

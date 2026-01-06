@@ -1,0 +1,1 @@
+The currently hidden columns in the Pipeline View report are Delay in Day and Hour, Buffer Penetration, Trend Indicator, Percent Chain Complete, and Action Icon.

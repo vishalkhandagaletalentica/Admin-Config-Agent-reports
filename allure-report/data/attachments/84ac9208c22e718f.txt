@@ -1,0 +1,1 @@
+The current setting for storing the custom task UID is in the custom text field value CUSTOM_TASK_TEXT1.

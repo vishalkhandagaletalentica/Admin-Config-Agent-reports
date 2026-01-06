@@ -1,0 +1,1 @@
+The Task Type mapping in the Advanced Filter is "taskType".

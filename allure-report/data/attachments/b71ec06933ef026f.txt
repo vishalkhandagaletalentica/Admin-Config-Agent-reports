@@ -1,0 +1,1 @@
+Can you show me if the warning for resource group discrepancies is currently enabled during project commits?

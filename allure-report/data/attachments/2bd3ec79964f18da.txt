@@ -1,0 +1,1 @@
+{'entryId': 1936, 'sectionId': 11, 'flags': 0, 'entryName': 'CHAIN_TYPE', 'entryFriendlyName': 'Chain Type', 'strValue': 'Chain Type', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Chain Type', 'rangeList': None, 'validationRule': None, 'sequenceId': 148720.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

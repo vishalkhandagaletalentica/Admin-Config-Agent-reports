@@ -1,0 +1,1 @@
+I checked the Filtering Pane entry for the third selection in the Task Penetrating Chain report: it is already set to "Expected Finish". No update is needed.

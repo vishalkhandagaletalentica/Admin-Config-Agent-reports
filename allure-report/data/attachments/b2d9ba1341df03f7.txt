@@ -1,0 +1,5 @@
+The command to update the "Projected Date (in Results and Rules)" is invalid because the expected value type is a string, but you provided an integer (12345). The correct value should be a string that represents the display name for the projected date. 
+
+Please provide a string value, such as "Projected Delivery Date". The correct command would be: 
+
+`update configuration setting for "Projected Date (in Results and Rules)" to "Projected Delivery Date"`

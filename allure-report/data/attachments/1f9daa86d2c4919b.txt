@@ -1,0 +1,1 @@
+I found the Filtering Pane setting under Common -> Filter Names and the Project Status item "Planned (PL)" is already set. No update is needed.

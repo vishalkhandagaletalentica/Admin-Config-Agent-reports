@@ -1,0 +1,1 @@
+{'entryId': 775, 'sectionId': 48, 'flags': 0, 'entryName': 'ENABLE_DBR', 'entryFriendlyName': 'Enable DBR Project Type', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Flag for Enabling of DBR Settings', 'rangeList': None, 'validationRule': None, 'sequenceId': 495500.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

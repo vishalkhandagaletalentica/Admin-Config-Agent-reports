@@ -1,0 +1,1 @@
+{'entryId': 147, 'sectionId': 10, 'flags': 0, 'entryName': 'MILESTONE_DATE', 'entryFriendlyName': 'Milestone Date', 'strValue': 'Milestone Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Milestone Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 102940.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

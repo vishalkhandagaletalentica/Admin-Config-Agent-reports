@@ -1,0 +1,1 @@
+{'entryId': 1208, 'sectionId': 11, 'flags': 0, 'entryName': 'NO_DATA', 'entryFriendlyName': 'No Data', 'strValue': 'No Data', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'No Data.', 'rangeList': None, 'validationRule': None, 'sequenceId': 134160.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

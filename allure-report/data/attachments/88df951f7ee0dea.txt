@@ -1,0 +1,1 @@
+Display of remaining duration for Not Started Tasks is now enabled.

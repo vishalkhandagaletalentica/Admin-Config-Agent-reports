@@ -1,0 +1,1 @@
+What is the current default sorting order for the Throughput drill down report?

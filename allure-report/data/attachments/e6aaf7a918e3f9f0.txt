@@ -1,0 +1,1 @@
+{'entryId': 209, 'sectionId': 11, 'flags': 0, 'entryName': 'DAYS', 'entryFriendlyName': 'Days', 'strValue': 'New Days', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'DAYS', 'rangeList': None, 'validationRule': None, 'sequenceId': 114180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

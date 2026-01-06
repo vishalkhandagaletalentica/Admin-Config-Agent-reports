@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_EXECTASKMGT_CACHE_SEARCH_COLUMNS', 'entry': 'EXEC_CUSTOM_TASK_TEXT1', 'url': None}

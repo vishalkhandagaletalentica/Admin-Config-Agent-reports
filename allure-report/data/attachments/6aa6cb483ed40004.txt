@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RULE1', 'entry': 'DATA_POINT', 'url': None}

@@ -1,0 +1,25 @@
+Hidden columns in Print Preview for Full Kit Report:
+- Task Type
+- Text1
+- RZ Reference
+- Expected Enhancements
+- Hours Remaining
+- WBS STREAM
+- Security Code Updated
+- NewUID
+- View Document Links
+- Disable Auto Document Link
+- New MSP ID
+- Resources
+- QA Check
+- Technician
+- New Zone
+- Job Status
+- Route Key
+- Completion Date
+- Not Ready To Start
+- Constraint Date
+- New Release Date
+- Start Date Updated
+- Status
+- FK Description

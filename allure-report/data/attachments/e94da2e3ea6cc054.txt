@@ -1,0 +1,1 @@
+The current Base URL for the Concerto Web API is https://newurl.realization.com/ConcertoWebAPI.

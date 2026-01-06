@@ -1,0 +1,3 @@
+The command is invalid because the value '12345' is not of the allowed type. The 'Sort Order' setting expects a multi-list value, which typically consists of predefined options or keys, rather than a numeric input. 
+
+Please provide a valid multi-list value such as 'A-USER_NAME,B-USER_ID' to update the 'Sort Order'.

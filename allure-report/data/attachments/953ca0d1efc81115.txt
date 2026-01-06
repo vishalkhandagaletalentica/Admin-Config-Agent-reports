@@ -1,0 +1,1 @@
+The current searchable resource field is "Resource Name".

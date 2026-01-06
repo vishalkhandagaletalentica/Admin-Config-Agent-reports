@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'FULL_KIT_DELAY_REPORT', 'entry': 'FK_DELAY_DATE_RANGE', 'url': None}

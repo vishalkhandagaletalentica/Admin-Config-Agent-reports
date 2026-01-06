@@ -1,0 +1,1 @@
+Open the “searchable text columns” configuration for the task table and view the entries listed there — each entry corresponds to a column that can be used when searching/locating tasks. If you prefer, I can list those entries for you now.

@@ -1,0 +1,1 @@
+Updated: the Project/Milestone buffer friendly name has been changed to 'Project/Milestone buffer' and the item description is set as provided.

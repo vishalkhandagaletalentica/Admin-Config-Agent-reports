@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'set Hidden Fields to 12345'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Hidden Fields" entry?'}, {'role': 'user', 'content': 'The section name is "Work Card Details report."'}, {'role': 'assistant', 'content': 'Which entry in the "Work Card Details report" do you mean?'}]

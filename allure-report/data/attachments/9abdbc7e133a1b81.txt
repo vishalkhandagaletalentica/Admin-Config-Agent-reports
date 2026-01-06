@@ -1,0 +1,1 @@
+The current title used for the European filter in the reports is "EU Region".

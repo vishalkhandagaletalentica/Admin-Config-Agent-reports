@@ -1,0 +1,18 @@
+Column order for the Tabular View report:
+1. Division
+2. Portfolio
+3. Updated Product Code
+4. End User - Broker
+5. New Contractual Due Date
+6. Status
+7. Fixed Property
+8. High
+9. Options
+10. Due Date
+11. Custom Date 1
+12. Custom Date 2
+13. New Feasible Start Date
+14. Estimated Completion Date
+15. Current Phase
+16. User modified Stretch
+17. Stretch in DB (d)

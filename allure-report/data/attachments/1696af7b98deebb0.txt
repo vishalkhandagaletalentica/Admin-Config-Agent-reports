@@ -1,0 +1,1 @@
+I mean the overall Buffer Diagnostics process state (e.g., running/stopped). Please check that.

@@ -1,0 +1,1 @@
+The filter "Show Full Path for All Chains" has been updated to "Display Complete Path for All Chains".

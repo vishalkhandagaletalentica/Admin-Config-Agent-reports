@@ -1,0 +1,7 @@
+The command you provided is invalid because it attempts to set a multi-list configuration with a single integer value (12345), which is not allowed. The expected type for this setting is a string comprising key-value pairs or a comma-separated list of such pairs. 
+
+In your case, the correct format should involve the values only, such as: 
+"Task Name,NewCheckList,Actual Start Date,Actual End Date,Updated Dur,Task Duration,Task Calendar Name,SNET Date,Planned Finish Date,Resources,Predecessors Updated,Successors".
+
+A correct example command would be:
+`update "Column Preset 2" set "TASKNAME -> Task Name,CHECKLIST_INDICATOR -> NewCheckList,ACTUAL_START_DATE -> Actual Start Date,ACTUAL_END_DATE -> Actual End Date,REMAINING_DURATION -> Updated Dur,TASK_DURATION -> Task Duration,TASK_CALENDAR_NAME -> Task Calendar Name,SNET_DATE -> SNET Date,P2PMS_DATE -> Planned Finish Date,TASK_RESOURCES_LIST -> Resources,P2PADD_PREDECESSORTASK -> Predecessors Updated,P2PADD_SUCCESSORTASK -> Successors" to "Task Name,NewCheckList,Actual Start Date,Actual End Date,Updated Dur,Task Duration,Task Calendar Name,SNET Date,Planned Finish Date,Resources,Predecessors Updated,Successors";`

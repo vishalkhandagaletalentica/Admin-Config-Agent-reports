@@ -1,0 +1,1 @@
+The current title displayed for the Adequate Buffers column in the Buffering Report is "New Adequate Buffers."

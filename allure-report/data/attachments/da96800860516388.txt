@@ -1,0 +1,1 @@
+The x-small font size in the filtering pane is set to "x-small".

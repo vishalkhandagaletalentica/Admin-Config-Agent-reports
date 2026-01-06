@@ -1,0 +1,1 @@
+The Actual Output accurately states the queue size threshold as 15%, which is factually correct and directly addresses the intent of the Input question. The response is concise and maintains a professional tone, aligning well with the Expected Output's factual content.

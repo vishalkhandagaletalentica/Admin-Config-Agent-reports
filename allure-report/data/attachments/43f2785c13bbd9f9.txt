@@ -1,0 +1,1 @@
+update configuration set Project Attribute8 mandatory to 'abcde'

@@ -1,0 +1,1 @@
+The current buffer penetration value that determines when the buffer is marked red is 67.

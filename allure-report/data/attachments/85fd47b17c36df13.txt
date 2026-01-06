@@ -1,0 +1,1 @@
+{'entryId': 1358, 'sectionId': 10, 'flags': 0, 'entryName': 'CLOSE_DATE', 'entryFriendlyName': 'Close Date', 'strValue': 'Close Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Close Date.', 'rangeList': None, 'validationRule': None, 'sequenceId': 127160.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

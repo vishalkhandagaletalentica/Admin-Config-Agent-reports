@@ -1,0 +1,26 @@
+Hidden columns in the Full Kit Report:
+- Division
+- Last BM Date
+- Last Update
+- NewUID
+- FK Description
+- % Effective Protection
+- Network Configuration
+- Editors Network
+- 1.0
+- Pipeline Priority
+- Project Type
+- File Type
+- Trend
+- Highest Priority Level
+- Highest Priority Level Consumption
+- Updated Product Code
+- End User - Broker
+- Portfolio
+- Help Needed
+- Custom Date 1 Delay
+- Custom Date 2
+- New Contractual Due Date
+- Current Phase
+- Remaining Float
+- Longest Chain Remaining

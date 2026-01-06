@@ -1,0 +1,1 @@
+The section name is "Task Manager," and the entry name is "searchable text columns." I mean the columns shown/hidden in the Task Manager list.

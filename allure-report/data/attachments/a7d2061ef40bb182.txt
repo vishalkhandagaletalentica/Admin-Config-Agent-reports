@@ -1,0 +1,1 @@
+{'entryId': 973, 'sectionId': 11, 'flags': 0, 'entryName': 'TASK_MANAGERS', 'entryFriendlyName': 'Task Managers', 'strValue': 'Task Managers', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Task Managers', 'rangeList': None, 'validationRule': None, 'sequenceId': 129460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

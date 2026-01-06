@@ -1,0 +1,1 @@
+The current date set for bucketization in the Throughput report is PLANNED_DATE.

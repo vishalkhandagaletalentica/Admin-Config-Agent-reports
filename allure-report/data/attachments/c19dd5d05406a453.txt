@@ -1,0 +1,1 @@
+{'entryId': 655, 'sectionId': 11, 'flags': 0, 'entryName': 'COMPLETIONS', 'entryFriendlyName': 'Completions', 'strValue': 'Completion Results', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Completions in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 123100.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

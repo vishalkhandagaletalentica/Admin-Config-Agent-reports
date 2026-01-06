@@ -1,0 +1,1 @@
+The current email body is: "Your file has been successfully processed. Attached are the log files for your review."

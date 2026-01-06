@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'BufferPenetrationColorGraph', 'entry': 'CCCBRedXInterceptOn100Y', 'url': None}

@@ -1,0 +1,5 @@
+The command you provided to update "Column Order" to 12345 is invalid because the expected type for this setting is a list of key-value pairs, not an integer. The allowed format is a string representing key-value pairs, such as 'A -> B' or a comma-separated list of these pairs.
+
+To correct your command, please provide the new value in the expected format. For example, you could use:  
+`update Column Order to TREND_INDICATOR -> Trend,PROJECT_NAME -> Project Name;`  
+This format is aligned with the expected input.

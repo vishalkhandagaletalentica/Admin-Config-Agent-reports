@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Checklist Integration → Completion Date (fields mapping that references SAP Id)', 'Common → ERP Id (common column name for ERP/SAP Id)'], 'value': None, 'section': None, 'entry': None, 'url': None}

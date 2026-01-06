@@ -1,0 +1,1 @@
+{'entryId': 1201, 'sectionId': 11, 'flags': 0, 'entryName': 'CURRENT', 'entryFriendlyName': 'Current', 'strValue': 'Current', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for current period data.', 'rangeList': None, 'validationRule': None, 'sequenceId': 134020.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

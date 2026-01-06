@@ -1,0 +1,1 @@
+{'entryId': 1053, 'sectionId': 10, 'flags': 0, 'entryName': 'TREND_INDICATOR', 'entryFriendlyName': 'Buffer Trend', 'strValue': 'Trend', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Buffer Trend Column Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 121060.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

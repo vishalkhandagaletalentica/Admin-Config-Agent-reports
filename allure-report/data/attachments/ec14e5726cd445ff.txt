@@ -1,0 +1,1 @@
+{'entryId': 1444, 'sectionId': 11, 'flags': 0, 'entryName': 'FONT_XLARGE', 'entryFriendlyName': 'X-large', 'strValue': 'x-large', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Font size x-large.', 'rangeList': None, 'validationRule': None, 'sequenceId': 138880.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

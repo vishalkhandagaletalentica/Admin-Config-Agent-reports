@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Subtask Manager (displayed in filters)', 'Subtask Role (display name used in the Subtask Manager report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

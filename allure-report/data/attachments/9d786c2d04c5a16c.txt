@@ -1,0 +1,1 @@
+{'entryId': 867, 'sectionId': 10, 'flags': 0, 'entryName': 'GAP_WITH_PARENT', 'entryFriendlyName': 'Gap With Chain Pred', 'strValue': 'Gap With Chain Pred', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Gap With Chain Pred', 'rangeList': None, 'validationRule': None, 'sequenceId': 117340.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

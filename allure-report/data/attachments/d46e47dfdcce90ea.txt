@@ -1,0 +1,1 @@
+I could not apply the update. The Subtask Custom Text Fields to display in Subtask Details is still set to EXEC_CUSTOM_TASK_TEXT2. The update failed because you do not have privileges to change configuration entries. Please request the necessary permissions and try again.

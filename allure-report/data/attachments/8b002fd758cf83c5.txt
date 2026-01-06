@@ -1,0 +1,1 @@
+The "Sending email at the end of integration" setting in Task Excel is already enabled. No update is needed.

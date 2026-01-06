@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common, Checklist → Task', 'Common, Checklist → Full Kit Task', 'Common, Checklist → Full Kit Task Custom Text Fields', 'Task List → Task Mgr'], 'value': None, 'section': None, 'entry': None, 'url': None}

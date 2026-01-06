@@ -1,0 +1,16 @@
+The following columns are hidden in the Task Incomplete Predecessors report:
+- Text1
+- RZ Reference
+- Expected Enhancements
+- Hours Remaining
+- CUSTOM_TASK_TEXT5
+- Security Code Updated
+- Water Depth
+- Constraint Date
+- QA Check
+- Technician
+- New Zone
+- Job Status
+- Route Key
+- Help Needed
+- Need Date

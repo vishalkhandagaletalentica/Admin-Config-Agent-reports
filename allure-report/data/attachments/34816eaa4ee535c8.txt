@@ -1,0 +1,1 @@
+{'entryId': 1819, 'sectionId': 11, 'flags': 0, 'entryName': 'CIQ_IP_OH', 'entryFriendlyName': 'CIQ, IP, OH', 'strValue': 'CIQ,IP,OH', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Used in Project Status filter dropdown.', 'rangeList': None, 'validationRule': None, 'sequenceId': 146380.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,0 +1,1 @@
+I attempted to update Filters To Display in Task Mgt report but encountered an error: the system could not validate the multi-list format for that entry (no column definition found for this section and entry). Please provide a valid string that matches the entry's expected multi-list format, or tell me if you want me to try a different value.

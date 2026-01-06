@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PLANNING_CLIENT_TABLE_VIEW', 'entry': 'CC_COL_PRESET1', 'url': None}

@@ -1,0 +1,4 @@
+The filters available to be displayed in the Executive report are:
+- Author
+- Category
+- Subject

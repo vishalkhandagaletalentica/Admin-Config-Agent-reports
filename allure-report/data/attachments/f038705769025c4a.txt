@@ -1,0 +1,5 @@
+The command you provided is invalid because the value type for "Hidden Fields" is set to 2, which does not accept a numeric value like 12345. Instead, it requires a string that matches the allowed range. 
+
+The expected type is a string consisting of one or more of the following allowed values: CHECKLIST_DATE1, CHECKLIST_DATE2, CHECKLIST_TEXT1, CHECKLIST_TEXT2, CHECKLIST_TEXT3, CHECKLIST_TEXT4.
+
+A correct example command would be: `update Hidden Fields set value to CHECKLIST_DATE1,CHECKLIST_TEXT2`.

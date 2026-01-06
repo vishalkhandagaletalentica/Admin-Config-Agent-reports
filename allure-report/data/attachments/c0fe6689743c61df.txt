@@ -1,0 +1,1 @@
+The current column mapping for Percent Complete when importing a CSV or Excel file in the Planning client is DPC_NEW.

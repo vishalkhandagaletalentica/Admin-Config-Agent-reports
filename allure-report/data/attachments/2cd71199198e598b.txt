@@ -1,0 +1,1 @@
+The individual trend chart is currently not displayed in the project status report.

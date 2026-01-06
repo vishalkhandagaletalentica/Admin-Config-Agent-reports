@@ -1,0 +1,1 @@
+Past Periods To Display is currently set to 15.

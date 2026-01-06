@@ -1,0 +1,1 @@
+Text9 is currently mapped to column AD when importing CSV/Excel files in the Planning client.

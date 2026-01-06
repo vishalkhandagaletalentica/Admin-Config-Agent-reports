@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Full Kit Compliance (Show Team Members in Full Kit Task Manager Filter)', 'Metrics -> Full Kit Delay (Show Team Members in Full Kit Manager Filter)', 'Full Kit Mgr -> Full Kit Report (Show Team Members in Full Kit Mgr Filter)'], 'value': None, 'section': None, 'entry': None, 'url': None}

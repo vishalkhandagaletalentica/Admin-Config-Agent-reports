@@ -1,0 +1,1 @@
+The section name is "Full kit/Purchasing task panel in planning client," and the item description is "Columns hidden in report." Please clarify which columns are currently hidden in the report for the relevant section.

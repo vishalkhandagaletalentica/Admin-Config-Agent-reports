@@ -1,0 +1,1 @@
+{'entryId': 2137, 'sectionId': 10, 'flags': 0, 'entryName': 'LONGEST_PATH_FILTER', 'entryFriendlyName': 'Longest Path Filter', 'strValue': 'Longest Path Filter', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Longest Path Filter', 'rangeList': None, 'validationRule': None, 'sequenceId': 142740.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

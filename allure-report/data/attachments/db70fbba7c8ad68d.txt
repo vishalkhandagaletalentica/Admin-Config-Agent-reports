@@ -1,0 +1,1 @@
+update configuration setting "Subtask ReadOnly Fields" to "12345"

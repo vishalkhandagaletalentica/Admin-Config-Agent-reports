@@ -1,0 +1,1 @@
+The current priority setting for the Green Feeding Buffer is 10.

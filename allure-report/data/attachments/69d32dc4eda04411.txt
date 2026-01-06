@@ -1,0 +1,1 @@
+Yes — queuing messages via Amazon SQS is enabled.

@@ -1,0 +1,1 @@
+Is the option to display the Total Project WIP in the report currently enabled?

@@ -1,0 +1,1 @@
+{'entryId': 1793, 'sectionId': 103, 'flags': 0, 'entryName': 'SHOW_PROJECT_LABELS', 'entryFriendlyName': 'Show Project Labels', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Show project labels in Project Status.', 'rangeList': None, 'validationRule': None, 'sequenceId': 1064554.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

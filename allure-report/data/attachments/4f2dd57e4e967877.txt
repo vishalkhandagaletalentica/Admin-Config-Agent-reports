@@ -1,0 +1,1 @@
+The currently hidden columns in the Earned Hours Report are CHECKLIST_DATE1, CHECKLIST_DATE2, CHECKLIST_TEXT2, CHECKLIST_TEXT3, and CHECKLIST_TEXT4.

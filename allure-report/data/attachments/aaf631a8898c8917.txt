@@ -1,0 +1,1 @@
+Updated the display name in Project report from "Show Mgrs Only" to "Show Managers Only".

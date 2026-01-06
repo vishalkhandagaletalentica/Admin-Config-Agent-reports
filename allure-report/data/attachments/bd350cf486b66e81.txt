@@ -1,0 +1,1 @@
+Include Subprojects in the Flow Trend report is now enabled.

@@ -1,0 +1,1 @@
+{'entryId': 2222, 'sectionId': 11, 'flags': 0, 'entryName': 'ISSUE_TYPE_FILTER', 'entryFriendlyName': 'Issue Type', 'strValue': 'New Issue Type', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display issue type.', 'rangeList': None, 'validationRule': None, 'sequenceId': 154440.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

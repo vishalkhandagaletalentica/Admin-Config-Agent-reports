@@ -1,0 +1,1 @@
+What is the current mapping for the Date2 column in the checklist integration settings?

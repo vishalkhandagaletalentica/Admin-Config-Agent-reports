@@ -1,0 +1,1 @@
+Please set the column name of CUSTOMTEXT7 to 'NewColumnName'.

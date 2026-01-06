@@ -1,0 +1,1 @@
+The option to use the server date as today's date has been successfully enabled.

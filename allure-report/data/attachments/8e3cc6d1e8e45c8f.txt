@@ -1,0 +1,1 @@
+{'entryId': 563, 'sectionId': 11, 'flags': 0, 'entryName': 'FILETYPE', 'entryFriendlyName': 'File Type', 'strValue': 'File Type', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for File Type Filter.', 'rangeList': None, 'validationRule': None, 'sequenceId': 121260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

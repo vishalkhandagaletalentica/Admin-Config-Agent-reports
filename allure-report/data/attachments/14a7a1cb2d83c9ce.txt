@@ -1,0 +1,1 @@
+The option to include tasks in the batch printing report is enabled.

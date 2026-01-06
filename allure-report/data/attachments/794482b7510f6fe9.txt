@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Red Project Delay', 'Metrics -> Full Kit Delay', 'Metrics -> Cycle Time'], 'value': None, 'section': None, 'entry': None, 'url': None}

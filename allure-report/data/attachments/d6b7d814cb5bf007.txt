@@ -1,0 +1,3 @@
+The command to update the "Column Order" to 12345 is invalid because the expected type for this setting is a multi-list value, not an integer. The allowed values should be a comma-separated list of strings representing the new column order.
+
+For example, a valid command would be: `update Column Order to Project Name,Project Mgr,Division,Portfolio,Updated Product Code`.

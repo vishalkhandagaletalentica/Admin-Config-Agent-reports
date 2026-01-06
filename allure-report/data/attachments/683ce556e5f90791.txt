@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Completed setting to In Progress.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Completed" setting?'}, {'role': 'user', 'content': 'The section name is Filtering Pane.'}, {'role': 'assistant', 'content': 'The "Completed" setting has been updated to "In Progress."'}]

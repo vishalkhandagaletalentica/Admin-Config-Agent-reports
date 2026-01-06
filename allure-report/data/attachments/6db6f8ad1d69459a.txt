@@ -1,0 +1,20 @@
+Hidden Fields (Task Manager) — currently hidden columns:
+
+- Constraint Date
+- Planned Finish Date
+- Enable Auto Document Link
+- UID
+- MSP ID
+- Sort Window Start
+- % PB Cnsm'd
+- % MB Cnsm'd
+- % FB Cnsm'd
+- UID (project)
+- Need Date
+- Parent Task UID
+- Predecessor UID
+- Seq ID
+- Baseline Duration
+- Est Rem Dur
+- SUCC_TASKID
+- PT_COMPLETION_EXPECTED

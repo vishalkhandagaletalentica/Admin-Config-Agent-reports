@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Project Review Interval to 30 days.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Project Review Interval" setting?'}, {'role': 'user', 'content': 'The section name is Application Server.'}, {'role': 'assistant', 'content': 'Project Review Interval is now set to 30 days.'}]

@@ -1,0 +1,1 @@
+I found the 'Buffer Trend Column Name' under the Column Headings section. Its current value is "Trend", so no update is needed.

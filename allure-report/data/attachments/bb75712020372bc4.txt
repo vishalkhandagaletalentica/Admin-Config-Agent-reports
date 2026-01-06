@@ -1,0 +1,1 @@
+{'entryId': 965, 'sectionId': 55, 'flags': 0, 'entryName': 'INCL_IN_RPT', 'entryFriendlyName': 'Include in Report', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 0, 'itemDesc': 'Details to be included in the Batch Printing report', 'rangeList': None, 'validationRule': None, 'sequenceId': 569300.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

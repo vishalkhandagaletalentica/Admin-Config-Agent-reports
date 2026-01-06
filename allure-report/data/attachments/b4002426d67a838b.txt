@@ -1,0 +1,1 @@
+{'entryId': 2525, 'sectionId': 146, 'flags': 0, 'entryName': 'TASKUNIQUEID', 'entryFriendlyName': 'UID', 'strValue': 'UID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for UID', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510500.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

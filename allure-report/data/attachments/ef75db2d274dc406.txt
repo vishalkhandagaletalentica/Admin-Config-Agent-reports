@@ -1,0 +1,1 @@
+{'entryId': 1270, 'sectionId': 10, 'flags': 0, 'entryName': 'CHECKLIST_TEXT3', 'entryFriendlyName': 'Text3', 'strValue': 'Status', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name for Text3 in Task Checklist', 'rangeList': None, 'validationRule': None, 'sequenceId': 125400.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

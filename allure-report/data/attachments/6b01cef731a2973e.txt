@@ -1,0 +1,1 @@
+The application has been run 0 times since the last database compaction.

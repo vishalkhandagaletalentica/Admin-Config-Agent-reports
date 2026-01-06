@@ -1,0 +1,1 @@
+{'entryId': 149, 'sectionId': 10, 'flags': 0, 'entryName': 'P2P_LINK_TYPE', 'entryFriendlyName': 'Link Type', 'strValue': 'Link Type', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P_LINK_TYPE', 'rangeList': None, 'validationRule': None, 'sequenceId': 102980.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

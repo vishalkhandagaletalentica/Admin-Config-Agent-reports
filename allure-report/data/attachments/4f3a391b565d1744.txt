@@ -1,0 +1,1 @@
+Stretch Limit as Percent of Project Buffer (Default stretch limit as a percentage of Project buffer) was updated from 0 to 10.

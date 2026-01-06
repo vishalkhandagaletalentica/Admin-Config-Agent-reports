@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the external link for the Resource Report currently enabled?'}, {'role': 'assistant', 'content': 'No — the Resource Report external link is currently disabled.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Done — the Resource Report external link is now enabled.'}]

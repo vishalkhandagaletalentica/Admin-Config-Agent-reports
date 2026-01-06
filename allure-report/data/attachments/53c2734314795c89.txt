@@ -1,0 +1,1 @@
+I tried to disable the Project Attribute6 mandatory setting but the update failed because your account does not have privileges to change configuration values. Please contact an administrator with update rights or ask them to apply this change on your behalf.

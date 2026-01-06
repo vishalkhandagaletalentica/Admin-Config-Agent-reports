@@ -1,0 +1,1 @@
+{'entryId': 1460, 'sectionId': 11, 'flags': 0, 'entryName': 'END_OF_BUCKET', 'entryFriendlyName': 'End of Bucket', 'strValue': 'End of Bucket Updated', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for End of Bucket.', 'rangeList': None, 'validationRule': None, 'sequenceId': 139200.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

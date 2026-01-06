@@ -1,0 +1,1 @@
+Display of completed subtasks in the Task List is now enabled.

@@ -1,0 +1,1 @@
+The current setting for the column title that shows the Scheduled Stretch or User modified Stretch value in Pipeline Web is "User modified Stretch."

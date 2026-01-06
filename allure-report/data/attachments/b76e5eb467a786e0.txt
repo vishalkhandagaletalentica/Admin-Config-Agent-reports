@@ -1,0 +1,1 @@
+{'entryId': 400, 'sectionId': 10, 'flags': 0, 'entryName': 'EXEC_ACTUAL_START_DATE', 'entryFriendlyName': 'Subtask Actual Start', 'strValue': 'Subtask Actual Start', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Actual Start', 'rangeList': None, 'validationRule': None, 'sequenceId': 108000.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

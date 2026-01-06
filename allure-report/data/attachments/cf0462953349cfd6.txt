@@ -1,0 +1,1 @@
+The default selection for the Highlight Changes filter in the Task Update History report is: 12345.

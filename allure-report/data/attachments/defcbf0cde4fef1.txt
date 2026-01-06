@@ -1,0 +1,1 @@
+{'entryId': 2230, 'sectionId': 11, 'flags': 0, 'entryName': 'CANCELLED', 'entryFriendlyName': 'CANCELLED', 'strValue': 'Cancelled', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'project status cancel filter in set status dropdown', 'rangeList': None, 'validationRule': None, 'sequenceId': 154600.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

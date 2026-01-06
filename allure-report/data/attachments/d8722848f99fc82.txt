@@ -1,0 +1,1 @@
+{'entryId': 150, 'sectionId': 10, 'flags': 0, 'entryName': 'P2P_RELATIONSHIP', 'entryFriendlyName': 'Relationship', 'strValue': 'Relationship', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P_RELATIONSHIP', 'rangeList': None, 'validationRule': None, 'sequenceId': 103000.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

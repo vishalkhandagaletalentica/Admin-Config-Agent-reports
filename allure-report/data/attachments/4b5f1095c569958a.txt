@@ -1,0 +1,1 @@
+How many working days in the past are being used to calculate the queue trend indicator?

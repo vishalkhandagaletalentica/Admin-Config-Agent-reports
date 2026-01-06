@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Include Compliant Task Managers (Metrics -> Task Mgt)', 'Project Mgr -> Search Columns for TLP by TaskMgr — TASK_MANAGER_ID (search column)', 'Enable Task Update History (Common)'], 'value': None, 'section': None, 'entry': None, 'url': None}

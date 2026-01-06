@@ -1,0 +1,3 @@
+The command is incorrect because the value type for EXEC_CUSTOM_TASK_TEXT1 is not an integer; it requires a string value. Please provide a valid string value instead of a numeric value. 
+
+For example, you could use the command: `update EXEC_CUSTOM_TASK_TEXT1 set value to 'Your Custom Text Here'`.

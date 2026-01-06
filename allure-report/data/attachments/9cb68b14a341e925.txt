@@ -1,0 +1,1 @@
+The current server location for the Task Excel file is C:\inetpub\wwwroot\ConWeb\OutConweb\IntegrationFiles\newtask

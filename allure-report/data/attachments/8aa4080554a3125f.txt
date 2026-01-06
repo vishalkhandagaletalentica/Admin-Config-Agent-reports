@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the sorting order for the tasks delayed by the help needed report, but it uses abbreviations (D-DELAY_REASON_CODE, etc.) instead of the full terms provided in the Expected Output. This partially addresses the intent of the Input question but lacks clarity and completeness, leading to a deduction in points.

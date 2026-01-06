@@ -1,0 +1,1 @@
+Updated Compact View fields to: EXECMGT_TASK_DESCRIPTION -> Subtask Desc, EXEC_REMAINING_DURATION -> Rem.Dur, PROJECT_NAME -> Project Name, EXEC_TASK_MANAGER_ID -> Subtask Task Mgr, EXEC_PARENT_TASK_DESCRIPTION -> Parent Task Description, EXEC_EARLIEST_ARRIVAL -> Sugg./Likely Start, EXEC_STREAM_NAME -> Stream Name

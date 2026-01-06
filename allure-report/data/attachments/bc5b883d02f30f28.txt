@@ -1,0 +1,1 @@
+The option to allow checklist item roll back is currently disabled.

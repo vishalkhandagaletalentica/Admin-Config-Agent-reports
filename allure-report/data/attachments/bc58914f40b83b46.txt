@@ -1,0 +1,1 @@
+How many periods are currently set for calculating the rolling average in the performance report?

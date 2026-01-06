@@ -1,0 +1,1 @@
+The current titles displayed in the column headings for Projects and Milestones are Milestone and Project.

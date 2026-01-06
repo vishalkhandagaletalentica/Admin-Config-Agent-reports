@@ -1,0 +1,5 @@
+The command is invalid because the value type is incorrect; it expects an integer value, but you provided a string ('xyz'). The expected type for this setting is an integer. 
+
+Please use an integer value, such as `0` for disabled or `1` for enabled. 
+
+A correct command would be: `update configuration set Allow Modify Last update date to 1;`

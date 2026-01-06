@@ -1,0 +1,1 @@
+{'entryId': 288, 'sectionId': 20, 'flags': 0, 'entryName': 'DATE_RANGE', 'entryFriendlyName': 'Days', 'strValue': None, 'floatValue': None, 'intValue': 30, 'valueType': 0, 'itemDesc': 'Date range from the Start Date', 'rangeList': '$RANGE:1,99999', 'validationRule': None, 'sequenceId': 205760.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

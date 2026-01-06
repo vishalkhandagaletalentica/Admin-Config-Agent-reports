@@ -1,0 +1,1 @@
+The current setting for the third column preset in the table view for CC Mode includes Task Type, Task Name, New Check List, Updated Duration, Predecessors Updated, Successor Tasks, Resources, Status, Task Duration, and New Start Date.

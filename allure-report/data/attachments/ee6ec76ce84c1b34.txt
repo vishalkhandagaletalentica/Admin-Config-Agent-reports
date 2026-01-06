@@ -1,0 +1,1 @@
+The Actual Output incorrectly states that parameters are set for the Automatic Link URL, contradicting the Expected Output, which indicates that no parameters are specified. While it provides a list of available parameter fields, this information is irrelevant to the specific request about current parameters, leading to a partial answer.

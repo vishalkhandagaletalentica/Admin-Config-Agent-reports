@@ -1,0 +1,1 @@
+I couldn't enable the Project Attribute8 mandatory setting. It is currently disabled. I attempted the update but your account does not have privileges to change configuration entries. Please contact an administrator with update rights or provide an account with the necessary privileges and I can try again.

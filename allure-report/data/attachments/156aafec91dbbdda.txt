@@ -1,0 +1,1 @@
+{'entryId': 1013, 'sectionId': 56, 'flags': 0, 'entryName': 'HIDDEN_ATTRIBUTES', 'entryFriendlyName': 'Hidden Attributes', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Attributes hidden from display', 'rangeList': '$MULTILIST:', 'validationRule': None, 'sequenceId': 580260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

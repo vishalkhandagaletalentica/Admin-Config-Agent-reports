@@ -1,0 +1,1 @@
+Fractional Rounding Digits in Resource Mgr -> Sand Chart updated from 3 to 4.

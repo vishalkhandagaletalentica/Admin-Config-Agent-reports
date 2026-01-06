@@ -1,0 +1,1 @@
+{'entryId': 1709, 'sectionId': 2, 'flags': 0, 'entryName': 'EnableP2P', 'entryFriendlyName': 'Enable P2P in Top Level Menu', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Determines whether P2P is enabled or hidden', 'rangeList': None, 'validationRule': None, 'sequenceId': 54180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

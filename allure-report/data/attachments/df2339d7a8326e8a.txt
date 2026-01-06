@@ -1,0 +1,1 @@
+The Cyan highlight interval (first time interval) is set to 5 days.

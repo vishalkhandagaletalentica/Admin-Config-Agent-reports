@@ -1,0 +1,1 @@
+{'entryId': 672, 'sectionId': 14, 'flags': 0, 'entryName': 'TASK_UPDT_WINDOW_SIZE_UNIT', 'entryFriendlyName': None, 'strValue': 'Days', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': '$LIST:Days,Shifts,Hours', 'validationRule': None, 'sequenceId': 144908.0, 'groupOrMerge': '$MERGE:TASK_UPDT_SORT_WINDOW', 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+{'entryId': 976, 'sectionId': 11, 'flags': 0, 'entryName': 'CHECKLISTS', 'entryFriendlyName': 'Checklists', 'strValue': 'Checklists', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Checklists', 'rangeList': None, 'validationRule': None, 'sequenceId': 129520.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

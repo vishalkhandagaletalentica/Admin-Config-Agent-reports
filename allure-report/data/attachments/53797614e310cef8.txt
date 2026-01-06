@@ -1,0 +1,1 @@
+Yes, the team names in the Task Manager filter are currently set to display as a list of team members.

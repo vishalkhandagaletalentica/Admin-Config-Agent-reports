@@ -1,0 +1,4 @@
+The command you provided to update the "Sort Order" setting is invalid because the specified value "12345" is not within the allowed range of sortable list options. The expected type for this setting is a string that consists of a comma-separated list of sortable columns.
+
+For example, you can use a command like:  
+`update configuration setting for Sort Order to A-PROJECT_NAME,A-TARGET_COMPLETION_DATE;`

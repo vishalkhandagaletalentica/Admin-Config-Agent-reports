@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the default interval type selected for the Flow Trend report?'}, {'role': 'assistant', 'content': 'The default interval type for the Flow Trend report is Weeks.'}, {'role': 'user', 'content': 'Update it to Days.'}, {'role': 'assistant', 'content': 'I updated the default interval type for the Flow Trend report from Weeks to Days.'}]

@@ -1,0 +1,5 @@
+The command you provided is invalid because the value type for "Hidden Fields" is set to 2, which indicates it expects a multi-list format rather than a single integer value. The expected format should be a comma-separated list of valid options. 
+
+Given the current strValue, a correct example command would be:  
+`update Hidden Fields set value to CUSTOM_TASK_TEXT1,CUSTOM_TASK_TEXT2`  
+This uses valid options from the allowed range.

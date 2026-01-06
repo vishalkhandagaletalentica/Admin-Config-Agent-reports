@@ -1,0 +1,1 @@
+The option to include ignored tasks in the buffer diagnostics is currently enabled.

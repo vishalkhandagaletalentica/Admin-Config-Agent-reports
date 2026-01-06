@@ -1,0 +1,13 @@
+DEBUG: Could not parse JSON string. Raw data: {
+  "response": "I will disable the display of Completed Contractual Milestones in the Project Status report. The setting has been updated from enabled to disabled.",
+  "metadata": {
+    "type": "success",
+    "selectable_values": null,
+    "value": {
+      "old": "enabled",
+      "new": "disabled"
+    },
+    "section": "SGD_PROJECT_DETAILS_REPORT",
+    "entry": "INCLUDECOMPLETEDCMS",
+    "url": "https://gantt-shreya.realization.com/conweb/config/configsection.aspx?ReportName=UA&sectionid=17&sectionname=SGD_PROJECT_DETAILS_REPORT&sectionfriendlyname=Project+Mgr+-%3E+Project+Control&sectiondesc=This+section+contains+parameters+for+the+Project+Control+view%2Freport.&groupid=2&groupname=Conweb&groupfriendlyname=Configuration&entryName=INCLUDECOMPLETEDCMS"
+}

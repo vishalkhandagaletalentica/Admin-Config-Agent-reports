@@ -1,0 +1,363 @@
+Titles shown in the filtering pane (Common -> Filter Names):
+- 12 Months
+- 13 Weeks
+- 4 Quarters
+- 4 Weeks
+- 6 Months
+- 7 days
+- 8 Quarters
+- Values Above
+- Action Item
+- Actual Chain Start
+- Days Delta Buff Cnsmd in NS Tasks
+- All
+- Show All Chains
+- All CMS/PE
+- All Milestones
+- All Skills
+- American
+- Project Attribute 4
+- Project Attribute 5
+- Project Attribute 6
+- Project Attribute 7
+- Project Attribute 8
+- Portfolio
+- Avg Buffer Cnsmd
+- Avg Days Escalated
+- Bar
+- Batch Print List Filter
+- BEINGMODIFIED
+- Or below
+- Bi-Weekly
+- Breakdown
+- Breakdown Help Needed
+- Bucket
+- Buffer Status
+- Buffer Trend
+- By When
+- Assign To
+- CANCELLED
+- CANCELLED(CAN)
+- Business Unit
+- Chain Type
+- Include Chains Within
+- Chart Type
+- Checklists
+- Committed, In Queue
+- CIQ, IP, OH
+- CO
+- Committed, In Queue (CIQ)
+- Compare
+- Compare With
+- Completed
+- Completed (CO)
+- Completed (CO) (Task Status)
+- Completed CMS
+- Completions
+- Compliant for Task Update
+- Compliant for Task WIP
+- Compute Delay Using
+- Constraint Divisions
+- CONTRACTUALMILESTONES
+- Current
+- Current Phase
+- Current Help Needed
+- Custom Date 1
+- Custom Date 2
+- Custom Task Text1
+- Custom Task Text2
+- Custom Task Text3
+- Custom Task Text4
+- Custom Task Text5
+- Custom Task Text6
+- Custom Task Text7
+- Custom Task Text8
+- Custom Task Text9
+- Custom Task Text10
+- Cycle Time
+- Daily
+- Data
+- Date Range
+- Day
+- Days
+- Days Ago
+- Days for Delta/Decreased Rem Dur Calculations
+- All Full Kit Managers Default Selection
+- All Full Kit Task Desc Default Selection
+- All Priorities Default Selection
+- All Project Managers Default Selection
+- All Resource Managers Default Selection
+- All Status Default Selection
+- All Task Managers Default Selection
+- Incl Current Period Detail
+- Display
+- Display Cumulative Data
+- Display Data Table
+- Display Past Periods
+- Display and Sort Tasklist by
+- Division
+- Virtual Drum
+- Due Date
+- Enable Subtasks
+- End Date
+- End of Bucket
+- End of Last Month
+- End of Last Period
+- End of Last Quarter
+- End of Last Week
+- End of Today
+- End of Yesterday
+- Enter Location
+- Escalation Impact
+- Current Esc Red Task Response Compliance
+- Min Task Escalated Duration (in Days)
+- Esc Red Task Response (d)
+- Escalation Response Threshold (d)
+- Escalated Tasks
+- European
+- Every 30 days from Today
+- Every Friday
+- Every Monday
+- Every Month End
+- Every Saturday
+- Every 7 Days From Today
+- Every Sunday
+- Every Thursday
+- Every Tuesday
+- Every Wednesday
+- Exclude On Hold Task
+- Excluded
+- FEEDINGBUFFERS
+- File Type
+- Filter By
+- FILTERING
+- Filters For Left Bar
+- Filters For Right Bar
+- Full Kit Status
+- Large
+- Medium
+- Small
+- X-large
+- X-small
+- From
+- From Task Mgr/Participant
+- Full Kit Manager
+- Full Kit Manager Filter
+- Full Kit Task Desc
+- Future
+- Green
+- Group By
+- Help Needed Description
+- Show Hierarchy
+- Highlight Changes
+- Horizon
+- Hours
+- Ignore Buffer Consumed
+- Concerto Division
+- External Division
+- Improved
+- IMS
+- In Progress (IP)
+- Include Cancelled Projects
+- Incl Avg Buffer Cnsmd
+- Incl Avg Days Escalated
+- Include
+- Include Completed
+- Include Completed Tasks
+- Include Compliant Full Kit Mgrs
+- Include Compliant Task Mgrs
+- Include only Red Chains
+- Include Planned Cycle Time
+- Include Planned Throughput
+- Include Project Wait Time
+- Show Start Delay
+- Subprojects
+- INCLUDECHART
+- Included
+- Include Internal Milestones
+- In Process (IP)
+- In Progress
+- Internal Milestones
+- Interval
+- IP
+- IP-S
+- Marked as Buffer Recovery
+- Issue Type
+- Not marked as Buffer Recovery
+- Load:Capacity
+- Late
+- Late Only
+- Light Green
+- Light Red
+- Light Yellow
+- Line
+- Load Breakdown
+- All (Role Type)
+- Participant (Role Type)
+- Manager (Role Type)
+- PenCentage of Max Buffer Pen
+- Maximum Cumulative Load:Capacity
+- Milestone
+- Milestone Type
+- Milestones
+- Minimum Percentage Completion for Release
+- Month
+- Monthly
+- Months
+- MS Project ID
+- Name/Description
+- Planned
+- Next CMS/PE
+- Next Milestone
+- No Data
+- Not Ready To Start
+- Not Started (NS)
+- Not Started
+- NS
+- NS, IP
+- NS,IP,CO
+- NS, IP, RL
+- On Hold
+- On Hold (OH)
+- Other
+- P2P Buffers
+- Past
+- Past Periods To Display
+- Past Help Needed
+- Project End Only
+- Peak Load:Capacity
+- Show Penetrating Chain
+- Penetrating Chain Sorting Selection 1
+- Penetrating Chain Sorting Selection 2
+- Penetrating Chain Sorting Selection 3
+- Penetrating Chain Sorting Selection 4
+- User Defined
+- % Compliant Task Mgrs
+- % Compliant Tasks
+- Min Percent Full Kit Complete
+- Period
+- Periods Data
+- Period Type
+- Period Type for Purchasing Tasks
+- Periods
+- Past Periods In Tooltip
+- Planned Date
+- Planned (PL)
+- Priority
+- Project
+- Project Count
+- Project Manager Filter
+- Project Role
+- Project Participants
+- Project Unit
+- Project Weight
+- Project Description
+- Projected Date
+- Project Manager
+- Project Name
+- Projects
+- Status (Project Status)
+- TM Task WIP Count for Purchasing Tasks
+- Purchasing Tasks
+- Quarter
+- Quarterly
+- Quarters
+- Days Decrease for Rem Dur in IP Tasks
+- Days Decrease In Rem Dur For IP Tasks
+- Reset Count at Start of Fiscal Year
+- Resource Manager
+- Resources
+- RL
+- Rolling Average Period
+- Ready To Start
+- All Tasks
+- Ready To Start Label
+- Red
+- Red/Other
+- Red/Yellow/Green/Other
+- Red/Yellow/Other
+- In Process
+- Regular Tasks
+- Released
+- Released (RL)
+- Days for Delta/Decreased Rem Dur Calculations
+- Select Changes To Highlight
+- Filter Changes
+- Select Filepath
+- Select Project File
+- Set Aside  Reserve Units
+- Shifts
+- Show Full Path for All Chains
+- Show Data By
+- Show Data For Task Mgt Task Type
+- Show Data Through
+- Include Drum Phase Cycle Time
+- Include Ignored Tasks
+- Include Users From Subgroups
+- Show Managers Only
+- Show Participants in TM list
+- Show Rolling Average
+- Include Users With Access To All Divisions
+- Show Weighted Average Delay
+- Show Completed Pred/Succ
+- Show Project Labels
+- Sort By
+- Sort Selection Label
+- Start of Bucket
+- Start Date
+- Status (Task Status)
+- Customer
+- Subproject Milestones
+- Compact View
+- Detail View
+- Subtask Role
+- Only Subtasks
+- Subtask Status
+- Subtask Manager
+- Subtasks
+- Successor Chains to Stuck Task(s)
+- Task Color
+- Task Manager Filter
+- Task Role
+- Task Managers
+- Only Tasks
+- Task Participants
+- Task Type
+- Task Unique ID
+- Task Manager
+- Task Penetrating Chain Sort by Chain
+- Task Penetrating Chain Sort by Suggested Likely Start
+- Task Penetrating Chain Sort by Expected Finish
+- Tasks
+- Tasks and Subtasks
+- TASKSTATUS
+- Team
+- Team Name
+- Time Interval
+- Time Intervals
+- Description
+- TM Task WIP Count
+- TM Task WIP Threshold
+- To Task Mgr/Participant
+- Today
+- Total Load:Capacity
+- Unchanged
+- Unspecified Help Needed Criterion
+- Update Compliance Period (hrs)
+- Update Compliance Period for Purchasing Tasks (hrs)
+- Update Compliance Threshold (hrs)
+- Update Planned Start
+- Update Planned Start For Planned Projects
+- User
+- User And Team
+- User Group
+- View Projects
+- Week
+- Weekly
+- Weeks
+- White
+- WIP
+- Worsened
+- Year
+- Yearly
+- Yellow

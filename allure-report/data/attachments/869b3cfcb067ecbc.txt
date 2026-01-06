@@ -1,0 +1,1 @@
+Yes, the option to queue messages using the AWS SQS Service is currently enabled.

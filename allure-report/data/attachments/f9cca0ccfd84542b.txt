@@ -1,0 +1,1 @@
+I matched "CSV/Excel Field Mapping" to the Planning Client -> Import Field Mapping section. The Revised Baseline Name is set to "Updated".

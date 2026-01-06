@@ -1,0 +1,5 @@
+Project commit error warnings (Project Mgr -> Commit Validation):
+- ERROR-0190: CMS Names in project should match CMS names associated with the phases. — disabled
+- Project has a Phase which is not present in Global Resource File. — enabled
+- Project has a Resource with group different from what is specified in Global Resource File. — disabled
+- Project has a Resource which is not present in Global Resource File. — disabled

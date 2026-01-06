@@ -1,0 +1,9 @@
+The current filters available for the Pipelining report are:
+- Author: Portfolio
+- Category: New Product Code
+- Subject: Customer
+- Attribute1: Design Team Needed
+- Attribute2: Project Attribute 5
+- Attribute3: Project Attribute 6
+- Attribute4: New Project Attribute Value
+- Attribute5: [insert new value here]

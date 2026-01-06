@@ -1,0 +1,1 @@
+{'entryId': 2504, 'sectionId': 10, 'flags': 1, 'entryName': 'PROJECT_RANK', 'entryFriendlyName': 'Project Rank', 'strValue': 'Rank', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Project Rank.', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

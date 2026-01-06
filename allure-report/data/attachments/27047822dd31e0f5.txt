@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Penetration (column title: "Buffer Penetration")', 'Buffer Cnsm (column title: "Buffer Cnsm" — item desc: "Buffer Pen.")', 'Buffer Penetration for Execution Analysis (column title: "Buffer Penetration for Execution Analysis")'], 'value': None, 'section': None, 'entry': None, 'url': None}

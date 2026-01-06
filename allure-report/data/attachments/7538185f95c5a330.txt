@@ -1,0 +1,1 @@
+What is the current default number of items set to expand for the escalation delay data?

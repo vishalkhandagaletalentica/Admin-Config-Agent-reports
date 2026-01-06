@@ -1,0 +1,1 @@
+The SNS Topic Display Name for Buffer Management has been updated to "xxxxx Project BM".

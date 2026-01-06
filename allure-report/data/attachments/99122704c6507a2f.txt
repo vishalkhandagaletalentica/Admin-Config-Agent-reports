@@ -1,0 +1,1 @@
+The Planned Finish milestone is currently set to "New PF" (a string value, not a date).

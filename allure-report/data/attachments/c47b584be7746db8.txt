@@ -1,0 +1,1 @@
+{'entryId': 1059, 'sectionId': 10, 'flags': 0, 'entryName': 'DAYS_OPEN', 'entryFriendlyName': 'Total Days Open(in Tasks Drilldown By Help Needed)', 'strValue': 'Days Open', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Days Open', 'rangeList': None, 'validationRule': None, 'sequenceId': 121180.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

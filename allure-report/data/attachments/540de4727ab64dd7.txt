@@ -1,0 +1,1 @@
+Import/export date format in Gantt updated to DD-MMM-YYYY:HHmm.

@@ -1,0 +1,1 @@
+{'entryId': 779, 'sectionId': 30, 'flags': 1, 'entryName': 'CUSTOM_TASK_TEXT9', 'entryFriendlyName': 'CUSTOM_TASK_TEXT9', 'strValue': 'CUSTOM_TASK_TEXT9', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 315580.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

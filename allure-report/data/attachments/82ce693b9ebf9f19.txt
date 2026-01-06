@@ -1,0 +1,1 @@
+The current status of the search functionality for resource notes is RESOURCE_NOTES.

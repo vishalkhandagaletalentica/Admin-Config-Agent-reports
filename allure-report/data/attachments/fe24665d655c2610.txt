@@ -1,0 +1,1 @@
+{'entryId': 2535, 'sectionId': 146, 'flags': 0, 'entryName': 'START_DATE', 'entryFriendlyName': 'Start', 'strValue': 'startDateMs', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Start', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510700.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

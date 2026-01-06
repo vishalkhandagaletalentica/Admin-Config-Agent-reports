@@ -1,0 +1,1 @@
+{'entryId': 113, 'sectionId': 10, 'flags': 0, 'entryName': 'CCFB_PENETRATION', 'entryFriendlyName': 'Feeding Buffer Consumption (%)', 'strValue': '% FB Cnsm`d', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': '% Feeding Buffer Consumed', 'rangeList': None, 'validationRule': None, 'sequenceId': 102260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

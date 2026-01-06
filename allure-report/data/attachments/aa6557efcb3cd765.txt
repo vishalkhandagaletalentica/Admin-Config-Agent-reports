@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Application -> Common Parameters (the section for Concerto desktop clients)', 'Application -> Concerto Critical Chain (the section for Critical Chain client)'], 'value': None, 'section': None, 'entry': 'HorizonLength', 'url': None}

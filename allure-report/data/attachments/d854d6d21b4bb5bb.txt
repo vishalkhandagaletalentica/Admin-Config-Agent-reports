@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the display name for the Future filter as 'Upcoming', which aligns with the Expected Output. It directly addresses the intent of the Input question. However, it slightly deviates from the phrasing of the Expected Output by omitting 'current' and 'in the filters', which could be seen as a minor shortcoming in completeness.

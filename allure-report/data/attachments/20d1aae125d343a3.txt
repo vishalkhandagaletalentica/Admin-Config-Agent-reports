@@ -1,0 +1,5 @@
+The command to update "Filters Available" is invalid because the provided value "12345" is not of the expected type. The allowed values are specific keys that correspond to filters, such as AUTHOR, CATEGORY, SUBJECT, and various ATTRIBUTE keys. 
+
+Please provide a value that is a comma-separated list of the allowed keys. For example, a correct command would be: 
+
+`set Filters Available to AUTHOR,CATEGORY,SUBJECT`

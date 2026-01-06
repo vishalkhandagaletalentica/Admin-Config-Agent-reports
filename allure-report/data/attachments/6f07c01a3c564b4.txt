@@ -1,0 +1,1 @@
+What is the current mapping for the Task Resume Date in the advanced filter for the Gantt?

@@ -1,0 +1,1 @@
+Please update the display name for the Count column header to "Total Count".

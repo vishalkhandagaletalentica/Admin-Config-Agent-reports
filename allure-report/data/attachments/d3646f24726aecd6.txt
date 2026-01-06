@@ -1,0 +1,11 @@
+The following columns are currently hidden for the "Tasks Delayed By Help Needed" report:
+- MSP ID
+- No Addl Delay Duration
+- No Addl Delay Start
+- No Addl Delay Finish
+- Participants
+- Comments
+- % PB Cnsm`d
+- % MB Cnsm`d
+- % FB Cnsm`d
+- Days Open

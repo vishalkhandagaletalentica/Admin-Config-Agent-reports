@@ -1,0 +1,1 @@
+The option to show team members in the Full Kit Manager filter has been successfully enabled.

@@ -1,0 +1,1 @@
+{'entryId': 1768, 'sectionId': 10, 'flags': 0, 'entryName': 'CREATED_BY', 'entryFriendlyName': 'Created By', 'strValue': 'Created By', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Created By in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 135360.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

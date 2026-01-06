@@ -1,0 +1,1 @@
+{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_ERP_INTEGRATION', 'entry': 'HIDDEN_FIELDS', 'url': None}

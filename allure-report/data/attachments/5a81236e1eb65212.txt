@@ -1,0 +1,4 @@
+The command is invalid because you are attempting to set the value to an integer (12345), but the allowed data type for the value is a multi-list (string). You need to provide a comma-separated list of strings instead. 
+
+For example, you could use the following command:  
+`update Hidden Fields set value to MSP_TASK_ID,NO_DELAY_DURATION,NO_DELAY_START`

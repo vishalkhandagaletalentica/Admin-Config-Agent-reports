@@ -1,0 +1,1 @@
+{'entryId': 2858, 'sectionId': 153, 'flags': 0, 'entryName': 'INTEGRATION_TASK_EMAIL_SUBJECT', 'entryFriendlyName': 'Email Subject', 'strValue': 'Bulk Upload Summary', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Email Subject', 'rangeList': None, 'validationRule': None, 'sequenceId': 1587160.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

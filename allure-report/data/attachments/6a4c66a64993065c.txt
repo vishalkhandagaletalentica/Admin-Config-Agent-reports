@@ -1,0 +1,1 @@
+{'entryId': 393, 'sectionId': 10, 'flags': 0, 'entryName': 'EXECMGT_TASK_STATUS', 'entryFriendlyName': 'Subtask Status', 'strValue': 'Subtask Status', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Status in Subtask List', 'rangeList': None, 'validationRule': None, 'sequenceId': 107860.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+The advanced filter mapping for Custom Task Date Field 22 is set to "Date22".

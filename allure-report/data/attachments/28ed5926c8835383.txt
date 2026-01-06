@@ -1,0 +1,1 @@
+Please disable rounding up durations during Duration Reduction.

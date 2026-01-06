@@ -1,0 +1,1 @@
+The P2P MS Date (Planned Finish Date) column is currently mapped to "PF" when importing CSV/Excel files into the Planning client.

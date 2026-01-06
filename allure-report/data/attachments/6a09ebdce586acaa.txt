@@ -1,0 +1,1 @@
+What is the default cycle time value for new targets in the settings?

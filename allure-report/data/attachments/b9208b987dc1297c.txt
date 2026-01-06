@@ -1,0 +1,8 @@
+The following checklist columns are currently hidden:
+
+- New Column Title
+- MMH
+- Status
+- MCN
+- Task Date
+- Date

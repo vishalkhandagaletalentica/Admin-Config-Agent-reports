@@ -1,0 +1,1 @@
+{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_BUFF_DIAGNOSITCS_CHART', 'entry': 'REGULAR', 'url': None}

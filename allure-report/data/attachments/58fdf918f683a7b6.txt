@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Exclude Projects: On Hold', 'Metrics -> Issue Resolution: On Hold', 'Project Mgr -> Modify Projects: On Hold', 'Executive -> Project Status: On Hold'], 'value': None, 'section': None, 'entry': None, 'url': None}

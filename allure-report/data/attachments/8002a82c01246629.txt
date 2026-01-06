@@ -1,0 +1,1 @@
+I tried to disable the Automatically Load Project Status Report setting, but the update failed because your account does not have permission to change configuration entries. Please contact an administrator with update privileges or provide credentials for an account that has permission and I can apply the change.

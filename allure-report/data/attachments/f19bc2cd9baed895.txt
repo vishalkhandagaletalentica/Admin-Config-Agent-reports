@@ -1,0 +1,1 @@
+Please disable the display of average for the current period in the report.

@@ -1,0 +1,1 @@
+{'entryId': 1031, 'sectionId': 10, 'flags': 0, 'entryName': 'DURATION', 'entryFriendlyName': 'Duration', 'strValue': 'New Buffer Consumption', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Duration in days', 'rangeList': None, 'validationRule': None, 'sequenceId': 120620.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

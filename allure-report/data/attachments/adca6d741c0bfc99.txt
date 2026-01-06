@@ -1,0 +1,1 @@
+I couldn't find a change to make: the filter in the filtering pane described as "Filter name for Every Tuesday" is already set to "Weekly Tuesday".

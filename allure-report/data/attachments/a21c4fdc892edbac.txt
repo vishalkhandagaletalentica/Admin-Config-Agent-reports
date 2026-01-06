@@ -1,0 +1,1 @@
+{'entryId': 802, 'sectionId': 10, 'flags': 0, 'entryName': 'TASK_SUCCESSORS', 'entryFriendlyName': 'Successor Unique Identifier', 'strValue': 'Succ. UID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Successor Unique Identifier', 'rangeList': None, 'validationRule': None, 'sequenceId': 116040.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

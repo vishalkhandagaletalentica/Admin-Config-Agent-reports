@@ -1,0 +1,1 @@
+Updated Default Horizon (For Completed Tasks) from 60 to 90 months.

@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question, accurately stating the display name for managers in the Project report. It paraphrases the Expected Output effectively while maintaining the correct meaning. The only minor difference is the omission of 'current,' which does not significantly impact the factual accuracy.

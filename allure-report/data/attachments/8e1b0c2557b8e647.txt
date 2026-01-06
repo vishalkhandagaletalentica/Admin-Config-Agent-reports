@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Mgr -> Search Columns for Task Table', 'Task Mgr -> Subtask List -> Search Columns for Task Table'], 'value': None, 'section': None, 'entry': None, 'url': None}

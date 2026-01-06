@@ -1,0 +1,52 @@
+Here are the current column-heading titles (Common → Column Names) — showing the first 50. If you want the complete list or a specific subset, tell me which:
+
+1. Absolute
+2. Action
+3. Action Item
+4. Actions
+5. Action Type
+6. Active Attribute
+7. Activity Priority Code
+8. Actual Buffer Size (d)
+9. Actual Chain Start
+10. Actual Count
+11. Actual Cycle Time
+12. Delay (Actual Delay Report)
+13. Delay (Actual Delay Report)
+14. Actual Duration
+15. Actual End Date
+16. Actual Project Start
+17. Actual Start Date
+18. Actual Value
+19. Actual Weight
+20. Additional Phases
+21. Additional Information
+22. Addl Pipeline Delay
+23. Addl Pipeline Delay with Stretch
+24. Additional Required Buffer
+25. Adequate Buffers
+26. All Review Comments
+27. Alternate Resource Mgr
+28. Associated List
+29. Associated Lists
+30. Attribute Name
+31. Attribute
+32. Project Attribute 4
+33. Project Attribute 5
+34. Project Attribute 6
+35. Project Attribute 7
+36. Project Attribute 8
+37. Portfolio
+38. Autolink
+39. Auto Rollup Duration
+40. Auto Rollup Resource
+41. Base
+42. Baseline Due Date
+43. Baseline Duration
+44. Baseline Finish
+45. Baseline Start
+46. Binary routine
+47. BM Horizon Start
+48. Buffer Management Last Update
+49. Breakdown
+50. Bucket Start

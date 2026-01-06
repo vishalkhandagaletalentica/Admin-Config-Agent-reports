@@ -1,0 +1,1 @@
+{'entryId': 1162, 'sectionId': 10, 'flags': 0, 'entryName': 'ACTUAL_WEIGHT', 'entryFriendlyName': 'Actual Weight', 'strValue': 'Actual Weight Value', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name for Actual Weight.', 'rangeList': None, 'validationRule': None, 'sequenceId': 123240.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

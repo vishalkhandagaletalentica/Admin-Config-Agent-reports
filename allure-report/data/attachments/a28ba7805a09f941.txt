@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Executive → Queues Drilldown', 'Metrics → Drum Throughput Drilldown', 'Project Mgr → Project Control', 'Project Mgr → Modify Projects', 'Project Mgr/Resource Mgr → Assign Task Managers'], 'value': None, 'section': None, 'entry': None, 'url': None}

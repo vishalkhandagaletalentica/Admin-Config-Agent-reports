@@ -1,0 +1,5 @@
+The command is incorrect because the value you are trying to set (12345) does not match the expected type. The valueType indicates that the setting accepts a string value, not an integer. 
+
+The expected type is a string. 
+
+Please use a command like: `update configuration setting for "All CMS/PE" to "All Projects"` to set the value correctly.

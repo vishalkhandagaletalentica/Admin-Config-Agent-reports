@@ -1,0 +1,3 @@
+The command you provided is invalid because the value type for CUSTOM_TASK_TEXT7 is expected to be a string, but you are trying to set it to an integer (12345). Please provide a string value instead. 
+
+A correct example value would be: `update CUSTOM_TASK_TEXT7 set value to "Your custom text here"`

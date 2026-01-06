@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr → Work Card Information — Task Status', 'Task List → Common — Task Status Filter', 'Project Mgr → Project Chain View — Task Status Filter'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+I tried to update the Work Card Status to "12345" but the update failed: the system could not validate the expected multilist format for that setting. The current value remains "NS -> NS,IP -> IP". The allowed options appear to include NS, CO, and IP. Would you like to set it to one of those (for example "NS,CO"), or provide a different valid string?

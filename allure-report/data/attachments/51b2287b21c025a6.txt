@@ -1,0 +1,1 @@
+The Actual Output contains factual inaccuracies, specifically stating 'Show Managers Only in Full Kit Mgr Filter' instead of the correct 'Show Managers Only in Project Mgr Filter.' While it addresses the intent of the Input by discussing the setting being disabled, it fails to accurately reflect the expected context, leading to a significant deduction in points.

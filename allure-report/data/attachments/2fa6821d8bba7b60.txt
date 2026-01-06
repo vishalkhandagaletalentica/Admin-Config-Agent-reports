@@ -1,0 +1,1 @@
+The Actual Output correctly states that no columns are hidden, aligning with the Expected Output's factual claim. However, it inaccurately refers to the 'Resource panel (Planning Client)' instead of the 'report,' which is the focus of the Expected Output. This slight misalignment with the intent of the Input question results in a deduction of points.

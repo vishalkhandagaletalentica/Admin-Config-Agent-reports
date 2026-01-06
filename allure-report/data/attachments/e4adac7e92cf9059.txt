@@ -1,0 +1,1 @@
+The buffer consumption threshold (Ignore Buffer Consumed Value) was updated from 200 to 300.

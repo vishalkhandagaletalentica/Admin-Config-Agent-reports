@@ -1,0 +1,3 @@
+The command is invalid because the `valueType` is set to 0, which indicates that the value should be an integer. You have provided a string value ('abcde'), which is not appropriate for this type. The expected value should be an integer. 
+
+A correct example command would be: `update Green Project Buffer set value to 3`.

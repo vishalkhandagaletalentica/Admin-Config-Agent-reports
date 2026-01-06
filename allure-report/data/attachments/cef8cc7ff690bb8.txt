@@ -1,0 +1,1 @@
+The current title for the Critical column in the reports is Important.

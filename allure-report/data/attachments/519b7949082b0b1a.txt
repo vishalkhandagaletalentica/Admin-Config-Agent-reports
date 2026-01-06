@@ -1,0 +1,1 @@
+{'entryId': 1933, 'sectionId': 10, 'flags': 0, 'entryName': 'TOTAL_UNITS', 'entryFriendlyName': 'Total Units', 'strValue': 'Total Units', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Total Units', 'rangeList': None, 'validationRule': None, 'sequenceId': 138660.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

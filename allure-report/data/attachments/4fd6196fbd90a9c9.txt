@@ -1,0 +1,1 @@
+The Actual Output accurately reflects the factual content of the Expected Output, stating that the title displayed for the Chain Complete column is '75%', which aligns perfectly with the expected information. Additionally, it directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

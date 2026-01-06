@@ -1,0 +1,1 @@
+{'entryId': 1972, 'sectionId': 10, 'flags': 0, 'entryName': 'PHASE', 'entryFriendlyName': 'Phase', 'strValue': 'Phase', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Phase', 'rangeList': None, 'validationRule': None, 'sequenceId': 139440.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

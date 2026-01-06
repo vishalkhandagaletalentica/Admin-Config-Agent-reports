@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': {'old': 'FONT_MEDIUM', 'new': 'FONT_LARGE'}, 'section': 'SGD_GRPT_ACT_BY_PROJ', 'entry': 'PRINT_FONT_SIZE', 'url': None}

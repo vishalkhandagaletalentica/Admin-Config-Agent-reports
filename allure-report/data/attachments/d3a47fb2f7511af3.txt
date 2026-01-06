@@ -1,0 +1,1 @@
+Yes — the advanced filter “Default Selection for Delta Buff Cnsmd Filter” is set to be selected when the filter is displayed in the report (enabled).

@@ -1,0 +1,11 @@
+Hidden columns in the Stuck Tasks Delays report:
+- Text1
+- RZ Reference
+- Expected Improvements
+- Hours Remaining
+- WBS STREAM
+- QA Check
+- Technician
+- Zone
+- Job Status
+- Route Key

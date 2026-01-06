@@ -1,0 +1,1 @@
+The Display Name for Maximum Units in Column Headers has been successfully updated to "Maximum Units Allowed".

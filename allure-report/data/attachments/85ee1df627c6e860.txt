@@ -1,0 +1,1 @@
+The type for Project Attribute 7 is set to 2.

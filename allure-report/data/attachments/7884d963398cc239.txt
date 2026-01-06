@@ -1,0 +1,1 @@
+{'entryId': 92, 'sectionId': 9, 'flags': 1, 'entryName': 'COLOR_SCHEME_INCLUDE_CCFB', 'entryFriendlyName': 'Color Scheme Includes CCFB', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Color Scheme Includes CCFB', 'rangeList': None, 'validationRule': None, 'sequenceId': 91840.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

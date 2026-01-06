@@ -1,0 +1,1 @@
+Can you show me the current field mapping settings for the advanced filter in the Gantt chart?

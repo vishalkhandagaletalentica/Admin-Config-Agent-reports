@@ -1,0 +1,1 @@
+I attempted to disable the external link for the Project Status Report but the update failed because your account does not have privileges to change configuration entries. Would you like me to prepare the exact change request text you can send to an administrator?

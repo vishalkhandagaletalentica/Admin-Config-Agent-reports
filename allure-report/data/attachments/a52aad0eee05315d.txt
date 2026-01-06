@@ -1,0 +1,3 @@
+The command is invalid because the value 'maybe' is not a valid option for the setting 'Enable Stretch'. The expected type is an integer (valueType: 3), and the allowed values are typically 0 or 1, where 0 usually represents 'false' and 1 represents 'true'. 
+
+Please use a command like: `update configuration set Enable Stretch to 1` for enabling stretch or `update configuration set Enable Stretch to 0` for disabling it.

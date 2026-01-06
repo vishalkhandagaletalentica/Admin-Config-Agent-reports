@@ -1,0 +1,1 @@
+Revised Baseline Early Finish is mapped to the column "REV_EF" when importing CSV/Excel files.

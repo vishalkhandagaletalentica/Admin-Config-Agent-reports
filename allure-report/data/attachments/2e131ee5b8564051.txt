@@ -1,0 +1,1 @@
+Updated the Peak Load:Capacity column header from "Peak L:C" to "Peak Load Capacity".

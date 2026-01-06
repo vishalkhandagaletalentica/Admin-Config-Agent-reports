@@ -1,0 +1,5 @@
+Hidden columns in the Full Kit Delay Drilldown report:
+- Full Kit Manager
+- Comments Updated
+- Help Needed
+- New Participants

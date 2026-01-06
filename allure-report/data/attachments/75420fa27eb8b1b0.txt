@@ -1,0 +1,1 @@
+No — the link to the subtask view is currently disabled in the Project Status report.

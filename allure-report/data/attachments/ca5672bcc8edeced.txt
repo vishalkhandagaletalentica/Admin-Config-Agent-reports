@@ -1,0 +1,1 @@
+The current email body set for the subtask updates is: "Your file has been successfully processed. Attached are the log files for your review."

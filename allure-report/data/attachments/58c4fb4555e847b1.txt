@@ -1,0 +1,1 @@
+The Actual Output accurately conveys the factual information regarding the window size for grouping priority tasks, which is 5, aligning well with the Expected Output. It directly addresses the intent of the Input question without introducing incorrect facts or assumptions. The phrasing differs slightly, but the meaning remains intact, justifying a high score.

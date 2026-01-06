@@ -1,0 +1,1 @@
+{'entryId': 2402, 'sectionId': 143, 'flags': 0, 'entryName': 'INTEGRATION_TASK_TEXT8_COLUMN', 'entryFriendlyName': 'Text8', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name of TEXT8', 'rangeList': None, 'validationRule': None, 'sequenceId': 1478040.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

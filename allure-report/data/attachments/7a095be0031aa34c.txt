@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Current Day', 'Current Week', 'Current Month'], 'value': None, 'section': None, 'entry': None, 'url': None}

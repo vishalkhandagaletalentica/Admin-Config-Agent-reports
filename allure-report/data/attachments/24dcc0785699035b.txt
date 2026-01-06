@@ -1,0 +1,1 @@
+The Project Unit filter in the Pipelining report is set to Project Weight.

@@ -1,0 +1,5 @@
+The command to update the configuration is invalid because the value 'xyz' is not an acceptable value for the setting 'Enable Automatic Links'. This setting expects a value of type integer, which can only be either 0 (disabled) or 1 (enabled). 
+
+Please use a valid integer value for this command. For example, to enable automatic links, you should use the command: 
+
+`update configuration set Enable Automatic Links to 1;`

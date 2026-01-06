@@ -1,0 +1,1 @@
+You provided section “Actual Delay report” and entry “Filter name for Compute Delay Using.” I found a matching entry under the friendly section “Common -> Filter Names” (Compute Delay Using) and a related entry in “Metrics -> Actual Delay” (Compute Delay Against). Which section should I read the filter name from?

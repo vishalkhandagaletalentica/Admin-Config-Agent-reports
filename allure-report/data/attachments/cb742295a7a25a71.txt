@@ -1,0 +1,10 @@
+Available filters for the Task Level Priorities report:
+- Horizon
+- In Progress (Task Status)
+- Task Type
+- Project
+- Task Manager Pro
+- Division
+- Project Manager
+- Customer (Subject)
+- Portfolio (Author)

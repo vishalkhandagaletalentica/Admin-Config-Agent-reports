@@ -1,0 +1,1 @@
+{'type': 'success', 'selectable_values': None, 'value': {'old': 'enabled', 'new': 'disabled'}, 'section': 'SGD_BUFF_DIAGNOSITCS_CHART', 'entry': 'PAST', 'url': None}

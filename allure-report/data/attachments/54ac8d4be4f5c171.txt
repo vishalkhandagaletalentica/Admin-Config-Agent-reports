@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it confirms that completed projects are displayed, aligning perfectly with the Expected Output. It also directly addresses the intent of the Input by referencing the 'Modify Projects' section and the relevant setting, without introducing any incorrect facts or unrelated information.

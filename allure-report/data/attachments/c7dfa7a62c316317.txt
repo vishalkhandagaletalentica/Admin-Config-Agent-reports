@@ -1,0 +1,1 @@
+{'type': 'error', 'selectable_values': ['Try plain comma-separated list', 'Try again with $MULTILIST string', 'Escalate to administrator'], 'value': None, 'section': 'RULE1', 'entry': 'FILTERS_DISPLAYABLE', 'url': None}

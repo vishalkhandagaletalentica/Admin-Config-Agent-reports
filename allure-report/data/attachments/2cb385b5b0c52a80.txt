@@ -1,0 +1,3 @@
+The command is invalid because 'Project Attribute8 mandatory' is a mandatory field and cannot be set to a string value like 'abcde'. The expected type for this field is an integer (valueType: 3). Please provide an integer value instead. 
+
+For example, you could use: `update configuration set Project Attribute8 mandatory to 1`.

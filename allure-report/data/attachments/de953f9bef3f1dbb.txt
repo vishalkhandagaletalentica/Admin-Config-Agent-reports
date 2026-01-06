@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Include in Report setting to 1.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Include in Report” setting?'}, {'role': 'user', 'content': 'The section name is Task List --> Batch Printing.'}, {'role': 'assistant', 'content': 'Include in Report has been updated to 1.'}]

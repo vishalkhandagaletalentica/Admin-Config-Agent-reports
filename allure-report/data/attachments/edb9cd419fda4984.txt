@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Bulk Import: Customer (Customer subject mapping)', 'Buffer Management: Use Bulk Insertion (enable/disable bulk data insertion)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+Updated the filter name in the filtering pane from "NS -> NS" to "New NS".

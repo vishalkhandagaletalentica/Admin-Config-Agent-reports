@@ -1,0 +1,1 @@
+{'entryId': 2464, 'sectionId': 10, 'flags': 0, 'entryName': 'ABSOLUTE', 'entryFriendlyName': 'Absolute', 'strValue': 'Absolute', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Absolute', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

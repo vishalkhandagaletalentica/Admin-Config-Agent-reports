@@ -1,0 +1,1 @@
+I disabled showing restricted users in the Assign Participants dialog. It was enabled and is now disabled.

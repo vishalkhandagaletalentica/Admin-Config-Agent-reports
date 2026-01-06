@@ -1,0 +1,1 @@
+The Actual Output provides a list of column presets for CC mode, but it does not match the Expected Output, which specifies different column names. This discrepancy indicates that the response is factually incorrect. Additionally, while the response addresses the intent of the question, the incorrect details significantly impact the overall score.

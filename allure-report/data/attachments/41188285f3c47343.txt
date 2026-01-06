@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Executive -> Show Actual Delay (toggle that displays Actual Delay data)', 'Executive -> Filters to display (filters currently shown in Executive reports)', 'Task List -> Project Mgr -> Filters to display (filters shown in Project Mgr report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

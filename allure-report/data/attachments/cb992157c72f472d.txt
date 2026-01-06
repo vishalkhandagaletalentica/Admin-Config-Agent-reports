@@ -1,0 +1,10 @@
+The Filters to display for the Red Project Delay report are not set (currently empty).
+Available filter options:
+- AUTHOR
+- CATEGORY
+- SUBJECT
+- ATTRIBUTE1
+- ATTRIBUTE2
+- ATTRIBUTE3
+- ATTRIBUTE4
+- ATTRIBUTE5

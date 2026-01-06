@@ -1,0 +1,1 @@
+I couldn't disable "Enable Stretch" in the Pipeline Mgr because you do not have privileges to update configuration entries. The setting is currently enabled.

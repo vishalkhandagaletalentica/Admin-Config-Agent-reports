@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'FULL_KIT_LIST_REPORT', 'entry': 'SHOW_ALL_DIVISIONS_ASSIGN_PARTICIPANT', 'url': None}

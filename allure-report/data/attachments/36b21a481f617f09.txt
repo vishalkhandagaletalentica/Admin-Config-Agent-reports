@@ -1,0 +1,3 @@
+The command is invalid because the value 'xyz' for the Port setting is not a valid integer. The expected type for the Port configuration is an integer, which should be within the range of valid port numbers (1-65535). 
+
+A correct example command would be: `update configuration set Port to 8080;`

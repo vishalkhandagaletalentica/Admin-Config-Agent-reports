@@ -1,0 +1,1 @@
+The Calendar column is mapped to "CALNUM" for CSV/Excel imports.

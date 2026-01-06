@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Common (SGD_TASK_UPDATE)', 'Project Mgr/Resource Mgr -> Escalated Tasks (SGD_STUCK_TASK)', 'Buffer Diagnostics -> By Help Needed (BY_HELP_NEEDED_EA)'], 'value': None, 'section': None, 'entry': None, 'url': None}

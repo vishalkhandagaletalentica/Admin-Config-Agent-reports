@@ -1,0 +1,1 @@
+The columns currently hidden in the Print Preview for the Task Incomplete Predecessors report are Custom Task Text1, Custom Task Text2, Custom Task Text3, Custom Task Text4, Custom Task Text5, SECURITY_CODE, SORTN2, CONSTRAINT_DATE, Custom Task Text6, Custom Task Text7, New Custom Task Text, and New Custom Task Text10.

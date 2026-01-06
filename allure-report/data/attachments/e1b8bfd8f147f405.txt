@@ -1,0 +1,1 @@
+The current filter name for the Help Needed Description in the BM Issue Resolution report is "Assistance Required."

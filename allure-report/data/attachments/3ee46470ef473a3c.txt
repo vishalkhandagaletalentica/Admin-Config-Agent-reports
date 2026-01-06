@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It accurately states the current name set for the filter, which aligns with the Expected Output. The only minor difference is the phrasing of 'filter included in reports' versus 'filter that is included in the reports,' but this does not affect the factual correctness.

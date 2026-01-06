@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Diagnostics → Tasks Drilldown From Reason (SGD_BUFF_DIAGNOSITCS_DRILL_DOWN)', 'Buffer Diagnostics → Tasks Drilldown From TM/Resource/Task Desc (SGD_BUFF_DIAGNOSITCS_DRILL_DOWN_TM)', 'Project Mgr → Full Kit Report (FULLKIT_REPORT)'], 'value': None, 'section': None, 'entry': None, 'url': None}

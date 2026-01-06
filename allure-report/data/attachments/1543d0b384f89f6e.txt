@@ -1,0 +1,1 @@
+{'entryId': 2781, 'sectionId': 124, 'flags': 1, 'entryName': 'GLOBAL_FLOAT_VALIDATION', 'entryFriendlyName': 'Global Float Validation', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Global Float Validation', 'rangeList': None, 'validationRule': None, 'sequenceId': 1295620.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

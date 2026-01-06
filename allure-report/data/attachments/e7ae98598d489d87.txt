@@ -1,0 +1,1 @@
+{'entryId': 1461, 'sectionId': 11, 'flags': 0, 'entryName': 'NS', 'entryFriendlyName': 'NS', 'strValue': 'New NS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for NS.', 'rangeList': None, 'validationRule': None, 'sequenceId': 139220.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

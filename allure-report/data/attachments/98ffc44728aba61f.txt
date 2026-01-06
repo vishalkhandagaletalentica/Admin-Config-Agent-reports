@@ -1,0 +1,1 @@
+I attempted to update Filters To Display but the update failed because the value could not be validated against the section's allowed filter format. Please provide a valid filter list (using the allowed filter names) or tell me how you’d like to proceed.

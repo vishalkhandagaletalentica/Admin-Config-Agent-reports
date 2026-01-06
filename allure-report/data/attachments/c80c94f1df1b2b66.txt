@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Application → Concerto Critical Chain — Internal Milestones Must Have Zero Duration', 'Task List → Common — Internal Milestones Must Have Zero Duration'], 'value': None, 'section': None, 'entry': None, 'url': None}

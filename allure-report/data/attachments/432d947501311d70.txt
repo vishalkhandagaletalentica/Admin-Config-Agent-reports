@@ -1,0 +1,1 @@
+The third text column title in the Task Checklist is "Status".

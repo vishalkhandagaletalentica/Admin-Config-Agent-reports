@@ -1,0 +1,1 @@
+{'entryId': 195, 'sectionId': 10, 'flags': 0, 'entryName': 'EXPECTED_START', 'entryFriendlyName': 'Expected Start', 'strValue': 'Expected Start', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Expected Start', 'rangeList': None, 'validationRule': None, 'sequenceId': 103900.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

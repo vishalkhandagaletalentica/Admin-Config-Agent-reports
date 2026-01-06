@@ -1,0 +1,17 @@
+Current column order for the Executive → Red Projects report:
+1. Trend
+2. Project Name
+3. Due Date
+4. Delay
+5. Projected Date
+6. Planned Start
+7. Top Priority Task
+8. Trend Chart
+9. Color
+10. Status
+11. Planned Date
+12. Highest Priority Level
+13. Highest Priority Level Cnsmp`n
+14. Last Update
+15. Update Compliance
+16. Addl Details

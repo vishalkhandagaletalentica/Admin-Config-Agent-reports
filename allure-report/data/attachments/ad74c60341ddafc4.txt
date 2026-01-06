@@ -1,0 +1,1 @@
+The Actual Output correctly indicates that the SMTP server name is not set, which aligns with the factual meaning of the Expected Output stating it is empty. However, the phrasing differs slightly, and while it addresses the intent of the question, it could be more precise in reflecting the terminology used in the Expected Output.

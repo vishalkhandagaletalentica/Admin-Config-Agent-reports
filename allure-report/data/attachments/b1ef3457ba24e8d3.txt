@@ -1,0 +1,1 @@
+The display name for Interval in Filters has been successfully updated to "New Interval".

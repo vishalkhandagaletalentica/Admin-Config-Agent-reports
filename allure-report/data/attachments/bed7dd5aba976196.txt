@@ -1,0 +1,1 @@
+Yes, the option to push messages via the AWS SNS Service is currently enabled.

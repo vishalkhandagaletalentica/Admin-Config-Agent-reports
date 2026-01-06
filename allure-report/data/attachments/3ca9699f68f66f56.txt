@@ -1,0 +1,1 @@
+{'entryId': 921, 'sectionId': 10, 'flags': 0, 'entryName': 'IS_TEAM', 'entryFriendlyName': 'Team', 'strValue': 'Team', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Team in Column Headers', 'rangeList': None, 'validationRule': None, 'sequenceId': 118420.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

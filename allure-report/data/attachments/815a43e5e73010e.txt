@@ -1,0 +1,1 @@
+Custom Task Text Field 1 in Task Mgr -> Task List -> Search Columns for Task Table is now set to "CUSTOM_TASK_TEXT1_NEW".

@@ -1,0 +1,1 @@
+I found the configuration you described in the "Filtering Pane" area and it is currently set to "Project Overview".

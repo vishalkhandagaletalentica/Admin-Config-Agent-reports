@@ -1,0 +1,1 @@
+Updated the filter name from "End of Yesterday" to "Yesterday's End".

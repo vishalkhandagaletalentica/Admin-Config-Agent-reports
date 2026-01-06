@@ -1,0 +1,4 @@
+The command you provided to update the "Sort Order" is incorrect because the expected type is a string of sortable column identifiers, but you are trying to set it to a numeric value (12345). The correct input should consist of column identifiers formatted as a comma-separated list.
+
+Please use a command similar to this:  
+`update Sort Order set value to D-FK_DELAY,A-FULLKIT_DATE,A-PROJECT_NAME,D-TASKUNIQUEID`

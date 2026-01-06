@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Can you show me if the option to allow stretch during the pipeline is enabled?'}, {'role': 'assistant', 'content': 'The Enable Stretch option is disabled.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Enable Stretch has been set to enabled.'}]

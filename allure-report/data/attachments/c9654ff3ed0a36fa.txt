@@ -1,0 +1,1 @@
+The current color of the chain displayed in the Chain View Summary is Chain Color.

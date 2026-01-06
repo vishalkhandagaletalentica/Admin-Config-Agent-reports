@@ -1,0 +1,1 @@
+The filters currently displayed are: Horizon, Task Status, Task Manager, Project, Division, Portfolio, Task Type.

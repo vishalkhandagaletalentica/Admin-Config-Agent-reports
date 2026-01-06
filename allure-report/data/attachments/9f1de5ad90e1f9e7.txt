@@ -1,0 +1,3 @@
+The command is invalid because the value type is set to 2, which indicates that the expected input should be a multi-list of string values, not a numeric value like '12345'. You need to provide a comma-separated list of string values. 
+
+For example, a correct command could be: `update Column Order set value to "Value1,Value2,Value3"`.

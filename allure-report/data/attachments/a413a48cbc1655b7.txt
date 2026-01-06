@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'update configuration setting Predecessors to 12345'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Predecessors" entry?'}, {'role': 'user', 'content': 'The section name is Subtask Excel.'}, {'role': 'assistant', 'content': 'The Predecessors value was "Successors" and is now "12345".'}]

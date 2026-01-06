@@ -1,0 +1,1 @@
+{'entryId': 1971, 'sectionId': 10, 'flags': 0, 'entryName': 'SCOPE', 'entryFriendlyName': 'Scope', 'strValue': 'Scope', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task scope', 'rangeList': None, 'validationRule': None, 'sequenceId': 139420.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

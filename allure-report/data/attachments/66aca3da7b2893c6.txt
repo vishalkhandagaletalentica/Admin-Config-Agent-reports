@@ -1,0 +1,1 @@
+{'entryId': 2431, 'sectionId': 10, 'flags': 1, 'entryName': 'LATE_START_DATE', 'entryFriendlyName': 'Late Start Date', 'strValue': 'New Late Start', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Late Start Date (Gantt)', 'rangeList': None, 'validationRule': None, 'sequenceId': 148620.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

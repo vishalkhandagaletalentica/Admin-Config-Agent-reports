@@ -1,0 +1,1 @@
+Yes, the option to show projected calculations based on the pipeline projected date with stretch is currently enabled.

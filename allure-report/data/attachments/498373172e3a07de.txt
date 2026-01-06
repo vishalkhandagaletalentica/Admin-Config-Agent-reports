@@ -1,0 +1,5 @@
+The command is invalid because the value type for "Revised Baseline Early Start" is not an integer (intValue) or float (floatValue); it requires a string value (strValue). The expected type is a string. 
+
+Please use the string value "REV_ES" for the update command. 
+
+A correct example command would be: `update configuration setting for "Revised Baseline Early Start" to "REV_ES";`

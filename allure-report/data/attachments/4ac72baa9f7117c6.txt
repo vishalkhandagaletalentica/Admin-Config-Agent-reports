@@ -1,0 +1,1 @@
+The current title for the "No Data" setting in the filtering pane is "No Data."

@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the title as 'Resources', which aligns with the Expected Output. However, it does not fully address the specific phrasing regarding 'Resources with Units in the brackets in the column headings', leading to a slight deduction for not fully capturing the intent of the Input question.

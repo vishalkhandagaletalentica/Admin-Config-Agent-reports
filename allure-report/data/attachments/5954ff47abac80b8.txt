@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the title as 'Resources,' which aligns with the Expected Output. However, it fails to explicitly mention that this title is for the 'Total Number of Resources per Project,' which is a key detail from the Input. This omission partially addresses the intent of the Input question, leading to a deduction in points.

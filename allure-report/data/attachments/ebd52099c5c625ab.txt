@@ -1,0 +1,1 @@
+No — there are currently no subtask fields configured as read-only.

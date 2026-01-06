@@ -1,0 +1,1 @@
+The current project attribute field set for external mapping in the Add/Checkin screen is SUBJECT.

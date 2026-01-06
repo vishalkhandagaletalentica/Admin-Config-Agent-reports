@@ -1,0 +1,30 @@
+The following on-screen columns are hidden in the Project Status report:
+
+- Project Type
+- NewUID
+- Status
+- Division
+- Updated Product Code
+- End User - Broker
+- Pipeline Priority
+- Highest Priority Level
+- Highest Priority Level Consumption
+- Network Configuration
+- Editors Network
+- 1.0
+- File Type
+- New Contractual Due Date
+- Delayed Completion
+- New Customer Name
+- Purchase Order Number
+- SalesForce Number
+- % Effective Protection
+- Custom Date 1
+- Custom Date 2
+- Actual Project Start
+- Current Phase
+- Remaining Float
+- FK Description
+- Last Update
+- Trend
+- Portfolio

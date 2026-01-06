@@ -1,0 +1,1 @@
+The "Include Project Wait Time" filter in the Cycle Time report has been updated to "Exclude Project Wait Time".

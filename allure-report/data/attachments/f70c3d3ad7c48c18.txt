@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the current default project buffer percentage size?'}, {'role': 'assistant', 'content': 'The current default project buffer percentage size is 50%.'}, {'role': 'user', 'content': 'Set it to 60'}, {'role': 'assistant', 'content': 'Do you want to change the Default Project Buffer % size from 50% to 60%?'}]

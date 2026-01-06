@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Work Card Status to "Task Status".'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Work Card Status” entry?'}, {'role': 'user', 'content': 'The section name is "Column Headings".'}, {'role': 'assistant', 'content': 'Updated the Work Card Status to "Task Status".'}]

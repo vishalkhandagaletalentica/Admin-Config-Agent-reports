@@ -1,0 +1,1 @@
+The setting “Store custom task UID in one of the custom text field values” is set to custom text field 1.

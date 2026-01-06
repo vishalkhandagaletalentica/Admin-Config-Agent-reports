@@ -1,0 +1,1 @@
+I checked the Alert Generation Parameters section. The Maximum Delay of Retry is set to 30 seconds.

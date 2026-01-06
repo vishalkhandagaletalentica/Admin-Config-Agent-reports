@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'Alerts', 'entry': 'CONCERTO_WEBAPI_BASE_URL', 'url': None}

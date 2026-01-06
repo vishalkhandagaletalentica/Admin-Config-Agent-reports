@@ -1,0 +1,1 @@
+The current title displayed for the filter that shows data for every 30 days from today is "Every 30 days from Today."

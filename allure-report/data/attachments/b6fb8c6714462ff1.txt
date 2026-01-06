@@ -1,0 +1,1 @@
+The current default sorting order for the Milestone report is Ascending Milestone Date, Descending Delay In Day And Hour, Ascending Project Name.

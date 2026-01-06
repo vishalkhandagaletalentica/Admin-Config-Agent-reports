@@ -1,0 +1,3 @@
+The command you provided contains an invalid value for the setting "Compute Delay Against." The expected value should be one of the allowed options: PLANNED_DATE, DUE_DATE, CUSTOM_DATE1, or CUSTOM_DATE2. 
+
+Please use a valid option from the allowed range. For example, you could use the command: `update configuration set Compute Delay Against to PLANNED_DATE;`

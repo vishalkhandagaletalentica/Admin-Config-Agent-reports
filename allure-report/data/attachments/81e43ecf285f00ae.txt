@@ -1,0 +1,1 @@
+{'entryId': 762, 'sectionId': 39, 'flags': 0, 'entryName': 'CUSTOM_SUBTASK_TEXT10', 'entryFriendlyName': 'Custom Subtask Text Field 10', 'strValue': '0', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Custom Subtask Text Field 10', 'rangeList': None, 'validationRule': None, 'sequenceId': 405240.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

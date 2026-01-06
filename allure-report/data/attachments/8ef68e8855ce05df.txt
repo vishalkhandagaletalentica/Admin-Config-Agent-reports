@@ -1,0 +1,1 @@
+{'entryId': 512, 'sectionId': 10, 'flags': 0, 'entryName': 'MODIFIED_DATE', 'entryFriendlyName': 'Date of Change', 'strValue': 'Date of Change', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Date of Change', 'rangeList': None, 'validationRule': None, 'sequenceId': 110240.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

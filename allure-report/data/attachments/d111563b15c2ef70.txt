@@ -1,0 +1,1 @@
+The current default sorting order for the tasks delayed by help needed report is Descending Delay Reason Code, Descending Total Reason Code Delay, Descending Number of Reasons.

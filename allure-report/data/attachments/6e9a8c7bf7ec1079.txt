@@ -1,0 +1,6 @@
+The command is invalid because the value type for "Hidden Fields" is set to 2, which indicates that it should be a multi-list string rather than a numeric value. The expected type is a comma-separated list of strings. 
+
+Please use a valid value such as 'CHECKLIST_TEXT1,CHECKLIST_TEXT2,CHECKLIST_TEXT3' or any other combination of the allowed options. 
+
+For example, a correct command would be: 
+`update Hidden Fields set value to CHECKLIST_TEXT1,CHECKLIST_TEXT2`

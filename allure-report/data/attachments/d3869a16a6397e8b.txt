@@ -1,0 +1,1 @@
+The current setting for consuming feeding buffers in the CC settings is "Consume feeding buffers."

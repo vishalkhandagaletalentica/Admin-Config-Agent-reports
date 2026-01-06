@@ -1,0 +1,5 @@
+The command is invalid because the value you are trying to set, '12345', is not of the expected type. The allowed values for the 'Hidden Fields' configuration are specific string identifiers, and '12345' is not one of them. 
+
+Please use one of the following allowed values: CHAIN_COLOR, CHAIN_NUM, PROJECTED_DATE, PROJECTED_DELAY, TASK_MANAGER_CV. 
+
+For example, a correct command would be: `update Hidden Fields set value to TASK_MANAGER_CV`.

@@ -1,0 +1,1 @@
+The current start day of the week for the Metrics reports is Thursday.

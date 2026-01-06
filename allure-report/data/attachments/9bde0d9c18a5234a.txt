@@ -1,0 +1,1 @@
+{'entryId': 205, 'sectionId': 11, 'flags': 1, 'entryName': 'SUBJECT', 'entryFriendlyName': 'Customer', 'strValue': 'Customer', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Customer', 'rangeList': None, 'validationRule': None, 'sequenceId': 114100.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

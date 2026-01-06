@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Subtask Ready to Start (column title)', 'Ready to Start (for Subtask in Task List)', 'Ready To Start (predecessor-completion flag)'], 'value': None, 'section': None, 'entry': None, 'url': None}

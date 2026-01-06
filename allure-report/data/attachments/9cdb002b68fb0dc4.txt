@@ -1,0 +1,1 @@
+Yes — the optimized data query is currently enabled for the Task Level Priorities report.

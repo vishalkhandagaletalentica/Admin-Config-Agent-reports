@@ -1,0 +1,1 @@
+The SQS Queue Name for Buffer Management has been successfully updated to 'my-new-bm-queue.fifo'.

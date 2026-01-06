@@ -1,0 +1,1 @@
+Updated “Select Changes To Highlight” from "Highlight All Changes" to "12345".

@@ -1,0 +1,1 @@
+The Load Breakdown filter name for the Resource Portal (HTML) is: Load Breakdown

@@ -1,0 +1,1 @@
+The warning for resources that are not present in the Global Resource File during project commit is disabled.

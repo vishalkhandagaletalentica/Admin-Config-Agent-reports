@@ -1,0 +1,1 @@
+The option to ignore zero percentage PB for coloring is currently disabled.

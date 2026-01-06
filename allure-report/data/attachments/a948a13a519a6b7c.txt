@@ -1,0 +1,1 @@
+The current setting for how often the headers are displayed in the ConWeb reports is every 20 rows.

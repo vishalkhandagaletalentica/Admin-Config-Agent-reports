@@ -1,0 +1,1 @@
+update configuration set Number of Intervals to Display = 'abcde'

@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RULE2_BUFFERING', 'entry': 'CMSB_PERCENT', 'url': None}

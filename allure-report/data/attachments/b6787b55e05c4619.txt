@@ -1,0 +1,1 @@
+The Time Interval filter in the performance report is set to "Quarterly."

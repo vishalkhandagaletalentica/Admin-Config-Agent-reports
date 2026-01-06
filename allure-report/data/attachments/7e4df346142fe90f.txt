@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Level Priorities — By Project', 'Task Level Priorities — By Task Manager'], 'value': None, 'section': None, 'entry': None, 'url': None}

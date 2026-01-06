@@ -1,0 +1,3 @@
+The command is invalid because the value '12345' is not of the expected type. The expected type for 'Custom Text Checklist Tag' is a string, not an integer. Please provide a valid string value instead. 
+
+For example, you could use the command: `update Custom Text Checklist Tag to "Updated Checklist Tag"`

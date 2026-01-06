@@ -1,0 +1,1 @@
+{'entryId': 1184, 'sectionId': 75, 'flags': 0, 'entryName': 'TIME_INTERVAL', 'entryFriendlyName': 'Period Type', 'strValue': 'Week', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Used to specify the Period Type.', 'rangeList': '$LIST: Day, Week', 'validationRule': None, 'sequenceId': 836750.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,0 +1,1 @@
+Under "Titles in Column Headings" for item "Delay(d)", the current title is "Delay (in Days)" and its text is "10 days".

@@ -1,0 +1,1 @@
+The automatic buffer management is set to create project files (enabled).

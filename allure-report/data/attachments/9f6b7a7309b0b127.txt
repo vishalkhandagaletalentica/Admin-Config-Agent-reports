@@ -1,0 +1,10 @@
+The report is currently configured to display these filters:
+- New Kit Manager
+- Portfolio
+- New Product Code
+- Customer
+- Design Team Needed
+- Project Attribute 5
+- Project Attribute 6
+- New Project Attribute Value
+- [insert new value here]

@@ -1,0 +1,1 @@
+{'entryId': 1978, 'sectionId': 10, 'flags': 0, 'entryName': 'BUFFER_SIZE_D', 'entryFriendlyName': 'Buffer Size (d)', 'strValue': 'Buffer Size (d)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Buffer Size (d)', 'rangeList': None, 'validationRule': None, 'sequenceId': 139560.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

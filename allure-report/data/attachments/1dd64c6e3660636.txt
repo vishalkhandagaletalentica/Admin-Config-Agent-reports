@@ -1,0 +1,1 @@
+{'entryId': 109, 'sectionId': 10, 'flags': 0, 'entryName': 'EXPECTED_FINISH', 'entryFriendlyName': 'Expected Finish', 'strValue': 'Expected Finish', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Expected Finish', 'rangeList': None, 'validationRule': None, 'sequenceId': 102180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+{'entryId': 2852, 'sectionId': 153, 'flags': 0, 'entryName': 'PROJECT_PARTICIPANTS', 'entryFriendlyName': 'Project Participants', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Participants', 'rangeList': None, 'validationRule': None, 'sequenceId': 1587040.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

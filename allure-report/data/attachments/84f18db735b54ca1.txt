@@ -1,0 +1,1 @@
+The current filter name for the maximum buffer penetration percentage in the reason code is 25.

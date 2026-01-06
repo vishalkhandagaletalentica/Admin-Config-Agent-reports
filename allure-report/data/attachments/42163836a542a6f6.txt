@@ -1,0 +1,1 @@
+{'entryId': 622, 'sectionId': 10, 'flags': 0, 'entryName': 'BY_WHEN', 'entryFriendlyName': 'By When', 'strValue': 'Due Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for By When in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 112440.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

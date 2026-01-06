@@ -1,0 +1,1 @@
+The name for Column Preset 1 (Table view in planning client for Float mode) is already set to "Basic". No update is needed.

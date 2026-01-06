@@ -1,0 +1,1 @@
+{'entryId': 2522, 'sectionId': 146, 'flags': 0, 'entryName': 'CUSTOM_TASK_TEXT8', 'entryFriendlyName': 'Text 8', 'strValue': 'Text8', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Text 8', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510440.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

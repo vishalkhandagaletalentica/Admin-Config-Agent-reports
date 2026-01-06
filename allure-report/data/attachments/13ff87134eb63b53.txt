@@ -1,0 +1,1 @@
+{'entryId': 2269, 'sectionId': 56, 'flags': 0, 'entryName': 'AUTHOR_MANDATORY', 'entryFriendlyName': 'Portfolio mandatory', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Portfolio mandatory', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

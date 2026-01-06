@@ -1,0 +1,5 @@
+The command is invalid because the value type for "Hidden Fields" is set to 2, which indicates that it expects a list of string values rather than a single integer (12345). The expected input is a comma-separated list of strings. 
+
+Please provide a valid list of values from the allowed range. For example, you could use: 
+
+`update Hidden Fields set value to DIVISION,BM_LAST_UPDATE,LAST_UPDATE_DATE`

@@ -1,0 +1,1 @@
+What is the current mapping for the SNET Date field in the advanced filter settings?

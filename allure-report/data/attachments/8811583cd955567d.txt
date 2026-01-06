@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names — Show Data Through (filter name used in many ConWeb views and reports)', 'Metrics -> Issue Resolution — Show Data Through (default option for Issue Resolution report)', 'Metrics -> Task Mgt — Show Data Through (default option for Task Mgt report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

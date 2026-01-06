@@ -1,0 +1,1 @@
+CCCB Buffer Settings (Percentage Size + Fixed Size In Hours) has been updated to 75 (was 50).

@@ -1,0 +1,1 @@
+The current setting for the number of months included in the Cycle Time report is 5 months.

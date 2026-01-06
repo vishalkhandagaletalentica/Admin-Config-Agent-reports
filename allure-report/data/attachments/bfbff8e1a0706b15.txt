@@ -1,0 +1,1 @@
+The option to export the Global Resource File after running Buffer Management is currently disabled.

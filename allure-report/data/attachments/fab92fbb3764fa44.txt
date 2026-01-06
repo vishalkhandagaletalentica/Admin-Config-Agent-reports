@@ -1,0 +1,1 @@
+The "Get All Tasks" setting in Searchable Task Columns is already set to "Retrieve All Tasks." No update is needed.

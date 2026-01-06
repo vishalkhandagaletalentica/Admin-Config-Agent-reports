@@ -1,0 +1,1 @@
+The display name for Document Links in Headers has been successfully updated to "Updated Document Links".

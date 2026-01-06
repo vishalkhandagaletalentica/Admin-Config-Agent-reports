@@ -1,0 +1,1 @@
+The "Show Project Labels" option in Project Status has been enabled. Project labels will now appear on the chart.

@@ -1,0 +1,6 @@
+Filters currently set not to display in the report:
+- Design Team Needed
+- Project Attribute 5
+- Project Attribute 6
+- New Project Attribute Value
+- [insert new value here]

@@ -1,0 +1,1 @@
+The Initial X Buckets (Concerto Pipeline client) is set to 30.

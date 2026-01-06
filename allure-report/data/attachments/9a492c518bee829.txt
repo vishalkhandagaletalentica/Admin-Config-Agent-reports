@@ -1,0 +1,1 @@
+Reduce rollup duration percent updated from 0 to 50.

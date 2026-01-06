@@ -1,0 +1,1 @@
+Stretch limiting is enabled. The "Do Not Limit Stretch" setting is disabled (currently set to disabled).

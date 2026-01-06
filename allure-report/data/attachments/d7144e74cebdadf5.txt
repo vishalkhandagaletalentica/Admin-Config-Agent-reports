@@ -1,0 +1,1 @@
+The current default sorting order for the Cycle Time drill down report is Descending Actual Cycle Time, Ascending Project Name.

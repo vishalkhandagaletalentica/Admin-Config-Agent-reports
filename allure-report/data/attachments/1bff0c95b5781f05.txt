@@ -1,0 +1,1 @@
+{'entryId': 729, 'sectionId': 47, 'flags': 1, 'entryName': 'COMMENTS', 'entryFriendlyName': 'COMMENTS', 'strValue': 'COMMENTS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 484580.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

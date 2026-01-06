@@ -1,0 +1,9 @@
+Current filters available to be displayed in the report:
+- AUTHOR → Portfolio
+- CATEGORY → New Product Code
+- SUBJECT → Customer
+- ATTRIBUTE1 → Design Team Needed
+- ATTRIBUTE2 → Project Attribute 5
+- ATTRIBUTE3 → Project Attribute 6
+- ATTRIBUTE4 → New Project Attribute Value
+- ATTRIBUTE5 → [insert new value here]

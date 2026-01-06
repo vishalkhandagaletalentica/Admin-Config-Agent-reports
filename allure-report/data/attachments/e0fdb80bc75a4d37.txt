@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Diagnostics -> By Help Needed (Filters to be displayed in the "By Help Needed" report)', 'Project Mgr -> Task Level Priorities By Task Mgr (Select the default filters to display in the report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

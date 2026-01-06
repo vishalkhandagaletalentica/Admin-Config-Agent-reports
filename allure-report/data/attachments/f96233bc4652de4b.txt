@@ -1,0 +1,1 @@
+I am asking about the current task priority values for each resource in the Task Level Priorities By Resource report.

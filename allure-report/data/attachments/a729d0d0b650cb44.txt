@@ -1,0 +1,1 @@
+{'entryId': 589, 'sectionId': 11, 'flags': 0, 'entryName': 'TOTAL', 'entryFriendlyName': 'Total Load:Capacity', 'strValue': 'Total L:C', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Total L:C in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121780.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

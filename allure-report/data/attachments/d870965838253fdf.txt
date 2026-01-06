@@ -1,0 +1,1 @@
+I found "Task Text 32 (Custom Task Text Field)" in the Common -> Column Names section. Its current value is "NewText32".

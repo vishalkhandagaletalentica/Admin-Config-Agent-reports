@@ -1,0 +1,1 @@
+The sixth project attribute for text-column searches is set to "New Customer Name."

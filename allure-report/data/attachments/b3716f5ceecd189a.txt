@@ -1,0 +1,1 @@
+The Projected Date calculation is set to use the required buffer (enabled).

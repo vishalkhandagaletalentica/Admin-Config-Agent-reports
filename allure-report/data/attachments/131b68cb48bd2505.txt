@@ -1,0 +1,1 @@
+{'entryId': 2542, 'sectionId': 146, 'flags': 0, 'entryName': 'ACTUAL_END_DATE', 'entryFriendlyName': 'Actual Finish', 'strValue': 'AF', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Actual Finish', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510840.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

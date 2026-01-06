@@ -1,0 +1,5 @@
+The command is invalid because the `value` field expects a specific type based on `valueType`. Since `valueType` is 3, it indicates that the `value` should be a float, but you provided a string ('xyz'). 
+
+Please provide a valid float value. For example, you could use `3.14` as a valid command: 
+
+`update configuration set value = 3.14 where entryFriendlyName = 'Committed, In Queue';`

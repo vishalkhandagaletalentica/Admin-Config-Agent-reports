@@ -1,0 +1,1 @@
+The "Display separator after each Sort Window" setting in Task List is now enabled (was disabled).

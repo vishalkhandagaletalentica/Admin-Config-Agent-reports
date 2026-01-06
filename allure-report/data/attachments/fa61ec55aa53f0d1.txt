@@ -1,0 +1,1 @@
+{'entryId': 1838, 'sectionId': 11, 'flags': 0, 'entryName': 'ENABLE_SUBTASKS', 'entryFriendlyName': 'Enable Subtasks', 'strValue': 'Enable Subtasks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter value for Enable Subtasks.', 'rangeList': None, 'validationRule': None, 'sequenceId': 146760.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

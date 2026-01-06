@@ -1,0 +1,1 @@
+{'entryId': 2055, 'sectionId': 10, 'flags': 0, 'entryName': 'TEXT22', 'entryFriendlyName': 'Text 22', 'strValue': 'Text 22', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Text 22', 'rangeList': None, 'validationRule': None, 'sequenceId': 141100.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

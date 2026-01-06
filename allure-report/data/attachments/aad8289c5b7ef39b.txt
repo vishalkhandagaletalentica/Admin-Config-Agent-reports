@@ -1,0 +1,1 @@
+In "Filtering Pane Titles", the entry "Every Saturday" is currently set to "Weekly Saturday".

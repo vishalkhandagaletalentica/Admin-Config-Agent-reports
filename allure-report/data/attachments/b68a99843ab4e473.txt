@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Project Status (Show Project Labels on chart)', 'Executive -> Project Status (Show project labels in Project Status)', 'Common -> Filter Names (Title shown in filtering pane)'], 'value': None, 'section': None, 'entry': None, 'url': None}

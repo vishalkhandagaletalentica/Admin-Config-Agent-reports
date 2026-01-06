@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Chain View — Task Status Filter (Project Chain View)', 'Task List -> Common — Task Status Filter (Task List feature)', 'Work Card Information — Task Status (Default Task Status Filter)'], 'value': None, 'section': None, 'entry': None, 'url': None}

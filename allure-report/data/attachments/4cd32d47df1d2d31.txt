@@ -1,0 +1,1 @@
+The setting “Allow update status for purchasing tasks” is currently enabled. I attempted to disable it but the update failed due to insufficient privileges. Would you like me to (a) request the necessary permissions, or (b) provide instructions so you can apply the change yourself?

@@ -1,0 +1,5 @@
+The command you provided is invalid because the value '12345' is not of the expected type. The setting requires a string value from the allowed range, which includes specific keys related to custom task text fields. 
+
+The allowed values for this setting are: EXEC_CUSTOM_TASK_TEXT1, EXEC_CUSTOM_TASK_TEXT2, EXEC_CUSTOM_TASK_TEXT3, EXEC_CUSTOM_TASK_TEXT4, EXEC_CUSTOM_TASK_TEXT5, EXEC_CUSTOM_TASK_TEXT6, EXEC_CUSTOM_TASK_TEXT7, EXEC_CUSTOM_TASK_TEXT8, EXEC_CUSTOM_TASK_TEXT9, EXEC_CUSTOM_TASK_TEXT10.
+
+Please provide a valid string value from this list. For example, you can use the command: `update configuration setting "Subtask Custom Text Fields to display in Subtask Details" to EXEC_CUSTOM_TASK_TEXT2`.

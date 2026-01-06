@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the title as 'To Project,' which aligns with the Expected Output. However, it fails to mention the context of the column name 'P2P_TO_PROJ' and does not specify that this title is displayed in reports, which is a key detail in the Expected Output. This omission affects the completeness of the response.

@@ -1,0 +1,1 @@
+{'entryId': 1139, 'sectionId': 10, 'flags': 0, 'entryName': 'CUSTOM_DATE2', 'entryFriendlyName': 'Custom Date 2', 'strValue': 'Custom Date 2', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Custom defined date.', 'rangeList': None, 'validationRule': None, 'sequenceId': 122780.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

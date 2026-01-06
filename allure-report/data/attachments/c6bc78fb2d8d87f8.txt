@@ -1,0 +1,1 @@
+{'entryId': 1965, 'sectionId': 12, 'flags': 0, 'entryName': 'SUBTASKS', 'entryFriendlyName': 'Subtasks', 'strValue': 'Subtasks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Subtask header in Task Details', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

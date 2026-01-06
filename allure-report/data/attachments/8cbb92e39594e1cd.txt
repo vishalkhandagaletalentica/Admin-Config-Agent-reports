@@ -1,0 +1,13 @@
+Hidden columns in the Project Mgr -> Project Control report:
+- Actual Chain Start
+- Finish Date
+- Portfolio
+- Updated Product Code
+- End User - Broker
+- New Rank
+- New Contractual Due Date
+- Project Manager
+- Delayed Completion
+- New Customer Name
+- Purchase Order Number
+- SalesForce Number

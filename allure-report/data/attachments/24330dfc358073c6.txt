@@ -1,0 +1,1 @@
+No — that option is disabled, so OTD data is still shown (the "rolling average only" mode is not active).

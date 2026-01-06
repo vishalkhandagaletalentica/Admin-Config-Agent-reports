@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'How many rows are currently set to display per page on the Exclude Projects section?'}, {'role': 'assistant', 'content': 'The Exclude Projects section is set to display 100 rows per page.'}, {'role': 'user', 'content': 'Set it to 50.'}, {'role': 'assistant', 'content': 'Rows per page for Exclude Projects has been updated to 50.'}]

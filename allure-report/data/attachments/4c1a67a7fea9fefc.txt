@@ -1,0 +1,1 @@
+The current email body used for bulk imports is: "Your file has been processed. Please find the attached log files for it."

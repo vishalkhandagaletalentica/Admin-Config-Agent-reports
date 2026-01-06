@@ -1,0 +1,1 @@
+I still can't apply that change because I don't have the required privileges. The default grouping remains set to RESOURCES. Please grant update privileges or ask an administrator to set the default grouping to PROJECT.

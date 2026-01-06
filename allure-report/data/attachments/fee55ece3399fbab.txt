@@ -1,0 +1,1 @@
+{'entryId': 313, 'sectionId': 2, 'flags': 0, 'entryName': 'TUTrace', 'entryFriendlyName': 'Task Update Tracing', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Enables Task Update tracing to c:\\taskupdate.txt file.', 'rangeList': None, 'validationRule': None, 'sequenceId': 26260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+Custom Task Text Field 67 in Adv. filter in Gantt is already set to "NewText67". No update is needed.

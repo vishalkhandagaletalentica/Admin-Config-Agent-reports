@@ -1,0 +1,1 @@
+Yes, the option to use FKOD for calculating the remaining duration of fullkit tasks is currently enabled.

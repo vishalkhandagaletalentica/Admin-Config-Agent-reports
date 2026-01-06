@@ -1,0 +1,4 @@
+The default sort order for the Drum Throughput Drilldown report is:
+- Current Bucket Status (descending)
+- Project Report Status (ascending)
+- Project Name (ascending)

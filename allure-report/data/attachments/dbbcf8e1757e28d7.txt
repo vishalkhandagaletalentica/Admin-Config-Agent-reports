@@ -1,0 +1,1 @@
+{'entryId': 2403, 'sectionId': 143, 'flags': 0, 'entryName': 'INTEGRATION_TASK_TEXT9_COLUMN', 'entryFriendlyName': 'Text9', 'strValue': 'NewColumnName', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name of TEXT9', 'rangeList': None, 'validationRule': None, 'sequenceId': 1478060.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

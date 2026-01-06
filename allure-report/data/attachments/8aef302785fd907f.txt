@@ -1,0 +1,1 @@
+Sort Order for Full Kit task checklist items was updated from "B-FK_CHECKLIST_SEQID" to "12345".

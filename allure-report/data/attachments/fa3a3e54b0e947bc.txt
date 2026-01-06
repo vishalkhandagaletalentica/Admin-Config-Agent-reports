@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_WORKCARD_INTEGRATION', 'entry': 'WORK_CARD_INTEGRATION_DIVISIONS', 'url': None}

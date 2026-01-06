@@ -1,0 +1,1 @@
+The "Show Team Members in Project Manager Filter" setting in Project Control has been disabled.

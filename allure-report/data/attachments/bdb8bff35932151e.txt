@@ -1,0 +1,1 @@
+Is the option to display project status charts by default in the new Project Status UI turned on?

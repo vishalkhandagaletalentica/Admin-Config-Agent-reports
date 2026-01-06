@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Pipeline Mgr → Tabular View', 'Planning Client → Table View (CC mode)', 'Project Mgr → Modify Projects', 'Project Mgr → Milestone Report', 'Project Mgr → Project Control'], 'value': None, 'section': None, 'entry': None, 'url': None}

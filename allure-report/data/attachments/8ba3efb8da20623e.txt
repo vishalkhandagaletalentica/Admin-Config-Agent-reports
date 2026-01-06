@@ -1,0 +1,1 @@
+{'entryId': 811, 'sectionId': 10, 'flags': 0, 'entryName': 'RESOURCE_ID', 'entryFriendlyName': 'Resource Identifier', 'strValue': 'Resource ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Resource Identifier', 'rangeList': None, 'validationRule': None, 'sequenceId': 116220.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

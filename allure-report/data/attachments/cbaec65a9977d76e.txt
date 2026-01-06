@@ -1,0 +1,1 @@
+The current setting for rounding duration reduction to a day is "Round to a day".

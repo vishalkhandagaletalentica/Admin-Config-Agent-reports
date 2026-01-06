@@ -1,0 +1,1 @@
+The “Display Project List In Print Preview” option in Metrics -> Actual Delay has been disabled.

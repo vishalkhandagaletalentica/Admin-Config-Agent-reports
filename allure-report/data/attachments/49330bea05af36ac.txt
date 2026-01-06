@@ -1,0 +1,22 @@
+Currently hidden in Print Preview for the Task Level Priorities report:
+- Expected Finish
+- Text1
+- RZ Reference
+- Expected Enhancements
+- Hours Remaining
+- CUSTOM_TASK_TEXT5
+- Security Code Updated
+- NewUID
+- Disable Auto Document Link
+- Constraint Date
+- Sort Window Start
+- Resources
+- QA Check
+- Technician
+- New Zone
+- Job Status
+- Route Key
+- Actual Start Date
+- Actual End Date
+- Help Needed
+- Status

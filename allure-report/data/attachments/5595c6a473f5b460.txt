@@ -1,0 +1,1 @@
+I attempted to disable the Auto-link Inserted Subtasks, but I couldn't because you do not have privileges to update configurations. The Auto-link of Subtasks is currently enabled. Please contact your administrator to get update privileges or ask them to apply this change.

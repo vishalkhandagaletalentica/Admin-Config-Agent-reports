@@ -1,0 +1,1 @@
+In Full Kit Report, the Default Horizon (for Completed Full Kit tasks) is set to Last 2 Months.

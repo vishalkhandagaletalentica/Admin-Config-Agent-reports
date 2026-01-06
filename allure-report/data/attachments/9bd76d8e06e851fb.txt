@@ -1,0 +1,1 @@
+Please update the column order in the report to: Trend,Project Name,Due Date,Delay,Projected Date,Planned Start,Top Priority Task,Trend Chart,Color,Status,Planned Date,Highest Priority Level,Highest Priority Level Cnsmp`n,Last Update,Update Compliance,Addl Details.

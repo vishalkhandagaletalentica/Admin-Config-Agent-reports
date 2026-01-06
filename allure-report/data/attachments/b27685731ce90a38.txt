@@ -1,0 +1,1 @@
+The current value set for the searchable text column related to Project Attribute 5 is ATTRIBUTE2.

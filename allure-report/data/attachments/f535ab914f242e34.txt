@@ -1,0 +1,1 @@
+The current title set for the roll up duration in the reports is "Roll up new value."

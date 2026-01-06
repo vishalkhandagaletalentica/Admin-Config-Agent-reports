@@ -1,0 +1,1 @@
+What is the current value of the custom text column named CUSTOMTEXT7?

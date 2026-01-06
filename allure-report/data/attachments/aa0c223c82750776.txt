@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Role — display name used in the Task Manager report', 'All (Role Type) — display name used in Task Manager and Project reports (All)', 'Manager (Role Type) — display name used in Task Manager and Project reports (Manager)', 'All entries'], 'value': None, 'section': None, 'entry': None, 'url': None}

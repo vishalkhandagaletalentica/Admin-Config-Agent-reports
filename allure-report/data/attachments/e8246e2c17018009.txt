@@ -1,0 +1,1 @@
+{'entryId': 1937, 'sectionId': 11, 'flags': 0, 'entryName': 'SORT_CHAINS_BY', 'entryFriendlyName': 'Sort By', 'strValue': 'Sort By', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Sort Chains By Display name in Chain View report', 'rangeList': None, 'validationRule': None, 'sequenceId': 148740.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

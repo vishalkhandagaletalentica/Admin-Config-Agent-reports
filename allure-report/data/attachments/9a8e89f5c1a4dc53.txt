@@ -1,0 +1,3 @@
+The command you used to update the value is invalid because the expected type is a multi-list string, but you are trying to set it to an integer (12345). The allowed values should be a comma-separated list of strings. 
+
+Please provide a valid multi-list string. For example, use the command: `update Hidden Fields set value to PROJECT_UNIQUE_ID,TITLE,DIVISION`.

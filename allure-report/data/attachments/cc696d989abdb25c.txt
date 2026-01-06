@@ -1,0 +1,1 @@
+Please uncheck the option to limit stretch for fixed & In Process projects.

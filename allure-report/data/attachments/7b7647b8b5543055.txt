@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Actual Delay', 'Metrics -> Red Project Delay', 'Metrics -> Pipelining'], 'value': None, 'section': None, 'entry': None, 'url': None}

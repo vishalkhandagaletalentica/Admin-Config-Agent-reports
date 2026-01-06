@@ -1,0 +1,1 @@
+{'entryId': 2497, 'sectionId': 10, 'flags': 1, 'entryName': 'FORWARDRANKING', 'entryFriendlyName': 'Forward Ranking', 'strValue': 'Forward Ranking', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Forward Ranking', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

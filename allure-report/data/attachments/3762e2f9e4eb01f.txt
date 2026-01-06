@@ -1,0 +1,1 @@
+{'entryId': 110, 'sectionId': 10, 'flags': 0, 'entryName': 'REMAINING_DURATION', 'entryFriendlyName': 'Remaining Duration', 'strValue': 'Updated Dur', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Remaining Duration', 'rangeList': None, 'validationRule': None, 'sequenceId': 102200.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

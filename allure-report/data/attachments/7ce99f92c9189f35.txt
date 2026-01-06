@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It confirms that the Executive Dashboard Data loads automatically when the Executive tab is clicked, which aligns perfectly with the Expected Output. There are no incorrect facts or unrelated entries introduced, and the tone is professional and concise.

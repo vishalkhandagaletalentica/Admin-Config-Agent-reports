@@ -1,0 +1,1 @@
+The section name is "Common Parameters for Concerto Desktop Clients," and the entry is "Type of date format to use."

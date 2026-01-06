@@ -1,0 +1,1 @@
+{'entryId': 1657, 'sectionId': 11, 'flags': 0, 'entryName': 'USER_AND_TEAM', 'entryFriendlyName': 'User And Team', 'strValue': 'User And Team', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter Name for User And Team.', 'rangeList': None, 'validationRule': None, 'sequenceId': 143140.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

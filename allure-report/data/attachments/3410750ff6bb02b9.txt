@@ -1,0 +1,1 @@
+What is the current column mapping for Text9 when I import a CSV or Excel file in the Planning client?

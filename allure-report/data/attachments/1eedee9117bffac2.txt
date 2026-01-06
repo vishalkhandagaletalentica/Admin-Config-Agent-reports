@@ -1,0 +1,1 @@
+Yes — comments are currently included among the text columns users can search.

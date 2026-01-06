@@ -1,0 +1,3 @@
+The command is invalid because the expected type for the setting "Show Managers Only in Project Mgr Filter" is an integer (valueType: 3), but you provided a string ("abcde"). Please provide an integer value, which should be either 0 or 1. 
+
+For example, you can use the command: `update configuration setting "Show Managers Only in Project Mgr Filter" to 1` to enable the setting.

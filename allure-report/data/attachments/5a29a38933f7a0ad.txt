@@ -1,0 +1,1 @@
+The CustomText2 column name has been updated from "" to "NewColumnName".

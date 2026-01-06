@@ -1,0 +1,1 @@
+{'entryId': 1404, 'sectionId': 84, 'flags': 1, 'entryName': 'CATEGORY', 'entryFriendlyName': 'CATEGORY', 'strValue': 'CATEGORY', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 868080.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

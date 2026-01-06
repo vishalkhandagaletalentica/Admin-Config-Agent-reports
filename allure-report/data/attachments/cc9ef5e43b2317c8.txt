@@ -1,0 +1,1 @@
+The Task Type filter dropdown already reflects 'Tasks and Subtasks'. No update is needed.

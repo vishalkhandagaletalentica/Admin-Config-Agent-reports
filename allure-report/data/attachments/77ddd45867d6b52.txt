@@ -1,0 +1,1 @@
+No default filters are currently set to be displayed for the Throughput report. (Active attributes will still be shown.)

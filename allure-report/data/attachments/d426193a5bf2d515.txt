@@ -1,0 +1,1 @@
+Yes, project labels are currently displayed in the Project Status report.

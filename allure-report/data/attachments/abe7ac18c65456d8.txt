@@ -1,0 +1,3 @@
+The Task Update Email Content has been updated.
+Old: The following task requires an update.Click on %LINK%  to go to the Task List page.Project Name: %PROJECT_NAME%  MSPTask Id: %MSP_TASK_ID%  Task Unique ID: %TASKUNIQUEID%  Task Description: %TASK_DESCRIPTION%
+New: The task has been updated. Please visit %LINK% to view the details. Project Name: %PROJECT_NAME%, Task ID: %MSP_TASK_ID%, Unique Task ID: %TASKUNIQUEID%, Description: %TASK_DESCRIPTION%.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common, Checklist -> Task', 'Common, Checklist -> Full Kit Task'], 'value': None, 'section': None, 'entry': None, 'url': None}

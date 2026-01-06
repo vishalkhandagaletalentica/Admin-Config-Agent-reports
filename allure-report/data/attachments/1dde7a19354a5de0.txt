@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'Alerts', 'entry': 'MINIMUM_DELAY_OF_RETRY', 'url': None}

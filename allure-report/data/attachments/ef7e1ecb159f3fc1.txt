@@ -1,0 +1,6 @@
+The default sort order for the Project Control view is:
+1) PROJECT_NAME — ascending
+2) MILESTONE_TYPE — ascending
+3) PRIORITY_LEVEL_PENETRATION — descending
+4) WORST_PRIORITY_LEVEL — ascending
+5) WORST_PRIORITY_LEVEL_PEN — descending

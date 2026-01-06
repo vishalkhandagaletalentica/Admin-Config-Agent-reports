@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the default sorting order as ascending by EARLIEST_ARRIVAL and descending by SORTN2, which aligns with the Expected Output. However, it does not match the phrasing of the Expected Output, which could lead to minor confusion. Overall, it effectively addresses the intent of the question and provides accurate information.

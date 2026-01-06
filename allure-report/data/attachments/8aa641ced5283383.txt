@@ -1,0 +1,1 @@
+The Actual Output is factually correct, stating that the minimum delay for a retry is 30 seconds, which aligns with the Expected Output. It directly addresses the intent of the Input question regarding the minimum delay. However, it lacks the phrase 'current' from the Expected Output, which could be seen as a minor shortcoming in terms of completeness.

@@ -1,0 +1,1 @@
+{'type': 'success', 'selectable_values': None, 'value': {'old': 'enabled', 'new': 'disabled'}, 'section': 'FULL_KIT_DELAY_REPORT', 'entry': 'DISPLAY_CUMULATIVE_FK_DELAY_DATA', 'url': None}

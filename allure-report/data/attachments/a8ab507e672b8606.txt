@@ -1,0 +1,26 @@
+ConWeb report parameters (Common) — available settings:
+- Auto Populate Custom Dates: If disabled, custom dates will not auto populate
+- Highlight Critical Chain Tasks: Color and italicize Critical Chain tasks
+- Color Scheme Includes CCFB: Color Scheme Includes CCFB
+- Custom Path: Used for downloading the Realization Project Viewer installer
+- Cyan Highlight Tasks For: Number of Days/Hours to highlight Cyan (integer 1–9999)
+- Cyan Color Interval Unit
+- Include Hours for Date/Duration Display Format: 0 = date only, 1 = include hours
+- Enable Task Update History
+- Enable Custom Path for Realization Project Viewer
+- Enable Display Of Tasks By Shifts
+- Enable Export to Excel for Office 2003 or Higher
+- Enable Export To Excel for Office 2000-2003
+- Header Interval: Display headers at intervals (rows)
+- Hide Remaining Duration Field
+- Hide Time Component from Date: 0 = show time, 1 = hide time
+- Ignore Buffer Consumed Value
+- Ignore Buffer Consumed
+- Rows Per Page: Number of rows to display per page
+- Security Label Interval
+- Shift 1 / Shift 1 Start / Shift 1 Finish
+- Shift 2 / Shift 2 Start / Shift 2 Finish
+- Shift 3 / Shift 3 Start / Shift 3 Finish
+- Updated to 4.0
+- Use Resource Calendar For Task Duration
+If you want the current value for any specific item above, tell me which one and I will show its current setting.

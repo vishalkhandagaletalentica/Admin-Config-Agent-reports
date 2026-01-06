@@ -1,0 +1,5 @@
+The command you provided is invalid because the value 'abcde' is not within the allowed range of 0 to 20. The expected type for the Date Range (X months in past) setting is an integer. 
+
+Please provide an integer value between 0 and 20. For example, a valid command would be: 
+
+`update configuration set Date Range (X months in past) = 5;`

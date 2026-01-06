@@ -1,0 +1,3 @@
+The command is invalid because the value type for the Predecessors setting is not an integer. The expected type is a string. Please provide a valid string value instead. 
+
+For example, you could use: `update configuration setting Predecessors to "Task A, Task B"`.

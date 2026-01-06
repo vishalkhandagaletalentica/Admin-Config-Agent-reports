@@ -1,0 +1,13 @@
+The following columns are currently hidden in the Tabular View (Pipeline Web):
+- DIVISION
+- AUTHOR
+- CATEGORY
+- SUBJECT
+- ATTRIBUTE3
+- ATTRIBUTE4
+- ATTRIBUTE5
+- CUSTOM_DATE1
+- CURRENT_PHASE
+- STRETCH_IN_DB
+- STRETCH
+- ATTRIBUTE2

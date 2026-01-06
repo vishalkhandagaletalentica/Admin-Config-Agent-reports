@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the current title of the filter. However, it lacks the additional context present in the Expected Output, which specifies that the title is used for the filter. This minor omission prevents a perfect score.

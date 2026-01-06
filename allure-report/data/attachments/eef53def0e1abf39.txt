@@ -1,0 +1,1 @@
+Is the Project Wait Time included in the Cycle Time report?

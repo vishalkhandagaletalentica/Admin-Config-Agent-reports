@@ -1,0 +1,1 @@
+No — the checklist dialog is disabled and will not pop up when the full kit task status is set to "Released".

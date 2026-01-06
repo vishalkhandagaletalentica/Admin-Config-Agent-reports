@@ -1,0 +1,1 @@
+I attempted to update the hidden-columns setting but the update failed: the system reports it cannot validate the multi-list format for RESOURCE_PORTAL → Hidden Fields (‘No column definition found’). Would you like me to try a different format or provide the exact display names instead so I can retry?

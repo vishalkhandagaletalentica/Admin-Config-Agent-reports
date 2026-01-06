@@ -1,0 +1,1 @@
+I couldn't enable Tasks in the Batch Printing report because I don't have the necessary privileges to update configuration entries. Currently, Tasks inclusion is disabled. Please grant update privileges or ask an administrator to enable "Tasks" in the Task List -> Batch Printing settings, and I can retry the change.

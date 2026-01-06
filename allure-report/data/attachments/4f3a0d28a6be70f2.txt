@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the current filter name for CO. However, it slightly deviates from the Expected Output by omitting the phrase 'displayed in the filtering pane', which is not critical to the factual correctness but affects the completeness of the response.

@@ -1,0 +1,1 @@
+No, the Project List drilldown is not currently displayed on the Print Preview page.

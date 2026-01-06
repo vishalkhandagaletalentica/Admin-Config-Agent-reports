@@ -1,0 +1,1 @@
+Last BM Check Interval (Hrs) is now 48 hours.

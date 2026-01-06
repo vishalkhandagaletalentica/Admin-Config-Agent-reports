@@ -1,0 +1,1 @@
+In the Project Status view/report, the BEINGMODIFIED setting is set to 650.

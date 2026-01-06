@@ -1,0 +1,1 @@
+{'entryId': 1598, 'sectionId': 10, 'flags': 0, 'entryName': 'FK_START_DATE', 'entryFriendlyName': 'Full Kit Start Date', 'strValue': 'Start Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Full Kit Start Date.', 'rangeList': None, 'validationRule': None, 'sequenceId': 131960.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

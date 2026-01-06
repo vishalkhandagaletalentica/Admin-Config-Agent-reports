@@ -1,0 +1,1 @@
+The Task Checklist field for Baseline Duration is now set to CHECKLIST_TEXT2.

@@ -1,0 +1,1 @@
+{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_ERP_INTEGRATION', 'entry': 'TASK_EXPORT_TEXT_FIELD', 'url': None}

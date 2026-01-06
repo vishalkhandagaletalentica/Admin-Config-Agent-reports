@@ -1,0 +1,1 @@
+{'entryId': 2229, 'sectionId': 10, 'flags': 0, 'entryName': 'CANCELLED_REASONS', 'entryFriendlyName': 'Cancelled Reasons', 'strValue': 'Cancelled Reasons', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Cancelled Reasons', 'rangeList': None, 'validationRule': None, 'sequenceId': 144580.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

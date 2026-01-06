@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Gate Reports — Include Past Help Needed', 'Buffer Diagnostics — Past Help Needed (chart display)', 'Common -> Filter Names — Past Help Needed (filter name)'], 'value': None, 'section': None, 'entry': None, 'url': None}

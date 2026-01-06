@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Task Successor Name to "New Successor Name".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Task Successor Name" entry?'}, {'role': 'user', 'content': 'The section name is "Column Headings".'}, {'role': 'assistant', 'content': 'The Task Successor Name has been updated to "New Successor Name".'}]

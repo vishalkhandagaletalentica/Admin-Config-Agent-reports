@@ -1,0 +1,1 @@
+Updated: The default Print Preview font size for Subtask List has been changed from FONT_MEDIUM to FONT_LARGE.

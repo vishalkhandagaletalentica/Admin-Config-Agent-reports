@@ -1,0 +1,3 @@
+The command to update "Filters Available" is invalid because the provided value "12345" is not within the allowed range. The expected values are from the predefined list: PROJECTMANAGER, PROJECT, STARTDATE, TASKSTATUS, AUTHOR, CATEGORY, SUBJECT, DIVISION. 
+
+Please provide a value that matches one or more of these allowed options. For example, you could use: `update Filters Available to PROJECTMANAGER,PROJECT`.

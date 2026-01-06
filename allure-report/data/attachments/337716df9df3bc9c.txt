@@ -1,0 +1,1 @@
+The CMSB buffer is set to turn red at 90% penetration. This is an integer threshold and corresponds to the penetration level at which the buffer will be colored red when the chain complete is 100%.

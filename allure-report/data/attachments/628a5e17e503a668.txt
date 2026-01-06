@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Status (Project Mgr → Project Status)', 'Pipeline View (Project Mgr → Pipeline View)', 'On‑Time Delivery (Metrics → On‑Time Delivery)'], 'value': None, 'section': None, 'entry': None, 'url': None}

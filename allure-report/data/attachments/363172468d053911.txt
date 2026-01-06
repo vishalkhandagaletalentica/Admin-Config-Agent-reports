@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RULES_AND_RESULTS', 'entry': 'PROCESS_WITH_LIVE_BM_PROJ_DATE', 'url': None}

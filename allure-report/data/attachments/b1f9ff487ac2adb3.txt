@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Manager Filter (Common -> Filter Names)', 'Task Role (Common -> Filter Names)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+Default sorting order updated to Planned Date for Executive -> Project Status and Executive -> Red Projects.

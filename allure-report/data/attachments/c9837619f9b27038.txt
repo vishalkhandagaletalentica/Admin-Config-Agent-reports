@@ -1,0 +1,1 @@
+{'entryId': 1049, 'sectionId': 11, 'flags': 0, 'entryName': 'WORSENED', 'entryFriendlyName': 'Worsened', 'strValue': 'Worsened', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Worsened in Filters.', 'rangeList': None, 'validationRule': None, 'sequenceId': 130980.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

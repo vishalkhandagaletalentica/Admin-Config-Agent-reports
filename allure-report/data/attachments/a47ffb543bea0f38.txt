@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Customer Type to 2.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Customer Type” entry?'}, {'role': 'user', 'content': 'The section name is "Project Attributes."'}, {'role': 'assistant', 'content': 'Customer Type has been updated to 2.'}]

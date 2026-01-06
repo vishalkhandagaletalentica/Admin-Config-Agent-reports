@@ -1,0 +1,5 @@
+The command you provided to update the value is invalid because it attempts to set a value of type integer (12345) for a field that expects a multi-list value. The expected type for this setting is a comma-separated list of strings.
+
+Please provide the value in the correct format. For example, a valid command would be: 
+
+`update Hidden Fields (Print) set value to MSP_TASK_ID,NO_DELAY_DURATION,NO_DELAY_START;`

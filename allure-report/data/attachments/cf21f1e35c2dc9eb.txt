@@ -1,0 +1,1 @@
+update compactViewFields to 12345

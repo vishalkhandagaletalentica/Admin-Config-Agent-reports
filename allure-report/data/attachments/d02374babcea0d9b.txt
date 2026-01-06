@@ -1,0 +1,29 @@
+Hidden columns in the Milestone Chain View report:
+- Constraint Date
+- Disable Auto Document Link
+- Project Name
+- [new value]
+- Chain Sequence Number
+- New MSP ID
+- Resources
+- Expected Finish
+- NewUID
+- Text1
+- Expected Enhancements
+- Hours Remaining
+- CUSTOM_TASK_TEXT5
+- QA Check
+- Technician
+- New Zone
+- Job Status
+- Route Key
+- Security Code Updated
+- Need Date
+- Planned Finish Date
+- BM Sequence Updated
+- Water Depth
+- % FB Cnsm`d
+- New Participants
+- Planned Finish Constraint
+- Max % MB Cnsm
+- SNET Date

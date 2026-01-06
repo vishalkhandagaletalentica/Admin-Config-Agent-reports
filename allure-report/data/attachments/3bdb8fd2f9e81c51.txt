@@ -1,0 +1,8 @@
+The command is invalid because the `value` being set is of type integer (12345), but the `strValue` field indicates that the expected type is a string ("Date24"). 
+
+The correct command should use a string value instead. 
+
+For example, you could use: 
+```sql
+update configuration set value = 'Date24' where entryFriendlyName = 'Task Date 23';
+```

@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Default Rolling Average Period to 5 periods.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Default Rolling Average Period" setting?'}, {'role': 'user', 'content': 'The section name is Actual Delay report.'}, {'role': 'assistant', 'content': 'Default Rolling Average Period is now set to 5 periods.'}]

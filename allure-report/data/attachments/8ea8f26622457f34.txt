@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names — Successors (Display Name for Successor Task in Column Headers)', 'Integration -> Subtask — Successors (Column name of Successors)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_COLUMN_NAMES', 'entry': 'CONSUME_FEEDING_BUFFERS_VAL', 'url': None}

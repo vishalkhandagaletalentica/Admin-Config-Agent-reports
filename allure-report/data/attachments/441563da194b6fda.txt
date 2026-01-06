@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_FILTER_NAMES', 'entry': 'COMPUTE_DELAY_AGAINST', 'url': None}

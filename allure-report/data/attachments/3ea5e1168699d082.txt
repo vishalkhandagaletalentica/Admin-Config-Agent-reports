@@ -1,0 +1,1 @@
+Custom Task Text Field 3 in the 'Text columns that can be searched by users to locate tasks' section was updated from "CUSTOM_TASK_TEXT3" to "New Custom Text".

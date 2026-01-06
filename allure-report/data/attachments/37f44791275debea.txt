@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_GRPT_ACT_BY_PROJ_CHAINVIEW', 'entry': 'DATE_RANGE_HORIZON_PAST', 'url': None}

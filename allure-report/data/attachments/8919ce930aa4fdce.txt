@@ -1,0 +1,1 @@
+The Actual Output lists several hidden columns, but it includes some that are not present in the Expected Output, such as 'NewUID' and 'Editors Network', while omitting others like 'BM Last Update' and 'Checkout Status'. This results in a partially correct response that does not fully align with the Expected Output, leading to a deduction in points.

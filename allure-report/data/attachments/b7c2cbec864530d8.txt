@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the current display name for the chart type in the On-Time Delivery report filters?'}, {'role': 'assistant', 'content': 'The chart type (Chart Type) is currently set to Line chart.'}, {'role': 'user', 'content': 'Update this setting to BAR_CHART.'}, {'role': 'assistant', 'content': 'Chart Type is now set to Bar chart.'}]

@@ -1,0 +1,1 @@
+Updated the number of messages to be sent to Streamliner on Running BM via API to 75 (was 50).

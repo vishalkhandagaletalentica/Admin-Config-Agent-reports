@@ -1,0 +1,1 @@
+I've updated the Buffer Trend column name in Project Control for Project Details to "New Buffer Trend".

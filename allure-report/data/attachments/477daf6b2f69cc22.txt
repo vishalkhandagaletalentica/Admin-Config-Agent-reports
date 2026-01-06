@@ -1,0 +1,1 @@
+Those fields are already included in the Compact view; no update is needed.

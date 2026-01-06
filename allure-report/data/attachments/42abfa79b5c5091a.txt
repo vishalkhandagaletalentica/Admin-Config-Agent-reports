@@ -1,0 +1,1 @@
+The current value of the initial X buckets setting in the Concerto Pipeline client is 30.

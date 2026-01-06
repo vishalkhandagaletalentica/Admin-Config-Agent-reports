@@ -1,0 +1,1 @@
+The column heading label for Buffer Size is currently set to "Buf Sz (new)".

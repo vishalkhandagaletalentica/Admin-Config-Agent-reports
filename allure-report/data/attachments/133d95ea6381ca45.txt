@@ -1,0 +1,1 @@
+{'entryId': 869, 'sectionId': 10, 'flags': 0, 'entryName': 'MAX_CHAIN_FINISH', 'entryFriendlyName': 'Max Chain Pred Finish', 'strValue': 'Max Chain Pred Finish', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Max Chain Pred Finish', 'rangeList': None, 'validationRule': None, 'sequenceId': 117380.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

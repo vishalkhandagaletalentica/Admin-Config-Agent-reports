@@ -1,0 +1,1 @@
+Text7 (Planning Client -> Import Field Mapping) was updated from ORIG_DUR to NEW_ORIG_DUR.

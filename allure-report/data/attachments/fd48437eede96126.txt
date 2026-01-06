@@ -1,0 +1,5 @@
+Hidden columns in the Project Review report:
+- UID123
+- New MSP ID
+- New Description
+- Status

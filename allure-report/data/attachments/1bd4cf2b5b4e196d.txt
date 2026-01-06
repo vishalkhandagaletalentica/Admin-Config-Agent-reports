@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Project Chain View/Project Penetrating Chain — Task Status Filter (Default Task Status Filter)', 'Task List -> Common — Task Status Filter (Default Task Status Filter)', 'Project Mgr -> Work Card Information — Task Status (Default Task Status Filter)'], 'value': None, 'section': None, 'entry': None, 'url': None}

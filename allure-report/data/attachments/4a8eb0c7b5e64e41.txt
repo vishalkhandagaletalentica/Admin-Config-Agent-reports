@@ -1,0 +1,1 @@
+The current display name for the last review comment in the column headers is "Latest Review Comment."

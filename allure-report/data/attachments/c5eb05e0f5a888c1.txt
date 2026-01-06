@@ -1,0 +1,1 @@
+Auto Rollup Duration has been updated from "Auto RU Dur" to "New Auto RU Dur".

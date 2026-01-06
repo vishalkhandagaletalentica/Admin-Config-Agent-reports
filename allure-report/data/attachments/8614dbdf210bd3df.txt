@@ -1,0 +1,1 @@
+I tried to set Chart Type to "12345" for the On‑Time Delivery report but the update failed: Chart Type must be one of: BAR_CHART or LINE_CHART. The value should be a string.

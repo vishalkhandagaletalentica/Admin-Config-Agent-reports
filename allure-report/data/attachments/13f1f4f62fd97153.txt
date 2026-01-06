@@ -1,0 +1,1 @@
+The current default name for the comparison line in the Pipelining report is "New WIP Limit."

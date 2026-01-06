@@ -1,0 +1,1 @@
+{'entryId': 591, 'sectionId': 11, 'flags': 0, 'entryName': 'WEEKS', 'entryFriendlyName': 'Weeks', 'strValue': 'Weeks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Weeks in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121820.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

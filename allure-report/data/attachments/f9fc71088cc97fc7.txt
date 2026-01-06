@@ -1,0 +1,1 @@
+{'entryId': 1090, 'sectionId': 11, 'flags': 0, 'entryName': 'PROJECT_UNIT', 'entryFriendlyName': 'Project Unit', 'strValue': 'Project Unit', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Project Unit.', 'rangeList': None, 'validationRule': None, 'sequenceId': 131800.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

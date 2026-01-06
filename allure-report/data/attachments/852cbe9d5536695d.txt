@@ -1,0 +1,1 @@
+Updated the Full Kit Manager column title from "FK Mgr" to "Full Kit Manager".

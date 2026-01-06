@@ -1,0 +1,1 @@
+update Hidden Fields set Columns hidden in report = 12345;

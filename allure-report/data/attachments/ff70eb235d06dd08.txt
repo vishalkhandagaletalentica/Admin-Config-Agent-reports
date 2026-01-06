@@ -1,0 +1,1 @@
+Yes — Average Days Escalated is included in the Issue Resolution report (it is enabled).

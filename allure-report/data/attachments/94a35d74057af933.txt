@@ -1,0 +1,1 @@
+Split Tasks for MS-Project Display (based on the Concerto schedule) is currently disabled.

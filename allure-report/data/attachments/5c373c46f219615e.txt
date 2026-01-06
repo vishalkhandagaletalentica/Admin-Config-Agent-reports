@@ -1,0 +1,1 @@
+The Sort Order for the Red Project Delay drill down report was updated from "D-PROJECT_NAME,A-PAST_DELAY" to "12345".

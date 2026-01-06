@@ -1,0 +1,3 @@
+The command to set "Column Order" to 12345 is invalid because the expected type is a multi-list value, not an integer. Please provide a list of allowed values. 
+
+For example, a correct command would be: `set Column Order to "Value1,Value2,Value3"` where "Value1", "Value2", and "Value3" are the valid options for the column order.

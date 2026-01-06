@@ -1,0 +1,3 @@
+The command is invalid because the value type for the "Time Interval" setting is expected to be one of the allowed string values: Weekly, Monthly, or Quarterly. The provided value of 12345 is not a valid option. 
+
+Please use a command like: `update Time Interval set value to Monthly` or choose from Weekly or Quarterly.

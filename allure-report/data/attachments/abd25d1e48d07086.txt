@@ -1,0 +1,1 @@
+{'entryId': 458, 'sectionId': 11, 'flags': 0, 'entryName': 'DIVISION', 'entryFriendlyName': 'Division', 'strValue': 'Division', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'The display name for the division.', 'rangeList': None, 'validationRule': None, 'sequenceId': 119160.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

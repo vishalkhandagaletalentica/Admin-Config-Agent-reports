@@ -1,0 +1,1 @@
+The current title displayed for the Buffer Pen in the column headings is "Buffer Cnsm`d (%)".

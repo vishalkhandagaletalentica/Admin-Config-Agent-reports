@@ -1,0 +1,3 @@
+The command is invalid because the value type for CUSTOM_TASK_TEXT1 is set to 2, which indicates it expects a string value. You are attempting to set it to an integer (12345), which is not allowed. The expected type is a string.
+
+Please use a string value for the update. For example, you could use: `update CUSTOM_TASK_TEXT1 set value='New Task Description'`.

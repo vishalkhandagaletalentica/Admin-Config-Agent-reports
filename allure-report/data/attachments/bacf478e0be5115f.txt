@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'CCBMScheduling', 'entry': 'CALCULATE_PROJECTED_DATE_USING', 'url': None}

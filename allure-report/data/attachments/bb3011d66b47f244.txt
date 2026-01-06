@@ -1,0 +1,1 @@
+The Default Rolling Average Period for the On-Time Delivery report is 8 periods.

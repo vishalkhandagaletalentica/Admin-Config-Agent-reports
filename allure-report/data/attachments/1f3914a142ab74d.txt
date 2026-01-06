@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['SGD_TASK_UPDATE_TM (Task List -> Task Mgr)', 'SGD_TASK_UPDATE_PM (Task List -> Project Mgr)', 'SGD_TASK_UPDATE_RM (Task List -> Resource Mgr)'], 'value': None, 'section': None, 'entry': None, 'url': None}

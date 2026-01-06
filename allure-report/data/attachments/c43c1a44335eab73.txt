@@ -1,0 +1,1 @@
+The current title displayed for the Occurrences column in the reports is "Occurrences."

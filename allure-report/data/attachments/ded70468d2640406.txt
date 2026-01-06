@@ -1,0 +1,1 @@
+The current column mapping for the Revised Baseline Early Finish when importing a CSV or Excel file is REV_EF_UPDATED.

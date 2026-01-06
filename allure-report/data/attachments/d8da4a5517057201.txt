@@ -1,0 +1,1 @@
+The Config File Location for Integration → Task was updated from "C:\Concerto\config.ini" to "D:\NewPath\config.ini".

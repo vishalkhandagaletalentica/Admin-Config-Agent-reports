@@ -1,0 +1,1 @@
+The columns hidden in the Print Preview for the Full Kit Report are Task Type, Custom Task Text1, Custom Task Text2, Custom Task Text3, Custom Task Text4, Custom Task Text5, Custom Task Text6, Custom Task Text7, New Custom Task Text, New Custom Task Text10, FK Start Date, FK Release Date, and FK Compl Date.

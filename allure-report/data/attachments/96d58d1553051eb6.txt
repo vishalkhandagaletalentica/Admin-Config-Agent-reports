@@ -1,0 +1,1 @@
+{'entryId': 17, 'sectionId': 2, 'flags': 0, 'entryName': 'EnableResourcePortal', 'entryFriendlyName': 'EnableResourcePortal', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 0, 'itemDesc': 'EnableResourcePortal', 'rangeList': None, 'validationRule': None, 'sequenceId': 20340.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

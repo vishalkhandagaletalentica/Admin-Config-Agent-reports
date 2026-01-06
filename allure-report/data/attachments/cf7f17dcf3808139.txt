@@ -1,0 +1,4 @@
+The following columns are currently hidden in the Resource L:C report:
+- Max Cuml L:C
+- Max Cap
+- Peak L:C

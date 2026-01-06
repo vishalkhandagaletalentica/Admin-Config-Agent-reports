@@ -1,0 +1,3 @@
+The command is invalid because the value '12345' is not within the allowed range. The expected values for the 'Date Interval' setting are 'Daily', 'Weekly', or 'Monthly'. Please use one of these values. 
+
+For example, you can use the command: `update Date Interval to Monthly`.

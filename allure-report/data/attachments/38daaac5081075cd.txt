@@ -1,0 +1,1 @@
+Can you show me the current column mapping for Remaining Duration when I import a CSV or Excel file?

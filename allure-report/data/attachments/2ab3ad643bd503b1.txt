@@ -1,0 +1,1 @@
+The advanced filter mapping for Actual Duration (Duration(sh)) is "DU".

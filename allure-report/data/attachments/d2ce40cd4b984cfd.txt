@@ -1,0 +1,3 @@
+The command is invalid because the expected value for TEXT_26 is of type string (strValue), but you provided a numeric value (12345). Please use a string value instead. 
+
+For example, you could use: `update TEXT_26 to "New Task Description"`.

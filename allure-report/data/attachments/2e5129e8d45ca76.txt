@@ -1,0 +1,1 @@
+{'entryId': 1823, 'sectionId': 11, 'flags': 0, 'entryName': 'INCLUDE_COMPLETED', 'entryFriendlyName': 'Include Completed', 'strValue': 'Include Completed', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Task Color.', 'rangeList': None, 'validationRule': None, 'sequenceId': 146460.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

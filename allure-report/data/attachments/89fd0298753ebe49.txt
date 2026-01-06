@@ -1,0 +1,1 @@
+No — the Project List drilldown is currently disabled for the Throughput report Print Preview.

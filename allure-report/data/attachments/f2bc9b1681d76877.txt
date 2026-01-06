@@ -1,0 +1,1 @@
+The Hidden Fields (Print) setting for Resource Mgr → Global Resource File already includes IS_VIRTUAL. No update is needed.

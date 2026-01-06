@@ -1,0 +1,5 @@
+The hidden filters in the WIP report are:
+- Project Attribute 5
+- Project Attribute 6
+- New Project Attribute Value
+- [insert new value here]

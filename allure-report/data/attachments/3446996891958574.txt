@@ -1,0 +1,1 @@
+I attempted to set “Filters Available” in Full Kit Mgr to "12345" but the update failed: the system cannot validate the multi-select format for that entry (it requires a comma-separated list of valid filter identifiers). Please provide a value that matches the existing format (for example: FULLKIT_MGR,PROJECT,HORIZON) or tell me a different value to try.

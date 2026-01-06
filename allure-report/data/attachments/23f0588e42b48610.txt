@@ -1,0 +1,1 @@
+The hidden column in the Chain View Summary is: Task Manager.

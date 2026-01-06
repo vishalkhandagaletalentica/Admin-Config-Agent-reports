@@ -1,0 +1,1 @@
+{'entryId': 527, 'sectionId': 8, 'flags': 0, 'entryName': 'LogSchedule', 'entryFriendlyName': 'Log Schedule Highlights', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Check to log schedule highlights.', 'rangeList': None, 'validationRule': None, 'sequenceId': 90540.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

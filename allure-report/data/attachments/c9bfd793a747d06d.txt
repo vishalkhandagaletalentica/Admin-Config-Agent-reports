@@ -1,0 +1,1 @@
+The current SMTP server name being used for task updates is empty.

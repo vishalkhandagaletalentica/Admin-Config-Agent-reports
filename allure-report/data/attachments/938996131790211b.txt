@@ -1,0 +1,1 @@
+Is the option to display subprojects currently enabled or disabled in the Project Control view?

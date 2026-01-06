@@ -1,0 +1,6 @@
+The command is invalid because the value type for CUSTOM_TASK_TEXT5 is set to 2, which indicates that it should be an integer value. The provided value 'abcde' is not a valid integer. 
+
+Please provide a valid integer value, such as '123'. 
+
+An example of a correct command would be: 
+`update CUSTOM_TASK_TEXT5 set value to 123`

@@ -1,0 +1,1 @@
+The Actual Output provides a relevant setting for the column but does not fully align with the Expected Output, which specifies a threshold of 10 Days. While it correctly identifies the duration as less than 10 Days, it lacks clarity on the total number of tasks, which is a key aspect of the Expected Output. This partial alignment results in a moderate score.

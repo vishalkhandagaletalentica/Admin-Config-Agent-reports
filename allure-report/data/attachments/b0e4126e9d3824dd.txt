@@ -1,0 +1,1 @@
+The current setting for excluding reserve units from the maximum units in the filtering options is "Set Aside Reserve Units."

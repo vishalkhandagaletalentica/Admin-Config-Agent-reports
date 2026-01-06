@@ -1,0 +1,1 @@
+The Filters Available for Task Level Priorities By Resource is already set to: Division, Portfolio, New Product Code, Customer, Resource Manager, Start Date, Project, Task Status. No update is needed.

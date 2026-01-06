@@ -1,0 +1,1 @@
+The Actual Output accurately states that the rolling average period in the Actual Delay report is 5 periods, which aligns perfectly with the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

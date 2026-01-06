@@ -1,0 +1,2 @@
+The following columns are hidden in the Work Card Information report:
+- Disable Auto Document Link

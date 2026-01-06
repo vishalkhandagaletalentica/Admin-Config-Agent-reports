@@ -1,0 +1,1 @@
+Yes — the setting "Show %Longest Chain Complete Based on Max Buffer Penetration" is enabled.

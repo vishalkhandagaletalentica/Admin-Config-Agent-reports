@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Show On Time Delivery (whether the report is displayed)', 'On Time Delivery column title', 'Default On-Time Delivery target percentage'], 'value': None, 'section': None, 'entry': None, 'url': None}

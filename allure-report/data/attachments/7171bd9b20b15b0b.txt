@@ -1,0 +1,1 @@
+Please update the Past Periods In Tooltip setting to 5.

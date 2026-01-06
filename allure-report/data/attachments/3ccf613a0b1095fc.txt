@@ -1,0 +1,1 @@
+Please update the Task Duration Reduction option to ROUND_TO_QUARTER.

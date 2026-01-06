@@ -1,0 +1,1 @@
+The CheckList indicator has been updated to "NewCheckList".

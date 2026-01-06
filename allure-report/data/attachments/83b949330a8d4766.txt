@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_CHECKIN_VALIDATION', 'entry': 'CS_RES_GROUP_MISMATCH_ERROR', 'url': None}

@@ -1,0 +1,3 @@
+The default sort order for the Project Review report is:
+- Buffer Target Date (ascending)
+- Date Created (ascending)

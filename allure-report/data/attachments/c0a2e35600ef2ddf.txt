@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'ACTUAL_DELAY', 'entry': 'DATE_RANGE_PAST', 'url': None}

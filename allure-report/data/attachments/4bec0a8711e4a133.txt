@@ -1,0 +1,3 @@
+The command you provided is invalid because the value "12345" exceeds the allowed range for the Default Horizon setting. The value must be one of the following: 4WEEKS, 13WEEKS, 6MONTHS, 12MONTHS, 4QUARTERS, or 8QUARTERS. 
+
+Please use one of the allowed values. For example, you can use the command: `update Default Horizon to 4WEEKS`.

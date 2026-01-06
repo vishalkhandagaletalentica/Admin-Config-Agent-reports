@@ -1,0 +1,1 @@
+Please disable the automatic loading of the Project Status Data when the Project Manager Tab is clicked.

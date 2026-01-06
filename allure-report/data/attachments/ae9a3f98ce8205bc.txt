@@ -1,0 +1,1 @@
+Please update the Queue Trend Indicator Period to 10 days.

@@ -1,0 +1,1 @@
+Please update the setting to display the date in the short date format with the time rounded to the next or previous hour and show the duration with days and hours.

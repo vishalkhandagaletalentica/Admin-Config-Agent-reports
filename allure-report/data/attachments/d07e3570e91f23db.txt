@@ -1,0 +1,1 @@
+{'entryId': 1655, 'sectionId': 11, 'flags': 0, 'entryName': 'USER', 'entryFriendlyName': 'User', 'strValue': 'User', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter Name for User.', 'rangeList': None, 'validationRule': None, 'sequenceId': 143100.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

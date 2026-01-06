@@ -1,0 +1,1 @@
+Please update the hidden fields in the report to include CHAIN_COLOR, CHAIN_NUM, PROJECTED_DATE, PROJECTED_DELAY.

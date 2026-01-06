@@ -1,0 +1,1 @@
+update configuration set value = 'xyz' where entryFriendlyName = 'Committed, In Queue';

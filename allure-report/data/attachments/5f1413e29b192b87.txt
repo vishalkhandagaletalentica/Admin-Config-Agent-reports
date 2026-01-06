@@ -1,0 +1,1 @@
+There are currently 6 queues set to run for the Buffer Management process.

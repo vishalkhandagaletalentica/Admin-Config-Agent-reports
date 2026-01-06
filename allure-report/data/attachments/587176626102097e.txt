@@ -1,0 +1,1 @@
+The display name for "Show Participants in Task Manager Filter" is already set to "Participants List." No update is needed.

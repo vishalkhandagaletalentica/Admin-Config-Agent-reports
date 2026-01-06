@@ -1,0 +1,1 @@
+The current filter name for the Max Buffer Penetration percentage in the Reason Code is 45%.

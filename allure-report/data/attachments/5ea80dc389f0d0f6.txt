@@ -1,0 +1,1 @@
+{'entryId': 1869, 'sectionId': 10, 'flags': 0, 'entryName': 'GATE', 'entryFriendlyName': 'Gate', 'strValue': 'Gate', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Gate.', 'rangeList': None, 'validationRule': None, 'sequenceId': 137380.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

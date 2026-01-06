@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'CCBMScheduling', 'entry': 'IgnoreZeroPercentenetrationForColoring', 'url': None}

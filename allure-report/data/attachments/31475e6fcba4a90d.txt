@@ -1,0 +1,1 @@
+{'entryId': 222, 'sectionId': 11, 'flags': 0, 'entryName': 'P2PBUFFERS', 'entryFriendlyName': 'P2P Buffers', 'strValue': 'P2P Buffers', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2PBUFFERS', 'rangeList': None, 'validationRule': None, 'sequenceId': 114440.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

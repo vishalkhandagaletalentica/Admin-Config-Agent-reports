@@ -1,0 +1,1 @@
+The report display type in the Cycle Time report has been successfully updated to PROJECTS.

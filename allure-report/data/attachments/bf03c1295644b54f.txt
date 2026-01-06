@@ -1,0 +1,1 @@
+The current name for the "Time Intervals" filter option in the Cycle Time report is "New Time Intervals."

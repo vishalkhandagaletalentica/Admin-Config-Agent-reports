@@ -1,0 +1,1 @@
+The Email Subject has been updated from "Bulk Import Notification" to "New Bulk Import Notification".

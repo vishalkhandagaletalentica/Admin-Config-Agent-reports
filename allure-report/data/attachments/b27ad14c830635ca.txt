@@ -1,0 +1,1 @@
+Yes, the option for allowing the horizon start date to be in the past is currently enabled.

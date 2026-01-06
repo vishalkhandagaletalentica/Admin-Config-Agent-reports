@@ -1,0 +1,1 @@
+{'entryId': 1161, 'sectionId': 10, 'flags': 0, 'entryName': 'ACTUAL_COUNT', 'entryFriendlyName': 'Actual Count', 'strValue': 'Updated Actual Count', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name for Actual Count.', 'rangeList': None, 'validationRule': None, 'sequenceId': 123220.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

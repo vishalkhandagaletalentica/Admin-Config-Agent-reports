@@ -1,0 +1,1 @@
+The current filter name for the date range in the Full Kit Report is "2 Months."

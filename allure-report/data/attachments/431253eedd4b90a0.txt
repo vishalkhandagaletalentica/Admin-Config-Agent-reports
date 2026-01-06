@@ -1,0 +1,7 @@
+The following columns are hidden in the task checklist report:
+- WBS
+- MMH
+- Status
+- MCN
+- Date1
+- Date2

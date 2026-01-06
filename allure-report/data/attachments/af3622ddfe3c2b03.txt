@@ -1,0 +1,1 @@
+{'entryId': 2129, 'sectionId': 10, 'flags': 0, 'entryName': 'BASELINE_FINISH', 'entryFriendlyName': 'Baseline Finish', 'strValue': 'Baseline Finish', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Baseline finish date of the task', 'rangeList': None, 'validationRule': None, 'sequenceId': 142580.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

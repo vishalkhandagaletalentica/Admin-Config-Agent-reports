@@ -1,0 +1,1 @@
+{'entryId': 420, 'sectionId': 29, 'flags': 1, 'entryName': 'Get All Tasks', 'entryFriendlyName': 'Get All Tasks', 'strValue': 'Get All Tasks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 10.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

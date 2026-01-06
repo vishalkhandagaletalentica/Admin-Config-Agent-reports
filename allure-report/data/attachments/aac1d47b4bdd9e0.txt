@@ -1,0 +1,1 @@
+{'entryId': 232, 'sectionId': 12, 'flags': 0, 'entryName': 'PREDECESSORS', 'entryFriendlyName': 'Predecessors', 'strValue': 'Predecessors', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Predecessors', 'rangeList': None, 'validationRule': None, 'sequenceId': 124640.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

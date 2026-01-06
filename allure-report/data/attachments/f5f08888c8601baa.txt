@@ -1,0 +1,1 @@
+The Task Status Filter already includes New NS and IP. No update is needed.

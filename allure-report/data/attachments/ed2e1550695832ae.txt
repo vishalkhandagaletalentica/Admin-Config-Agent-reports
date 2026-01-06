@@ -1,0 +1,1 @@
+The currently hidden column in the report is CUSTOM_DATE2.

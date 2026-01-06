@@ -1,0 +1,1 @@
+The Use Duration Variability setting is already enabled (set to 1). No update is needed.

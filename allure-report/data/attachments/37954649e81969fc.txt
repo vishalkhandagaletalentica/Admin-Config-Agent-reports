@@ -1,0 +1,1 @@
+The column header for Distance is "Distance_Miles".

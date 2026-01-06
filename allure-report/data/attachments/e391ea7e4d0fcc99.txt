@@ -1,0 +1,1 @@
+The "Internal Milestones Must Have Zero Duration" setting in Application -> Concerto Critical Chain has been enabled.

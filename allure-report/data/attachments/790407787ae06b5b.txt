@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PLANNING_CLIENT_COMMON', 'entry': 'NUMBER_OF_TASK_TEMPLATES_TO_SHOW', 'url': None}

@@ -1,0 +1,1 @@
+{'entryId': 196, 'sectionId': 10, 'flags': 0, 'entryName': 'MODIFICATIONS', 'entryFriendlyName': 'Changes', 'strValue': 'Changes', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Changes', 'rangeList': None, 'validationRule': None, 'sequenceId': 103920.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

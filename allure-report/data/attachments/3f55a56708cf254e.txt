@@ -1,0 +1,1 @@
+{'entryId': 1121, 'sectionId': 10, 'flags': 0, 'entryName': 'ACTUAL_CT', 'entryFriendlyName': 'Actual Cycle Time', 'strValue': 'New Actual Cycle Time (d)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Actual Cycle Time.', 'rangeList': None, 'validationRule': None, 'sequenceId': 122420.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

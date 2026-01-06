@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Full Kit Status', 'Full Kit Manager Filter'], 'value': None, 'section': None, 'entry': None, 'url': None}

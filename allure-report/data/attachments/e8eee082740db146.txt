@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it accurately states that the display name for 'Created By' is 'Creator', which aligns with the Expected Output. Additionally, it directly addresses the intent of the Input question by providing the specific information requested without introducing any incorrect facts or unrelated entries.

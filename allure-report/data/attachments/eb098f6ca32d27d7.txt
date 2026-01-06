@@ -1,0 +1,1 @@
+The "Include Ignored Tasks" label in the Filtering Pane has been changed to "Exclude Ignored Tasks."

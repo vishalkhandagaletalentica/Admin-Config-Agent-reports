@@ -1,0 +1,1 @@
+The Actual Output correctly conveys that the display of Full Name has been disabled and provides additional information about potential server refresh requirements. However, it does not explicitly mention the setting name as in the Expected Output, which slightly detracts from its alignment with the factual correctness of the Expected Output.

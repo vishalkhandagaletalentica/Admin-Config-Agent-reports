@@ -1,0 +1,1 @@
+I'm referring to the threshold that defines Red/Yellow/Green activities, specifically the Yellow activity min/max days.

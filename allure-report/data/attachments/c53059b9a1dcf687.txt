@@ -1,0 +1,1 @@
+Period Type for Purchasing Tasks updated from "Week" to "Day".

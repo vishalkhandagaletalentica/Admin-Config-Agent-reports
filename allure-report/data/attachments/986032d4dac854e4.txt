@@ -1,0 +1,13 @@
+The following columns are hidden in the Modify Projects report:
+- CATEGORY → New Product Code
+- SUBJECT → Broker - End User
+- AUTHOR → Portfolio
+- PARENT_PROJECT_NAME → Parent Project Name
+- CATEGORY → New Product Code
+- LAST_CHECKIN_DATE → Last Commit Date
+- CHECKIN_MPDVERSION → MS Project File Version
+- ATTRIBUTE1 → Contractual Due Date
+- ATTRIBUTE2 → Liquidated Damages
+- ATTRIBUTE3 → Bill To Customer
+- ATTRIBUTE4 → Sale Order Number
+- ATTRIBUTE5 → SalesForce Number
