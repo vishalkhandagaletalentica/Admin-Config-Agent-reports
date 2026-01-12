@@ -1,1 +1,0 @@
-I checked the Custom Task Date Field 24 setting: it is already set to "Date24". No update is needed.

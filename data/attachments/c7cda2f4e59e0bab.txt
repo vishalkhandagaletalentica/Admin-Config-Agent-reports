@@ -1,1 +1,0 @@
-The Time Interval filter for the Actual Delay report is set to Monthly.

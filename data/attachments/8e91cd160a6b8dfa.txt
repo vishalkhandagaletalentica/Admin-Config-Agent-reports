@@ -1,1 +1,0 @@
-{'entryId': 1952, 'sectionId': 3, 'flags': 1, 'entryName': 'BMRunOption', 'entryFriendlyName': 'BMRunOption', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 0, 'itemDesc': 'Shows the option for BMRun', 'rangeList': '$RANGE:0,2', 'validationRule': None, 'sequenceId': 69040.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

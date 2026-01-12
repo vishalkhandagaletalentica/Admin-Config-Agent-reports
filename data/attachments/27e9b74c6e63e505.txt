@@ -1,0 +1,1 @@
+The default WIP limit value for each phase is 15.

@@ -1,0 +1,1 @@
+The value used to convert Shift to Hours in the Gantt display is 12 hours.

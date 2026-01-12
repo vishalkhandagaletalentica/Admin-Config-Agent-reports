@@ -1,1 +1,0 @@
-The filter name for the maximum buffer penetration percentage in Reason Code is "PenCentage of Max Buffer Pen" and its current value is 45%.

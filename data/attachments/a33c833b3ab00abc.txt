@@ -1,1 +1,0 @@
-What is the current default date interval setting for the Trend Chart drill down?

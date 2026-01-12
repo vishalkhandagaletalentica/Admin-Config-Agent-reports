@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Integration -> Task: Send Notification', 'Integration -> Subtask: Send Notification'], 'value': None, 'section': None, 'entry': None, 'url': None}

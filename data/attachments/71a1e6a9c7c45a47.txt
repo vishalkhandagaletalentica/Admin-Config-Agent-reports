@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'df4aa3be-73e1-4a5e-bf5a-cbcd5c088018', 'query': 'Please update the Fractional Rounding Digits to 3.'}

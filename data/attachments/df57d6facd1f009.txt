@@ -1,0 +1,1 @@
+{'entryId': 577, 'sectionId': 11, 'flags': 0, 'entryName': 'PERIOD', 'entryFriendlyName': 'Period', 'strValue': 'Updated Period', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Period in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121540.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

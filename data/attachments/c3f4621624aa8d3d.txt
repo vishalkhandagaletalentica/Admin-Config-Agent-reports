@@ -1,1 +1,0 @@
-The current chain type for the milestone view is: SUCCESSOR_CHAINS → Updated Successor Chains to Stuck Task(s).

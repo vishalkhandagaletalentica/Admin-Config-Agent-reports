@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Is the automatic linking of subtasks currently enabled?'}, {'role': 'assistant', 'content': 'No — Auto-link Inserted Subtasks is currently disabled.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Auto-link Inserted Subtasks has been enabled.'}]

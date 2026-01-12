@@ -1,0 +1,1 @@
+Reduce task duration percent updated from 50 to 60.

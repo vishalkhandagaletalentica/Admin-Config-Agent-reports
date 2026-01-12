@@ -1,1 +1,0 @@
-The current setting for the Period Type in the Full Kit Delay report is Quarterly.

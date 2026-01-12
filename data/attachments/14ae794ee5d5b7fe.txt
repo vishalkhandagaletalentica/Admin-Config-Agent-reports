@@ -1,1 +1,0 @@
-The setting "Show Checklist Items When Full Kit status is Set to 'Released'" has been successfully updated to disabled.

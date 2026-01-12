@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '169df414-20f7-42a7-9ef4-f13f379cf541', 'query': 'Please update the Red Milestone Buffer to a new value of 5.'}

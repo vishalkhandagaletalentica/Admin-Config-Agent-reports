@@ -1,0 +1,1 @@
+The Percent Complete column is mapped to DPC_UPDATED.

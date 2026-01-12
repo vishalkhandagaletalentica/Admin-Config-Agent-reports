@@ -1,1 +1,0 @@
-Is the option to configure a custom path for the Realization Project Viewer currently enabled?

@@ -1,1 +1,0 @@
-The Project Attribute field for Base has been updated to CATEGORY.

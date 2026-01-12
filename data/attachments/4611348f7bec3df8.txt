@@ -1,1 +1,0 @@
-The default sorting order for Resource Mgr → Tasks By Resource is "A-PRIORITY_LEVEL,D-PRIORITY_LEVEL_PENETRATION,A-EARLIEST_ARRIVAL".

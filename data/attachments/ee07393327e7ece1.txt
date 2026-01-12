@@ -1,0 +1,1 @@
+The Actual Output provides a detailed list of column names, which is factually incorrect as the Expected Output states that the column order is not included. This discrepancy indicates a complete misalignment with the factual correctness required by the evaluation steps.

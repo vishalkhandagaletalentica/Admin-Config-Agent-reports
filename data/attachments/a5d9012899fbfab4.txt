@@ -1,0 +1,1 @@
+The Gate title was updated from "New Gate" to "Updated Gate".

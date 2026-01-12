@@ -1,1 +1,0 @@
-The current display name for the security code in the column headers is "Security Code Updated."

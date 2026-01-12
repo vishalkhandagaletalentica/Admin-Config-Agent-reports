@@ -1,1 +1,0 @@
-The On Hold setting on the Exclude Projects page is disabled.

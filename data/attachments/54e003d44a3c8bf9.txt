@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is past data displayed in the Issue Resolution report?'}, {'role': 'assistant', 'content': 'No — past data is currently disabled in the Issue Resolution report.'}, {'role': 'user', 'content': 'Update this setting to enabled.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

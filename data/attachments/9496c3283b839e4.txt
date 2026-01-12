@@ -1,1 +1,0 @@
-{'entryId': 2528, 'sectionId': 146, 'flags': 0, 'entryName': 'TASK_DURATION', 'entryFriendlyName': 'Duration(sh)', 'strValue': 'DU', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Duration(sh)', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510560.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

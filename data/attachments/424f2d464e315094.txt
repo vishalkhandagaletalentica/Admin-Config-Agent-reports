@@ -1,0 +1,1 @@
+{'entryId': 623, 'sectionId': 10, 'flags': 0, 'entryName': 'BY_WHO', 'entryFriendlyName': 'Assigned To', 'strValue': 'Responsible Person', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for By Who in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 112460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-I'm a Configuration Management Assistant, so I can only help with viewing and updating configuration settings. I can check current configuration values, update them, list all available sections, or show entries within a section. If you want, tell me which configuration or setting you'd like to inspect or change and I can help with that.

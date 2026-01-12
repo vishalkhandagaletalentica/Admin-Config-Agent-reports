@@ -1,0 +1,1 @@
+{'entryId': 783, 'sectionId': 31, 'flags': 1, 'entryName': 'EXEC_CUSTOM_TASK_TEXT8', 'entryFriendlyName': 'EXEC_CUSTOM_TASK_TEXT8', 'strValue': 'EXEC_CUSTOM_TASK_TEXT8', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 325660.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

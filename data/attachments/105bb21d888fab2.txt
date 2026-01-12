@@ -1,0 +1,1 @@
+Yes — Complex Project Mode (Enable Summary Structure) is enabled in the SPI Client.

@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'Server', 'entry': 'OPEN_PROJ_AFTER_DOWNLOAD', 'url': None}

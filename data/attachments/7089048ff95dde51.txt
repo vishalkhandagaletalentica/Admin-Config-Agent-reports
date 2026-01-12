@@ -1,1 +1,0 @@
-The Add SubTask Type is set to 2 (Add/Update Subtasks with SubtaskId).

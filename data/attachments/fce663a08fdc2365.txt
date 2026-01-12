@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Diagnostics → By Help Needed', 'Project Mgr → Modify Projects', 'Executive'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Status Filter (Default Task Status Filter)', 'Sort By Priority Window Size', 'Filters available', 'Filters to display', 'Hidden Fields', 'TM Task WIP Count', 'TM Task WIP Threshold', '% Compliant Task Mgrs'], 'value': None, 'section': None, 'entry': None, 'url': None}

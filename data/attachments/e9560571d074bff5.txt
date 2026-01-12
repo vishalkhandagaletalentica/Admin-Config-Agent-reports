@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '895d6ba8-9aef-42ba-8b82-47fde81e0fa3', 'query': 'The correct section name is "Commit-Time Error Settings" and the ENTRY NAME is "Project has a Resource which is not present in Global Resource File."'}

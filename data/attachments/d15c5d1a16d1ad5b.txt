@@ -1,0 +1,1 @@
+No — "Show Full Name in Reports" (display full name for Task Managers and Project Managers) is currently disabled.

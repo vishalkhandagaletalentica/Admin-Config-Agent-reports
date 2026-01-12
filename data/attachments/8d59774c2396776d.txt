@@ -1,0 +1,1 @@
+Is the automatic loading of the Executive Dashboard Data enabled when I click on the Executive Tab?

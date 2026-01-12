@@ -1,0 +1,1 @@
+I couldn't apply that change. The Subtask Custom Text Fields to display in Subtask Details must be set to one or more valid custom text fields (for example: Custom Text 1, Custom Text 2, …, Custom Text 10). Please tell me which custom text field(s) you want to display instead of "12345".

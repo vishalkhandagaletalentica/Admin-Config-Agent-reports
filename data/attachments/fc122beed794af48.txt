@@ -1,1 +1,0 @@
-The setting "Include Project Participant Data With Project Mgr Filter Query" has been successfully updated to disabled.

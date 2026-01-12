@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names (Full Kit Status)', 'Common -> Column Names (Full Kit Status)', 'Project Mgr -> Full Kit Report (Full Kit Task Status)'], 'value': None, 'section': None, 'entry': None, 'url': None}

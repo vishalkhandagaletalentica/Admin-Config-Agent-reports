@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['DBR_ColorPriority0', 'DBR_ColorPriority1', 'DBR_ColorPriority2'], 'value': None, 'section': None, 'entry': None, 'url': None}

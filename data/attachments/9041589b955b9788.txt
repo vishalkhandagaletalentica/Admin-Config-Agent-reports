@@ -1,1 +1,0 @@
-Number of Shifts in working times has been updated from 3 to 2.

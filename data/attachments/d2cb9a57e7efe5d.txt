@@ -1,1 +1,0 @@
-Revised Baseline Early Start is mapped to the column "REV_ES" when importing CSV/Excel files.

@@ -1,1 +1,0 @@
-The Date Range (X months in past) for Metrics -> Red Project Delay is already set to 5 months. No update is needed.

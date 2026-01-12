@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Show Push out project schedule option (enable/disable showing push-out option in Planning Client)', 'Push out routine to be used in scheduling (select push-out routine)', 'Push out schedule if due date not met (enable/disable automatic push-out when due date missed)'], 'value': None, 'section': None, 'entry': None, 'url': None}

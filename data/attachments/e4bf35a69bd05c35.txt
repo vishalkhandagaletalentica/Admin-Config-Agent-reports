@@ -1,0 +1,1 @@
+The Load Breakdown filter name has been updated from "Load Breakdown Updated" to "BLUE_GREEN_OTHER".

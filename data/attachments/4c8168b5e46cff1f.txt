@@ -1,0 +1,1 @@
+I can't update that setting because the value should be boolean (e.g., enabled/disabled, included/excluded). Please provide a boolean value such as "enable" or "disable".

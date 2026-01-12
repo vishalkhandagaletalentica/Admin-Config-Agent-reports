@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the option to display the Total Project WIP in the report enabled?'}, {'role': 'assistant', 'content': 'No — the option to display the Total Project WIP in the report is disabled.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'The Include Total WIP option has been enabled.'}]

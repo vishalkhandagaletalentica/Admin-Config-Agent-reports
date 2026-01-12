@@ -1,1 +1,0 @@
-The current field mapping for the Task Status in the advanced filter settings is Status.

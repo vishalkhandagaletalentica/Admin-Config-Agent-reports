@@ -1,1 +1,0 @@
-The "Show Project Labels" setting in Common is already set to "Display Project Tags." No update is needed.

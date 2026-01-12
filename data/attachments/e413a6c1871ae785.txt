@@ -1,0 +1,1 @@
+No — highlighting (color and italics) for Critical Chain tasks is disabled.

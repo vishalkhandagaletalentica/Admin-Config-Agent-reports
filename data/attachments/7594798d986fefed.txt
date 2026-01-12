@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Print Font Size to FONT_XLARGE.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Print Font Size" setting?'}, {'role': 'user', 'content': 'The section name is "Full Kit Report."'}, {'role': 'assistant', 'content': 'Print Font Size was updated from FONT_LARGE to FONT_XLARGE.'}]

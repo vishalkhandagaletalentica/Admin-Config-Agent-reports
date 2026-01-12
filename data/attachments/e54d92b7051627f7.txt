@@ -1,1 +1,0 @@
-The current status of the temporary table used for storage in the Subtask Excel updates is TEMP_WORK_CARD_INFO3.

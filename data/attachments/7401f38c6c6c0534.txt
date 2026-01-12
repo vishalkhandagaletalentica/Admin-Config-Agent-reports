@@ -1,1 +1,0 @@
-Please enable the display of the value in Number 4 field for Effective Protection in the ActiveX Buffer Status report.

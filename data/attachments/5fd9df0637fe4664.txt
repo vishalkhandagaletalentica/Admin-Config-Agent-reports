@@ -1,1 +1,0 @@
-The current filter name for Task Manager WIP count is "New TM Task WIP Count".

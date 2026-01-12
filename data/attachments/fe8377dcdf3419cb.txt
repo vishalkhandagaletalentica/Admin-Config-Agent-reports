@@ -1,1 +1,0 @@
-The current column name for Successors in the Subtask Excel is "New Successors."

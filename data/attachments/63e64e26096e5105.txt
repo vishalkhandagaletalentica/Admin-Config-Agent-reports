@@ -1,0 +1,1 @@
+The default font size for Print Preview in the Project/Milestone Penetrating Chain report is FONT_LARGE.

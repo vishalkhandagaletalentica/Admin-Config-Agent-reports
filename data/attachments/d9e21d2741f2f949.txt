@@ -1,1 +1,0 @@
-The SMTP Server Port is now set to 465.

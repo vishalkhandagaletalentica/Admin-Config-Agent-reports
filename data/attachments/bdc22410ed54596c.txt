@@ -1,1 +1,0 @@
-What is the current setting for the Business Unit Type in the project attributes?

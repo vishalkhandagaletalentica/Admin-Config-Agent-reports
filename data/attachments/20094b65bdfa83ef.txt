@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Column Names — Project Attribute 4 (title shown in column headings)', 'Filter Names — Project Attribute 4 (title shown in filter pane)'], 'value': None, 'section': None, 'entry': None, 'url': None}

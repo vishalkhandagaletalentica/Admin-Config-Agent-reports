@@ -1,1 +1,0 @@
-The stretch limit for fixed and in-process projects is currently disabled.

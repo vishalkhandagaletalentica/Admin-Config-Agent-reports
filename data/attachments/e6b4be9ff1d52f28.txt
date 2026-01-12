@@ -1,1 +1,0 @@
-Which "Task Status" entry do you want to update to IN_PROGRESS_IP? Please choose one:

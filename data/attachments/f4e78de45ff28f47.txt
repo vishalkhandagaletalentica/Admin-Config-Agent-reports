@@ -1,1 +1,0 @@
-Display Cumulative Data has been disabled for the Throughput report.

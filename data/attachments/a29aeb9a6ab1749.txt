@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_CONTROL_PERFORMANCE', 'entry': 'INCLUDE_STRETCH_FOR_PROJECT_LIST', 'url': None}

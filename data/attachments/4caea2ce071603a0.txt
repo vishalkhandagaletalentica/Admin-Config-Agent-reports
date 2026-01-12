@@ -1,1 +1,0 @@
-The resource-based pipeline has been disabled. It was enabled and is now disabled. Changes will take effect after the next Buffer Management run.

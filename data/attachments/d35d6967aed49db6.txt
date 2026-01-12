@@ -1,1 +1,0 @@
-{'entryId': 809, 'sectionId': 10, 'flags': 0, 'entryName': 'PREDECESSOR_NAME', 'entryFriendlyName': 'Task Predecessor Name', 'strValue': 'Predecessor Name', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Predecessor Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 116180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-What filters are currently set to be displayed in the Buffer Diagnostics report?

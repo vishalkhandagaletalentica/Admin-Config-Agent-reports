@@ -1,1 +1,0 @@
-The name for Float Column Preset 1 in the Table view is "Basic".

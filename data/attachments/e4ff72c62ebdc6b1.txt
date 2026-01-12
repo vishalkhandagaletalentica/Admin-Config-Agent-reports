@@ -1,1 +1,0 @@
-The Cycle Time report currently displays: Exclude Project Wait Time.

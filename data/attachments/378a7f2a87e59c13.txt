@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Show Throughput', 'Display Custom Throughput Line', 'Show Data By'], 'value': None, 'section': None, 'entry': None, 'url': None}

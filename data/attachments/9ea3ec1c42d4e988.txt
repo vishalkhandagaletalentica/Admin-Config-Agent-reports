@@ -1,1 +1,0 @@
-What is the current push out routine being used for scheduling?

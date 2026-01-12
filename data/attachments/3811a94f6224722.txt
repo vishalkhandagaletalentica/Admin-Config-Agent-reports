@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '50c9aa4d-09cd-4562-afaa-7248e1065c37', 'query': 'Please update the MS Project File Version to 2.0.'}

@@ -1,0 +1,1 @@
+The current window size for grouping task priorities is 10.

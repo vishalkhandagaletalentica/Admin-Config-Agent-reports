@@ -1,0 +1,1 @@
+The Chain Type in Project Chain View is ALL_CHAINS.

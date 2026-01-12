@@ -1,6 +1,0 @@
-The command to update the configuration setting "Sort Order" to 12345 is invalid because the expected value type is a list of sortable column names, not an integer. 
-
-Please use a string that consists of sortable column names, such as 'A-PROJECT_NAME,A-MS_NAME,A-PROJECT_REPORT_STATUS'. 
-
-A correct example command would be: 
-`update configuration setting Sort Order to A-PROJECT_NAME,A-MS_NAME`

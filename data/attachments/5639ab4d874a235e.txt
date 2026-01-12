@@ -1,0 +1,1 @@
+Yes — the Internal Milestones Must Have Zero Duration option is enabled (IMS tasks are forced to zero duration).

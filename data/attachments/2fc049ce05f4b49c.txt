@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the correct title displayed for the Chain No. However, it lacks the additional context present in the Expected Output, which specifies the title's relation to the Chain View Summary. This minor omission prevents a perfect score.

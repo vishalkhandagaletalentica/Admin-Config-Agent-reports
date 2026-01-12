@@ -1,1 +1,0 @@
-The "Compare With" filter name was updated from "Comparison" to "DUE_DATE".

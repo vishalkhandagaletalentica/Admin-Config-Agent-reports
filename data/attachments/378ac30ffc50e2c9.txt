@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the column name for TargetStreamId in the Subtask Excel?'}, {'role': 'assistant', 'content': 'The column name for TargetStreamId is TargetStreamId.'}, {'role': 'user', 'content': 'Update it to TargetStreamIdentifier.'}, {'role': 'assistant', 'content': 'Updated TargetStreamId from TargetStreamId to TargetStreamIdentifier.'}]

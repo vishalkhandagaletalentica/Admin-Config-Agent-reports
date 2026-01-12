@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the Major Job Id mapping as EXEC_CUSTOM_TASK_TEXT2, which aligns with the Expected Output's factual content. However, it lacks the phrasing that indicates the mapping is to the selected custom text field, which slightly diminishes its completeness in addressing the intent of the Input question.

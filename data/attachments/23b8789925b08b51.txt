@@ -1,1 +1,0 @@
-The section name is "Commit Error Settings," and the entry name is "Display Error During Commit."

@@ -1,3 +1,0 @@
-The filters currently displayed in the Task Management report are:
-- Task Manager
-- Project

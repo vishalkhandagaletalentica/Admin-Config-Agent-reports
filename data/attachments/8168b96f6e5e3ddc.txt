@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_RESOURCE_SAND_CHART', 'entry': 'SHOWCIQPROJECTLOAD', 'url': None}

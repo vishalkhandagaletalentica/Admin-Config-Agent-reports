@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'FLOATPRIORITIES', 'entry': 'CALCULATE_FLOAT_BASED_COLOR', 'url': None}

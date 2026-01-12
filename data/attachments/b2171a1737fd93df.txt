@@ -1,1 +1,0 @@
-The chain summary is currently sorted by chain number.

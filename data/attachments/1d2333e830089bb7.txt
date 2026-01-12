@@ -1,1 +1,0 @@
-The display name for Other in filters has been updated to "Miscellaneous."

@@ -1,0 +1,1 @@
+The title displayed for Successor Task UIDs in the Gantt view is "New Successor UIDs."

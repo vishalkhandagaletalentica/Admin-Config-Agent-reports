@@ -1,1 +1,0 @@
-What is the current status of the settings for committed and in queue projects on the Exclude Projects page?

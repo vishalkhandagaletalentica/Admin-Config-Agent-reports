@@ -1,1 +1,0 @@
-The “Show Managers Only in Project Mgr Filter” option in Modify Projects is currently enabled.

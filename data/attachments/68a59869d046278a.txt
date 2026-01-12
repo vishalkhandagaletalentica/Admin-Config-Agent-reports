@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it accurately states the display name for the Current Period Detail in the Issue Resolution filter options, matching the Expected Output's content. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

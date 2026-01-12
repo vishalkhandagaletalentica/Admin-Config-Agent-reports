@@ -1,1 +1,0 @@
-The Actual Output is factually correct, stating that 20 rows are set to display per page, which aligns with the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

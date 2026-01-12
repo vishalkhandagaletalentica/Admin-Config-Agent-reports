@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'b1f04039-c911-4831-aba2-fce0a041d69c', 'query': 'The section name is "Date Tracking in Add/Checkin/Edit Screen" and the entry name is "Specifies if the comments are mandatory when dates are modified."'}

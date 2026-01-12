@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'FULL_KIT_COMPLIANCE_REPORT', 'entry': 'INCLUDE_COMPLIANCE_TM', 'url': None}

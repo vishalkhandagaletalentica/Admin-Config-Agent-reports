@@ -1,0 +1,1 @@
+The mistake is a type mismatch because the provided value 'abcde' is a string, while the expected value type is a list of key-value pairs, such as [{"key":"NEW_KEY","label":"New Label","present":true}].

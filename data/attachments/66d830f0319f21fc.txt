@@ -1,1 +1,0 @@
-The setting for "Display Remaining Duration for Not Started Tasks" has been successfully updated to disabled.

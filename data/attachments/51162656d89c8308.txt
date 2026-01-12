@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '2eaf1b96-c0a2-4541-8011-6dcb2ce3eaa9', 'query': 'Please update the Buffer Cnsm setting to "Buffer Cnsm`e (%)".'}

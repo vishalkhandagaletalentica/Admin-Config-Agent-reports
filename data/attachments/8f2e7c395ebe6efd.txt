@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_INTEGRATION_SUBTASK', 'entry': 'SGD_IGNORE_UPDATE_IP_TASK_FOR_INTEGRATION', 'url': None}

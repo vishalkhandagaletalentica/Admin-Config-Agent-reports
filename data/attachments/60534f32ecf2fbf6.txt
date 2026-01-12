@@ -1,1 +1,0 @@
-The current filter name for displaying the Weighted Average Delay in the Actual Delay report is enabled.

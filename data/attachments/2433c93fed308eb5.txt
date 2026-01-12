@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'acc6b529-f222-4583-9a2f-a986d7dc008c', 'query': 'The section name is "Escalated Tasks report" and the entry name is "Default Horizon."'}

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names (Project Attribute 4 column title)', 'Common -> Filter Names (Project Attribute 4 filter title)', 'Common -> Project Attribute Type and status (Project Attribute4 Type/Status)', 'Bulk Import (Project Attribute 4)'], 'value': None, 'section': None, 'entry': None, 'url': None}

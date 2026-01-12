@@ -1,1 +1,0 @@
-The current status of the issue resolution reports for items that are committed and in queue is disabled.

@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'WORK_CARD_DETAILS', 'entry': 'HIDDEN_FIELDS', 'url': None}

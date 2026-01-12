@@ -1,1 +1,0 @@
-The current setting for ignoring projects with high buffer consumption in the reports is disabled.

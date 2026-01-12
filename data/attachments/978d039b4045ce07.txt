@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common → Column Names — Project Name (column headings)', 'Common → Filter Names — Project Name (filter pane)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+{'entryId': 513, 'sectionId': 10, 'flags': 0, 'entryName': 'USERNAME', 'entryFriendlyName': 'Changed By', 'strValue': 'Modified By', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Changed By', 'rangeList': None, 'validationRule': None, 'sequenceId': 110260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

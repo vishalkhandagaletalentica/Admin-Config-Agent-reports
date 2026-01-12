@@ -1,3 +1,0 @@
-The command to update `compactViewFields` is invalid because the value provided, `12345`, is not of the expected type. The allowed values for `compactViewFields` are specific keys from the defined list, which includes: `EXEC_PARENT_TASK_DESCRIPTION, PROJECT_NAME, EXECMGT_TASK_DESCRIPTION, EXEC_STREAM_NAME, EXEC_REMAINING_DURATION, EXEC_EARLIEST_ARRIVAL, WORK_CARD_COUNT, WORK_CARD_MAJOR_JOBID, EXEC_TASK_MANAGER_ID`.
-
-Please provide a value that is a comma-separated list of these allowed keys. For example, a correct command would be: `update compactViewFields to EXECMGT_TASK_DESCRIPTION,PROJECT_NAME`.

@@ -1,0 +1,1 @@
+No — background pipeline simulation scheduling is disabled.

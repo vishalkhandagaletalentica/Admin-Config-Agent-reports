@@ -1,1 +1,0 @@
-The Actual Output conveys the correct factual information that the option has been enabled, aligning with the intent of the Input. However, it lacks the specific phrasing of the Expected Output, which explicitly states the setting has been updated, leading to a slight deduction in points for not fully addressing the expected format.

@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': None, 'entry': 'Division', 'url': None}

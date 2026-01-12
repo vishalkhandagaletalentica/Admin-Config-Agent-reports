@@ -1,1 +1,0 @@
-The display name for Exclude On Hold Task has been successfully updated to "Do Not Include On Hold Task".

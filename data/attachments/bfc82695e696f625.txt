@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Common -> Column Names — Comments', 'Integration -> Task — Comments column', 'Integration -> Subtask — Comments column', 'Common -> Column Names — Comments (Penetrating Task)', 'Common -> Column Names — Subtask Comments'], 'value': None, 'section': None, 'entry': None, 'url': None}

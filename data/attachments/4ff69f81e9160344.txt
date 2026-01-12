@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['CMSB Buffer Settings (Percentage Size + Fixed Size In Hours)', 'CCCB Buffer Settings (Percentage Size + Fixed Size In Hours)', 'Archive Debuffered files during BM'], 'value': None, 'section': None, 'entry': None, 'url': None}

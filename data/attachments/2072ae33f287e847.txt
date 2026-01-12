@@ -1,0 +1,1 @@
+{'entryId': 624, 'sectionId': 10, 'flags': 0, 'entryName': 'DONE', 'entryFriendlyName': 'Done', 'strValue': 'Finished', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Done in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 112480.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

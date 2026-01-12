@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What’s the value of the Period Type for the Full Kit Delay report?'}, {'role': 'assistant', 'content': 'The Period Type for the Full Kit Delay report is Quarterly.'}, {'role': 'user', 'content': 'Update this setting to Monthly.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

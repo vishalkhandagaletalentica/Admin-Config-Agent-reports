@@ -1,1 +1,0 @@
-The Task Float (Gantt) setting has been successfully updated to the new value of TF.

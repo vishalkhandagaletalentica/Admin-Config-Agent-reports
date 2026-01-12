@@ -1,1 +1,0 @@
-The current display name for the "Enter Location" option in the filters is "Location Input."

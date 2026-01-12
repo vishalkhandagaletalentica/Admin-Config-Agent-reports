@@ -1,0 +1,1 @@
+No, past data is not displayed in the Issue Resolution report.

@@ -1,1 +1,0 @@
-The Status filter name in the Task List has been updated from "Task Status" to "12345".

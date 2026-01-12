@@ -1,5 +1,0 @@
-The following columns are currently hidden in the Action Items report:
-- BY_WHO
-- BUFFER_TARGET_DATE
-- DATE_CREATED
-- RESOLVED_DATE

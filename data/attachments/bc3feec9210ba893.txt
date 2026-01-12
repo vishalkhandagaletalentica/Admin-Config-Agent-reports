@@ -1,0 +1,1 @@
+The Escalation Duration in the column headings is "Updated Escalation Duration".

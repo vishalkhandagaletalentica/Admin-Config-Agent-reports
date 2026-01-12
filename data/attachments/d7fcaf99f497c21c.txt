@@ -1,1 +1,0 @@
-update configuration set Allow Modify Last update date to 'xyz';

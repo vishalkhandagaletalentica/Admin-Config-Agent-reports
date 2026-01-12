@@ -1,0 +1,1 @@
+No — automatic selection of the logged-in user in the Pipeline View report's Project Manager filter is disabled.

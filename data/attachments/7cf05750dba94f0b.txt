@@ -1,3 +1,0 @@
-The command is incorrect because the value type for "Show On Time Delivery Rolling Average" is expected to be an integer (valueType: 3) and "xyz" is a string, which is not allowed. Please provide an integer value instead. 
-
-For example, a correct command could be: `update "Show On Time Delivery Rolling Average" to 0;`

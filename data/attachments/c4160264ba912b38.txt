@@ -1,0 +1,1 @@
+{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_TASK_TEXT_FIELDS_CHECKLIST', 'entry': 'CUSTOM_TASK_TEXT6', 'url': None}

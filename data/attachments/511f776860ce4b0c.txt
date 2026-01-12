@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '650ad64f-23f2-4b12-b40e-dba62e73cb6a', 'query': 'Please update the Man Hours mapping to a new value of MHEXT.'}

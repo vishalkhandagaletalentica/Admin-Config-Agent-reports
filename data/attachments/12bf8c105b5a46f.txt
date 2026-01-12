@@ -1,0 +1,1 @@
+What is the custom text fields value that will be displayed in the Detail View?

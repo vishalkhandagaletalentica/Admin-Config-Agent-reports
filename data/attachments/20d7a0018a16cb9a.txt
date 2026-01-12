@@ -1,0 +1,1 @@
+{'entryId': 1903, 'sectionId': 10, 'flags': 0, 'entryName': 'CHANGED_DATE', 'entryFriendlyName': 'Changed On', 'strValue': 'Last Modified', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Item Name of Changed On', 'rangeList': None, 'validationRule': None, 'sequenceId': 138060.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

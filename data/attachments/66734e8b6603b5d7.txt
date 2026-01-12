@@ -1,0 +1,1 @@
+The Actual Output provides the correct value for the queue persistence interval, aligning with the Expected Output's factual content. However, it fails to include the percentage sign, which is a crucial detail in the Expected Output, leading to a minor factual inaccuracy. The response is relevant and directly addresses the input question, maintaining a professional tone.

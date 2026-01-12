@@ -1,0 +1,1 @@
+The value of Project Attribute 6 is ATTRIBUTE3.

@@ -1,1 +1,0 @@
-The titles currently displayed for the Projects in the filtering pane are "Projects."

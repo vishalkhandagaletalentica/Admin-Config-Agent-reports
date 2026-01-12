@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Col Order (Column Order)', 'Planning Client -> Common (Sort task templates by)', 'Buffer Diagnostics -> Tasks Drilldown From Reason (Sort Order)', 'Project Mgr/Resource Mgr -> Escalated Tasks (Sort Order)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+Yes — the Show Start Delay option in Buffer Diagnostics is enabled.

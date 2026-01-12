@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '335bf71d-c0eb-43a6-bdc5-c7c92ba1da92', 'query': 'The correct section name is Bulk Import, and the ENTRY NAME is Project Attribute 5.'}

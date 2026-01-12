@@ -1,1 +1,0 @@
-The current display name for the predecessor task in the column headers is "Predecessors Updated."

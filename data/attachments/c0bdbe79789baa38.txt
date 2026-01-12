@@ -1,1 +1,0 @@
-The column name for Update Compliance (%) has been successfully updated to "Update Compliance Rate".

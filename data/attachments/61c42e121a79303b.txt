@@ -1,1 +1,0 @@
-The current title displayed for the Virtual Drum filter is "New Virtual Drum".

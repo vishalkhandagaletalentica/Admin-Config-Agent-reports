@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'dce8b5a7-4be3-4228-91da-dd1b8c2f0b7a', 'query': 'Please update the Include Project Chain View setting to disabled.'}

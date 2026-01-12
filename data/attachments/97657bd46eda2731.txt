@@ -1,1 +1,0 @@
-The Send Notification setting in Integration -> Subtask is disabled.

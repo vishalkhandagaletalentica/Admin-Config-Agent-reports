@@ -1,0 +1,1 @@
+Filters Available updated from "New Milestone Filters" to "AUTHOR, CATEGORY, SUBJECT, MILESTONE, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4".

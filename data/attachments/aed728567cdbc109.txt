@@ -1,0 +1,1 @@
+Yes — calculating buffer sizes based on duration variability is enabled.

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '847cdf08-7ea5-4411-b30f-ec53fa4c444c', 'query': 'Please update the Float Based CC setting to use the value "CC Mode".'}

@@ -1,1 +1,0 @@
-The default number of items to expand for escalation delay data is 1.

@@ -1,1 +1,0 @@
-{'entryId': 96, 'sectionId': 10, 'flags': 1, 'entryName': 'AUTHOR', 'entryFriendlyName': 'Portfolio', 'strValue': 'Portfolio', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Portfolio', 'rangeList': None, 'validationRule': None, 'sequenceId': 101920.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

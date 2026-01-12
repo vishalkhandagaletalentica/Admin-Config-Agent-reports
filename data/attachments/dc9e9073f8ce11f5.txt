@@ -1,1 +1,0 @@
-The default sorting order is: 1) Earliest Arrival (ascending), 2) Chain ID (ascending), 3) Sortn2 (descending).

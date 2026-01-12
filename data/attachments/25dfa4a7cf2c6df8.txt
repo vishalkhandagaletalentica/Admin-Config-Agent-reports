@@ -1,0 +1,1 @@
+Minimum for Float Group C is 42. No separate maximum value is defined in that entry.

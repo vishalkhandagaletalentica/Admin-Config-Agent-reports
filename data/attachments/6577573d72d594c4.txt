@@ -1,1 +1,0 @@
-Please disable the project level task manager compliance display for the task manager.

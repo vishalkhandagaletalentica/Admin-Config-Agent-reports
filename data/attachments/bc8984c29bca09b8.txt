@@ -1,7 +1,0 @@
-The following columns are currently hidden in the task checklist:
-- New Column Title
-- MMH
-- Status
-- MCN
-- Task Date
-- Date

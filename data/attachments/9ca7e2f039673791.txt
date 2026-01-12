@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names: Text2 (Column Name for Text2 in Task Checklist)', 'Integration -> Task: Text2 (Column name of TEXT2)', 'Checklist Integration -> Fields Mapping for Checklist: Text2 (Specifies column mapping with excel file column of Text2)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+The number of months set to look back from the current month is 15.

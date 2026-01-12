@@ -1,0 +1,1 @@
+Yes — the Show Participants in TM list setting in Buffer Diagnostics -> By Help Needed is enabled.

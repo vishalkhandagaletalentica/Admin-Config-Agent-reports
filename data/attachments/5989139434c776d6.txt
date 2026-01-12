@@ -1,1 +1,0 @@
-{'entryId': 2175, 'sectionId': 10, 'flags': 0, 'entryName': 'ATTRIBUTE_TEXT', 'entryFriendlyName': 'Attribute', 'strValue': 'Attribute', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Attributes/Custom Dates of project.', 'rangeList': None, 'validationRule': None, 'sequenceId': 143500.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

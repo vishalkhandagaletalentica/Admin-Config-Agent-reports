@@ -1,1 +1,0 @@
-The current value for the Buffer Settings column heading is "Buffer Settings" — it’s stored as text, not a numeric percentage, so no numeric percentage is set.

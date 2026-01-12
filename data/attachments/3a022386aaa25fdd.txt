@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '5c75266d-a12c-48b9-b5e8-ba2f3e9b5467', 'query': 'What is the default font size used in Print Preview for Modify Projects and Project Repair?'}

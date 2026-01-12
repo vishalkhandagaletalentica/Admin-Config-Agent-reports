@@ -1,0 +1,1 @@
+No, the automatic completion of parent tasks is disabled when all sub-tasks are completed.

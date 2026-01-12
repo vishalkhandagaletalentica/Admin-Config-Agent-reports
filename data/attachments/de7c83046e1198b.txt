@@ -1,1 +1,0 @@
-update Auto DB Compact Frequency to 'abcde'

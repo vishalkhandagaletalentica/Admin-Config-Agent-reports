@@ -1,0 +1,1 @@
+The hidden columns in the Buffer Diagnostics Penetrating Chain report are Chain Seq, Project Name, UID123, New Description, Task Mgr, Status, Task Duration, Start Date, End Date, Delay In Start, and Task Buf Cnsm (d).

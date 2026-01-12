@@ -1,0 +1,1 @@
+{'entryId': 2496, 'sectionId': 10, 'flags': 1, 'entryName': 'DISTANCE', 'entryFriendlyName': 'Distance', 'strValue': 'Distance_Miles', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Distance', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,1 +1,0 @@
-Please update the display name for Project Participants in column headers to "Team Members".

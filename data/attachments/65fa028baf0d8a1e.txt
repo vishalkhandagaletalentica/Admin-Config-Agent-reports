@@ -1,1 +1,0 @@
-The current filter name used for the "Compare With" option in the performance report is DUE_DATE.

@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the display name as 'Delay', which aligns with the factual correctness of the Expected Output. However, it does not fully address the context of the input regarding the 'Show Weighted Average Delay' being enabled, leading to a slight deduction for not fully capturing the intent of the question.

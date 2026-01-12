@@ -1,1 +1,0 @@
-Updated the filter name from "Include Planned Throughput" to "New Planned Throughput".

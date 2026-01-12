@@ -1,1 +1,0 @@
-I attempted to set Max Start Week for Buffer Trend to 10 but the update failed: you do not have privileges to update configurations. The current value remains 4.

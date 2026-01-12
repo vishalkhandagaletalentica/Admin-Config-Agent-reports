@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the correct column name for 'Max % MB Cnsm'. It matches the Expected Output in meaning, demonstrating strong alignment with the evaluation steps.

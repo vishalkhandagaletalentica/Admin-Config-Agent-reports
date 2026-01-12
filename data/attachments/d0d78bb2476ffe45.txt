@@ -1,0 +1,1 @@
+{'entryId': 190, 'sectionId': 10, 'flags': 0, 'entryName': 'CONSTRAINT_DATE', 'entryFriendlyName': 'Constraint Date', 'strValue': 'New Constraint Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Constraint Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 103800.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-The filter option for including completed tasks is set to "Show All Tasks".

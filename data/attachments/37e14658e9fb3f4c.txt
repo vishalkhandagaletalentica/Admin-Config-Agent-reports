@@ -1,1 +1,0 @@
-“Allow Modify Last update date” is now disabled. It was previously enabled.

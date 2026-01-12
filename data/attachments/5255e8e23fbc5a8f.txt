@@ -1,1 +1,0 @@
-The Major Job IDs have been successfully updated to "Job ID 1,Job ID 2".

@@ -1,1 +1,0 @@
-Please update the column name for users who have opened the network for editing to "Editors Network".

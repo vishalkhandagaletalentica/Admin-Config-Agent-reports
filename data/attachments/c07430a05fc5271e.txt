@@ -1,1 +1,0 @@
-What is the current setting for the duration reduction without rounding in the column headings?

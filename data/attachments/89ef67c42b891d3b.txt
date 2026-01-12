@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that project status charts are disabled by default. While the phrasing differs slightly from the Expected Output, it maintains the same factual meaning. The response is clear and professional, with no incorrect facts or assumptions introduced.

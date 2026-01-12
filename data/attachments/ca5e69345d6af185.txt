@@ -1,1 +1,0 @@
-{'entryId': 1220, 'sectionId': 10, 'flags': 0, 'entryName': 'PAST_DAY', 'entryFriendlyName': 'Past Days (%)', 'strValue': 'Past Days (%)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Past Days (%).', 'rangeList': None, 'validationRule': None, 'sequenceId': 124400.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

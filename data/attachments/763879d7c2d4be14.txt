@@ -1,1 +1,0 @@
-{'entryId': 2118, 'sectionId': 11, 'flags': 0, 'entryName': '6MONTHS', 'entryFriendlyName': '6 Months', 'strValue': '6 Months', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': '6 Months', 'rangeList': None, 'validationRule': None, 'sequenceId': 152360.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

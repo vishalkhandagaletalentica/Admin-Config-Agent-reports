@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Full Kit Mgr -> Full Kit Report: Task Status Filter', 'Project Mgr -> Full Kit Report: Full Kit Task Status', 'Full Kit Mgr -> Full Kit Report: Automatically update FK Status Complete based on checklist items'], 'value': None, 'section': None, 'entry': None, 'url': None}

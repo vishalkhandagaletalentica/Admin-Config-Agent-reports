@@ -1,0 +1,1 @@
+Updated the default horizon length from 5000 days to 6000 days.

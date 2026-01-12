@@ -1,0 +1,1 @@
+Yes, the filter option for IP tasks is enabled in the Milestone report.

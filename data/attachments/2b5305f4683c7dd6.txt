@@ -1,0 +1,1 @@
+The time interval set for the report data in the Escalated Tasks report is 2 Months.

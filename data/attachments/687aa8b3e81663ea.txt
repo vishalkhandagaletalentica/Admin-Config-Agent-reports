@@ -1,1 +1,0 @@
-{'entryId': 2407, 'sectionId': 143, 'flags': 0, 'entryName': 'INTEGRATION_TASK_ENABLESSL', 'entryFriendlyName': 'EnableSSL', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'SMTP Server SSL', 'rangeList': None, 'validationRule': None, 'sequenceId': 1478140.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

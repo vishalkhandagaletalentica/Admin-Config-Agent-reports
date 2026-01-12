@@ -1,0 +1,1 @@
+The Actual Output correctly conveys that there is no default sorting order set for the Global Resource File, aligning with the factual meaning of the Expected Output. However, the phrasing differs slightly, which may lead to a minor deduction. The response is relevant and directly addresses the intent of the Input question without introducing incorrect facts.

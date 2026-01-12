@@ -1,1 +1,0 @@
-The current column heading title for Project Planned Cycle Time is "Planned Cycle Time (d)".

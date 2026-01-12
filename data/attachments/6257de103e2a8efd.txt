@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the configuration value to CUSTOM_TASK_TEXT5.'}, {'role': 'assistant', 'content': "Which configuration section contains the entry 'CUSTOM_TASK_TEXT5'?"}, {'role': 'user', 'content': 'The section name is "Text columns."'}, {'role': 'assistant', 'content': 'What value would you like to set for Task Text 5 (Custom Task Text Field)?'}]

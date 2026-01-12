@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Buffer Diagnostics — Filters available (Buffer Diagnostics section)', 'Program Mgr — Filters available (Program Mgr section)', 'Resource Mgr -> Resource Needs — Filters available (Resource Requirement Charts section)'], 'value': None, 'section': None, 'entry': None, 'url': None}

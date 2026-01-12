@@ -1,1 +1,0 @@
-Is the Complex Project Mode currently enabled in the SPI Client?

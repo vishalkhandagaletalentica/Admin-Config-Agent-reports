@@ -1,0 +1,1 @@
+Task Update Duration Display Format updated from 1 to 3.

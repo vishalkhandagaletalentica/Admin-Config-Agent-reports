@@ -1,1 +1,0 @@
-{'entryId': 1451, 'sectionId': 11, 'flags': 0, 'entryName': 'EVERY_FRIDAY', 'entryFriendlyName': 'Every Friday', 'strValue': 'Every Friday', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Every Friday.', 'rangeList': None, 'validationRule': None, 'sequenceId': 139020.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

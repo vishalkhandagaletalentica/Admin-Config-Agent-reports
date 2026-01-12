@@ -1,0 +1,1 @@
+No, project attribute validation is disabled.

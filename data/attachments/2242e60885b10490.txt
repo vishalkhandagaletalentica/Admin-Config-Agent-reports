@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '5b6be453-8fc8-4fb9-8373-95a670c0cf99', 'query': 'What are the columns that are hidden in the Task Penetrating Chain report?'}

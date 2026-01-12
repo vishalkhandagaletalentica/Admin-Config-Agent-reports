@@ -1,0 +1,1 @@
+The current division set for bulk import is SALES.

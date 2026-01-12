@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the number of tasks currently shown in the Stuck Task List widget?'}, {'role': 'assistant', 'content': 'The number of tasks shown is 10.'}, {'role': 'user', 'content': 'Set it to 15'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

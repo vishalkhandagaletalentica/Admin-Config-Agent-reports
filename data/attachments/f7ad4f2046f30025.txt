@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'a856b258-af6e-4c47-bd92-1716b60d777a', 'query': 'What is the title of the first Milestone Event for the task?'}

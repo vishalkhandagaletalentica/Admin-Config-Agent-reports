@@ -1,0 +1,1 @@
+No, the Enable Amazon SNS Service is disabled.

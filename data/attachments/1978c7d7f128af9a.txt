@@ -1,0 +1,1 @@
+What is the value of the text columns used for searching tasks in the Task Manager?

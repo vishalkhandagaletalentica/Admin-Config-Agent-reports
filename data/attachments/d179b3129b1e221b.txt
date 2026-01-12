@@ -1,1 +1,0 @@
-The current title displayed for the Projected Date in the reports is "New Est. Date."

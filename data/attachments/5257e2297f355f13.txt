@@ -1,1 +1,0 @@
-The filter label for Help Needed is set to "Breakdown Help Needed."

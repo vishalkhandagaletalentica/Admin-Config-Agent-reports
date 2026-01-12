@@ -1,0 +1,1 @@
+What is the list of columns that are hidden in the report when I import a CSV or Excel file?

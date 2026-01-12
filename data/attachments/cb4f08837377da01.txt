@@ -1,0 +1,1 @@
+I couldn't apply the update: the system reported that no column definition was found for this report, so the column order could not be validated or saved.

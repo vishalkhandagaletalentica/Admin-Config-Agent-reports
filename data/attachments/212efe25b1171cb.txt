@@ -1,1 +1,0 @@
-The filter name for IP Stuck work card status has been successfully updated to "IP-S-Updated".

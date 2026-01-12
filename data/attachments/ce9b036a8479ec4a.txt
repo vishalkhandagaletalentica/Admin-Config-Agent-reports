@@ -1,0 +1,1 @@
+The Date1 column mapping in Checklist Integration -> Fields Mapping for Checklist has been updated from "Delivery Date" to "Shipping Date."

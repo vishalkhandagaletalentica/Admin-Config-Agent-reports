@@ -1,0 +1,1 @@
+The display name for the buffer size for subprojects in the headers is Updated Buffer Size.

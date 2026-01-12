@@ -1,1 +1,0 @@
-Updated Print Font Size to FONT_LARGE for the Contractual Milestone Chain View.

@@ -1,1 +1,0 @@
-The current column mapping for the Finish Date when importing a CSV or Excel file is INT_EF.

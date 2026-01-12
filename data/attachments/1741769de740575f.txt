@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Delay (in Results and Rules) — used in Results and Rules reports', 'Delay (Actual Delay Report, weighted) — used when "Show Weighted Average Delay" is enabled', 'Delay (Actual Delay Report, unweighted) — used in the Actual Delay report'], 'value': None, 'section': None, 'entry': None, 'url': None}

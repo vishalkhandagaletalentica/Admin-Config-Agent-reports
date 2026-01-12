@@ -1,1 +1,0 @@
-The current setting for the searchable project names is "PROJECT_NAME".

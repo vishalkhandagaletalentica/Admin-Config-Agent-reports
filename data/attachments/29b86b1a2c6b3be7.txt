@@ -1,1 +1,0 @@
-{'entryId': 2075, 'sectionId': 10, 'flags': 0, 'entryName': 'STREAM_PRIORITY', 'entryFriendlyName': 'Stream Priority', 'strValue': 'Stream Priority', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Stream Priority', 'rangeList': None, 'validationRule': None, 'sequenceId': 141500.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

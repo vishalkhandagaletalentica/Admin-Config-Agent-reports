@@ -1,1 +1,0 @@
-update TEXT_30 set CUSTOM_TASK_TEXT5 to 12345

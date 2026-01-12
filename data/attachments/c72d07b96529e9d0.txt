@@ -1,1 +1,0 @@
-What is the current display name for the past periods in the tooltip for the issue resolution filter options?

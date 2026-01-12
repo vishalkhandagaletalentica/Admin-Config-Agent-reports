@@ -1,1 +1,0 @@
-The option to show the Push out project schedule in the Planning Client is enabled.

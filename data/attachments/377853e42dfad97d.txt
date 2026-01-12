@@ -1,1 +1,0 @@
-In Subtask List, the option to disable the display of a separator after each Sort Window has been unchecked. Separators will no longer appear after each sort window in the report.

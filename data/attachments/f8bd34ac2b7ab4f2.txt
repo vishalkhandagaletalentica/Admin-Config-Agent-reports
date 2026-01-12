@@ -1,0 +1,1 @@
+No — "Show Bucket Capacity" (Check to show capacity in each bucket) is disabled.

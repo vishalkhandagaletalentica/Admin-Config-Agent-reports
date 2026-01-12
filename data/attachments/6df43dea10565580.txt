@@ -1,0 +1,1 @@
+{'entryId': 1612, 'sectionId': 10, 'flags': 1, 'entryName': 'WORK_CARD_COUNT', 'entryFriendlyName': 'Work Card Count', 'strValue': 'Total Work Cards', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Work Card Count.', 'rangeList': None, 'validationRule': None, 'sequenceId': 132240.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

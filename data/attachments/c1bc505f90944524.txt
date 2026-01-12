@@ -1,0 +1,1 @@
+Yes — auto-saving of project revisions during planning is enabled.

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Executive → Task List', 'Executive → Stuck Task List'], 'value': None, 'section': None, 'entry': None, 'url': None}

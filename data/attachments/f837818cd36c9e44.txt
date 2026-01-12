@@ -1,1 +1,0 @@
-I couldn't find a 'Column Order' entry under Task List -> Task Mgr. Did you mean the Subtask List under Task Mgr, or is there a different entry name I should check? Please confirm the exact section and entry.

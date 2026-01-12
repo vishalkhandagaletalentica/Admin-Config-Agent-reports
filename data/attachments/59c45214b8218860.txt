@@ -1,1 +1,0 @@
-The current default sorting order for the action items is Ascending Date Created, Ascending Buffer Target Date, Ascending Project Name.

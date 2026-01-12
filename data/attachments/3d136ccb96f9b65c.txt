@@ -1,1 +1,0 @@
-The default Print Preview font size for Metrics reports is FONT_MEDIUM.

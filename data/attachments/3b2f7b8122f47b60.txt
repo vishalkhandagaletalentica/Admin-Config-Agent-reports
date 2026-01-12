@@ -1,1 +1,0 @@
-{'entryId': 211, 'sectionId': 11, 'flags': 0, 'entryName': 'NEW', 'entryFriendlyName': 'Planned', 'strValue': 'Planned', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Planned', 'rangeList': None, 'validationRule': None, 'sequenceId': 114220.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

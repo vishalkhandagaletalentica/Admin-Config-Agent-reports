@@ -1,1 +1,0 @@
-The Actual Output is factually correct, confirming that the option to show participants in the Task Manager list has been enabled. It directly addresses the intent of the Input question. However, the phrasing 'Done' is slightly informal compared to the Expected Output, which may detract from the professional tone, but this does not affect the factual correctness.

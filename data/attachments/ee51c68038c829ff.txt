@@ -1,1 +1,0 @@
-No — “Include Average Buffer Consumption” for the Issue Resolution report is currently disabled.

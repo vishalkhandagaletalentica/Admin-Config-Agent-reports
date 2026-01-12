@@ -1,1 +1,0 @@
-What is the current setting for the custom text field used to specify the external task name in the Earned Hours Report?

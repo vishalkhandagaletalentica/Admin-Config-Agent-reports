@@ -1,0 +1,1 @@
+{'entryId': 1211, 'sectionId': 10, 'flags': 0, 'entryName': 'UPDATE_COMPLIANCE', 'entryFriendlyName': 'Update Compliance', 'strValue': 'Compliance Update', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Update Compliance.', 'rangeList': None, 'validationRule': None, 'sequenceId': 124220.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

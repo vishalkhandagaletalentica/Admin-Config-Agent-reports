@@ -1,0 +1,1 @@
+No — the "Use Time of Day as Horizon Start for BM" setting is disabled, so the start of day is used rather than the buffer management start time.

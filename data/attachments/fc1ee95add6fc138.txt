@@ -1,0 +1,1 @@
+The current format for overriding the revision date for date time parsing is MM/DD/YYYY.

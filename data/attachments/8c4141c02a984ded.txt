@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '9dfbc65e-f7e0-4f47-906b-e20e58202ce9', 'query': "Please update the Projected CT with Stretch to 'Updated Projected Cycle Time (d)'."}

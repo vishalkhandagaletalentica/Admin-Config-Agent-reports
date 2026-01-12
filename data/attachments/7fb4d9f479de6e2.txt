@@ -1,0 +1,1 @@
+Please update the Show Rolling Average setting to 'abcde'.

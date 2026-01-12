@@ -1,0 +1,1 @@
+The title displayed for the Task Remaining Duration in hours in the Gantt view is Estimated Duration (h).

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names — Major Job ID (displayed in Work Card Details report)', 'Common -> Column Names — Major Job IDs (column name; may contain multiple IDs)', 'Work Card Integration — Major Job Id (mapped to a custom text field)'], 'value': None, 'section': None, 'entry': None, 'url': None}

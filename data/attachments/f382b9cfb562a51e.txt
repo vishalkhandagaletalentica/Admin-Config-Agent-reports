@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '9476e9e1-060e-41fc-b366-1a51bbd9b628', 'query': 'The section name is "Alert Generation Parameters" and the entry name is "Check to enable queuing message via AWS SQS Service."'}

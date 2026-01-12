@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'f7af5159-7bf4-427a-b417-9c50d147ccd8', 'query': "Please update the column name for Days Open to 'Days Active'."}

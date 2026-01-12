@@ -1,0 +1,1 @@
+Update the filter value for the Bar Chart to "Updated Bar Chart".

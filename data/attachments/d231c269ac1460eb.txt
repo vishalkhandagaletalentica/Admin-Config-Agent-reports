@@ -1,1 +1,0 @@
-I checked Task Date (Custom Task Date Field 26) — it is already set to Date26. No update is needed.

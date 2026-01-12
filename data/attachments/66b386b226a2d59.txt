@@ -1,1 +1,0 @@
-The current title displayed for Buffer Consumption in the execution analysis reports is "Buffer Consumption (d)".

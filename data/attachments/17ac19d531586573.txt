@@ -1,1 +1,0 @@
-The current default project buffer percentage size is 50%.

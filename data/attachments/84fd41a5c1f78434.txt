@@ -1,0 +1,1 @@
+The Actual Output accurately lists the task fields that will be updated during integration, matching the factual content of the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information. The phrasing differs slightly, but the meaning remains correct and clear.

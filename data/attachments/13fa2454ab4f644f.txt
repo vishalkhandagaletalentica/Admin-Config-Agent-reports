@@ -1,0 +1,1 @@
+The Actual Output correctly indicates that the setting has been updated to disable the use of live BM Projected Dates, aligning with the factual correctness of the Expected Output. However, it lacks the phrase 'successfully updated,' which slightly diminishes the clarity and professionalism of the response. Overall, it addresses the intent of the Input question effectively.

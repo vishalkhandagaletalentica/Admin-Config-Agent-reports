@@ -1,1 +1,0 @@
-Number of days look up from Today for WIQ is now set to 5 (was 0).

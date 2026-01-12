@@ -1,0 +1,1 @@
+Yes — the "Enable checkin of MPP files" option is enabled.

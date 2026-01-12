@@ -1,1 +1,0 @@
-Rounding up durations during Duration Reduction has been disabled.

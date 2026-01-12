@@ -1,0 +1,1 @@
+The value of the duration reduction setting for rounding to the nearest quarter is Round to nearest half.

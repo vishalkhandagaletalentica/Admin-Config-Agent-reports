@@ -1,1 +1,0 @@
-The first column preset for the Planning Client (CC mode) is set to: CHECKLIST_INDICATOR → CheckList, TASK_TYPE → Task Type, TASKNAME → Task Name, EARLIEST_ARRIVAL → Sugg Start, TASK_STATUS → Status, TASK_RESOURCES_LIST → Resources, REMAINING_DURATION → Rem Dur, P2PADD_PREDECESSORTASK → Predecessors, P2PADD_SUCCESSORTASK → Successors, CUSTOM_TASK_TEXT5 → WBS STREAM

@@ -1,0 +1,1 @@
+Yes — the Project List drilldown is displayed on the Print Preview page (enabled).

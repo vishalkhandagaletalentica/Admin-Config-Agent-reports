@@ -1,1 +1,0 @@
-The current title displayed for the Subtask Manager ID in the Subtask List is "New Subtask Mgr".

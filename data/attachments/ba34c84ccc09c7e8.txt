@@ -1,0 +1,1 @@
+Yes, the option to show users and teams from all divisions in the assign participants dialog is enabled.

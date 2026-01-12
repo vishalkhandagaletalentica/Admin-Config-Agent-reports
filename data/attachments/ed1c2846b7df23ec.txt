@@ -1,1 +1,0 @@
-The current title displayed for total delay in the Milestone Report is "Milestone Penetration (in Days)."

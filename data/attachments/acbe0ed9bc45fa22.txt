@@ -1,0 +1,1 @@
+Please update the Earned Hours title to "Total Hours Earned".

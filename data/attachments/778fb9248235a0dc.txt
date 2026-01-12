@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '0483d3ee-c9c1-458d-bbb7-14e80ba403aa', 'query': 'Please enable the Planning Assistant.'}

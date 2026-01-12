@@ -1,1 +1,0 @@
-The title shown in the column headings is "Subtask Ready to Start".

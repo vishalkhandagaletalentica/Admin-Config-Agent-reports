@@ -1,0 +1,1 @@
+The option to show the logged in user in the Task Manager Filter is now enabled.

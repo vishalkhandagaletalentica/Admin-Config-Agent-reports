@@ -1,1 +1,0 @@
-The current Base URL for Push Notifications in Streamliner is not specified.

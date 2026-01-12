@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It confirms that the 'In Process' setting is enabled, which aligns with the Expected Output. The only minor difference is the omission of single quotes around 'In Process', but this does not affect the factual correctness.

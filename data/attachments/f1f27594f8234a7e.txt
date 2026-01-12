@@ -1,1 +1,0 @@
-The resource based pipeline has been successfully disabled.

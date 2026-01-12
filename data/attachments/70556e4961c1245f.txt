@@ -1,1 +1,0 @@
-The BMTimeOut setting has been successfully updated to 1.

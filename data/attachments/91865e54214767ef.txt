@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '274aa24d-41d1-43b4-b504-4f66fc71ce61', 'query': 'Please update the setting to disable the automatic selection of the logged in user in the Project Manager Filter.'}

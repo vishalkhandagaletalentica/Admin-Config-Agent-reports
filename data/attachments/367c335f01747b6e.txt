@@ -1,0 +1,1 @@
+Disabled. The "Allow task to be completed only if all the checklist items are marked complete" setting was changed from enabled to disabled.

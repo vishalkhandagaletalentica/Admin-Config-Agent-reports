@@ -1,0 +1,1 @@
+The column mapping for Text3 in the checklist integration fields is 67890.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['End Date (Common → Filter Names — title shown in the filtering pane)', 'End Date (Common → Column Names — title shown in column headings)'], 'value': None, 'section': None, 'entry': None, 'url': None}

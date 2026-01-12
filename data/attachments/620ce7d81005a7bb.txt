@@ -1,1 +1,0 @@
-The default start date for the Execution Analysis reports is 1/1/2020.

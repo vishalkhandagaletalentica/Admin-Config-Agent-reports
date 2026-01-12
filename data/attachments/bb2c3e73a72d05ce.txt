@@ -1,0 +1,1 @@
+Yes, Complex Project Mode is enabled in the SPI Client.

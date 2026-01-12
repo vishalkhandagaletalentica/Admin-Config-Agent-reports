@@ -1,0 +1,1 @@
+In Edit Project Info, the number of rows displayed per page is 30.

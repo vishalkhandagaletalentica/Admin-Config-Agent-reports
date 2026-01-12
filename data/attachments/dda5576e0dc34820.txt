@@ -1,1 +1,0 @@
-Can you show me whether the Buffer Management is set to use the project's resource sheet or the Global Resource File?

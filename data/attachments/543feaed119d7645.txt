@@ -1,1 +1,0 @@
-The date range starts 90 days from the start date.

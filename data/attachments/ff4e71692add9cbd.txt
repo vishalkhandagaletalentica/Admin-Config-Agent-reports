@@ -1,1 +1,0 @@
-The current display name for completions in the filters is "Completion Results."

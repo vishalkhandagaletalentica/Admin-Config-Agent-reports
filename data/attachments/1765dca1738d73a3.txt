@@ -1,1 +1,0 @@
-The display name for More Actions in column headers has been successfully updated to "Additional Options".

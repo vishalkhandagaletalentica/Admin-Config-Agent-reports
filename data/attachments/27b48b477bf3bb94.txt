@@ -1,1 +1,0 @@
-The current column order in the Task Incomplete Predecessors report is not specified.

@@ -1,1 +1,0 @@
-The default selection for the Full Kit Manager filters is already set to "All Full Kit Managers." No update is needed.

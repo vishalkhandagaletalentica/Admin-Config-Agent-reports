@@ -1,1 +1,0 @@
-The color buffer priority (ColorPriority0) is set to "G".

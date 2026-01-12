@@ -1,1 +1,0 @@
-The option to display past data in the Issue Resolution report is currently disabled.

@@ -1,0 +1,1 @@
+Is the option to include subtasks in the batch printing report enabled?

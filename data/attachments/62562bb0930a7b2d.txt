@@ -1,1 +1,0 @@
-The setting “Show Projects in Interval using” has been updated from "Due Date" to "Planned Date".

@@ -1,0 +1,1 @@
+The title displayed for the Scheduled Stretch or User modified Stretch in the Pipeline Web reports is "Scheduled Stretch."

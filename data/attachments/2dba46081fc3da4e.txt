@@ -1,1 +1,0 @@
-The inclusion of Tasks in the Batch Printing report has been successfully enabled.

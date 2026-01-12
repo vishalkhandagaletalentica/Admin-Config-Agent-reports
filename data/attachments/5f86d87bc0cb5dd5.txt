@@ -1,1 +1,0 @@
-The current buffer size that is being used is Buffer Size (d).

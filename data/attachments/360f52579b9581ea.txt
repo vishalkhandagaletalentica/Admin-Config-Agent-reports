@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'What is the current custom text field that the work card status is mapped to?'}, {'role': 'assistant', 'content': 'The Work Card Status is currently mapped to: Select'}, {'role': 'user', 'content': 'Update it to EXEC_CUSTOM_TASK_TEXT1'}, {'role': 'assistant', 'content': 'Updated. The Work Card Status is now mapped to EXEC_CUSTOM_TASK_TEXT1.'}]

@@ -1,1 +1,0 @@
-The display name for weeks in the filters is "Weeks Updated."

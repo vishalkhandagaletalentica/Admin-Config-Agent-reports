@@ -1,0 +1,1 @@
+The display name for completions in the filters is "Completion Outcomes".

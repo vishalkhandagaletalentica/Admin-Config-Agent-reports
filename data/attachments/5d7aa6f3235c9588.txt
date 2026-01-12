@@ -1,1 +1,0 @@
-The Custom Text 2 column in Subtask View is currently set to "New Reference".

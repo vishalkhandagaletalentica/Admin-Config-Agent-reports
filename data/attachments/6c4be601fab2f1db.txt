@@ -1,0 +1,1 @@
+The filters that can be displayed in the Task Level Priorities By Resource report are Division, Author, Category, Subject, Resource Manager, Start Date, Project, and Task Status.

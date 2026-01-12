@@ -1,0 +1,1 @@
+I couldn't update Hidden Fields: the system failed to validate the multi-select column definition for this section and entry, so the change wasn't applied.

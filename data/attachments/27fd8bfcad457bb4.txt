@@ -1,0 +1,1 @@
+Display separator after each Sort Window is now enabled.

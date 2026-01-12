@@ -1,1 +1,0 @@
-The Subproject display name in the headers is "Subproject."

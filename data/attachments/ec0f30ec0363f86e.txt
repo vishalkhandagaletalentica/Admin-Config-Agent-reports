@@ -1,0 +1,1 @@
+The Actual Output correctly states that the DBR Project Type is now disabled, aligning with the factual outcome of the Expected Output. However, it lacks the specific detail about the setting being updated, which is present in the Expected Output. This omission affects the completeness of the response, but the core intent of the Input is addressed.

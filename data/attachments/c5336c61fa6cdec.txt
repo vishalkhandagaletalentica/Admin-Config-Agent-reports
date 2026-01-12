@@ -1,8 +1,0 @@
-The command is invalid because the value you are trying to set is of the wrong type. The allowed values for "Sort Order" should be from the specified $SORTABLELIST, which typically consists of string values representing sortable columns. 
-
-Currently, your input "12345" is not a valid string and does not match the expected format. 
-
-Please provide a valid string value, such as "A-PERCENT_FK_COMPLETE,A-FULLKIT_DATE". 
-
-A correct example command would be:  
-`update Sort Order set value to 'A-PERCENT_FK_COMPLETE,A-FULLKIT_DATE';`

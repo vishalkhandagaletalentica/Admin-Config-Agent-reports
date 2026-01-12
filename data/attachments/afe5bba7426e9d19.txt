@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Buffer Management → Rollup Resources', 'Planning Client → Default Roll up Resources Value', 'Common → Auto Rollup Resource'], 'value': None, 'section': None, 'entry': None, 'url': None}

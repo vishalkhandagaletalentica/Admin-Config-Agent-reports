@@ -1,0 +1,1 @@
+Subtask List parameters: Column Order, Display Remaining Duration For NS Subtasks, Default Horizon, Rows Per Page, Sort By Priority Fields Within Windows Of, Filters Available, Filters To Display, Hidden Fields, Hidden Fields (Print), Print Font Size, Sort Order, Display separator after each Sort Window, Task Status Filter.

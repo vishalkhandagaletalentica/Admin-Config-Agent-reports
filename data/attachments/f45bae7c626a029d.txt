@@ -1,0 +1,1 @@
+Yes, the bulk project upload option is available in the modify projects feature.

@@ -1,0 +1,1 @@
+The Task Text 80 (Custom Task Text Field) in the Advanced Filter Field Mapping is set to Text80.

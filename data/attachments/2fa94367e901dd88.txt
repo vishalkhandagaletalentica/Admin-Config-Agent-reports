@@ -1,0 +1,1 @@
+When password history tracking is enabled, Concerto checks 5 previous passwords against a new password.

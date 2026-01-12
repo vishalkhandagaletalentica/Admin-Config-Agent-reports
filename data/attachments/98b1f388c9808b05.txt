@@ -1,1 +1,0 @@
-I've disabled the SMTP Server SSL setting for Subtask Excel; it is now disabled.

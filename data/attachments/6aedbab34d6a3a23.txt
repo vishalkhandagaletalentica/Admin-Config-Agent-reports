@@ -1,1 +1,0 @@
-The Actual Output conveys the same factual meaning as the Expected Output, indicating that the endpoint is not set. However, it uses a different phrasing, which is acceptable. The response directly addresses the intent of the Input question regarding the endpoint status, but it could be slightly more aligned with the formal tone of the Expected Output.

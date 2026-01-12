@@ -1,0 +1,1 @@
+The Bulk Import email body is: "Your file has been processed. Please find the attached log files for it."

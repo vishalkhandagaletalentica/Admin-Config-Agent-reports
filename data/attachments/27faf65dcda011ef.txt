@@ -1,1 +1,0 @@
-The current name of the filter for Status in the Project Status and Modify Projects sections is Status.

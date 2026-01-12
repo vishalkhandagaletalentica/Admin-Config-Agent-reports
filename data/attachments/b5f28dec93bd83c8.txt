@@ -1,0 +1,1 @@
+The setting "Show Team Members in Full Kit Task Manager Filter" in Metrics -> Full Kit Compliance has been disabled.

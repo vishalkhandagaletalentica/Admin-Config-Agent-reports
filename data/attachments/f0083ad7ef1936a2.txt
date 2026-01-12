@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_FILTER_NAMES', 'entry': 'ALL_CHAINS', 'url': None}

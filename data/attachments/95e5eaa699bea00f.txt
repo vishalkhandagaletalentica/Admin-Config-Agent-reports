@@ -1,1 +1,0 @@
-Minimum Percentage Completion for Release has been updated from 95 to 90.

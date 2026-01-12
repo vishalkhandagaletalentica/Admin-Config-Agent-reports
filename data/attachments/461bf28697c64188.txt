@@ -1,1 +1,0 @@
-The Actual Output provides a list of column names but does not match the Expected Output, which includes specific terms and a different order. While it addresses the intent of the question, the factual correctness is compromised due to the discrepancies in the column names and order, leading to a low score.

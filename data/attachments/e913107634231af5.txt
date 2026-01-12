@@ -1,1 +1,0 @@
-In the DBR Project Type section, the DBR_ColorPriority2 item is currently set to "G".

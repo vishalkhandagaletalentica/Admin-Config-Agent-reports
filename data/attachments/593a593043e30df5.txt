@@ -1,1 +1,0 @@
-The "On Hold" setting in Modify Projects has been disabled.

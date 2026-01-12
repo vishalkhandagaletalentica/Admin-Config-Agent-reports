@@ -1,1 +1,0 @@
-The current mapping for resources with units in the brackets is "Resources."

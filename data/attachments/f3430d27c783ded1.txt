@@ -1,1 +1,0 @@
-The Show Start Delay setting in Buffer Diagnostics is now enabled.

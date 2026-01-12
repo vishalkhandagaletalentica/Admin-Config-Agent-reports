@@ -1,0 +1,1 @@
+Updated the filter name from "Include only Red Chains" to "Include only Blue Chains".

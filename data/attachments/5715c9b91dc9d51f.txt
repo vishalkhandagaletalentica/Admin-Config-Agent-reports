@@ -1,1 +1,0 @@
-Please update the Last BM Check Interval (Hrs) to 48.

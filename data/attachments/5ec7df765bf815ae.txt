@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the option to update the status for purchasing tasks enabled?'}, {'role': 'assistant', 'content': 'Yes — the "Allow update status for purchasing tasks" option is enabled.'}, {'role': 'user', 'content': 'Set it to disabled.'}, {'role': 'assistant', 'content': 'Done — the "Allow update status for purchasing tasks" option has been disabled.'}]

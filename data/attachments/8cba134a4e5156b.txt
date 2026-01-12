@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '5bcebe74-6da2-454e-84b3-2bd68a812362', 'query': 'Please update the Predecessor/Successor Unique Identifier to "NewID".'}

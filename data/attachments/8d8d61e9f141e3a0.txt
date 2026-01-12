@@ -1,0 +1,1 @@
+Yes — the "Show Team Members in Project Manager Filter" option in Project Mgr -> Project Control is enabled.

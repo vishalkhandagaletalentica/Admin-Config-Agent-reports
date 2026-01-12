@@ -1,1 +1,0 @@
-The current title for the Business Unit displayed in the filtering pane is "New Product Code."

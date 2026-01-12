@@ -1,1 +1,0 @@
-The current titles displayed for the Subtask Predecessors in the Task Details feature are "Predecessors."

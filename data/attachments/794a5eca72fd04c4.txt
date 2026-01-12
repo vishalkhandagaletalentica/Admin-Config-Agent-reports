@@ -1,1 +1,0 @@
-The Task Search dropdown title is "Only Tasks."

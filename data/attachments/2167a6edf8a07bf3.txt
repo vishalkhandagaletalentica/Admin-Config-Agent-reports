@@ -1,1 +1,0 @@
-What is the current value of the task normalized float used for priority calculation?

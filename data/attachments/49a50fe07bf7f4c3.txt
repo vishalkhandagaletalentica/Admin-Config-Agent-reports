@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task Participants — Common -> Column Names', 'Task Participants Type — Task List -> Common', 'Show Participants in TM list — Buffer Diagnostics -> By Help Needed'], 'value': None, 'section': None, 'entry': None, 'url': None}

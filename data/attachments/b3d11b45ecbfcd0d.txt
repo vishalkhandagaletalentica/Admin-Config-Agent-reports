@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is boolean (true/false), so you could use "true" or "false" as the corrected command.

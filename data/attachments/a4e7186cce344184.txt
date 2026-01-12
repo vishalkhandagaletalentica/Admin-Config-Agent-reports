@@ -1,0 +1,1 @@
+The value of the Help Needed title displayed in the reports is Help Needed(Occurrences).

@@ -1,0 +1,1 @@
+The columns hidden in the Executive Red Projects report are Trend, Project Name, Due Date, Delay, Status, and Color.

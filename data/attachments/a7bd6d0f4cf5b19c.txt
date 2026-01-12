@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the value of ColorPriority1?'}, {'role': 'assistant', 'content': 'Which configuration section contains "ColorPriority1"?'}, {'role': 'user', 'content': 'The section name is Buffer Management.'}, {'role': 'assistant', 'content': 'The ColorPriority1 is set to R.'}]

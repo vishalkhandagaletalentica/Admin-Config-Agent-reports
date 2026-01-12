@@ -1,0 +1,1 @@
+The value of the date format used in Gantt import/export is MM-DD-YYYY:HHmm.

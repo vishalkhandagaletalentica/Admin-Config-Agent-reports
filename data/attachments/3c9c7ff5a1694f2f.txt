@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It confirms that the option to show participants in the Task Manager filter is enabled, which aligns perfectly with the Expected Output. There are no incorrect facts or unrelated entries introduced, and the response maintains a professional tone.

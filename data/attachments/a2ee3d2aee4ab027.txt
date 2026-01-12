@@ -1,0 +1,1 @@
+The title displayed for the Customer column in the reports is "End User - Broker."

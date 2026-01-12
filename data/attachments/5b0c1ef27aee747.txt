@@ -1,0 +1,1 @@
+The current value of the Custom Task Text Field 78 is NewText78.

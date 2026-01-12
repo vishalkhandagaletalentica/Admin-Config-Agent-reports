@@ -1,0 +1,1 @@
+{'entryId': 1224, 'sectionId': 10, 'flags': 0, 'entryName': 'DATE', 'entryFriendlyName': 'Date', 'strValue': 'Work Day', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Work Day.', 'rangeList': None, 'validationRule': None, 'sequenceId': 124480.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

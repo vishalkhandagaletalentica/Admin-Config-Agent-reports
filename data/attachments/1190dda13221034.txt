@@ -1,9 +1,0 @@
-The default sorting order for checklist items in your Task List is:
-- Stream Priority (ascending)
-- Ready To Start (descending)
-- Earliest Arrival (ascending)
-- Priority Level Penetration (descending)
-- Priority Level (ascending)
-- Task Type (descending)
-- Sort Window Start (ascending)
-- Seq ID (ascending)

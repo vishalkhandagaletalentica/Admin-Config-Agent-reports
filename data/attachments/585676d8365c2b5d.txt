@@ -1,0 +1,1 @@
+I couldn't find a configuration entry for hidden columns in the Executive -> Full Kit And Purchasing Delays report. Could you confirm the section and entry names, or describe where the hidden-columns setting is stored for that report?

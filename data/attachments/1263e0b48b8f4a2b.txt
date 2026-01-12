@@ -1,0 +1,1 @@
+The Buffer Size (d) has been updated from "Buffer Size (d)" to "New Buffer Size".

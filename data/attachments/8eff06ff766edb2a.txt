@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It accurately states the title displayed for the Show Start Delay, which aligns with the Expected Output. The response is concise and maintains a professional tone, although it omits the phrase 'in the filtering pane' found in the Expected Output, which is a minor detail.

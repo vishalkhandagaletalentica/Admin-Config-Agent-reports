@@ -1,0 +1,1 @@
+The name for Column Preset 1 in the Planning Client -> Table View CC mode is 12345.

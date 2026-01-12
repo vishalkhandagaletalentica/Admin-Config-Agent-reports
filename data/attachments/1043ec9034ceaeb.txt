@@ -1,1 +1,0 @@
-The column name for Number of Occurrences has been successfully updated to "Occurrences Count".

@@ -1,0 +1,1 @@
+The value of the column mapping for Remaining Duration when importing a CSV or Excel file is RDU_UPDATED.

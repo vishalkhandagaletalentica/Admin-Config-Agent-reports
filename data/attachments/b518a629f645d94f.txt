@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Login web page', 'Concerto Web URL', 'Task mgr parameter name', 'Server parameter name'], 'value': None, 'section': None, 'entry': None, 'url': None}

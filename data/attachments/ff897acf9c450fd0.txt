@@ -1,1 +1,0 @@
-I attempted to apply the update but encountered a problem: the system rejected the value because it requires column names that match the section's allowed list. I couldn't validate the value "12345" for Columns hidden in report. Would you like to provide a valid column name from the allowed list, or should I show the current allowed options?

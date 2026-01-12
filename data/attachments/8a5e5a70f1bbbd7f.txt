@@ -1,0 +1,1 @@
+{'entryId': 968, 'sectionId': 10, 'flags': 0, 'entryName': 'CHECKIN_FILETYPE', 'entryFriendlyName': 'File Type', 'strValue': 'Document', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'File Type', 'rangeList': None, 'validationRule': None, 'sequenceId': 119360.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

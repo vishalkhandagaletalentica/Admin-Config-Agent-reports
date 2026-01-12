@@ -1,1 +1,0 @@
-Under Application Server, the setting “Password to contain Numeric Characters” is enabled.

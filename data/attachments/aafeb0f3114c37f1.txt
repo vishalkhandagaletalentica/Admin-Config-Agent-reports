@@ -1,0 +1,1 @@
+No — the "Show Managers Only in Project Mgr Filter" setting is disabled, so Project Managers and Project Participants are both shown.

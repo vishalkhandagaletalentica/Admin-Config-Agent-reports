@@ -1,0 +1,1 @@
+The value of the custom text field that Work Card Field 1 is mapped to is EXEC_CUSTOM_TASK_TEXT2.

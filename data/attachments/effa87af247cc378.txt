@@ -1,1 +1,0 @@
-The display name for Parent task's Remaining Duration has been updated to "Updated Parent task's Remaining Duration".

@@ -1,0 +1,1 @@
+The default stream frequency for subtasks is 15 days.

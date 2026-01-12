@@ -1,0 +1,1 @@
+Buffer Priorities — ColorPriority8 was updated from R to G.

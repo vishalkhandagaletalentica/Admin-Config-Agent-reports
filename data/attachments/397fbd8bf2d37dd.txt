@@ -1,1 +1,0 @@
-The Queue Persistence Interval (as % of average buffer size) is 45%.

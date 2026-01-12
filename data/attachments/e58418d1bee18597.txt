@@ -1,1 +1,0 @@
-{'entryId': 1732, 'sectionId': 11, 'flags': 0, 'entryName': 'CIQ', 'entryFriendlyName': 'Committed, In Queue', 'strValue': 'Committed,In Queue', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Committed, In Queue', 'rangeList': None, 'validationRule': None, 'sequenceId': 144640.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

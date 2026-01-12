@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_EXECUTIVE_ESCALATED_TASK', 'entry': 'DEFAULT_NUMBER_OF_ESCALATED_TASKS_IN_WIDGET', 'url': None}

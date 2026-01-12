@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Resource Mgr -> Resource L:C (View Resource L:C and View Tasks By Resource)', 'Resource Mgr -> Resource Needs (Resource requirement charts)', 'Resource Mgr -> Sand Chart (Sand chart report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The SMTP server name for task updates is not set.

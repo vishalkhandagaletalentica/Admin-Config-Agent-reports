@@ -1,0 +1,1 @@
+The text columns are: CONTACT, Get All Tasks, NAME (currently TASK_TITLE), TEXT_18, TEXT_19, TEXT_26, TEXT_27, TEXT_28, TEXT_29, TEXT_30.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Pipelining: Project Unit (Pipelining report)', 'Common -> Filter Names: Project Unit (global filter name)'], 'value': None, 'section': None, 'entry': None, 'url': None}

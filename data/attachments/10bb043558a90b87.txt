@@ -1,1 +1,0 @@
-I attempted to update Hidden Fields but the update failed: the system reports no column definition for this entry and cannot validate the required multi-list format. Please provide a value that matches the section's expected $MULTILIST format, or tell me if you want me to try a different value or verify the entry.

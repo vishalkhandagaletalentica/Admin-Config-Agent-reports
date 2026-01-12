@@ -1,0 +1,1 @@
+The Actual Output is factually correct, directly addressing the intent of the Input question by providing the title of the filtering pane as '7 days', which matches the Expected Output. There are no incorrect facts or assumptions introduced, and the response is concise and professional.

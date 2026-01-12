@@ -1,1 +1,0 @@
-The current default sorting order for the Full Kit Report is Ascending Full Kit Date, Ascending Percent FK Complete.

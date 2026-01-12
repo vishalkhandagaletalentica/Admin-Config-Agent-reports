@@ -1,0 +1,1 @@
+I couldn't update the Resource Name to NEW_RESOURCE_NAME: you don't have permission to update this configuration.

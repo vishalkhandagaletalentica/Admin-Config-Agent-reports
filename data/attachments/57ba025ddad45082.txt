@@ -1,0 +1,1 @@
+Yes, the option to round up durations during Duration Reduction is enabled.

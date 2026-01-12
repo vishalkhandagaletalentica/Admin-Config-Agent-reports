@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Escalated Tasks → Task Color (used to specify the task priority colors to filter for)', 'Common -> Filter Names → Task Color (filter name for Task Color)', 'Common -> Column Names → Task Color (column header showing the color of the task)'], 'value': None, 'section': None, 'entry': None, 'url': None}

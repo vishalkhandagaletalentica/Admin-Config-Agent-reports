@@ -1,0 +1,1 @@
+Hidden columns in Print Preview are: Task Type, Document Access Links, Project Name, UID123, New MSP ID, New Description, Task Mgr, Status, New Participants, New Start Date, Updated Dur, % Project Buffer Consumption, % MB Cnsm`d, % FB Cnsm`d, Last Update, Not Ready To Start, Comments Updated, NewCheckList

@@ -1,3 +1,0 @@
-The command is invalid because the value type for 'StreamId' is set to 2, which indicates that it expects a string value, not an integer. The correct format should provide a string value. 
-
-You can use a command like: `update StreamId set value to 'NewStreamId'`.

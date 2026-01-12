@@ -1,1 +1,0 @@
-The setting “Apply buffers on scheduling” is now disabled. It was previously enabled.

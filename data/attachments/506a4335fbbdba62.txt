@@ -1,1 +1,0 @@
-{'entryId': 2841, 'sectionId': 2, 'flags': 0, 'entryName': 'USE_NEW_UI', 'entryFriendlyName': 'Use new UI', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'If enabled, users will be able to see new user interface.', 'rangeList': None, 'validationRule': None, 'sequenceId': 76820.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

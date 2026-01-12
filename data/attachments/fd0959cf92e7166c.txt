@@ -1,0 +1,1 @@
+{'type': 'success', 'selectable_values': None, 'value': {'old': 'no', 'new': 'yes'}, 'section': 'SGD_FILTER_NAMES', 'entry': 'IMPROVED', 'url': None}

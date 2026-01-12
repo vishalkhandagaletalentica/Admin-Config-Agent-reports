@@ -1,3 +1,0 @@
-The command is invalid because the `valueType` for "Worsened" is set to 3, which typically indicates that the value should be an integer. However, you are trying to set it to a string value ('abcde'). 
-
-Please provide an integer value instead. For example, you could use a command like: `update Worsened set value to 2`.

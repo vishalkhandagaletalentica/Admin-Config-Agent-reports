@@ -1,1 +1,0 @@
-The current title displayed for the Task Duration in the column headings is "Task Duration".

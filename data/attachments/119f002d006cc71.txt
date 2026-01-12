@@ -1,0 +1,1 @@
+The filters currently being displayed in the report are Task Manager Pro, New Project Name, New Horizon, Portfolio, In Progress, New Division, Task Type, and Project Manager.

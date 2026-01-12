@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is string and should match the allowed sortable list format.

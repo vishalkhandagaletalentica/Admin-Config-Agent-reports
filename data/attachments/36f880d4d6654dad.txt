@@ -1,0 +1,1 @@
+Yes, the automatic loading of the Executive Dashboard Data is enabled when you click on the Executive Tab.

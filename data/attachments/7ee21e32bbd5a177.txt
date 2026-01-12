@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '23e85103-79ba-48d1-bca6-a390ecdf3815', 'query': 'The section name is "Warnings Display During Commit" and the entry name is "Display Error During Commit".'}

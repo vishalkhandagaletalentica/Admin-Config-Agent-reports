@@ -1,0 +1,1 @@
+Yes — the option to show completed tasks in Subtask View is enabled.

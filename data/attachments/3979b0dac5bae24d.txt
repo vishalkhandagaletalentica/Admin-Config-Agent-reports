@@ -1,0 +1,1 @@
+The value should be an integer. The current value for Normalized Total Float Range for Yellow is 15.

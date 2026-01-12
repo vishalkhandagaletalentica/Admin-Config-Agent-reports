@@ -1,1 +1,0 @@
-Updated the Subtask List setting “Subtask Status” to "Shifts".

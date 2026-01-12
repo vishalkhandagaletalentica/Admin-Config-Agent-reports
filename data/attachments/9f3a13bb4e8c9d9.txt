@@ -1,1 +1,0 @@
-The current percentage set for reducing the roll-up duration is 50%.

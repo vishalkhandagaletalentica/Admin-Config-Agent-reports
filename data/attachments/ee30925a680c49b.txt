@@ -1,1 +1,0 @@
-The "Include Planned Cycle Time" filter is set to "Exclude Planned Cycle Time."

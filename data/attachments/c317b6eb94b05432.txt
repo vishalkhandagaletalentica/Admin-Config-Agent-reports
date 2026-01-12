@@ -1,0 +1,1 @@
+Task Normalized Float is now set to 'NTF_NEW'.

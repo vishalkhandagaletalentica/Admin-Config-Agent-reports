@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '15b409ea-bbd0-40b1-ac02-59596f94187a', 'query': 'What is the custom text field value for indicating if a task needs to be exported for ERP Integration?'}

@@ -1,1 +1,0 @@
-The current web service port set for the Primavera integration is not specified.

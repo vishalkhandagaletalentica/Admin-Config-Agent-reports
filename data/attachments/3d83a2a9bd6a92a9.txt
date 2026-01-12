@@ -1,1 +1,0 @@
-The current column mapping for the Text4 field in the checklist integration is "Restricted Usage Qty".

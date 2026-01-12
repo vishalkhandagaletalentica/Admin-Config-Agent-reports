@@ -1,0 +1,1 @@
+The color shown for that task on the day is: Task Color.

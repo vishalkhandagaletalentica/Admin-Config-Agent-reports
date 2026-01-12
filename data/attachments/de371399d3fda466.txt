@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is string, so the command should be updated to "Update the Resource Notes to 'RESOURCE_NOTES'."

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr → Edit Attributes (Columns hidden in the Add/Checkin/Edit Report)', 'Task List → Project Mgr (Columns hidden in report for Project Mgr)', 'Task List → Task Mgr (Columns hidden in report for Task Mgr)', 'Project Mgr → Project Control (Columns hidden in report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

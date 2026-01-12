@@ -1,0 +1,1 @@
+Yes — the separator is enabled (displayed after each sort window).

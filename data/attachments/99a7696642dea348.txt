@@ -1,0 +1,1 @@
+Yes — the Generate data for Purchase Dates Integration during BM setting is enabled.

@@ -1,1 +1,0 @@
-Queue Trend Indicator Period (In Days) updated from 5 to 10.

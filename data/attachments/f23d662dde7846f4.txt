@@ -1,1 +1,0 @@
-The current title displayed for the mandatory field in the column headings is "Required."

@@ -1,1 +1,0 @@
-What is the current value for Project Attribute 6 in the bulk import settings?

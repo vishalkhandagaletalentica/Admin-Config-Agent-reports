@@ -1,1 +1,0 @@
-The current column name for Debuf Chain Len in the advanced filter is "debufChainLen".

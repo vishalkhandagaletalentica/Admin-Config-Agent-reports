@@ -1,0 +1,1 @@
+The Project Type has been successfully updated to "New Project Type".

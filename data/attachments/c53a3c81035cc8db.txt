@@ -1,0 +1,1 @@
+I can't apply the value 'xyz' because this setting is boolean. The value should be boolean (e.g., enabled/disabled, included/excluded). The current setting is enabled. Please provide a boolean value (for example: enable or disable).

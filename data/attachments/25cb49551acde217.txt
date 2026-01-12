@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names: Display Data Table (filter title)', 'Metrics: Display Data Table (display table on/off)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please enable the Send Notification setting.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Send Notification" setting?'}, {'role': 'user', 'content': 'The section name is Subtask Excel, and the entry name is Send Notification.'}, {'role': 'assistant', 'content': 'The Send Notification setting is now enabled.'}]

@@ -1,1 +1,0 @@
-The current title displayed for the Last Update in the reports is "Last Update".

@@ -1,1 +1,0 @@
-The current title displayed for the % Completion on Release column is "% Completion on Release."

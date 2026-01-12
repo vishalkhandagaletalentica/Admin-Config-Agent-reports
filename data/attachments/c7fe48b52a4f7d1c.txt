@@ -1,3 +1,0 @@
-The command is invalid because the value for "P2P Predecessors" must be a string, not an integer. The allowed type is a string. 
-
-A correct example value would be: `update configuration setting for "P2P Predecessors" to "P2P Predecessor Items"`.

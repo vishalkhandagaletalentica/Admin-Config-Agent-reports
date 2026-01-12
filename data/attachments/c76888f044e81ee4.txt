@@ -1,1 +1,0 @@
-Please update the Default Cycle Time (days) to 150.

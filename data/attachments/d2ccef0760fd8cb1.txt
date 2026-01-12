@@ -1,0 +1,1 @@
+{'entryId': 864, 'sectionId': 10, 'flags': 0, 'entryName': 'DELAY_IN_START', 'entryFriendlyName': 'Delay In Start', 'strValue': 'Delay In Start', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Delay In Start', 'rangeList': None, 'validationRule': None, 'sequenceId': 117280.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

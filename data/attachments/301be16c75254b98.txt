@@ -1,1 +1,0 @@
-Please update the Queue Trend Indicator Period (In Days) to 10.

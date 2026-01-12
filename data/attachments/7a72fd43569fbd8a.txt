@@ -1,1 +1,0 @@
-The Project Attribute Field for External Project Name is set to ATTRIBUTE2.

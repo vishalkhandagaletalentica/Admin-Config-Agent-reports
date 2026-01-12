@@ -1,0 +1,1 @@
+What is the default number of scenarios shown in the Recent list of the Pipeline Manager Launch Screen?

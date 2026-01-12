@@ -1,0 +1,1 @@
+The title displayed for the current week in the reports is "This Week."

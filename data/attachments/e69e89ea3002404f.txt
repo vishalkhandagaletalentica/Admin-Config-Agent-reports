@@ -1,0 +1,1 @@
+The title for the Required Buffer Size column in the Buffering Drilldown Report is "New Buffer Size."

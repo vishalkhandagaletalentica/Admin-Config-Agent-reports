@@ -1,0 +1,1 @@
+Yes, the error display setting is enabled for project commits.

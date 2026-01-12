@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Original Due Date — Display Name for Original Due Date in headers', 'Due Date (in Results and Rules) — Display name for Due Date header in Red Project Delay report', 'New Due Date — Item name of New Due Date'], 'value': None, 'section': None, 'entry': None, 'url': None}

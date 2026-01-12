@@ -1,0 +1,1 @@
+The Column Order is already set to Color, Task Mgr, Resources, Text1, RZ Reference, Expected Enhancements, Hours Remaining, CUSTOM_TASK_TEXT5, QA Check, Technician, New Zone, Job Status, Route Key, Project Name, Status, UID123, New Description, Help Needed, Escalation Delay, Start Date, Last Update, New Parent Task UID. No update is needed.

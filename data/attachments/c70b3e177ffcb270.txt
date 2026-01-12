@@ -1,0 +1,1 @@
+I couldn't apply the update to Text1 in Common -> Column Names because you don't have permission to change configuration settings.

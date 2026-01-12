@@ -1,0 +1,1 @@
+Understood — I will not set the SQS Queue URL for Buffer Management. The value will remain unset and will be added automatically when the queue is created.

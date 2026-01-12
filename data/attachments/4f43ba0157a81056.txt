@@ -1,0 +1,1 @@
+The default sort order is: Task Type, Document Access Links, Disable Auto Document Link, UID123, New MSP ID, New Description, Task Mgr, Job ID 1,Job ID 2, Status, New Start Date, Work Cards Total.

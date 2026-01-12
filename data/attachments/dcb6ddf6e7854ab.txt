@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that the option to hide OTD data is disabled. The only minor difference is the phrasing of 'show' instead of 'display', which does not affect the factual meaning.

@@ -1,1 +1,0 @@
-The current title displayed for Projected CT with Stretch in the Pipeline Dashboard report is "New Projected Cycle Time (d)."

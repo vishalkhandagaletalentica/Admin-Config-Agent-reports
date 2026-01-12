@@ -1,1 +1,0 @@
-The "Show Team Members in Task Manager Filter" setting in Issue Resolution report is already enabled. No update is needed.

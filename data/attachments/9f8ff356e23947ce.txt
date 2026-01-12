@@ -1,0 +1,1 @@
+Is the setting to limit the Stretch of a project's length during pipeline planning enabled?

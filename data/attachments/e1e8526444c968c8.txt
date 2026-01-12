@@ -1,1 +1,0 @@
-The current mapping for the Task Leveled Early Finish Date in the advanced filter is LEVELED_EF.

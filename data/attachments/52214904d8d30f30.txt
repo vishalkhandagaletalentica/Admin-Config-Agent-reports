@@ -1,0 +1,1 @@
+Is the Critical Path Sorting option enabled?

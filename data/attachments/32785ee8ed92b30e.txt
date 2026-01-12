@@ -1,1 +1,0 @@
-Rows per page in Modify Projects is set to 50.

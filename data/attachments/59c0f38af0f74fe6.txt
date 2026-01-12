@@ -1,0 +1,1 @@
+Do you mean the buffer penetration percentage that turns the zone red for the CMSB or for the CCFB when chain complete is 0%? I can look up the exact configuration once you confirm which buffer you mean.

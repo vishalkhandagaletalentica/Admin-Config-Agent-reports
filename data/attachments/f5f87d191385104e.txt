@@ -1,0 +1,1 @@
+The Actual Output does not address the Input question at all and is irrelevant to the expected response. It fails to provide any information about the type mismatch or the required string representation for the column order options, which is the core issue highlighted in the Expected Output.

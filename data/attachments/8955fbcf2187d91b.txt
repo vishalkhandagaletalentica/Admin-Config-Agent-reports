@@ -1,0 +1,1 @@
+The Actual Output provides a display name but does not match the Expected Output, which specifies a numerical value (20) instead of a string. This indicates a factual inaccuracy. Additionally, while the response addresses the intent of the question, it fails to provide the correct information, leading to a low score.

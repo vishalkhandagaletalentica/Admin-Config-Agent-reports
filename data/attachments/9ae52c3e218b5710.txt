@@ -1,0 +1,1 @@
+The hidden columns are: Project Name, Due Date, Projected Date, Task Type, New Description, Delay(d), Task Mgr.

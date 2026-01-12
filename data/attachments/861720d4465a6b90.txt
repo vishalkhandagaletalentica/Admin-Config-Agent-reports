@@ -1,1 +1,0 @@
-Done — the "Display separator after each Sort Window" option in Task Level Priorities By Resource is now disabled.

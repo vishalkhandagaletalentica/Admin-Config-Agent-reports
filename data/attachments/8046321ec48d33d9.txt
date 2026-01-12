@@ -1,1 +1,0 @@
-The current display name for the chart type in the filters is "New Chart Type."

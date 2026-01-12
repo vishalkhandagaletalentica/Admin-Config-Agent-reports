@@ -1,1 +1,0 @@
-What is the current default size of the Capacity Buffer as a percentage of load?

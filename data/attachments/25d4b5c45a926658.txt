@@ -1,0 +1,1 @@
+The columns hidden in Print Preview for the Subtask List are EXECMGT_TASK_MANAGER_ID, Seq ID, New Subtask UID, New Subtask Description, Pred, Ready to Start, Proposed Start, Res.Notes Updated, Status, Subtask Remaining Duration, Feedback, LastUpdate, Successor UID, Subtask Edit Doc Link, Subtask Update Checklist, and Subtask Update HelpNeeded.

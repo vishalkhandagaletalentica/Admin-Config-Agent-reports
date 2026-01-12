@@ -1,0 +1,1 @@
+No — the automatic selection (Show logged in user selected in the Task Manager Filter) in Project Mgr -> Task Level Priorities By Task Mgr is disabled.

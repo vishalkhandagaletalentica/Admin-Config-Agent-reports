@@ -1,0 +1,1 @@
+The Actual Output accurately lists the columns hidden on import, which aligns perfectly with the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information. The phrasing differs slightly, but the factual content remains correct and relevant.

@@ -1,0 +1,1 @@
+The Task Custom Text field for trace as Milestone is set to "MILESTONE_UPDATED".

@@ -1,0 +1,1 @@
+The Actual Output provides a detailed list of columns, which contradicts the Expected Output stating that all columns are marked as not present. This indicates a complete factual inaccuracy and failure to address the intent of the question, resulting in a score of zero.

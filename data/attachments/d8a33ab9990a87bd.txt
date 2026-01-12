@@ -1,1 +1,0 @@
-The Actual Output lists columns that are hidden in the report, which aligns with the intent of the Input question. However, it does not match the Expected Output in terms of factual correctness, as the names of the hidden columns differ significantly. This discrepancy indicates a partial alignment with the evaluation steps, leading to a moderate score.

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '5cf1a368-b3f1-4bdd-b5d4-ea1b208e0bb2', 'query': 'The section name is "Filtering Pane Titles" and the entry name is "Column Name for Breakdown in Export to Excel Task Update History."'}

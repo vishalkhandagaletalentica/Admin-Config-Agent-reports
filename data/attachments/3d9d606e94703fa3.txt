@@ -1,0 +1,1 @@
+No default sort is configured for the Tasks Delayed By Help Needed report.

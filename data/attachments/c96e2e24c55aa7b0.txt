@@ -1,1 +1,0 @@
-The comparison line default name is currently "New Custom Line".

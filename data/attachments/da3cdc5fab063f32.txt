@@ -1,0 +1,1 @@
+{'entryId': 145, 'sectionId': 10, 'flags': 0, 'entryName': 'ACTUAL_END_DATE', 'entryFriendlyName': 'Actual End Date', 'strValue': 'Actual End Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Actual End Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 102900.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

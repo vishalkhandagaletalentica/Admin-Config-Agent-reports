@@ -1,1 +1,0 @@
-The Task Normalized Float used in priority calculation has been successfully updated to 'New Priority Normalized Float'.

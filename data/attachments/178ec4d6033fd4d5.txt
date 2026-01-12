@@ -1,1 +1,0 @@
-The Green Feeding Buffer priority is 10.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project', 'Description', 'All (Role Type)', 'Improved', 'Unchanged', 'Filter Changes'], 'value': None, 'section': None, 'entry': None, 'url': None}

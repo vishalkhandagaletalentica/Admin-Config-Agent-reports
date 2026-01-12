@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr -> Edit Attributes (Commit/Edit Report settings)', 'Gate Reports (Gate report settings)'], 'value': None, 'section': None, 'entry': None, 'url': None}

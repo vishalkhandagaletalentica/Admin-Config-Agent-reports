@@ -1,1 +1,0 @@
-The "Enable Amazon SQS Service" setting is now enabled. It was previously disabled.

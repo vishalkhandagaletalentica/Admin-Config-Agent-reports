@@ -1,3 +1,0 @@
-The command is invalid because the value type for the password is expected to be a string, but you are attempting to set it to an integer (12345). The expected type is a string. 
-
-Please provide the password as a string. For example, you could use the command: `update Password set value = 'new_password_123'`.

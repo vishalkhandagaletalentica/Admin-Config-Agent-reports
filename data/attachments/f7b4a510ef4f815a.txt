@@ -1,1 +1,0 @@
-Subtask Text 3 (Custom Subtask Text Field) updated from "QA / Date" to "New Custom Text".

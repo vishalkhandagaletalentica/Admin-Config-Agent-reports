@@ -1,1 +1,0 @@
-The 'Resources' column title (Resources with Units) is currently set to: "Resources".

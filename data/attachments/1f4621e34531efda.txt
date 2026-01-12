@@ -1,0 +1,1 @@
+The display name for maximum capacity in the column headers is Total Capacity.

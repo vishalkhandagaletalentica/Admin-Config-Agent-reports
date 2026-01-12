@@ -1,0 +1,1 @@
+The scheduling mode for CC is set to Classical CC.

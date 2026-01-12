@@ -1,1 +1,0 @@
-The Custom Task Text Field 48 mapping in Advanced Filter is "NewText48".

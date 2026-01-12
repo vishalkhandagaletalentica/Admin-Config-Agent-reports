@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the recipient address for bulk imports, which aligns with the factual correctness of the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions. The slight difference in wording does not affect the factual meaning, maintaining a professional tone.

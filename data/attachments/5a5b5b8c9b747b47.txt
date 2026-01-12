@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Diagnostics -> By Help Needed', 'Buffer Diagnostics', 'Resource Mgr -> Sand Chart'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The current filter name for the task work-in-progress threshold in Task Manager is "TM Task WIP Threshold."

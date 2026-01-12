@@ -1,0 +1,1 @@
+Work Card Status will be mapped to the custom text field EXEC_CUSTOM_TASK_TEXT2.

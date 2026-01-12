@@ -1,1 +1,0 @@
-The current title displayed for the Longest Path Highlight in the column headings is "Longest Path Highlight".

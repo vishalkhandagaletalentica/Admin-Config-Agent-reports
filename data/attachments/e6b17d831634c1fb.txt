@@ -1,0 +1,1 @@
+I found multiple settings named like "Show Participants in TM list." Which one did you mean: Metrics -> Task Mgt (controls filters shown in Task Mgt), Common -> Filter Names (display title for the filter), or Buffer Diagnostics -> By Help Needed (controls whether participants are shown in TM filter)?

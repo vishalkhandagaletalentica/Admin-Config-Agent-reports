@@ -1,1 +1,0 @@
-I checked the Task Checklist column name for Text4 — it is already set to "MCN". No update is needed.

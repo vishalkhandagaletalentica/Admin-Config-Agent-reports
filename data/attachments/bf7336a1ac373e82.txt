@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the current chain type for the Project Chain View?'}, {'role': 'assistant', 'content': 'The current chain type for the Project Chain View is RTS_CHAINS.'}, {'role': 'user', 'content': 'Update this setting to ALL_CHAINS.'}, {'role': 'assistant', 'content': 'The Project Chain View chain type was updated from RTS_CHAINS to ALL_CHAINS.'}]

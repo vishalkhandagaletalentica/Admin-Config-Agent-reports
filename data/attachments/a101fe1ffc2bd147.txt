@@ -1,0 +1,1 @@
+The entry name for the default sorting order in the Exclude Projects section is "Specifies the default sorting order."

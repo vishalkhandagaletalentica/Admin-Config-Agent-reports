@@ -1,1 +1,0 @@
-The Move feeding buffer or chain setting is now set to Buffer.

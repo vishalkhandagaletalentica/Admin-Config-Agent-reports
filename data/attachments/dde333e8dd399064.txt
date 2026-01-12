@@ -1,0 +1,1 @@
+The number of queues set up for parallel Buffer Management is 8.

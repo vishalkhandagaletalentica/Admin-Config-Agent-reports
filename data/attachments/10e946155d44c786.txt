@@ -1,0 +1,1 @@
+Yes — the "Authenticate Password" setting is enabled, so users are required to enter a password during logon.

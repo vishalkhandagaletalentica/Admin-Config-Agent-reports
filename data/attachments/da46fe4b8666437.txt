@@ -1,1 +1,0 @@
-The Actual Output provides the sender address for bulk imports, which aligns with the intent of the Input question. However, it introduces unnecessary wording ('Support' <>) and does not match the Expected Output's format, which could lead to confusion. The core factual information is correct, but the additional details detract from clarity.

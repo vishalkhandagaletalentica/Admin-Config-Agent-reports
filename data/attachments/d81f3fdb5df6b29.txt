@@ -1,0 +1,1 @@
+The "Don't Limit Stretch For Fixed In Process Projects" setting is already disabled, so stretch is limited for Fixed and In Process projects. No update is needed.

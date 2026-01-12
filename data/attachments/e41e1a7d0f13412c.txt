@@ -1,1 +1,0 @@
-The Successor Task column is currently mapped to "SE".

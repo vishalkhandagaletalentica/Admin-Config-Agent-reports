@@ -1,0 +1,1 @@
+The day of the week being used for the trend points in the chart is Tuesday.

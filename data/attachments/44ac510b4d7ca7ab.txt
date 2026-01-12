@@ -1,0 +1,1 @@
+The current setting for applying Horizon on suggested or early start is EARLIEST ARRIVAL.

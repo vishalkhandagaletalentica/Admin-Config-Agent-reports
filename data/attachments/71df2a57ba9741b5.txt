@@ -1,0 +1,1 @@
+Type mismatch: expected a string value from the allowed range; use a value like "FULLKIT_MGR,PROJECT,HORIZON".

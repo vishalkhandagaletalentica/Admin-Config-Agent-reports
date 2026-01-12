@@ -1,1 +1,0 @@
-What is the current title displayed for the column that shows the number of red NS tasks ready to start along with non-red IP tasks?

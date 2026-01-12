@@ -1,1 +1,0 @@
-Auto DB Compact Frequency has been updated from 0 to 1.

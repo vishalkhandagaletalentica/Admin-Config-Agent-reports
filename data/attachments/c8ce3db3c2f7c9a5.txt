@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '82ce4abe-820b-420b-b6f3-91e86d9a4fa6', 'query': 'The section name is "Executive -> Task list widget view," and the entry name is "number of tasks shown in the widget."'}

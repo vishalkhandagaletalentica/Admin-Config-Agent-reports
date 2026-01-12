@@ -1,1 +1,0 @@
-The number of subtasks to be loaded from the database has been updated from 25,000 to 30,000.

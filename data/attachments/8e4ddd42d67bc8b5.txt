@@ -1,3 +1,0 @@
-The command is invalid because the value type is set to 2, which indicates that the value should be a string, but you are trying to set it to an integer (12345). The expected type is a string. 
-
-Please use a valid string value that corresponds to the allowed range. For example, you could use the command: `update Hidden Fields set value to 'FULLKIT_DETAILS';`

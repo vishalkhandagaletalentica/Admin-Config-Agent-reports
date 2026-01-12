@@ -1,0 +1,1 @@
+No — the "Show Team Members in Project Manager Filter" setting in Project Mgr -> Task Level Priorities By Project is disabled.

@@ -1,1 +1,0 @@
-The current mapping for the End Date in the advanced filter settings is "endDateMs".

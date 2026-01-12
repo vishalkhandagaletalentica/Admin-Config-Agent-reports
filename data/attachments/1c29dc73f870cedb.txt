@@ -1,0 +1,1 @@
+The provided value is a type mismatch; expected a string representation of key-value pairs or a comma-separated list of keys, such as "FULLKIT_MGR, AUTHOR, CATEGORY".

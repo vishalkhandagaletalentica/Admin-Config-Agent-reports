@@ -1,1 +1,0 @@
-{'entryId': 653, 'sectionId': 44, 'flags': 0, 'entryName': 'ARCHIVE_PERIOD', 'entryFriendlyName': 'Days to Keep Before Archiving', 'strValue': None, 'floatValue': None, 'intValue': 180, 'valueType': 0, 'itemDesc': 'Days to keep before archiving', 'rangeList': None, 'validationRule': None, 'sequenceId': 453060.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+The Column Preset 3 (CC Mode) contains: NewCheckList, Task Type, Task Name, Status, Updated Dur, Resources, Predecessors Updated, Successor Tasks, New Start Date, Task Duration.

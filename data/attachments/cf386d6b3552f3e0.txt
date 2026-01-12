@@ -1,1 +1,0 @@
-The filter name for the response of escalated red tasks is "Updated Esc Red Task Response (d)".

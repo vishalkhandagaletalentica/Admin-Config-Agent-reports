@@ -1,1 +1,0 @@
-Date/duration display has been set to include hours (option 1). Dates will now show the short date plus rounded hour (for example: 12/20/2010 2:00 AM) and durations will include days and hours (for example: 2d 4h).

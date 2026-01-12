@@ -1,5 +1,0 @@
-Filters currently displayed:
-- Task Manager Pro
-- Project
-- Start Date
-- In Progress

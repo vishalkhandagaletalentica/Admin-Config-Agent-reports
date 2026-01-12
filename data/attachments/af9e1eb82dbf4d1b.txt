@@ -1,1 +1,0 @@
-The Font Char Set (Server) is currently set to 177 (Hebrew). No update is needed.

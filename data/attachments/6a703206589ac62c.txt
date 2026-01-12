@@ -1,1 +1,0 @@
-The Hidden Fields for the Full Kit Report (Full Kit Mgr — regular view) are: FULLKIT_DETAILS

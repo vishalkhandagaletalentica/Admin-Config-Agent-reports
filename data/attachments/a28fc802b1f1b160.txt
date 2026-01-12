@@ -1,0 +1,1 @@
+The columns hidden in the report are Project Name, Project Type, NewUID, [insert new value here], Project Manager, Status, Division, and Due Date.

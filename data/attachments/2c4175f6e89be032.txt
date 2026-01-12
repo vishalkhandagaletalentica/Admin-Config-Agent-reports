@@ -1,3 +1,0 @@
-The command you provided is invalid because the value 'abcde' is not within the allowed range of 0 to 99. The expected type for this setting is an integer. 
-
-Please provide an integer value between 0 and 99. For example, a correct command would be: `update configuration set Default number of items to expand = 5`.

@@ -1,1 +1,0 @@
-Please update the display name for the file type filter to "Document Type."

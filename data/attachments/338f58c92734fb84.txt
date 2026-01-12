@@ -1,1 +1,0 @@
-The Default Horizon is already set to 1500 days. No update is needed.

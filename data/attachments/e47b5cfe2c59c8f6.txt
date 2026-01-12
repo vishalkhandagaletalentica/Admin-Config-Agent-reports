@@ -1,0 +1,1 @@
+The column name for Breakdown in the export to Excel task update history is "Analysis".

@@ -1,0 +1,1 @@
+Is the option to round the buffer size to the next hour enabled?

@@ -1,1 +1,0 @@
-{'entryId': 265, 'sectionId': 16, 'flags': 1, 'entryName': 'CHART_ZOOM_LEVEL', 'entryFriendlyName': 'Chart Zoom Level', 'strValue': None, 'floatValue': None, 'intValue': 4, 'valueType': 0, 'itemDesc': 'Chart Zoom Level', 'rangeList': '$LIST:1,2,3,4,5', 'validationRule': None, 'sequenceId': 165300.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

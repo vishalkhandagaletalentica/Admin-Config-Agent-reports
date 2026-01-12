@@ -1,1 +1,0 @@
-The current title displayed for Dependencies in the Task Details feature is "Dependencies."

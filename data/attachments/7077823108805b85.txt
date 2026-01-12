@@ -1,0 +1,1 @@
+I couldn't update Fields to display in Compact view to EXECMGT_TASK_DESCRIPTION,EXEC_REMAINING_DURATION,PROJECT_NAME,EXEC_TASK_MANAGER_ID,EXEC_PARENT_TASK_DESCRIPTION,EXEC_EARLIEST_ARRIVAL,EXEC_TASK_STATUS because you don't have permission to update configurations.

@@ -1,1 +1,0 @@
-The current title displayed for the Feeding Buffer Consumed column in the reports is "% FB Cnsm`d".

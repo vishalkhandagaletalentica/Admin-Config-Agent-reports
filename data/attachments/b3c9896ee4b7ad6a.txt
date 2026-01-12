@@ -1,1 +1,0 @@
-Updated the Critical Ratio upper limit value for On-Time milestones to 0.95.

@@ -1,0 +1,1 @@
+The Project Name is already set to NEW_PROJECT_NAME. No update is needed.

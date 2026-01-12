@@ -1,0 +1,1 @@
+What’s the value of the excel file column mapped with the task custom text field?

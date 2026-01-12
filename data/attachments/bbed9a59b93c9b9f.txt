@@ -1,1 +1,0 @@
-How many warning messages are currently set to be displayed during project check-in?

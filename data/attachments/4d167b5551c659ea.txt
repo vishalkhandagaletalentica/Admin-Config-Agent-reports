@@ -1,1 +1,0 @@
-The option to Reduce CC Task Switching has been successfully enabled.

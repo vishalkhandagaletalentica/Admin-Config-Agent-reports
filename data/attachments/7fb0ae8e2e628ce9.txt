@@ -1,1 +1,0 @@
-Is bulk data insertion currently enabled or disabled?

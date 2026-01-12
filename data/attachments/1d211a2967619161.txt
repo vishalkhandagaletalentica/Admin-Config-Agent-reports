@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Color — Escalated Tasks (controls priority colors; options: All, Red + Yellow)', 'Task Color — Column Names (column title)', 'Task Color — Filter Names (filter label)'], 'value': None, 'section': None, 'entry': None, 'url': None}

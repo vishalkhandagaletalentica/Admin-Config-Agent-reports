@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '60c5422e-fe7e-4a02-b673-b1239e7f3c28', 'query': 'Please update the setting to disable the use of the resource calendar for task duration.'}

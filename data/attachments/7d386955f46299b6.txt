@@ -1,0 +1,1 @@
+The Sort Order has been updated to Task Type, Constraint Date, Project Name.

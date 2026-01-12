@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '736b254f-2f68-466c-a48a-1118d6e4bafa', 'query': 'The section name is "Checklist Integration Fields Mapping" and the entry name is "Shortage Quantity".'}

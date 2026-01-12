@@ -1,0 +1,1 @@
+The column name "Full Kit Status" was updated from "Updated Status" to "New Status".

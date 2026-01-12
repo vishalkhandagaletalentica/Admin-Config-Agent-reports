@@ -1,1 +1,0 @@
-The current title displayed for the Esc Red Task Response Compliance in the reports is "Escalation Compliance."

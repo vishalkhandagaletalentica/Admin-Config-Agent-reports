@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '57295ca7-a229-486a-9631-0ea2db8b0ad6', 'query': 'Please update the Concerto Division to a new value, for example, "New Concerto Division".'}

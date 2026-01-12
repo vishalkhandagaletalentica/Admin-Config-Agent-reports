@@ -1,0 +1,1 @@
+The default sorting order for the Executive -> Full Kit And Purchasing Delays report is Project Name and Due Date.

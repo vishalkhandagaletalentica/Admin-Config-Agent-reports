@@ -1,0 +1,1 @@
+Is the setting to prevent MS Project from causing a "not responding" message enabled?

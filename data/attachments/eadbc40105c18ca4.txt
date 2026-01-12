@@ -1,1 +1,0 @@
-The Actual Output provides the correct factual information regarding the display name for Peak L:C, aligning with the Expected Output. However, it slightly lacks the specificity of the phrasing in the Expected Output by omitting the reference to 'in the column headers,' which could be seen as a minor shortcoming in addressing the full intent of the Input question.

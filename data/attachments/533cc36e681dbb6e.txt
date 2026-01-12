@@ -1,1 +1,0 @@
-The Move Feeding Buffer % is set to 50%.

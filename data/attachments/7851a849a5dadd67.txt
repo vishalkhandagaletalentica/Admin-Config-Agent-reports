@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that the External Mailer is enabled for alert generation during auto BM. While the phrasing differs slightly from the Expected Output, it maintains the same factual meaning. The response is concise and professional, with no incorrect facts or assumptions introduced.

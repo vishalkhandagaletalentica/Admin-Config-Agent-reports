@@ -1,0 +1,1 @@
+What is the title shown for the display issue type in the filtering pane?

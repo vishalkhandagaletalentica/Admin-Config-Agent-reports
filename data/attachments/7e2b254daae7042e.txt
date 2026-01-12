@@ -1,1 +1,0 @@
-Number of resource for resource batch processing updated from 2000 to 2500.

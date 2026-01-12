@@ -1,1 +1,0 @@
-The current default sorting order for the Assign Task Managers feature is set to 'abc'.

@@ -1,0 +1,1 @@
+I can't detect “undocumented” options automatically. I can, however, list all configuration sections or show all entries within a specific section so you can inspect them. Would you like me to (1) list all sections, or (2) check a particular section? If (2), please tell me the section name or describe it.

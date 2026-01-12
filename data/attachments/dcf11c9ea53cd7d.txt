@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'a64dc43d-00a3-494a-b229-9371ff96ff3a', 'query': 'The section name is "Executive -> Stuck Task List," and the entry name is "Column order in the report."'}

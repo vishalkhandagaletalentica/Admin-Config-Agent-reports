@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, and the allowed values are PROJECT_COUNT or PROJECT_WEIGHT; please use one of these allowed values instead.

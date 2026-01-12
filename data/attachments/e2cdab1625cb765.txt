@@ -1,1 +1,0 @@
-What is the current delimiter used for the Purchase Dates Integration report?

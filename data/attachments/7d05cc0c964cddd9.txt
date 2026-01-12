@@ -1,0 +1,1 @@
+What is the current setting for the text columns that users can search to find tasks?

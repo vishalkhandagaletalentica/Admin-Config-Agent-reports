@@ -1,0 +1,1 @@
+Yes, the option to display Throughput data is checked.

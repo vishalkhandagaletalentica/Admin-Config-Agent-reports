@@ -1,0 +1,1 @@
+Display Name for Action Item in Column Headers was updated from Enabled to enabled.

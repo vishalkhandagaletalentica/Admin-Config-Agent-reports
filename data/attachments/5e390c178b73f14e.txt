@@ -1,0 +1,1 @@
+The Alternate Resource Mgr has been updated from "Alternate Resource Mgr" to "New Resource Manager".

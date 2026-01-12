@@ -1,1 +1,0 @@
-The Actual Output does not accurately reflect the Expected Output, as it lists different attributes that are not mentioned in the Expected Output. While it attempts to address the intent of showing hidden filters, it fails to provide the correct information, leading to a significant factual discrepancy.

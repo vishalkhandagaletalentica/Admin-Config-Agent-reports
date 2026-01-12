@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it accurately states the title displayed for the No Additional Delay Duration column, matching the Expected Output in meaning. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

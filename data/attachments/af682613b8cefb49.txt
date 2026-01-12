@@ -1,1 +1,0 @@
-The default date interval for the Trend Chart drill down is Weekly.

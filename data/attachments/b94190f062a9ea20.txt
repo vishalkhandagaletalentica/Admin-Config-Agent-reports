@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Weight — filter name (Common -> Filter Names)', 'Project Weight — column name (Common -> Column Names)'], 'value': None, 'section': None, 'entry': None, 'url': None}

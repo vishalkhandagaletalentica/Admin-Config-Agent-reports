@@ -1,1 +1,0 @@
-{'entryId': 1859, 'sectionId': 11, 'flags': 0, 'entryName': 'CYCLE_TIME', 'entryFriendlyName': 'Cycle Time', 'strValue': 'Cycle Time', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter Name for Cycle Time.', 'rangeList': None, 'validationRule': None, 'sequenceId': 147180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

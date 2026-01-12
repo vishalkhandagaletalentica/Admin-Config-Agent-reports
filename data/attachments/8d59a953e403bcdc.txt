@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the correct mapping for the Task Early Finish Date in the Gantt advanced filter. It matches the Expected Output in meaning, even though the phrasing is slightly different, which is acceptable according to the evaluation steps.

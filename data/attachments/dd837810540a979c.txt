@@ -1,0 +1,1 @@
+Yes, the Custom Line option is enabled in the Throughput report.

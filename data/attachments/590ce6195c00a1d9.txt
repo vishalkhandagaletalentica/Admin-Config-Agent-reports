@@ -1,0 +1,1 @@
+The title displayed for the Escalation Closed On column is Escalation Resolved On.

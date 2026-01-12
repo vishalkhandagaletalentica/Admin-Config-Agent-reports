@@ -1,0 +1,1 @@
+The current character set setting for the Concerto desktop clients is default.

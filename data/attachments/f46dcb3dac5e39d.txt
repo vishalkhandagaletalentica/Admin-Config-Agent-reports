@@ -1,0 +1,1 @@
+The display name for the chart type in the filters is "Updated Chart Type".

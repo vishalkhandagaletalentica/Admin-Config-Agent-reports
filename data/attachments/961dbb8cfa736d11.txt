@@ -1,0 +1,1 @@
+The Actual Output correctly identifies that the input value is incorrect due to a type mismatch, aligning with the Expected Output's emphasis on the boolean requirement. However, it lacks the specificity of stating the correct expected values ('true' or 'false'), which diminishes its completeness in addressing the user's request.

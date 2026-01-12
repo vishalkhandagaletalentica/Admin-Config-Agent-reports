@@ -1,0 +1,1 @@
+The Actual Output correctly identifies most of the columns hidden in the 'Contractual Milestone Chain View,' aligning well with the Expected Output. However, it omits 'CUSTOM_TASK_TEXT2,' which is a significant detail from the Expected Output. This omission affects the factual completeness of the response, leading to a slight deduction in the score.

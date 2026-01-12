@@ -1,1 +1,0 @@
-I couldn't find a configuration section named 'Sand Chart' with a 'Time Interval' setting. Could you provide the canonical section name or describe where in the UI the Sand Chart settings appear (for example, the menu path or nearby section names)?

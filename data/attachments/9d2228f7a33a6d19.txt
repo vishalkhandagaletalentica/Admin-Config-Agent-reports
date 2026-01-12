@@ -1,0 +1,1 @@
+The columns hidden in the Earned Hours Report are New Task Name, New Column Title, Total Earned Hours, % Completion, and ECD.

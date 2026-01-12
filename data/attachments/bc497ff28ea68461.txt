@@ -1,1 +1,0 @@
-The Task List Sort Order is already set to B-CHECKLIST_SEQID. No update is needed.

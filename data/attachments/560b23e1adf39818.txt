@@ -1,0 +1,1 @@
+{'entryId': 844, 'sectionId': 10, 'flags': 0, 'entryName': 'SUBPROJECT', 'entryFriendlyName': 'Subproject', 'strValue': 'New Subproject Name', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Subproject In Headers', 'rangeList': None, 'validationRule': None, 'sequenceId': 116880.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

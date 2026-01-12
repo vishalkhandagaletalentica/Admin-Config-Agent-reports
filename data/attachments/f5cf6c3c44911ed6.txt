@@ -1,1 +1,0 @@
-Please enable the option to automatically move Not Started subtasks within horizon to the Active bucket.

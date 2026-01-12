@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What’s the value of the display setting in the Results Pane for the reports?'}, {'role': 'assistant', 'content': 'The display in the Results Pane is set to Cycle Time.'}, {'role': 'user', 'content': 'Update it to Throughput.'}, {'role': 'assistant', 'content': 'Updated: the display in the Results Pane was Cycle Time and is now set to Throughput.'}]

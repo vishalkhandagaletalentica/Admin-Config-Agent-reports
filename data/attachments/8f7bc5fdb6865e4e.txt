@@ -1,0 +1,1 @@
+The SMTP server port currently set for bulk imports is 587.

@@ -1,4 +1,0 @@
-The command to update the configuration is invalid because the value you are trying to set (12345) is not of the expected type. The value should be one of the allowed entries from the list: DUE_DATE, PLANNED_DATE, CUSTOM_DATE1, CUSTOM_DATE2. 
-
-Please use a valid entry from the allowed range. For example, you could use the command: 
-`update configuration set value = 'DUE_DATE' where entryFriendlyName = 'Order By';`

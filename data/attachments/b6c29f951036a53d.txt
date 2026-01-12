@@ -1,0 +1,1 @@
+I couldn't update the column order because the system couldn't validate the column list for that section. Could you confirm or adjust the labels, or would you like me to try again?

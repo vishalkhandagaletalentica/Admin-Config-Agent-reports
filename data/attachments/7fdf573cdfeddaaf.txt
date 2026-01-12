@@ -1,0 +1,1 @@
+The filter name for including compliant full kit managers is Include Non-Compliant Full Kit Managers.

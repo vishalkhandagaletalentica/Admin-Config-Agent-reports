@@ -1,0 +1,1 @@
+Remaining Duration mapping updated from RDU_NEW to RDU_UPDATED.

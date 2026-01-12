@@ -1,1 +1,0 @@
-The current default sorting order for the checklist items in your Task List is Ascending Checklist SeqID.

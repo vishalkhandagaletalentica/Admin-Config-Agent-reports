@@ -1,1 +1,0 @@
-The option to add the queue URL automatically is disabled.

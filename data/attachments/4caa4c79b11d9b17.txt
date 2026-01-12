@@ -1,1 +1,0 @@
-{'entryId': 2877, 'sectionId': 32, 'flags': 0, 'entryName': 'TASK_LVL_PROJECT_RANGE_UNIT', 'entryFriendlyName': None, 'strValue': 'Weeks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': '$LIST:Weeks,Months,Quarters', 'validationRule': None, 'sequenceId': 318881.0, 'groupOrMerge': '$MERGE:DEF_HORIZON', 'attributeFlag': None, 'attrBack': None}

@@ -1,0 +1,1 @@
+I couldn't find a configuration matching "column order in the report." Could you tell me which section (report area) and which entry (the column/order setting) you mean?

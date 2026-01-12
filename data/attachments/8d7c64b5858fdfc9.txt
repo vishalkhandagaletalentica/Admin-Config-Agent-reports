@@ -1,1 +1,0 @@
-The setting is already enabled: the "Include In Progress tasks" option for the Executive -> Queues report/view is currently enabled. No change is needed.

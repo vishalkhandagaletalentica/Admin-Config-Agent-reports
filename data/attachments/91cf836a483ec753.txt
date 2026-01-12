@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Task Unique ID to a new value. Set it to "NewUID".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Task Unique ID" entry?'}, {'role': 'user', 'content': 'The section name is "Field Mapping for Adv. Filter in Gantt."'}, {'role': 'assistant', 'content': 'Task Unique ID updated to "NewUID".'}]

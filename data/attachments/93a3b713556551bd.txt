@@ -1,1 +1,0 @@
-The Actual Output accurately lists the filters displayed in the Modify Projects report, aligning closely with the Expected Output. While the phrasing differs slightly, the factual content is correct and directly addresses the intent of the Input question. The only minor deduction is for the difference in structure, but it does not significantly impact the overall correctness.

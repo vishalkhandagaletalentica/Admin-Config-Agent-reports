@@ -1,0 +1,1 @@
+{'entryId': 2544, 'sectionId': 146, 'flags': 0, 'entryName': 'RESUME_DATE', 'entryFriendlyName': 'Resume Date', 'strValue': 'resumeDate', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Resume Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510880.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

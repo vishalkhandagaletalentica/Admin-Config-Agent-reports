@@ -1,1 +1,0 @@
-The current title displayed for the "Current Day" in the column headings is "Current Day."

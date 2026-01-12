@@ -1,0 +1,1 @@
+The column "Addl Pipeline Delay with Stretch" was updated from "New Stretch" to "Extended Stretch".

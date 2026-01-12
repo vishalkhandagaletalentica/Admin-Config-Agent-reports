@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '59c82cbf-e7bd-4188-a09f-d85815b8973d', 'query': 'What is the URL that opens when I click on the task link?'}

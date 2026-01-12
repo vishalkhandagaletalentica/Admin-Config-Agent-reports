@@ -1,0 +1,1 @@
+Yes — project-length limiting during pipeline planning is enabled ("Do Not Limit Stretch" is disabled).

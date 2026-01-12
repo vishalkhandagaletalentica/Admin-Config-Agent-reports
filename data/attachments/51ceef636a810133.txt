@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it conveys that the Project List drilldown is disabled on the Print Preview page, aligning with the Expected Output. However, it slightly deviates from the phrasing of the Expected Output by omitting the word 'option,' which could be seen as a minor shortcoming in addressing the input's specific details.

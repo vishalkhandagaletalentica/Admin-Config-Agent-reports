@@ -1,0 +1,1 @@
+The name of the user group for newly signed up users is New Signup User Group.

@@ -1,1 +1,0 @@
-The current mapping for the task float in the advanced filter for the Gantt chart is TF.

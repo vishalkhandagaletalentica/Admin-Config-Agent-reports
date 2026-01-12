@@ -1,1 +1,0 @@
-{'entryId': 592, 'sectionId': 11, 'flags': 0, 'entryName': 'WHITE', 'entryFriendlyName': 'White', 'strValue': 'Off-White', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for White in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121840.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

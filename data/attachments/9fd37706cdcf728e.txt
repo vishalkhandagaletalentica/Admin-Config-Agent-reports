@@ -1,0 +1,1 @@
+I found two settings named "DisableNotResponding" that match your description. Which one did you mean: Application -> Concerto Critical Chain, or Buffer Management?

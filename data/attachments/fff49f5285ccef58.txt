@@ -1,1 +1,0 @@
-The default sorting order for the Full Kit Delay Drilldown report is: 12345.

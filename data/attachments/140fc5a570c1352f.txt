@@ -1,0 +1,1 @@
+The Actual Output correctly conveys that there is no default sorting order for the Modify Projects feature, aligning with the factual meaning of the Expected Output. However, the phrasing differs slightly, which may lead to a minor deduction. The response is relevant and directly addresses the intent of the question, maintaining a professional tone.

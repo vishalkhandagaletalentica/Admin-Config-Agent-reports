@@ -1,1 +1,0 @@
-Security Label Interval has been updated from 10 to 15.

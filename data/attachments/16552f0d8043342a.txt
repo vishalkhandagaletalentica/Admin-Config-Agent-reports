@@ -1,0 +1,1 @@
+Updated Max Buffer Consumption from '% Max Chain Pen' to '% Max Chain Pen 2'.

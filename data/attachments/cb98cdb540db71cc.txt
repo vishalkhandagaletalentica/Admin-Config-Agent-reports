@@ -1,0 +1,1 @@
+The custom text for specifying the Tier3 details link is CUSTOM_TASK_TEXT2.

@@ -1,0 +1,1 @@
+{'entryId': 1135, 'sectionId': 11, 'flags': 0, 'entryName': 'DUE_DATE', 'entryFriendlyName': 'Due Date', 'strValue': 'Due Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter value for Due Date.', 'rangeList': None, 'validationRule': None, 'sequenceId': 132700.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,1 +1,0 @@
-{'entryId': 1024, 'sectionId': 10, 'flags': 0, 'entryName': 'MS_NAME', 'entryFriendlyName': 'Milestone Name', 'strValue': 'Milestone Name', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Milestone Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 120480.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

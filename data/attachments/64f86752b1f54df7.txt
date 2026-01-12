@@ -1,0 +1,1 @@
+Completed projects display has been disabled in Executive → Project Status (previously enabled, now disabled).

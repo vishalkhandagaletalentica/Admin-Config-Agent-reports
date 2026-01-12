@@ -1,1 +1,0 @@
-The current title displayed for the Projected Date of chain in the Chain View Summary is "Projected Date."

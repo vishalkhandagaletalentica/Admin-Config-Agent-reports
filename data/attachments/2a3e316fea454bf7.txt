@@ -1,1 +1,0 @@
-The Task Duration < Days setting was updated from 1 to 2.

@@ -1,0 +1,1 @@
+The Task Manager mapping in Advanced Filter settings is "taskMgrUpdatedNew".

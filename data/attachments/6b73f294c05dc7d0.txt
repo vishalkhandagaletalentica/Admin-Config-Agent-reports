@@ -1,1 +1,0 @@
-The current value of the custom task text field 3 is CUSTOM_TASK_TEXT3.

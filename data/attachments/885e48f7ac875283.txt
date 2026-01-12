@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the filter title as 'below', which aligns with the Expected Output. However, it fails to mention the context of the filtering pane and the Resource Portal in Html, which is crucial for fully addressing the intent of the Input question. This omission results in a partial answer, leading to a deduction in points.

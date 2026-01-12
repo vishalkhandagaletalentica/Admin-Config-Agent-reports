@@ -1,0 +1,1 @@
+Is the option to hide the Remaining Duration column in the Task List and Project Chain View enabled?

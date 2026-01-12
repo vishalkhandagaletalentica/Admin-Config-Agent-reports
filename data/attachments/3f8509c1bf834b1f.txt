@@ -1,1 +1,0 @@
-The Actual Output is factually correct, stating that the Exclude Projects page displays 20 rows per page, which aligns perfectly with the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

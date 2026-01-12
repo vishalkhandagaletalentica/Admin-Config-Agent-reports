@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_TASK_UPDATE_SUBTASKVIEW', 'entry': 'AUTO_MOVE_NS_SUBTASK', 'url': None}

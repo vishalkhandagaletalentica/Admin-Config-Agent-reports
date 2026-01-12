@@ -1,1 +1,0 @@
-Please update the display name for Peak Load:Capacity in column headers to "Peak Load Capacity".

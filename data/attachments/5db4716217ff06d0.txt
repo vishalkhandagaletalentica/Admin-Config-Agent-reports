@@ -1,0 +1,1 @@
+The display name for the filters in the left bar is "New Project Title".

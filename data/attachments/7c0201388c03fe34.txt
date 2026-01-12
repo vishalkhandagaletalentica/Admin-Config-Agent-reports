@@ -1,1 +1,0 @@
-The Actual Output lists several columns as hidden in the Task Incomplete Predecessors report, but it includes incorrect entries such as 'Text1', 'RZ Reference', and 'Hours Remaining', which are not part of the Expected Output. While it addresses the intent of the Input question, the factual inaccuracies significantly impact the score.

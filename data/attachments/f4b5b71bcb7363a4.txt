@@ -1,0 +1,1 @@
+Fixed Capacity Buffer (Days) updated from 5 to 10.

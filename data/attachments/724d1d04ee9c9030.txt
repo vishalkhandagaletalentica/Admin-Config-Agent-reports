@@ -1,0 +1,1 @@
+Yes — multiple calendars are disabled for tasks (the "Disallow Multiple Calendars for Tasks" setting is enabled).

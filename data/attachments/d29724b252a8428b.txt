@@ -1,1 +1,0 @@
-The Actual Output incorrectly states that 'Enable Automatic Links is already enabled,' which contradicts the Expected Output that indicates the command is invalid. While it addresses the intent of the Input question, it fails to provide the correct factual information regarding the configuration setting and does not mention the required integer value for enabling the setting.

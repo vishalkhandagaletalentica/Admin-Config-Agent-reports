@@ -1,1 +1,0 @@
-The current priority setting for the color buffer is G.

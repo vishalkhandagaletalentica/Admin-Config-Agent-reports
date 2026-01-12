@@ -1,1 +1,0 @@
-The column name for Text2 in the Task Excel settings is "New Value".

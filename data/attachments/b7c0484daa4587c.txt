@@ -1,1 +1,0 @@
-The option to include Project Web Links has been successfully enabled.

@@ -1,1 +1,0 @@
-The number of messages sent to Streamliner during Running BM is 75.

@@ -1,0 +1,1 @@
+The default sorting order for the Stuck Tasks Delays Drilldown report is not specified.

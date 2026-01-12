@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Col Order (Column Order: Column order in the report)', 'Executive -> Order By (Order By: Specifies field to use in ordering the projects in Project Delays)', 'Buffer Diagnostics -> Sort Order (Sort Order: Used to specify the default sorting of tasks in the report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-{'entryId': 1520, 'sectionId': 11, 'flags': 0, 'entryName': 'END_OF_TODAY', 'entryFriendlyName': 'End of Today', 'strValue': 'End of Today', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for End of Today.', 'rangeList': None, 'validationRule': None, 'sequenceId': 140400.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

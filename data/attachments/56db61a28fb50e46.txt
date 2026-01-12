@@ -1,0 +1,1 @@
+Yes, the option to enable MPP files for checkin is turned on.

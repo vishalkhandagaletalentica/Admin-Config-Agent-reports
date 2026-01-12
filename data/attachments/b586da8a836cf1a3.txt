@@ -1,0 +1,1 @@
+Auto linking tasks when adding a new task is disabled.

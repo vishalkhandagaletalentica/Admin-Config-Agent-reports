@@ -1,0 +1,1 @@
+The title displayed for the total number of tasks with multiple resources assigned per project is "Updated Multiple Resources."

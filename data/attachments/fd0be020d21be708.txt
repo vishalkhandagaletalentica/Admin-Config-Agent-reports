@@ -1,1 +1,0 @@
-I disabled the ERROR-0190 warning (CMS Names in project should match CMS names associated with the phases.) so it will no longer display during project add/check-in.

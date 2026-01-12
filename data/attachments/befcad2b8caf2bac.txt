@@ -1,0 +1,1 @@
+The Full Kit Manager filter name was updated from "New Kit Manager" to "Updated Kit Manager".

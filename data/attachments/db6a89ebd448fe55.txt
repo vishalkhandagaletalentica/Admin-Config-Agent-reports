@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the title as 'Resource Dependencies', which aligns with the Expected Output. However, it does not fully address the context of 'total number of resource dependencies per project' as specified in the Input, leading to a slight deduction in points for not fully capturing the intent of the question.

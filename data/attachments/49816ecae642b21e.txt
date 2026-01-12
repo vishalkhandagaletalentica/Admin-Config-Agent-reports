@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'What is the current value for the text column name used in the task updates?'}, {'role': 'assistant', 'content': 'Which text column do you mean in task updates — Text2, Text3, or Text4?'}, {'role': 'user', 'content': 'I mean TEXT4.'}, {'role': 'assistant', 'content': 'The Text4 column name is "MCN".'}]

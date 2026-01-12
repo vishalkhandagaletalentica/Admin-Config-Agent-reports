@@ -1,1 +1,0 @@
-The current display name for the average days escalated in the issue resolution chart is "Average Days Escalated."

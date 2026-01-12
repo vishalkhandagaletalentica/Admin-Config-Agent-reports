@@ -1,0 +1,1 @@
+For Buffer Diagnostics -> Tasks Drilldown From TM/Resource/Task Desc (Hidden Fields (Print)): currently no columns are hidden in Print Preview.

@@ -1,1 +1,0 @@
-Updated: the display name "Filter By" is now "Filter Options" in Common -> Filter Names.

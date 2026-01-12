@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Metrics → Exclude Projects', 'Metrics → Issue Resolution', 'Project Mgr → Modify Projects', 'Executive → Project Status'], 'value': None, 'section': None, 'entry': None, 'url': None}

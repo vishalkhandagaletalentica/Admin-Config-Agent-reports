@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it matches the Expected Output exactly. It directly addresses the intent of the Input question regarding the status of the option to display past data in the Issue Resolution report, providing a clear and concise response.

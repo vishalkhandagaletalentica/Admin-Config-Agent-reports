@@ -1,0 +1,1 @@
+The default value for the target when you add a new target in the On-Time Delivery settings is 85.

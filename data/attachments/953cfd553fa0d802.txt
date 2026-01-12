@@ -1,0 +1,1 @@
+The 'Use Projected Date With Stretch' option is now enabled.

@@ -1,0 +1,1 @@
+Is the link to the task list included in the project status view?

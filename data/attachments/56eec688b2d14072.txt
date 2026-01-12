@@ -1,1 +1,0 @@
-No — team names are not being expanded into member lists. The "Show Team Members in Project Manager Filter" setting in Project Status is currently disabled.

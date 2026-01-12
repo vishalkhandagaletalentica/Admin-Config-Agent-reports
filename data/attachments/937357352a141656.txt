@@ -1,1 +1,0 @@
-The queue trend indicator uses the past 10 working days.

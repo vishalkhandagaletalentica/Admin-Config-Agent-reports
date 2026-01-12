@@ -1,1 +1,0 @@
-The "Task Delay" item in Column Headings is already set to "Task Buf Cnsm (d)". No update is needed.

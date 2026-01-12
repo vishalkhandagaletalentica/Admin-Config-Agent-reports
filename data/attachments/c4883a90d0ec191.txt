@@ -1,0 +1,1 @@
+The Actual Output provides a correct fact regarding the number of digits for Fractional Rounding, aligning with the Expected Output. However, it fails to fully address the intent of the Input by not mentioning the context of load calculation, which is crucial for clarity. The response is concise but lacks the necessary detail to fully meet the expectations set by the Input.

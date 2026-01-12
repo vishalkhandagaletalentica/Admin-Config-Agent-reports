@@ -1,1 +1,0 @@
-The Current Week column heading is set to Next Week.

@@ -1,1 +1,0 @@
-The Actual Output correctly states that the Chart Type has been updated to LINE_CHART, aligning with the factual correctness of the Expected Output. However, it lacks the phrase 'successfully updated,' which slightly diminishes the completeness of the response. Overall, it addresses the intent of the Input question effectively.

@@ -1,0 +1,1 @@
+Duration for Delta/Decreased Rem Dur Calculations updated from 5 to 10.

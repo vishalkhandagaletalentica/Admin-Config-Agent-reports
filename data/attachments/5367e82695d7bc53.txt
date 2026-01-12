@@ -1,1 +1,0 @@
-The column label for configuring the field as mandatory has been updated from "Is mandatory" to "Required".

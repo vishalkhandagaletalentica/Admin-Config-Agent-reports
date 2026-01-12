@@ -1,0 +1,1 @@
+The column name of TEXT9 has been successfully updated to NewColumnName.

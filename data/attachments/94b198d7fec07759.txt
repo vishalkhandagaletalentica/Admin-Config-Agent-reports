@@ -1,0 +1,1 @@
+No default sorting columns are selected for the Drum Throughput Drilldown report.

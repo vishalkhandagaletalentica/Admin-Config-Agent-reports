@@ -1,1 +1,0 @@
-The Buffer Trend filter name has been updated to "New Buffer Trend".

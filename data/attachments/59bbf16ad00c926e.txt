@@ -1,1 +1,0 @@
-The Actual Output correctly conveys the factual information that the Bucket filter name has been updated to 'Resource Bucket', aligning with the Expected Output's intent. However, it lacks the additional detail of confirming the update's success, which is present in the Expected Output, resulting in a minor deduction.

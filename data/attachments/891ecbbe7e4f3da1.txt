@@ -1,0 +1,1 @@
+The title displayed for the duration in days in the reports is "Updated Buffer Consumption."

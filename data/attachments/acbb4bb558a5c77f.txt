@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '4a37ff5e-eda9-42b9-b2fc-6f9bebafa693', 'query': 'The section name is "Executive -> Queues" and the entry name is "Surge Capacity (% Additional Capacity)".'}

@@ -1,1 +1,0 @@
-The Actual Output lists several columns as hidden in the report, but it includes incorrect entries such as 'Text1', 'RZ Reference', and 'Job Status', which are not part of the Expected Output. Additionally, while it does address the intent of the Input question, the factual inaccuracies significantly detract from its overall correctness.

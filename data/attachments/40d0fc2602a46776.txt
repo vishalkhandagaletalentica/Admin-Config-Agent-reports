@@ -1,0 +1,1 @@
+Do you mean the hidden columns for the on-screen report or the print preview? Please choose: Hidden Fields (on-screen), Hidden Fields (print).

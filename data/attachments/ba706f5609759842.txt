@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, and it should be one of the allowed values: FONT_XSMALL, FONT_SMALL, FONT_MEDIUM, FONT_LARGE, FONT_XLARGE; you can correct it to "FONT_LARGE".

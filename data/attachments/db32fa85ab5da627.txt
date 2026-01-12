@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the default value for the program performance period type?'}, {'role': 'assistant', 'content': 'The default Program Performance Period Type is Quarterly.'}, {'role': 'user', 'content': 'Update this setting to Monthly.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

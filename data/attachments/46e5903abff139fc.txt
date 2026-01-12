@@ -1,0 +1,1 @@
+Yes — Apply Buffers (the option to apply buffers on scheduling) is enabled.

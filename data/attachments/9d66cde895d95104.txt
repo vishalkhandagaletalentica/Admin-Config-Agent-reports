@@ -1,0 +1,1 @@
+The Exception periods for resource non-availability (Exceptions From Variable Capacity File) is set to: New Exceptions.

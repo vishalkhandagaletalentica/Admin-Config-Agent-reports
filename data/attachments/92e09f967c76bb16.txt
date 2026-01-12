@@ -1,0 +1,1 @@
+{'entryId': 440, 'sectionId': 31, 'flags': 1, 'entryName': 'EXEC_COMMENTS', 'entryFriendlyName': 'EXEC_COMMENTS', 'strValue': 'EXECMGT_COMMENTS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 318800.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

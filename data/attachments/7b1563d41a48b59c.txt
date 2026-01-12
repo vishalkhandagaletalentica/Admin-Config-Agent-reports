@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '64e7745f-6e2d-4cf2-b9fb-dffa16f8fade', 'query': 'Please update the Default On Time Delivery Percentage to 85.'}

@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the title displayed for the units in the column headings as 'Units', which aligns with the factual correctness of the Expected Output. However, it lacks the quotation marks around 'Units' as specified in the Expected Output, which slightly detracts from its alignment with the evaluation steps.

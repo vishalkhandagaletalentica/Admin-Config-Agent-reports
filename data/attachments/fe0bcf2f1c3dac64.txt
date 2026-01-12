@@ -1,1 +1,0 @@
-{'entryId': 95, 'sectionId': 10, 'flags': 1, 'entryName': 'SUBJECT', 'entryFriendlyName': 'Customer', 'strValue': 'End User - Broker', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Customer', 'rangeList': None, 'validationRule': None, 'sequenceId': 101900.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

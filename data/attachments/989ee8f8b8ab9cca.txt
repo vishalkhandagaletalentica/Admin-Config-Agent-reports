@@ -1,0 +1,1 @@
+The following columns are hidden in Print Preview for the Subtask List: Color, Task Mgr, New MSP ID, Project Name, New Description.

@@ -1,0 +1,1 @@
+The tooltip for the Additional Required Buffer Column (Required buffer (in Days)) is "10 days".

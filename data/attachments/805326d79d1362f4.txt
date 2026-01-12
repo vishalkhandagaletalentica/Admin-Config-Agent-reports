@@ -1,1 +1,0 @@
-The Aggressive Duration setting for IP task updates is currently enabled.

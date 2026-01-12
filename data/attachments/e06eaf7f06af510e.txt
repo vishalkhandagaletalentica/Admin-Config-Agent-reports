@@ -1,0 +1,1 @@
+The Actual Output incorrectly states that the title for the Planned filter is 'Pending', while the Expected Output specifies it should be 'Planned'. This introduces a factual error, as the response does not align with the Expected Output. Additionally, the response partially addresses the intent of the Input by mentioning the filter but fails to accurately represent the title.

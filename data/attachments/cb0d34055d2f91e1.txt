@@ -1,0 +1,1 @@
+Yes — the error display for projects with missing phases is enabled (it will block commits when such phases are missing).

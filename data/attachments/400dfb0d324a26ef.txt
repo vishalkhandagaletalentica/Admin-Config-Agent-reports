@@ -1,1 +1,0 @@
-The current title displayed for Actual Start Date is "Actual Start Date."

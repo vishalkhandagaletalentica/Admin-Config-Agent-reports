@@ -1,1 +1,0 @@
-The Pipeline View report is set to display 10 rows per page.

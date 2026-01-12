@@ -1,1 +1,0 @@
-The current default target for new On‑Time Delivery entries is 95%.

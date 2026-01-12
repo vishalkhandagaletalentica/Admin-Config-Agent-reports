@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question regarding the default sorting order. It accurately lists the sorting criteria, although it omits the phrase 'for the Milestone Chain View' from the Expected Output. This minor omission does not significantly detract from the overall correctness of the response.

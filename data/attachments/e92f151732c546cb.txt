@@ -1,1 +1,0 @@
-Please update the Print Font Size to FONT_LARGE.

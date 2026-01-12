@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Custom Task Text Field 8 — Common, Task -> Custom Task Text Fields', 'Task Text 8 (Custom Task Text Field) — Common -> Column Names', 'Custom Task Text Field 8 (checklist) — Common, Task -> Custom Task Text Fields Checklist'], 'value': None, 'section': None, 'entry': None, 'url': None}

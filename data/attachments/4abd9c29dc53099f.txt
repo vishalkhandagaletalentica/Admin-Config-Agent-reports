@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Chain View (Project Mgr) — Include Completed Tasks', 'Common -> Filter Names — Include Completed Tasks', 'Contractual Milestone Chain View (Project Mgr) — Include Completed Tasks'], 'value': None, 'section': None, 'entry': None, 'url': None}

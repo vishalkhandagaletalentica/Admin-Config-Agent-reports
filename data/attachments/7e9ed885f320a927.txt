@@ -1,1 +1,0 @@
-Please update the display name for Modified Date in column headers to "Last Modified".

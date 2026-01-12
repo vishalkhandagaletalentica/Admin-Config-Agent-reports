@@ -1,0 +1,1 @@
+The setting for Text1 has been successfully updated to disable the checklist display.

@@ -1,0 +1,1 @@
+The Actual Output is factually correct, confirming that multiple calendars are disabled for tasks, which aligns with the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions. The additional detail about the setting being enabled enhances clarity without detracting from the core answer.

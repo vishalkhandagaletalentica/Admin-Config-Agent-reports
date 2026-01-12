@@ -1,0 +1,1 @@
+There is no default sorting defined for checklist items in the Full Kit Report — no sort columns are selected.

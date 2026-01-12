@@ -1,1 +1,0 @@
-The column name of CustomText2 has been successfully updated to "NewColumnName".

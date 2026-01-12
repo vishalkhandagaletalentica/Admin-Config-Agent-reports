@@ -1,0 +1,1 @@
+Task Text 63 (Custom Task Text Field) in Planning Client -> Adv. Filter Field Mapping is set to Text63.

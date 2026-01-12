@@ -1,0 +1,1 @@
+Yes, advanced password validation is enabled.

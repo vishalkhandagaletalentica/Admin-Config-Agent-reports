@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '77d5b957-f1e8-49ed-bc61-36fb373f2e74', 'query': 'What is the column name for the Gate Due Date in the Executive Gate Report?'}

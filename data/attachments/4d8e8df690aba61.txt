@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '4aec0edb-33b2-414a-977e-e4d704887323', 'query': 'What is the current setting for enabling work card to subtask migration in the specified divisions?'}

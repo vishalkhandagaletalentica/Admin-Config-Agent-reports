@@ -1,0 +1,1 @@
+Update the column mapping for Text2 to 'New Item Description'.

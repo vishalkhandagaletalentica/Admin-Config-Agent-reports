@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it conveys that there is no default sorting order set for the Buffering page, which aligns with the Expected Output's implication that it is not specified. However, the wording differs slightly, which is acceptable, but the response could be more precise by directly stating that it is not specified, as in the Expected Output.

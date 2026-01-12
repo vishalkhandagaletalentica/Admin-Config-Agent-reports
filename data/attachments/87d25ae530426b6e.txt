@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '4f05580a-0552-474e-ab16-5d5e574788f8', 'query': 'Please set the Task Manager ID to a new value of "NEW_TASK_MANAGER_ID".'}

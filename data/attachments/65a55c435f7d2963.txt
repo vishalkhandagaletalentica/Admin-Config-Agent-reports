@@ -1,1 +1,0 @@
-The Roll up duration has been updated from "Roll up" to "Roll up new value".

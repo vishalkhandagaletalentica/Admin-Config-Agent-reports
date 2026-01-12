@@ -1,0 +1,1 @@
+I couldn't update the Column Order in Task List -> Col Order because no column definition was found for that section and entry (the system could not validate the $MULTILIST format). Please provide a valid column list or let me know how you'd like to proceed.

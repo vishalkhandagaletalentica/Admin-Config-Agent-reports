@@ -1,1 +1,0 @@
-The current title displayed for the Days Open column in the Execution Analysis Drilldown reports is "Days Open(d)".

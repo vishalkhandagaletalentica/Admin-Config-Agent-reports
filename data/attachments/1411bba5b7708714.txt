@@ -1,1 +1,0 @@
-The priority window (number of days) is set to 10.

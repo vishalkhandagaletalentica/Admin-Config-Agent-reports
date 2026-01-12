@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question, providing the correct title displayed for the Buffer Recovery issue type. However, it slightly deviates from the Expected Output by using 'shown' instead of 'displayed' and omitting quotation marks around the title, which affects the precision of the response.

@@ -1,0 +1,1 @@
+The Actual Output is factually correct regarding the automatic selection being disabled, aligning with the Expected Output. However, it incorrectly refers to the 'Full Kit Manager filter' instead of the 'Task Manager Filter,' which introduces a factual inaccuracy. Despite this, the response addresses the intent of the Input question directly.

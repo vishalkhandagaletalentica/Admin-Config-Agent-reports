@@ -1,0 +1,1 @@
+The Custom Line option is disabled for the On-Time Delivery report.

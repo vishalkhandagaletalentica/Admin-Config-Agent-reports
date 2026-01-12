@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'a50a57a8-a4b3-4395-be7a-806b03e83b29', 'query': 'Is the option to export the Global Resource File after running Buffer Management enabled?'}

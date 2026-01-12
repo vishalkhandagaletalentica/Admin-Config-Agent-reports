@@ -1,1 +1,0 @@
-The current setting for displaying the Penetrating Chain in the filtering pane is "New Penetrating Chain."

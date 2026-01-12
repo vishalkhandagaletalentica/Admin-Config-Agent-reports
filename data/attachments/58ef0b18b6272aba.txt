@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'd3dcbfae-1721-400d-a344-e260ac85d552', 'query': 'Please update the Feasible Start Date to a new value: Updated Feasible Start Date.'}

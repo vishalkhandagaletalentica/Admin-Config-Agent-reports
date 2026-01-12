@@ -1,0 +1,1 @@
+The Actual Output states that the default value is 10%, while the Expected Output specifies it as 20%. This factual inaccuracy directly contradicts the Expected Output, resulting in a complete misalignment with the evaluation steps regarding factual correctness.

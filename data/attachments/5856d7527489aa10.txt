@@ -1,1 +1,0 @@
-The current buffer consumption threshold is set to 300.

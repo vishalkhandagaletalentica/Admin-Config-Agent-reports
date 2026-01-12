@@ -1,1 +1,0 @@
-The current title displayed for the Work Day column in the reports is "Work Day."

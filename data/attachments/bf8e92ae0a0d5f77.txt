@@ -1,1 +1,0 @@
-The Rollup duration reduction setting in Buffer Management is disabled.

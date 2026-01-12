@@ -1,1 +1,0 @@
-The current mapping for Task Text 72 (Custom Task Text Field) in the Advanced Filter Field Mapping is "NewTaskText".

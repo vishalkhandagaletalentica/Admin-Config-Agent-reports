@@ -1,0 +1,1 @@
+I can only access and modify documented configuration settings. I cannot reveal hidden or undocumented configuration values. If you’d like, tell me a specific setting or area and I can show its available entries or current values, or help update it.

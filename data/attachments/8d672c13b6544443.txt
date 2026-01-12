@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'RULE3_ESCALATION', 'entry': 'PAST_HISTORY_PERIOD', 'url': None}

@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'THROUGHPUT_DRILLDOWN', 'entry': 'HIDDEN_FIELDS', 'url': None}

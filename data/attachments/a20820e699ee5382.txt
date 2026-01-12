@@ -1,1 +1,0 @@
-{'entryId': 1998, 'sectionId': 10, 'flags': 0, 'entryName': 'NO_ROUNDING', 'entryFriendlyName': 'no rounding', 'strValue': 'rounding', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'CC settings : Duration reduction - no rounding ', 'rangeList': None, 'validationRule': None, 'sequenceId': 139960.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

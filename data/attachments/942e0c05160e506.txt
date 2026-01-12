@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names: Resource Notes (for Subtask)', 'Task Mgr -> Task List -> Search Columns for Task Table: RESOURCE_NOTES', 'Project Mgr -> Search Columns for TLP by Project: RESOURCE_NOTES'], 'value': None, 'section': None, 'entry': None, 'url': None}

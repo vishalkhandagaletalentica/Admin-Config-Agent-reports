@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the start month of the fiscal year for the Metrics reports?'}, {'role': 'assistant', 'content': 'The fiscal year for Metrics reports starts in February (month 2).'}, {'role': 'user', 'content': 'Set it to 3'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

@@ -1,1 +1,0 @@
-The current display name for the URL/Name column header is "[your new value]".

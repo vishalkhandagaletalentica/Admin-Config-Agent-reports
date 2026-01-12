@@ -1,0 +1,1 @@
+The default sorting order for Task Level Priorities By Resource is: Task Type, Constraint Date.

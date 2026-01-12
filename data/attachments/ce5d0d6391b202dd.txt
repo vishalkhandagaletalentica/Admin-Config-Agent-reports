@@ -1,1 +1,0 @@
-The Custom Subtask Text Field 3 is set to "New Custom Text".

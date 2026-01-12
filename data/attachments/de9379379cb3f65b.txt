@@ -1,1 +1,0 @@
-Please update the default type of users listed for the selection of Task Managers dropdown to TEAM.

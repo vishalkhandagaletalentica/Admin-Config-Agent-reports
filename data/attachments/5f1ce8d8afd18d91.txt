@@ -1,0 +1,1 @@
+{'entryId': 141, 'sectionId': 10, 'flags': 0, 'entryName': 'PRIORITY_LEVEL', 'entryFriendlyName': 'Priority Level', 'strValue': 'Priority Level', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Priority Level', 'rangeList': None, 'validationRule': None, 'sequenceId': 102820.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

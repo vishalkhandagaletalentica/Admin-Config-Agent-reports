@@ -1,1 +1,0 @@
-The Text3 mapping was updated from "Invoice Number" to "Order Number".

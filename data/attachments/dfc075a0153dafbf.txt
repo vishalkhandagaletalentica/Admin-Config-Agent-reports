@@ -1,1 +1,0 @@
-The "Ignore IP sub task updates during Integration" option is currently enabled.

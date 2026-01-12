@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task Mgr → Subtask List (Sort By Priority Fields Within Windows Of)', 'Project Mgr → Task Level Priorities By Resource (Sort By Priority Fields Within Windows Of)', 'Task List → Common (Sort By Priority Fields Within Windows Of)'], 'value': None, 'section': None, 'entry': None, 'url': None}

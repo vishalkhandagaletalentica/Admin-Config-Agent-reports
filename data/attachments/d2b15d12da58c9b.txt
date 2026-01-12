@@ -1,0 +1,1 @@
+Entry mismatch: Sheet='TREND_INDICATOR_AGGREGATE', Metadata='TREND_INDICATOR'

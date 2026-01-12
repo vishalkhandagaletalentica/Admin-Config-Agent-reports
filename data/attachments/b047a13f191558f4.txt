@@ -1,0 +1,1 @@
+Chart Type for the On-Time Delivery report has been updated from Line to Bar.

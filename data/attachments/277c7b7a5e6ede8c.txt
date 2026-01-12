@@ -1,0 +1,1 @@
+Default number of items to expand changed from 15 to 25.

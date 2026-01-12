@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the number of weeks in the past included in the Executive Queues Drilldown report?'}, {'role': 'assistant', 'content': 'The Executive Queues Drilldown report includes the past 8 weeks.'}, {'role': 'user', 'content': 'Update it to 12'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

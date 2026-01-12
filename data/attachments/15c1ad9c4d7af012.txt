@@ -1,0 +1,1 @@
+The “Include Committed, In Queue Projects” setting in Resource Mgr -> Sand Chart is enabled, and it controls whether load from Committed and In Queue projects is shown in the Sand Chart report. Would you like me to check the same setting under the Resource L:C/Resource reports (to see if it controls View Resource L:C and View Tasks By Resource)?

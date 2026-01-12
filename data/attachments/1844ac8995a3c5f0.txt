@@ -1,3 +1,0 @@
-The command to update the Default Column Width (in px) is invalid because the provided value 'abcde' is not a valid integer. The expected type is an integer value representing the width in pixels. 
-
-For example, a correct command would be: update Default Column Width (in px) to 200.

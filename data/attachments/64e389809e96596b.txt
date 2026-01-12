@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the TargetStreamId to 12345.'}, {'role': 'assistant', 'content': 'Which configuration section contains the TargetStreamId you want to update?'}, {'role': 'user', 'content': 'The section name is Subtask Excel, and the entry name is TargetStreamId.'}, {'role': 'assistant', 'content': 'The value should be a string.'}]

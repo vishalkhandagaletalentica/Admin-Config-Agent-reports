@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Project Control (Project Control report)', 'Project Mgr -> Milestone Report (Milestone report)', 'Project Mgr -> Modify Projects (Modify Projects feature)', 'Metrics -> Pipelining Drilldown (Pipelining drilldown report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

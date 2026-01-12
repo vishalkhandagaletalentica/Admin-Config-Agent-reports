@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'update Column Order set value to 12345;'}, {'role': 'assistant', 'content': 'Which entry within the "Column Order" section would you like to update to 12345?'}, {'role': 'user', 'content': 'Update the column order in the report to 12345.'}, {'role': 'assistant', 'content': "Which report's Column Order should I update to 12345? Please choose one:"}]

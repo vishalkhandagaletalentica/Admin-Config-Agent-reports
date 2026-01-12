@@ -1,1 +1,0 @@
-The Cycle Time report is set to include the past 5 months.

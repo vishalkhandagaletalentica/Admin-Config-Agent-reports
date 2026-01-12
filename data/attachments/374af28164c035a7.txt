@@ -1,1 +1,0 @@
-The filter name "User And Team" has been updated to "User Team Filter".

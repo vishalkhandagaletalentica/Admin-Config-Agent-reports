@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Integration -> Task: Text2 (Column name of TEXT2)', 'Common -> Column Names: Text2 (Column Name for Text2 in Task Checklist)', 'Integration -> Task: Text2 (for Full Kit Task Checklist)'], 'value': None, 'section': None, 'entry': None, 'url': None}

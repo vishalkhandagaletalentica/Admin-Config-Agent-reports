@@ -1,1 +1,0 @@
-The column heading for Milestone Task is "New Milestone".

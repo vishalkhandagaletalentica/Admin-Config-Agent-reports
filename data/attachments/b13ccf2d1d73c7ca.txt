@@ -1,0 +1,1 @@
+Text1 column mapping updated from "New Column Title" to "NewChecklistValue".

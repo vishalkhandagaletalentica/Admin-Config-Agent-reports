@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': {'old': 'enabled', 'new': 'disabled'}, 'section': 'CriticalChain', 'entry': 'ReduceTaskSwitching', 'url': None}

@@ -1,0 +1,1 @@
+Yes, the option to export task and subtask data as Excel is enabled.

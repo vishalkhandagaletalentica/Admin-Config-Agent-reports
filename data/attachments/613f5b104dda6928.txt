@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Buffer Diagnostics', 'Program Mgr', 'Resource Needs'], 'value': None, 'section': None, 'entry': None, 'url': None}

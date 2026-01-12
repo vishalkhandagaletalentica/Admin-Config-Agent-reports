@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the TEXT_28 setting to 12345.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "TEXT_28" setting?'}, {'role': 'user', 'content': 'The section name is "Text columns."'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

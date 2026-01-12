@@ -1,1 +1,0 @@
-The Actual Output acknowledges a rejection of the column order but fails to provide the specific reason for the invalidity as outlined in the Expected Output. While it addresses the intent of the Input by discussing column order, it does not clarify the expected type or provide examples of valid values, which are critical details missing from the response.

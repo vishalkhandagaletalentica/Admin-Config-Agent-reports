@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Common -> Filter Names (display title)', 'Bulk Import (bulk import settings)', 'Common -> Column Names (column heading)', 'Common -> Project Attribute Type and status (attribute type/status)'], 'value': None, 'section': None, 'entry': None, 'url': None}

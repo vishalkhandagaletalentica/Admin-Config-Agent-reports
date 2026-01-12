@@ -1,1 +1,0 @@
-The current display name for unchanged items in the filters of the Pipeline View report is enabled.

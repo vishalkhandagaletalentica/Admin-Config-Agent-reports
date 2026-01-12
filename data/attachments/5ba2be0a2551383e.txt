@@ -1,0 +1,1 @@
+The default sort order is: Document Access Links, Disable Auto Document Link, Project Name.

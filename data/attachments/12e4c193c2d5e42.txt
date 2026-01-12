@@ -1,1 +1,0 @@
-I couldn't find a configuration entry that explicitly represents the overall Buffer Diagnostics process state. Do you want me to check the 'In Process' flag for Buffer Diagnostics, or provide the exact section and entry name to check?

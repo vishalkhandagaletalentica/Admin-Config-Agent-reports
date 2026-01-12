@@ -1,1 +1,0 @@
-The current settings for the resources with units that can be searched are: TASK_RESOURCES_LIST.

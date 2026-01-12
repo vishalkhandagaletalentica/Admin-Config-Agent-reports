@@ -1,1 +1,0 @@
-The current setting for the custom task text field 7 is CUSTOM_TASK_TEXT7.

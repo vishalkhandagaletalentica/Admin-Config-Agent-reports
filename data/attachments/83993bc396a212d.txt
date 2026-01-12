@@ -1,1 +1,0 @@
-The Ready To Start indicator is set to "Not Ready To Start" — the predecessors-completed indicator is not enabled.

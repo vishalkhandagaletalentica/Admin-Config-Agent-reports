@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '713f9cf8-3683-43db-8289-339a839afe53', 'query': 'Please update the setting to disable Windows Logon for Concerto Pipeline Client.'}

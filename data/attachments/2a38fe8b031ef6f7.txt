@@ -1,0 +1,1 @@
+The mistake is a type mismatch, as the expected value type is float but the provided value is a string ('xyz'); a corrected example could be a float value like 3.14.

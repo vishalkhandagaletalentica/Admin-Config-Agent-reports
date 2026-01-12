@@ -1,1 +1,0 @@
-The Sand Chart is currently set to 1 digit for fractional rounding in the load calculation.

@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the ColorPriority0 setting to the value G.'}, {'role': 'assistant', 'content': 'Which configuration section contains the ColorPriority0 setting?'}, {'role': 'user', 'content': 'The section name is Buffer Management.'}, {'role': 'assistant', 'content': 'ColorPriority0 in Buffer Priorities was updated from R to G.'}]

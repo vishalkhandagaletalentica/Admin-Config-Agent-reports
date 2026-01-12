@@ -1,0 +1,1 @@
+The title displayed for the File Type column is Document.

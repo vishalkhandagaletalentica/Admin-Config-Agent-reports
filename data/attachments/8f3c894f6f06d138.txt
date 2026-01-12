@@ -1,0 +1,1 @@
+The Actual Output does not align with the Expected Output as it lists unrelated items that do not match the filters specified for the Full Kit Delay report. It fails to address the intent of the Input question, which was to confirm the filters to be displayed, resulting in a completely irrelevant response.

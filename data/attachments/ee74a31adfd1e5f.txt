@@ -1,0 +1,1 @@
+Project Attribute 6 in the Common -> Filter Names section has been updated from "Project Attribute 6" to "New Project Title".

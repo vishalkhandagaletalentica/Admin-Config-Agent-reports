@@ -1,0 +1,1 @@
+The color priority for DBR project type is R.

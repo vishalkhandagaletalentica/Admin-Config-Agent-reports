@@ -1,1 +1,0 @@
-The Gate column name has been updated to "New Gate".

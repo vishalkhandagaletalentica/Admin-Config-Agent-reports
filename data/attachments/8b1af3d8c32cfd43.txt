@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Actual Duration (for SubTask) — Common -> Column Names', 'Actual Duration — Common -> Column Names', 'Subtask Duration in Hours — SubTask -> Common'], 'value': None, 'section': None, 'entry': None, 'url': None}

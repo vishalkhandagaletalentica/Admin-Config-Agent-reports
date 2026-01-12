@@ -1,0 +1,1 @@
+Not always — whether a comment is required when you change dates depends on your system's change policy and the specific configuration entry. If you mean a particular setting, tell me which configuration (section and entry) and I can check the entry's rules.

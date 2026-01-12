@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '341d8fd6-8e3d-47b8-8612-b2b919987af4', 'query': 'Please update the column name for Delta CT to "Delta Measurement".'}

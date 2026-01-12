@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Column Order (Task List -> Col Order)', 'Order By (Executive -> Project Status)', 'Sort Order (Buffer Diagnostics -> Tasks Drilldown From Reason)'], 'value': None, 'section': None, 'entry': None, 'url': None}

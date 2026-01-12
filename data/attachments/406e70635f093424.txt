@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names: Resource Manager (filter pane title)', 'Common -> Column Names: Resource Manager (column heading)', 'Resource Mgr -> Resource L:C: Automatically Load Resource L:C Report'], 'value': None, 'section': None, 'entry': None, 'url': None}

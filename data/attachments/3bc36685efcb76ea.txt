@@ -1,1 +1,0 @@
-The current display name for the Move feeding Buffer option is "New Feeding Buffer."

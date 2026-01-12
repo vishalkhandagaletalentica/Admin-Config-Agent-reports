@@ -1,0 +1,1 @@
+I couldn't apply the new column order for the Task Mgr -> Subtask List because the system could not find the column definitions needed to validate the update. Please check that the column labels you provided match the report's available columns, or provide the full list of labels as they appear in the UI so I can try again.

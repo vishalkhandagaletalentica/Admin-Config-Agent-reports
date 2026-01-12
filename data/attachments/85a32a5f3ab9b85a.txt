@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by providing the correct column mapping for Remaining Duration. It aligns perfectly with the Expected Output in terms of factual content, despite a slight difference in phrasing. There are no incorrect facts or unrelated entries introduced.

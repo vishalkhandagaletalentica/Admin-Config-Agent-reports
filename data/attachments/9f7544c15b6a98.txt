@@ -1,1 +1,0 @@
-The current title displayed for the Planned Weight column is "New Planned Weight."

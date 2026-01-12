@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PLANNING_CLIENT_TABLE_VIEW_FLOAT', 'entry': 'FLOAT_COL_PRESET3_NAME', 'url': None}

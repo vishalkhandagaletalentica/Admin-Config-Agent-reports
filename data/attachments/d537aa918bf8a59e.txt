@@ -1,1 +1,0 @@
-{'entryId': 188, 'sectionId': 10, 'flags': 0, 'entryName': 'CHECKIN_MPDVERSION', 'entryFriendlyName': 'MS Project File Version', 'strValue': '1.0', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'MS Project File Version.', 'rangeList': None, 'validationRule': None, 'sequenceId': 103760.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

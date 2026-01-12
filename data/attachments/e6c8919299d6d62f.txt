@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Diagnostics -> Pen Chains', 'Full Kit Mgr -> Full Kit Report', 'Resource Mgr -> Sand Chart', 'A different report'], 'value': None, 'section': None, 'entry': None, 'url': None}

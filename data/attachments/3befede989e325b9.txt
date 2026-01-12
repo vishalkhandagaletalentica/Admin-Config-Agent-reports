@@ -1,0 +1,1 @@
+What is the number of periods used to calculate the rolling average in the Actual Delay report?

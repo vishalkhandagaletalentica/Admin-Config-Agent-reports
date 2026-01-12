@@ -1,1 +1,0 @@
-The current title for the custom task date field in the column headings is Date30Updated.

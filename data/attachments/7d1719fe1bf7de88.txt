@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is string, so the correct update command should use a string format like `"[{\"key\":\"TREND_INDICATOR\",\"label\":\"Trend\",\"present\":false}, ...]"`.

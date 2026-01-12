@@ -1,1 +1,0 @@
-{'entryId': 2081, 'sectionId': 132, 'flags': 0, 'entryName': 'SUBTASK_VIEW_COMPACT', 'entryFriendlyName': 'Compact View Name', 'strValue': 'Compact View', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Compact View Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 1361620.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

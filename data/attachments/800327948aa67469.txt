@@ -1,1 +1,0 @@
-Sort By Priority Fields Within Windows Of is set to 5. Description: Used to group the display of Red, Yellow and Green tasks (priority fields) within windows; the numeric value determines the window size (0–9999).

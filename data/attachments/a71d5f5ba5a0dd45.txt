@@ -1,1 +1,0 @@
-The Yellow Feeding Buffer priority is 10.

@@ -1,0 +1,1 @@
+The default rolling average period in the Cycle Time report is 8 periods.

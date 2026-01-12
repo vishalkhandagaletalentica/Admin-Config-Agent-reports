@@ -1,0 +1,1 @@
+Yes — the Resource L:C report displays load from both Committed and In Queue projects.

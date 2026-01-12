@@ -1,1 +1,0 @@
-The current title displayed for comments in the column headings is "Comments."

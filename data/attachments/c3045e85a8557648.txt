@@ -1,1 +1,0 @@
-set Field Delimiter to 12345

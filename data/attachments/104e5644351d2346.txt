@@ -1,1 +1,0 @@
-Updated the file type filter display name to "Document Type."

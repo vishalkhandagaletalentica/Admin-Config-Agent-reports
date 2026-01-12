@@ -1,0 +1,1 @@
+Yes — exporting reports to MS Excel 2003 or higher is enabled.

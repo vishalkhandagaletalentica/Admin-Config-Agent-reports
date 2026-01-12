@@ -1,0 +1,1 @@
+The columns hidden in the report for the Stuck Task List widget are Project Name, Task Unique ID, Task Description, Task Manager ID, Escalation Delay, and Est Rem Dur.

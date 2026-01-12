@@ -1,0 +1,1 @@
+Yes, the Contractual Milestone Filter is enabled for the Project Status view.

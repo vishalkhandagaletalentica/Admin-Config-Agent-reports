@@ -1,1 +1,0 @@
-The Actual Output provides a title that is factually incorrect compared to the Expected Output, as it does not match the expected title 'NS, Delta Buff Cnsmd.' Additionally, the response partially addresses the intent of the question but fails to deliver the correct information, leading to a significant deduction in points.

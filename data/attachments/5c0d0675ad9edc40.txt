@@ -1,3 +1,0 @@
-The command is invalid because the value type for 'Custom Task Text Field 7' is set to 2, which indicates it requires a numeric value (either an integer or a float), not a string like 'abcde'. Please provide an appropriate numeric value. 
-
-For example, you could use a command like: `update Custom Task Text Field 7 set value to 123`.

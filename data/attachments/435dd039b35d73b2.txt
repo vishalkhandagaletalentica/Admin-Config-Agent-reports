@@ -1,1 +1,0 @@
-The hidden columns for that Task Manager report are: 12345.

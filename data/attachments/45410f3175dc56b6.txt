@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['% Chain complete (column title)', 'Chain Complete (column title)', 'Move Feeding Chain % (scheduling)'], 'value': None, 'section': None, 'entry': None, 'url': None}

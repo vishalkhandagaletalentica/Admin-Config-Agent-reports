@@ -1,0 +1,1 @@
+The columns hidden in the throughput drill down report are Included, Bar Color, Project Name, Project Weight, Planned Date, Due Date, New Est. Date, Project Type, Project Manager, Status, Updated Product Code, End User - Broker, Portfolio, New Planned Start, and Buffer Cnsmd.

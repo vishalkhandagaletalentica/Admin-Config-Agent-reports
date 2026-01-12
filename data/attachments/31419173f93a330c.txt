@@ -1,1 +1,0 @@
-The Buffer Management timeout is 1.

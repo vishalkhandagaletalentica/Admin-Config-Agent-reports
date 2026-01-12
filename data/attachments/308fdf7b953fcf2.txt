@@ -1,0 +1,1 @@
+The title displayed for the amount of days the task is in progress is "Task Duration."

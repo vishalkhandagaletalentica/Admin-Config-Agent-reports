@@ -1,0 +1,1 @@
+Please update the setting to disable the error display during the commit of the project. Set it to no.

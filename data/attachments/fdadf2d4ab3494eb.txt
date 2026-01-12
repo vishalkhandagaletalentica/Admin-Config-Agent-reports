@@ -1,1 +1,0 @@
-The Move Feeding Buffers realignment fixed size is 5 days.

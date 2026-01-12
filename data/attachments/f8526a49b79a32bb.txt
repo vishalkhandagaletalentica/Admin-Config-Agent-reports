@@ -1,1 +1,0 @@
-The buffering settings for Committed and In Queue are currently disabled.

@@ -1,0 +1,1 @@
+Which setting in the Actual Delay report would you like to view the current value for? (e.g., Show Rolling Average, Compute Delay Against, Date Range, Display Project List In Print Preview, Filters Available, Filters To Display, Show Weighted Average Delay, Time Interval, Default Rolling Average Period)

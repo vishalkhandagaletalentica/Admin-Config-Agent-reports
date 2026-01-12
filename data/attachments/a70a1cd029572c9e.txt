@@ -1,0 +1,1 @@
+{'entryId': 1566, 'sectionId': 10, 'flags': 1, 'entryName': 'WORK_CARD_ID', 'entryFriendlyName': 'Work Card ID', 'strValue': 'Work Card Number', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Work Card ID.', 'rangeList': None, 'validationRule': None, 'sequenceId': 131320.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

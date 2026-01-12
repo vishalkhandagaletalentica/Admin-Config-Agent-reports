@@ -1,1 +1,0 @@
-What is the current title being displayed for the Resource Manager in the filtering pane?

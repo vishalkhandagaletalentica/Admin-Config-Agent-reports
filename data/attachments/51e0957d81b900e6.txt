@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '5f473286-9137-4fcf-87e4-a9ee2cdaa900', 'query': 'What’s the value of the column title that shows the additional buffer needed for the Project End or Contractual Milestone in Pipeline Web?'}

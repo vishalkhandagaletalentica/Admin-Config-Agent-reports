@@ -1,0 +1,1 @@
+What is the display name for the Average Days Escalated in the Issue Resolution chart?

@@ -1,0 +1,1 @@
+Please set the Column Order to 'A-USER_NAME,D-REGISTRATION_DATE'.

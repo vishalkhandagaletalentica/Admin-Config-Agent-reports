@@ -1,0 +1,1 @@
+The filter name "7 days" was updated from 14 days to 7 days.

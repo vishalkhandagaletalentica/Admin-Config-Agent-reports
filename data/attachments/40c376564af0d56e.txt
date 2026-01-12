@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '03ddfdc7-5f5f-4479-b9bf-496789ba173d', 'query': 'Please update the Enable Pipeline Simulation setting to disabled.'}

@@ -1,1 +1,0 @@
-The Pipeline View report is currently set to a 2 Months horizon.

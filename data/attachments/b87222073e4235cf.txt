@@ -1,1 +1,0 @@
-The current filter name for Constraint Divisions is "New Constraint Divisions."

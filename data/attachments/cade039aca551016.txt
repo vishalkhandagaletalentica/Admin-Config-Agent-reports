@@ -1,8 +1,0 @@
-The following filters are set not to display in the Pipeline View report:
-- New Product Code (Category)
-- Design Team Needed (Attribute 1)
-- Project Attribute 5 (Attribute 2)
-- Project Attribute 6 (Attribute 3)
-- New Project Attribute Value (Attribute 4)
-- [insert new value here] (Attribute 5)
-- New Buffer Trend (Buffer Trend)

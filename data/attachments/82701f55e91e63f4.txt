@@ -1,1 +1,0 @@
-The current title for Projected Cycle Time is "Estimated Cycle Duration (d)".

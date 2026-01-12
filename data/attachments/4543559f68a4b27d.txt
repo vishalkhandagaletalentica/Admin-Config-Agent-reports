@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '7e2a20d1-f218-49c0-b1cd-4ab3596916ab', 'query': 'The section name is "Mapping Fields for CSV/Excel Import" and the entry name is "SNET Date mapping."'}

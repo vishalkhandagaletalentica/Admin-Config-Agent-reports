@@ -1,0 +1,1 @@
+The Actual Output correctly identifies most of the hidden columns but introduces an incorrect entry '[insert new value here]' which is not part of the Expected Output. Additionally, it omits 'Longest Path Filter', which is a key detail from the Expected Output. Overall, it partially addresses the intent of the question but contains inaccuracies.

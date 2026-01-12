@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names: Period Type for Purchasing Tasks', 'Metrics -> Task Mgt: Period Type For Purchasing Tasks (allowed values: Day, Week)'], 'value': None, 'section': None, 'entry': None, 'url': None}

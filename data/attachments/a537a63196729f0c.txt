@@ -1,0 +1,1 @@
+Please update the Fixed Capacity Buffer (Days) to a new value of 10.

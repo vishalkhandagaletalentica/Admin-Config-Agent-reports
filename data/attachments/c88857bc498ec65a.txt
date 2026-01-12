@@ -1,0 +1,1 @@
+No — the color display for Resource Mgr ->  Resource Needs (Show Color) is disabled.

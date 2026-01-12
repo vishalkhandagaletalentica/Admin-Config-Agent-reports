@@ -1,1 +1,0 @@
-The Actual Output does not provide a valid value for the 'Editable Fields' as requested in the Input. Instead, it asks a question about what value to set, which does not address the intent of the Input. While it correctly lists the allowed keys, it fails to confirm the validity of a specific value or provide an example command, as seen in the Expected Output.

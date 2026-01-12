@@ -1,1 +1,0 @@
-The current title displayed for the Preclude Float Allocation column in the reports is PFA_NEW.

@@ -1,0 +1,1 @@
+The display name for Work In Process in the filters is In Progress.

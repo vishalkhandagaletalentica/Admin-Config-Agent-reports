@@ -1,0 +1,1 @@
+No, the separator after each sort window in the report is disabled.

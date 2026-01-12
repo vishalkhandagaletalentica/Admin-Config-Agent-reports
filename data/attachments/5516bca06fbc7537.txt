@@ -1,3 +1,0 @@
-The command is invalid because the value type is 3, which indicates that an integer value is expected. However, you provided a string value 'xyz'. Please provide an integer value within the allowed range, which is typically a non-negative integer. 
-
-For example, you could use the command: `update Include Compliant Full Kit Task Managers set value to 1;`

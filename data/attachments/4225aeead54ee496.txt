@@ -1,0 +1,1 @@
+I couldn’t apply the update to the "Filters available" setting for Task List -> Project Mgr because I don’t have permission to change configuration values.

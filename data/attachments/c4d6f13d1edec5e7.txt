@@ -1,0 +1,1 @@
+Update the display name for Monthly in Filters to Monthly News.

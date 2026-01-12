@@ -1,1 +1,0 @@
-{'entryId': 1251, 'sectionId': 76, 'flags': 0, 'entryName': 'CUSTOM_TASK_TEXT9', 'entryFriendlyName': 'Text9', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Display checklist for Custom Text9.', 'rangeList': None, 'validationRule': None, 'sequenceId': 785020.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

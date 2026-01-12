@@ -1,0 +1,1 @@
+The current column order is: Trend, Project Name, Due Date, Delay, Projected Date, New Planned Start, Critical Task, Trend Chart, Color, Status, Planned Date, Highest Priority Level, Highest Priority Level Consumption, Last Update, New Update Compliance, New Additional Details.

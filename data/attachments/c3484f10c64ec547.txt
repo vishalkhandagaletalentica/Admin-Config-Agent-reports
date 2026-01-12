@@ -1,0 +1,1 @@
+The ColorPriority2 setting in Buffer Priorities is set to A.

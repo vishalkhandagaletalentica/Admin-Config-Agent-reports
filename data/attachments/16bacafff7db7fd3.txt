@@ -1,1 +1,0 @@
-The filter name for the Display Past portion of Display Past x Periods has been updated from "Display Past Periods" to "Past Timeframes".

@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it conveys the same meaning as the Expected Output, despite a slight difference in wording ('End of the Day' vs. 'End of Today'). It directly addresses the intent of the Input question, providing the correct filter name. However, the minor discrepancy in phrasing prevents a perfect score.

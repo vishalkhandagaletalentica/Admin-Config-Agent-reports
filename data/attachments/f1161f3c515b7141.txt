@@ -1,0 +1,1 @@
+The column name for Chain Complete/Buffer Consumed in the Executive Gate drilldown report is Buffer Utilization.

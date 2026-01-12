@@ -1,0 +1,1 @@
+The Purchase Dates Integration report uses the delimiter: 67890.

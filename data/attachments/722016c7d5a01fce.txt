@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Buffer Diagnostics → Pen Chains — Filters Available', 'Full Kit Mgr → Full Kit Report — Filters Available', 'Buffer Diagnostics → By Help Needed — Filters Available'], 'value': None, 'section': None, 'entry': None, 'url': None}

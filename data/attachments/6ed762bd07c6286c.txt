@@ -1,1 +1,0 @@
-The current title displayed for Work Card Supportable is "Not Supportable".

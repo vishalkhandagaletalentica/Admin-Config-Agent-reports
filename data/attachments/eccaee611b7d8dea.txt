@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, and allowed values are Weekly, Monthly, Quarterly. Please update the command to: Please update the Time Interval setting to Quarterly.

@@ -1,0 +1,1 @@
+The maximum number of chains that can be selected in the Gantt view is 15.

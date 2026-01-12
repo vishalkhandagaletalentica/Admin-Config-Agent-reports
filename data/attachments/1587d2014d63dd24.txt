@@ -1,0 +1,1 @@
+The Actual Output correctly states the buffer consumption threshold value as 400, which aligns with the Expected Output. However, the phrase 'Ignore Buffer Consumed Value' is unnecessary and could be seen as slightly confusing, which prevents a perfect score.

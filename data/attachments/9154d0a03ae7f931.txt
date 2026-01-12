@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Executive -> Project Status (SHOW_PROJECT_LABELS in SGD_PIPELINE_CONTROL)', 'Project Mgr -> Project Status (PROJECTLABELS in SGD_EXEC_STATUS_REPORT)'], 'value': None, 'section': None, 'entry': None, 'url': None}

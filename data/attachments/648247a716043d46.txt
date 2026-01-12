@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please set the column name of TEXT2 to a new value.'}, {'role': 'assistant', 'content': 'What value would you like to set for the Text2 column name?'}, {'role': 'user', 'content': 'Please set the column name of TEXT2 to "New Value".'}, {'role': 'assistant', 'content': 'The Text2 column name was updated from "" to "New Value".'}]

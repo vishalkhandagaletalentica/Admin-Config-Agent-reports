@@ -1,1 +1,0 @@
-The current mapping for the Custom Task Date Field 20 in the advanced filter is Number20.

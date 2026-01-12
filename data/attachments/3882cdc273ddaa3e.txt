@@ -1,0 +1,1 @@
+Yes, the option to reduce task switching in the Critical Chain client is enabled.

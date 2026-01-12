@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Task Mgt (Period Type For Purchasing Tasks)', 'Common -> Filter Names (Period Type for Purchasing Tasks)'], 'value': None, 'section': None, 'entry': None, 'url': None}

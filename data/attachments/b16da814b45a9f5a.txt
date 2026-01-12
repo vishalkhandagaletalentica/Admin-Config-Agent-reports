@@ -1,0 +1,1 @@
+{'entryId': 669, 'sectionId': 9, 'flags': 0, 'entryName': 'Shift3Finish', 'entryFriendlyName': 'Shift 3 Finish', 'strValue': 'New Finish Value', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 103380.0, 'groupOrMerge': '$MERGE:Shift3Start', 'attributeFlag': 0.0, 'attrBack': ''}

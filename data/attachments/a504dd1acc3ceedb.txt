@@ -1,1 +1,0 @@
-The option to display Actual Delay data is currently disabled.

@@ -1,1 +1,0 @@
-The current column order in the Pipeline View report is Description, Status, Delay, Buffer Cnsmd, Longest Chain Complete, Trend, FK Description.

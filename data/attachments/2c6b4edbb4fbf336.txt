@@ -1,0 +1,1 @@
+The total number of tasks that have a duration greater than the specified percentage of the project length is 20.

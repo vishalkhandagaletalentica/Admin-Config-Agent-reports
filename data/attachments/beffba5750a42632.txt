@@ -1,1 +1,0 @@
-The current title for the manually modified column in the buffering drilldown report is "Updated Buffer Name."

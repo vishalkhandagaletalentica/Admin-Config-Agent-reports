@@ -1,0 +1,1 @@
+{'entryId': 2767, 'sectionId': 10, 'flags': 0, 'entryName': 'ACTIVITY_PRIORITY_CODE', 'entryFriendlyName': 'Activity Priority Code', 'strValue': 'Priority Code', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Activity Priority Code', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

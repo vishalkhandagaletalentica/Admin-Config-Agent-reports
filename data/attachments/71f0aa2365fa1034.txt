@@ -1,1 +1,0 @@
-No, the Project Wait Time is not included in the Cycle Time report.

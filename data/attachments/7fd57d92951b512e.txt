@@ -1,0 +1,1 @@
+The display name for Subprojects in the filtering pane is "New Subprojects".

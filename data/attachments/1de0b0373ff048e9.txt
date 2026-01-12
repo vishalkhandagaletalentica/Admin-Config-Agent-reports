@@ -1,0 +1,1 @@
+The filter name is "PenCentage of Max Buffer Pen" and its current value is 50%.

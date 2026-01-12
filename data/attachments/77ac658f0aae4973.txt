@@ -1,1 +1,0 @@
-Section mismatch: Sheet='SGD_HEADER_NAMES', Metadata='SGD_COLUMN_NAMES'

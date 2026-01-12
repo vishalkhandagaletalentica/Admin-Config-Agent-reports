@@ -1,3 +1,0 @@
-The command is invalid because the value 'abcde' is of the wrong type; it should be an integer between 0 and 5. Please provide a valid integer within this range. 
-
-For example, you could use the command: `update Fractional Rounding Digits set value to 3`.

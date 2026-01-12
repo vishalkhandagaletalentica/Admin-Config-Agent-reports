@@ -1,1 +1,0 @@
-The current setting for the external project name in the Earned Hours Report is ATTRIBUTE2.

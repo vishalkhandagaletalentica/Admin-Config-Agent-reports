@@ -1,1 +1,0 @@
-The Project List display in the Pipelining report's Print Preview has been disabled.

@@ -1,0 +1,1 @@
+The Actual Output correctly states the surge capacity as 75, which aligns with the Expected Output. However, it lacks the phrasing 'percentage set for additional capacity' found in the Expected Output, which slightly diminishes clarity. Overall, it addresses the intent of the Input question effectively.

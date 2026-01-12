@@ -1,0 +1,1 @@
+The automatic loading of Resource L:C Data is disabled when you click the Resource Mgr Tab.

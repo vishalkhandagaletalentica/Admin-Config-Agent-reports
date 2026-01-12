@@ -1,0 +1,1 @@
+The setting "Show Users And Teams From All Divisions in Assign Participants Dialog" in Full Kit Report is now disabled.

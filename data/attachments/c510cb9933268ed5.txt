@@ -1,1 +1,0 @@
-Updated the filter display name from "Peak L:C" to "Peak Load Capacity".

@@ -1,0 +1,1 @@
+The Actual Output states that the title displayed is 'Supportable', which is factually correct as it matches the Expected Output. However, it fails to mention the context of 'Work Card Supportable' as specified in the Input, which is essential for fully addressing the intent of the question. This omission leads to a partial answer, resulting in a deduction of points.

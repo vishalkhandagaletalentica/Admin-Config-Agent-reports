@@ -1,1 +1,0 @@
-The Response column title is "Response (d)".

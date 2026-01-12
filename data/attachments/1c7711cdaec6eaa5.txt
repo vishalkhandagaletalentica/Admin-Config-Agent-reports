@@ -1,1 +1,0 @@
-The current limit for float (Float Group D) used in resource leveling is 82%.

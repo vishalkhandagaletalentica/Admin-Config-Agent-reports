@@ -1,1 +1,0 @@
-The current title displayed for the Total Gap In Chain in the reports is "Total Gap In Chain."

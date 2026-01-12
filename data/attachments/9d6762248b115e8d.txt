@@ -1,1 +1,0 @@
-The current title for the Every Month End filter is "Monthly Summary."

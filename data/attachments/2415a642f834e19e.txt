@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the display name for the Project Task UID and Description in the headers?'}, {'role': 'assistant', 'content': 'Do you mean the header names section (the place that controls column/header display names)?'}, {'role': 'user', 'content': 'Yes, please proceed.'}, {'role': 'assistant', 'content': 'The display name is "Task UID and Description".'}]

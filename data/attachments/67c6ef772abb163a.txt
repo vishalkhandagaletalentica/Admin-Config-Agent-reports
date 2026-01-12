@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the value of the Red Milestone Buffer priority?'}, {'role': 'assistant', 'content': 'The Red Milestone Buffer priority is 2.'}, {'role': 'user', 'content': 'Update it to 3'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

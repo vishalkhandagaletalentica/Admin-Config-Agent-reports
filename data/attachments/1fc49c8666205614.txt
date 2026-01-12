@@ -1,1 +1,0 @@
-The current name of the filter for purchasing tasks is "New Purchasing Tasks."

@@ -1,0 +1,1 @@
+Yes — the logged-in user is automatically selected in the Task Manager Filter (enabled).

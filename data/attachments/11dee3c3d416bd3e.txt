@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Pen/%Complete Graph — Yellow threshold for CMSB (Yellow Y intercept at 100 X)', 'Buffer Pen/%Complete Graph — Yellow threshold for CCFB (Yellow Y intercept at 100 X)', 'DBR — Yellow threshold for CCCB (Yellow Y intercept at 100 X)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+Is the link to the external system visible in the Task List and Chain view reports?

@@ -1,1 +1,0 @@
-Understood — the Buffer Management section corresponds to Buffer Priorities, and ColorPriority5 (in that section) is currently set to H.

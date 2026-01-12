@@ -1,0 +1,1 @@
+Yes — "Make Comments mandatory for Date Change" is enabled (comments are required when dates are changed).

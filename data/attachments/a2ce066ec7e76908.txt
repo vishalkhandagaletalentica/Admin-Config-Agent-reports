@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Common -> Filter Names — Project Attribute 7 (filter title)', 'Common -> Column Names — Project Attribute 7 (column heading)', 'Bulk Import — Project Attribute 7 (bulk import label)'], 'value': None, 'section': None, 'entry': None, 'url': None}

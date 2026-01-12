@@ -1,1 +1,0 @@
-The Portfolio setting under Bulk Import is currently empty.

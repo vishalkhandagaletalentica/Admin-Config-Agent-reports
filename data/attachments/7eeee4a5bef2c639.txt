@@ -1,0 +1,1 @@
+Is the option for IMS tasks to have only zero duration enabled?

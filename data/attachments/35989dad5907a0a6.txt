@@ -1,0 +1,1 @@
+Yes — periodic password expiration is enabled.

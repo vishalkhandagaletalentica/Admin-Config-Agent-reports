@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Planning Client -> Adv. Filter Field Mapping (Debuf Chain Len)', 'Common -> Column Names (Debuf Chain Len)'], 'value': None, 'section': None, 'entry': None, 'url': None}

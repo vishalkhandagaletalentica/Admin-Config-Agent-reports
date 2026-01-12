@@ -1,1 +1,0 @@
-The setting for updating the expected finish date for FK tasks is disabled.

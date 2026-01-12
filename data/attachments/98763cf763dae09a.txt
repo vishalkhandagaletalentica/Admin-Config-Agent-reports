@@ -1,0 +1,1 @@
+Updated the display name for Information in column headers to "Details".

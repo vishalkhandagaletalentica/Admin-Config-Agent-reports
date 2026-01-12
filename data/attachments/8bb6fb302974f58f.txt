@@ -1,0 +1,1 @@
+Print Font Size has been updated from FONT_LARGE to FONT_MEDIUM.

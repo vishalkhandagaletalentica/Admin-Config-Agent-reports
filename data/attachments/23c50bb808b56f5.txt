@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'fad1ee28-48d0-42a8-aa28-86d3fe32adcc', 'query': 'Please update the setting to disable the display of Completed Contractual Milestones in the Project Status report.'}

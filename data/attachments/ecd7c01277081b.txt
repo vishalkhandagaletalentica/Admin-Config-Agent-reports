@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Committed, In Queue setting to enabled.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Committed, In Queue” setting?'}, {'role': 'user', 'content': 'The section name is Pipeline View.'}, {'role': 'assistant', 'content': 'Committed, In Queue has been enabled.'}]

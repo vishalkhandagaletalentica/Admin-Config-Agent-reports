@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it conveys that auto saving revisions on schedule is disabled, aligning with the Expected Output. However, the phrasing 'No — Autosave Revision on Schedule is disabled' introduces a slight deviation in wording and structure, which could be seen as less concise. Overall, it directly addresses the intent of the Input question.

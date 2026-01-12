@@ -1,1 +1,0 @@
-Tasks are now included in the Batch Printing report.

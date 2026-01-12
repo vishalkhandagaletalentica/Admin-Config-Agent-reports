@@ -1,1 +1,0 @@
-What is the current title displayed for the Previous Critical Task in the Gantt view?

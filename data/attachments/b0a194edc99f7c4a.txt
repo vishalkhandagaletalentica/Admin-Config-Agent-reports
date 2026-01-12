@@ -1,0 +1,1 @@
+{'entryId': 1439, 'sectionId': 11, 'flags': 1, 'entryName': 'EUROPEAN', 'entryFriendlyName': 'European', 'strValue': 'EU Region 2024', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for European.', 'rangeList': None, 'validationRule': None, 'sequenceId': 138780.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

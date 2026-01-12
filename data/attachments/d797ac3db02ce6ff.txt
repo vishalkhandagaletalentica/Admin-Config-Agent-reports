@@ -1,0 +1,1 @@
+Filters available to display: New Kit Manager, Portfolio, New Product Code, Customer, New Full Kit Task Desc, Design Team Needed, Project Attribute 5, Project Attribute 6, New Project Attribute Value, [insert new value here]

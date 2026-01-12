@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': "Is using the server date as today's date enabled?"}, {'role': 'assistant', 'content': "Yes — using the server date as today's date is enabled."}, {'role': 'user', 'content': 'Update this setting to disabled.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

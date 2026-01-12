@@ -1,1 +1,0 @@
-The temporary table used by the Subtask Excel updates is set to TEMP_WORK_CARD_INFO3.

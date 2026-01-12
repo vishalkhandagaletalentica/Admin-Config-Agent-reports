@@ -1,1 +1,0 @@
-The setting "Include Project Wait Time" has been successfully updated to disabled.

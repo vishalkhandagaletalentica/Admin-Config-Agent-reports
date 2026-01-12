@@ -1,1 +1,0 @@
-Column Preset 3 Name in Table view (Float mode) is currently set to "New Scheduling".

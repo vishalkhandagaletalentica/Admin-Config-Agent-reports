@@ -1,1 +1,0 @@
-The Exclude Projects section is set to display 100 rows per page.

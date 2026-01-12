@@ -1,0 +1,1 @@
+The Task Date 28 (Custom Task Date Field) in the advanced filter mapping is set to Date31.

@@ -1,1 +1,0 @@
-What is the current column mapping for Actual Finish when importing a CSV or Excel file?

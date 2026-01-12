@@ -1,1 +1,0 @@
-I matched "Executive -> Project Status and Executive -> Red Projects reports" → "Show Throughput" and it is currently disabled.

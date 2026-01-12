@@ -1,0 +1,1 @@
+Yes, the option to include average days escalated in the report is enabled.

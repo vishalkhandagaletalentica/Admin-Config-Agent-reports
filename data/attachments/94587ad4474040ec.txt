@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': {'old': 'hidden', 'new': 'visible'}, 'section': 'SGD_TASK_UPDATE_TM', 'entry': 'HIDDEN_PRINT_FIELDS', 'url': None}

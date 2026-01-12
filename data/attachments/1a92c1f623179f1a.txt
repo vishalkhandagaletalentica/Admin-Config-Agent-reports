@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Common', 'Task Mgr -> Subtask List', 'Metrics -> Task Mgt', 'Project Mgr/Resource Mgr -> Escalated Tasks', 'Buffer Diagnostics -> By Help Needed'], 'value': None, 'section': None, 'entry': None, 'url': None}

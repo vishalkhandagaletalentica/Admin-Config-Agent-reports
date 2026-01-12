@@ -1,1 +1,0 @@
-The current title displayed for the Milestone Task in the column headings is "New Milestone."

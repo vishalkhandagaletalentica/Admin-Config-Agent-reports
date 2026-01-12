@@ -1,0 +1,1 @@
+Which custom text field for subtasks do you mean? Options: Subtask Custom Text Fields to display in Subtask Details, Custom Text Fields to display in Detail View, Custom Subtask Text Field 10, Subtask Text 5 (Custom Subtask Text Field), Subtask Text 4 (Custom Subtask Text Field).

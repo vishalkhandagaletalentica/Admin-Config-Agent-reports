@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Throughput (Filters Available)', 'Metrics -> Cycle Time (Filters Available)', 'Metrics -> On-Time Delivery (Filters Available)'], 'value': None, 'section': None, 'entry': None, 'url': None}

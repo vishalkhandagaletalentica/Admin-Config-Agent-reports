@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is boolean (true/false), so the command should be corrected to 'Please set the Show logged in user selected in the Project Manager Filter to true.'

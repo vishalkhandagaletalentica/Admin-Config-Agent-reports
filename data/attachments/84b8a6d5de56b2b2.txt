@@ -1,1 +1,0 @@
-The current filter name for the Compare With setting in the Gate Reports is CUSTOM_DATE1.

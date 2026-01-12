@@ -1,1 +1,0 @@
-I couldn't find a 'Column Order' entry under the Task Management client. Did you mean the Task List -> Task Mgr section, or a different section? If you mean Task List -> Task Mgr, which entry should I check (for example: Hidden Fields, Filters to display)?

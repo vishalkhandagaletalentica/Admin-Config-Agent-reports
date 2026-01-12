@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the number of months covered in the Red Project Delay report?'}, {'role': 'assistant', 'content': 'The number of months covered is 10.'}, {'role': 'user', 'content': 'Set it to 12'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

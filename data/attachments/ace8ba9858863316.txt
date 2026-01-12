@@ -1,1 +1,0 @@
-The Default Cycle Time (days) has been successfully updated to 150.

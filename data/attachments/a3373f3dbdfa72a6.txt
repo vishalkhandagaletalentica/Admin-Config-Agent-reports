@@ -1,1 +1,0 @@
-The Task Activity Calendar title in the Gantt view is: Task Calendar Name.

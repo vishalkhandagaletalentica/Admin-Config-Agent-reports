@@ -1,5 +1,0 @@
-The command you provided is incorrect because the value you are trying to set ('12345') is not of the expected type for the 'Hidden Fields' entry. The allowed values are specified as a multi-list format, which requires a list of strings rather than a single integer.
-
-Please provide a comma-separated list of string values corresponding to the keys in the 'strValue' field. For example, you could use the following command:
-
-`update Hidden Fields set value to PROJECT_IDENTITY_TYPE,PROJECT_UNIQUE_ID,PROJECT_STATUS;`

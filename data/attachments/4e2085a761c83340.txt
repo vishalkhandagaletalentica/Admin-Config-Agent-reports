@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Task Mgr — Hidden Fields', 'Assign Task Managers — Hidden Fields', 'Modify Projects — Hidden Fields', 'Project Control — Hidden Fields', 'Planning Client -> Table View Float mode — Column Order'], 'value': None, 'section': None, 'entry': None, 'url': None}

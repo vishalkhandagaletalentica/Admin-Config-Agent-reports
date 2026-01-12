@@ -1,0 +1,1 @@
+{'entryId': 98, 'sectionId': 10, 'flags': 0, 'entryName': 'PROJECT_NAME', 'entryFriendlyName': 'Project Name', 'strValue': 'UpdatedProjectName', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 101960.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

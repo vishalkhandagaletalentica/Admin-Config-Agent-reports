@@ -1,0 +1,1 @@
+The default sorting order for the task checklist items is not specified.

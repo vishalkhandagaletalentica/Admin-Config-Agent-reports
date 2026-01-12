@@ -1,0 +1,1 @@
+Is the option to include tasks in the batch printing report enabled?

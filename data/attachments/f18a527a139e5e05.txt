@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that the resource calendar is used to calculate task duration. However, the inclusion of '(enabled)' is unnecessary and slightly detracts from the conciseness of the response, which is why it did not receive a perfect score.

@@ -1,1 +1,0 @@
-The Parent task's Task Manager display name was updated from "Parent task's Task Manager" to "Main Task Manager".

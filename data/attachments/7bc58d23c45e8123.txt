@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_DASHBOARD', 'entry': 'PROG_PERF_PERIOD_TYPE', 'url': None}

@@ -1,1 +1,0 @@
-The filter title used to show IP/Ready to Start Project Chains has been updated to "New IP/Ready to Start Chains".

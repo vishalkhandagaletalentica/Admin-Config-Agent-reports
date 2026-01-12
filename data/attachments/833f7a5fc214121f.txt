@@ -1,1 +1,0 @@
-Which specific configuration did you want to update to “Custom Task Text Field”? Please choose one of the options I listed earlier (for example: Task Mgr → Task List → Search Columns for Task Table — Custom Task Text 1).

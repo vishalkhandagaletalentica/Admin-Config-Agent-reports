@@ -1,0 +1,1 @@
+Yes — the "Project has a Resource with group different from what is specified in Global Resource File." warning is enabled during project commits.

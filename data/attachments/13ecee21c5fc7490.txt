@@ -1,1 +1,0 @@
-The current mapping for the custom task text field in the advanced filter for the Gantt chart is Text65.

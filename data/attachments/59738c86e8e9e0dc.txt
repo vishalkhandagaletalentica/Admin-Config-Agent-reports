@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RULE1', 'entry': 'DATE_RANGE_PAST', 'url': None}

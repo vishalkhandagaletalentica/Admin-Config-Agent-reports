@@ -1,0 +1,1 @@
+I attempted to update the Hidden Fields but the update failed: No column definition found for this section and entry, so the multilist format could not be validated. Could you check the available column labels for this report or provide a different set of labels?

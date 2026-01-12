@@ -1,1 +1,0 @@
-Please enable the use of the resource calendar for task duration.

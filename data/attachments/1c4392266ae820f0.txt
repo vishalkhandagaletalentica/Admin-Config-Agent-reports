@@ -1,1 +1,0 @@
-The option to round up durations during duration reduction is disabled.

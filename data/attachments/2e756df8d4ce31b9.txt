@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_GRPT_ACT_BY_TSKMGR', 'entry': None, 'url': None}

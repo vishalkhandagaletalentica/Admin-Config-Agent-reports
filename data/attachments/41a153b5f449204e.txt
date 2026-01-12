@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['SGD_STUCK_TASK: EXCLUDE_ON_HOLD_TASK — Project Mgr/Resource Mgr -> Escalated Tasks (exclude tasks from on-hold projects in the Escalated Task Report)', 'SGD_FILTER_NAMES: EXCLUDE_ON_HOLD_TASK — Common -> Filter Names (display name used in filters)'], 'value': None, 'section': None, 'entry': None, 'url': None}

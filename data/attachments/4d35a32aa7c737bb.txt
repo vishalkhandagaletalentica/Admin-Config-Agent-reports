@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Application → Concerto Critical Chain — Prevent MS Project “not responding” message', 'Buffer Management — Prevent MS Project “not responding” message'], 'value': None, 'section': None, 'entry': None, 'url': None}

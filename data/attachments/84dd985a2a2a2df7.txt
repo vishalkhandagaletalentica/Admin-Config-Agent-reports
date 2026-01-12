@@ -1,0 +1,1 @@
+Yes, the planned buffering feature is enabled.

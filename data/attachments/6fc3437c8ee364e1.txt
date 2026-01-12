@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Metrics → Pipelining: Time Interval (bucket size for Pipelining report)', 'Common → Filter Names: Time Interval (general filter name shown in filtering pane)', 'Common → Filter Names: Time Intervals (filter option name for Cycle Time report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

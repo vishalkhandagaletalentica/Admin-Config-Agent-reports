@@ -1,0 +1,1 @@
+The hidden columns are: Load vs Capacity (%) (Estimated), Load / Capacity (units).

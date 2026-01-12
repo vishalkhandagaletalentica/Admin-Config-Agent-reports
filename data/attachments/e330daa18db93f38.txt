@@ -1,4 +1,0 @@
-The command to update the configuration setting 'Enable resource highlighting (Requires BM Run)' is invalid because the expected value type is an integer (valueType: 3), but you provided a string ('abcde'). Please provide an integer value, such as 0 or 1, where 0 typically represents 'disabled' and 1 represents 'enabled'. 
-
-For example, a correct command would be: 
-`update configuration setting 'Enable resource highlighting (Requires BM Run)' to '1'`

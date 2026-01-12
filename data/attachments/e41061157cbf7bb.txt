@@ -1,1 +1,0 @@
-The option to automatically populate custom dates is currently disabled.

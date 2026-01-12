@@ -1,0 +1,1 @@
+The default sorting order for Executive -> Project Status and Executive -> Red Projects reports was changed from PLANNED_DATE to DUE_DATE.

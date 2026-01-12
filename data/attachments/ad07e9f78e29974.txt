@@ -1,0 +1,1 @@
+I couldn't update Hidden Fields (Print) to show Task Type because you don't have permission to update configurations. Currently, Task Type is hidden.

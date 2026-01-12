@@ -1,1 +1,0 @@
-The default font size used in Print Preview for the Milestone report is Large.

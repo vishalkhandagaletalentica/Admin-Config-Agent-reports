@@ -1,1 +1,0 @@
-The current display name for the suggested due date in the column headers is "Recommended Due Date."

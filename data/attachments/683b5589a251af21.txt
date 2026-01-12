@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It accurately states the mapping for the Task Phase in the advanced filter, aligning closely with the Expected Output. The only minor difference is the inclusion of quotation marks around 'Phase', which does not affect the factual correctness.

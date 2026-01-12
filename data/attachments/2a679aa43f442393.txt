@@ -1,1 +1,0 @@
-I disabled showing team members in the Task Manager filter for the Task List.

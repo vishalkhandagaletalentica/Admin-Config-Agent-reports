@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Subtask Text 2 (column title)', 'Custom Subtask Text Field 2 (subtask list appearance)', 'Subtask Custom Text Fields to display in Subtask Details'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'b5764083-b4bd-41f4-806d-aa0ad301ad6f', 'query': 'Please update the column name for Remaining Float to "Available Balance".'}

@@ -1,3 +1,0 @@
-The command to update "Column Order" is invalid because the expected value type is a multilist, which means it should consist of a list of allowed values rather than a single integer. Please provide a comma-separated list of valid options for the "Column Order." 
-
-For example, a correct command could be: `set Column Order to Value1,Value2,Value3`.

@@ -1,0 +1,1 @@
+What is the time interval set for the report data in the Escalated Tasks report?

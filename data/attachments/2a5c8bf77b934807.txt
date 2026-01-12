@@ -1,1 +1,0 @@
-The current default sorting order for the checklist items in the Full Kit Report is by FK_CHECKLIST_SEQID.

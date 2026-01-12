@@ -1,1 +1,0 @@
-{'entryId': 1459, 'sectionId': 11, 'flags': 0, 'entryName': 'START_OF_BUCKET', 'entryFriendlyName': 'Start of Bucket', 'strValue': 'Start of Bucket', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Start of Bucket.', 'rangeList': None, 'validationRule': None, 'sequenceId': 139180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

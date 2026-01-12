@@ -1,0 +1,1 @@
+{'entryId': 2743, 'sectionId': 120, 'flags': 0, 'entryName': 'CC_COL_PRESET2_NAME', 'entryFriendlyName': 'Column Preset 2 Name', 'strValue': 'fghij', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Name for CC Column Preset 2', 'rangeList': None, 'validationRule': None, 'sequenceId': 1254860.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

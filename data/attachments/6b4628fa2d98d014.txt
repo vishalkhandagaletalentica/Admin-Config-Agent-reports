@@ -1,0 +1,1 @@
+Yes — the load from Committed and In Queue projects is displayed in the Resource L:C report; the 'Include Committed, In Queue Projects' setting is enabled.

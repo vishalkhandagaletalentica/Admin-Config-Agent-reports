@@ -1,0 +1,1 @@
+The Actual Output correctly lists the filters that can be displayed in the Full Kit Report, aligning with the Expected Output in terms of factual content. However, it introduces a minor issue by using a comma before '[insert new value here]' instead of 'and', which slightly deviates from the expected phrasing. Overall, it effectively addresses the intent of the input question.

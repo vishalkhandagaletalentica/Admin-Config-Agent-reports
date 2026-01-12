@@ -1,0 +1,1 @@
+What is the column mapping for the Text2 field in the checklist integration?

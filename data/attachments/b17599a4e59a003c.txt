@@ -1,0 +1,1 @@
+The name of the parameter used for displaying the login link on the email alert is server_name_updated.

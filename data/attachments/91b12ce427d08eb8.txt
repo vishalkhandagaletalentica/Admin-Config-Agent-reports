@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'aecb9b44-5370-4bd5-bcc4-47a139568287', 'query': 'Please update the Unique Task Count column name to "Distinct Task Count".'}

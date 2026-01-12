@@ -1,1 +1,0 @@
-The current default sorting order is: Full Kit Date (ascending), then % FK Complete (ascending).

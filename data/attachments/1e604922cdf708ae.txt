@@ -1,1 +1,0 @@
-The display of Completed Contractual Milestones in the Project Status view/report is already enabled. No update is needed.

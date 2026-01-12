@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'e3e9f722-ed7e-44d8-8b94-c7db2ab70f70', 'query': 'The correct section is Planning Client, and the ENTRY NAME is Task Date 28 (Custom Task Date Field) in Adv. Filter Field Mapping.'}

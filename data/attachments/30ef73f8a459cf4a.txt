@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '44670d30-d1a9-4a65-b3e8-c3d36a59e8cf', 'query': 'The section name is "Critical Chain Client Parameters," and the entry name is "Default Pull-in offset for full kit tasks."'}

@@ -1,0 +1,1 @@
+The default value for the Task Type Filter is TASK_ONLY.

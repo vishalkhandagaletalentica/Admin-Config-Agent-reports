@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'c0b50659-f491-4401-a9a6-980732e91047', 'query': 'What is the value of the advanced scheduling option for managing multiple resources?'}

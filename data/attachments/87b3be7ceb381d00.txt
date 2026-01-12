@@ -1,0 +1,1 @@
+Work card to subtask migration is enabled for the divisions specified as abc.

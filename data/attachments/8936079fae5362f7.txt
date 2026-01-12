@@ -1,0 +1,1 @@
+The display name for the team in the column headers is Updated Team Name.

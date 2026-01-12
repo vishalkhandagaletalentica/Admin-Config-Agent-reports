@@ -1,0 +1,1 @@
+The project date format is MM/DD/YYYY.

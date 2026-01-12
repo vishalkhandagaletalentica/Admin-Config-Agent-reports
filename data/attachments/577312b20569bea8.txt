@@ -1,1 +1,0 @@
-The Config.ini file used by the Task Excel is located at: D:\NewPath\config.ini

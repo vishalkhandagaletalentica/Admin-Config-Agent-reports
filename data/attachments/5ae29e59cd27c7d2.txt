@@ -1,0 +1,1 @@
+Yes, the option to load Project Participant data with Project Manager data is enabled.

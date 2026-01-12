@@ -1,0 +1,1 @@
+The column title for Text1 in the Task Checklist was updated from "New Column Title" to "Updated Column Title".

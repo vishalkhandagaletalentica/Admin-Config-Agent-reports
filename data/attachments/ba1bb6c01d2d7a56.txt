@@ -1,0 +1,1 @@
+{'entryId': 1137, 'sectionId': 11, 'flags': 0, 'entryName': 'CUSTOM_DATE2', 'entryFriendlyName': 'Custom Date 2', 'strValue': 'Custom Date 2', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter value for Custom Date 2.', 'rangeList': None, 'validationRule': None, 'sequenceId': 132740.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

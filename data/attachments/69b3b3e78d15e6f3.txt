@@ -1,1 +1,0 @@
-The current topic name set for the Project CheckOut alerts is xxxxx-project-check-out.

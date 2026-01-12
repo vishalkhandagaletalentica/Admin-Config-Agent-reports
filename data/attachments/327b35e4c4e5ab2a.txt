@@ -1,1 +1,0 @@
-The “SQS Queue URL for Buffer Management” setting (under Alerts) is a string entry and currently has no value set, so I can’t tell if the automatic addition is enabled or disabled.

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'e3363400-108e-4519-8593-29a86842d0e3', 'query': "Please update the Column Order to include 'New Customer Name' instead of '[insert new value here]'."}

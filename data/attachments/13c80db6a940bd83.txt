@@ -1,1 +1,0 @@
-Both CC and Float Schedule Mode are now enabled.

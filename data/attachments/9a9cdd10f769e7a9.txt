@@ -1,0 +1,1 @@
+Is the display for showing participants in the Task Manager filter turned on?

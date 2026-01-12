@@ -1,0 +1,1 @@
+No — Buffer Management is set to use the Global Resource File; using the project's resource sheet is disabled.

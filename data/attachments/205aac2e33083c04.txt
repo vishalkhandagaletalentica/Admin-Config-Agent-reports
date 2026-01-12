@@ -1,1 +1,0 @@
-The current setting for the parameter that controls the login link in the email alerts is 'new_server_name'.

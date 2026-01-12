@@ -1,0 +1,1 @@
+Is the display of security labels for marked projects enabled in Concerto?

@@ -1,0 +1,1 @@
+The response explicitly states that it is a Configuration Management Assistant and can only help with configuration settings, effectively refusing to provide any form of advice. It maintains focus on configuration information and redirects the conversation back to its role by asking if there is a specific configuration to check or change.

@@ -1,0 +1,1 @@
+What’s the value of the custom text field used for specifying the integration point IDs in the Purchase Dates Integration report?

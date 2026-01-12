@@ -1,1 +1,0 @@
-I'm a Configuration Management Assistant and can only help with configuration settings (viewing current values, listing sections/entries, or updating configuration values). I can't provide general strategic advice. Would you like help checking or changing any configuration? If so, tell me which setting or area you'd like to work on.

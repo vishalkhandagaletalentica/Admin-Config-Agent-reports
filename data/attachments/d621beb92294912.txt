@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names — Display', 'Buffer Diagnostics -> By Help Needed — Filters to display', 'Executive — Filters to display', 'Project Mgr -> Modify Projects — Filters to display'], 'value': None, 'section': None, 'entry': None, 'url': None}

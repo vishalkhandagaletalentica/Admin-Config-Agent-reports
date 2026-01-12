@@ -1,1 +1,0 @@
-The current default sorting order for the Executive Queues Drilldown report is Ascending Priority Level, Descending Priority Level Penetration, Ascending Earliest Arrival, Ascending Sort Window Start.

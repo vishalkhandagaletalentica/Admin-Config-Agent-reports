@@ -1,5 +1,0 @@
-The command to update the configuration setting to 'xyz' is invalid because the expected value type is an integer (valueType: 3), but 'xyz' is a string. 
-
-The allowed values for this setting are integers, typically within a specific range. Please refer to the documentation for the exact acceptable range. 
-
-For example, you could use a command like: `update configuration setting to 1` if 1 is a valid value for this setting.

@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the exact date format used in Gantt import/export. It matches the Expected Output in terms of factual content, even though the phrasing is slightly different. There are no incorrect facts or unrelated information introduced.

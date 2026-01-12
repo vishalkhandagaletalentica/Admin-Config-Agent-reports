@@ -1,0 +1,1 @@
+The default Print Preview font size for Task Level Priorities By Project is FONT_MEDIUM.

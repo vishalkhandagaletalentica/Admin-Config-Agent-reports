@@ -1,0 +1,1 @@
+The columns hidden in the Manage Users report are SHOW_IN_EXPANDED_FILTERS, WINDOWS_USERID, and ALERT_ADDR.

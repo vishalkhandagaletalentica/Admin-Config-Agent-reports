@@ -1,0 +1,1 @@
+Is the automatic completion of parent tasks enabled when all sub-tasks are completed?

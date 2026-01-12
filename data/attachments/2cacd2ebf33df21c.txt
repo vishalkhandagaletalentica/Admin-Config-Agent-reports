@@ -1,0 +1,1 @@
+The display name for the user column header is Administrator.

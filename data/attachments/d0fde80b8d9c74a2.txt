@@ -1,1 +1,0 @@
-Updated the Date2 mapping in Checklist Integration → Fields Mapping to "Delivery Date".

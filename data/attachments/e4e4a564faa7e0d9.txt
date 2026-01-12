@@ -1,1 +1,0 @@
-The current number of different calendars per project that we're displaying in the column headings is Unique Calendars.

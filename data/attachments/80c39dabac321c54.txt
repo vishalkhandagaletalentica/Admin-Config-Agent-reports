@@ -1,0 +1,1 @@
+The section name is "common parameters for planning client" and the entry name is "Min and max value for Float Group B."

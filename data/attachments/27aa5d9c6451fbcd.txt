@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['FULL_KIT_LIST_REPORT | Task Status Filter (Full Kit Mgr -> Full Kit Report)', 'SGD_GRPT_ACT_BY_PROJ_CHAINVIEW | Task Status Filter (Project Mgr -> Project Chain View)'], 'value': None, 'section': None, 'entry': None, 'url': None}

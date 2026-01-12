@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_GRPT_CMS_CHAINS', 'entry': 'DATE_RANGE_HORIZON', 'url': None}

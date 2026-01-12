@@ -1,1 +1,0 @@
-The current title displayed for the %Complete column in the reports is %Complete.

@@ -1,1 +1,0 @@
-{'entryId': 1159, 'sectionId': 10, 'flags': 0, 'entryName': 'PLANNED_COUNT', 'entryFriendlyName': 'Planned Count', 'strValue': 'Planned Count', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name for Planned Count.', 'rangeList': None, 'validationRule': None, 'sequenceId': 123180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

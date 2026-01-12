@@ -1,1 +1,0 @@
-The Display Name for Team in Column Headings is set to "Team Alpha".

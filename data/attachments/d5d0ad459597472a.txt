@@ -1,0 +1,1 @@
+I couldn't update the Project Attribute field for Gate to "STATUS" because you don't have permission to update configurations. The current value remains "CATEGORY".

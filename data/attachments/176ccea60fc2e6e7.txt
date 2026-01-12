@@ -1,1 +1,0 @@
-The Task Float was updated from "Float" to "New Float Value".

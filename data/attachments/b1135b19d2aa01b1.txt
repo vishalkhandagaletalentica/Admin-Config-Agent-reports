@@ -1,0 +1,1 @@
+Yes, the option to schedule Project End and CMS one at a time is enabled.

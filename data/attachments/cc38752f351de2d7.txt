@@ -1,1 +1,0 @@
-No — I can't determine enabled/disabled. The setting "Include Users From Subgroups" is stored as a text label (string) with value "Include Users From Subgroups", not a boolean checkbox. If you want, I can check or change the actual enable/disable state for including indirect group members.

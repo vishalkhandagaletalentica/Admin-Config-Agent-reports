@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '5efbee9b-9815-4f4a-95ba-dd628deb230f', 'query': 'What are the columns that are hidden in the report for the Task List feature?'}

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Task Mgr (Filters to display)', 'Buffer Diagnostics -> By Help Needed (Show Participants in TM list, enable/disable)', 'Common -> Filter Names (Display name for Show Participants in Task Manager Filter)'], 'value': None, 'section': None, 'entry': None, 'url': None}

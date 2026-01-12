@@ -1,1 +1,0 @@
-I can't determine a simple enabled/disabled state. The "Enable Subproject" setting is a string and is currently set to "S2M_SP_Name143Sake_Updated."

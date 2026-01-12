@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'eb0ee94c-d1b1-4769-9a59-9714f9857d9e', 'query': 'Please update the Custom Date 1 to 2023-11-01.'}

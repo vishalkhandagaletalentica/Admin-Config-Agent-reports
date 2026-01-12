@@ -1,1 +1,0 @@
-{'entryId': 1400, 'sectionId': 84, 'flags': 1, 'entryName': 'PROJECT_UNIQUE_ID', 'entryFriendlyName': 'PROJECT_UNIQUE_ID', 'strValue': 'PROJECT_UNIQUE_ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 868000.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

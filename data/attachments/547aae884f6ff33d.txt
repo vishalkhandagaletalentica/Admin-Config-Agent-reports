@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the On Hold feature enabled?'}, {'role': 'assistant', 'content': 'No — the On Hold feature is disabled.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'I have enabled the On Hold feature. Previous value: disabled, New value: enabled.'}]

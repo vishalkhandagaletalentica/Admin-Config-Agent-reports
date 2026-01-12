@@ -1,0 +1,1 @@
+The number of past days used to compute the Due Date history is 45.

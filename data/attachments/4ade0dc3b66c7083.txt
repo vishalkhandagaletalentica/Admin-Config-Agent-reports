@@ -1,1 +1,0 @@
-Please update the setting to disable the Show Project Description in WIP Report.

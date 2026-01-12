@@ -1,1 +1,0 @@
-The filter name for Escalation Impact (in days) is "Escalation Impact (days)".

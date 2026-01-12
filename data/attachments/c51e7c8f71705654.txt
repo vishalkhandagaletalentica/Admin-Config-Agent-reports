@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names: Update Compliance Period for Purchasing Tasks (hrs)', 'Metrics -> Task Mgt: Update Compliance Period For Purchasing Tasks (hrs)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The current column name for CUSTOMTEXT7 is "NewColumnName".

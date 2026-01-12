@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it conveys that there is no default sort configured, which aligns with the Expected Output's implication that the sorting order is not specified. However, the phrasing differs slightly, which may lead to a minor deduction. The response directly addresses the intent of the Input question without introducing incorrect facts.

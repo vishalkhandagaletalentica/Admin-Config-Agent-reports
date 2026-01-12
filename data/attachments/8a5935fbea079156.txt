@@ -1,1 +1,0 @@
-Please update the filter value for the Line Chart to "Line 1".

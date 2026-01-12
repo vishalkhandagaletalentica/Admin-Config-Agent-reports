@@ -1,0 +1,12 @@
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://openai-realization.openai.azure.com/openai/deployments/Rz-gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://openai-realization.openai.azure.com/openai/deployments/Rz-gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://openai-realization.openai.azure.com/openai/deployments/Rz-gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://openai-realization.openai.azure.com/openai/deployments/Rz-gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://openai-realization.openai.azure.com/openai/deployments/Rz-gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://openai-realization.openai.azure.com/openai/deployments/Rz-gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://openai-realization.openai.azure.com/openai/deployments/Rz-gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+[32mINFO    [0m httpx:_client.py:1025 HTTP Request: POST https://openai-realization.openai.azure.com/openai/deployments/Rz-gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+[32mINFO    [0m httpx:_client.py:1740 HTTP Request: POST https://openai-realization.openai.azure.com/openai/deployments/Rz-gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"
+[31m[1mERROR   [0m deepeval.retry.azure:retry_policy.py:486 call timed out after 88.5s (per attempt). Increase DEEPEVAL_PER_ATTEMPT_TIMEOUT_SECONDS_OVERRIDE (None disables) or reduce work per attempt. Retrying: 1 time(s)...
+[32mINFO    [0m deepeval.retry.azure:retry_policy.py:451 Retrying in 2.35349628335422 s (attempt 1) after TimeoutError('call timed out after 88.5s (per attempt). Increase DEEPEVAL_PER_ATTEMPT_TIMEOUT_SECONDS_OVERRIDE (None disables) or reduce work per attempt.')
+[32mINFO    [0m httpx:_client.py:1740 HTTP Request: POST https://openai-realization.openai.azure.com/openai/deployments/Rz-gpt-4o-mini/chat/completions?api-version=2025-01-01-preview "HTTP/1.1 200 OK"

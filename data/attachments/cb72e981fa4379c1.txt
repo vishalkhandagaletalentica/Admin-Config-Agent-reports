@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the title for the Full Kit or PT Delay column. The only minor discrepancy is the inclusion of quotation marks around 'Delay Time', which does not affect the factual correctness but slightly deviates from the Expected Output format.

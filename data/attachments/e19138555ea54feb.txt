@@ -1,1 +1,0 @@
-I tried to disable the "Use Custom Task Identifier" setting under Integration → Project Import, but I couldn't apply the change because I don't have privileges to update configurations. The setting is currently enabled. Would you like me to prepare the exact change request or provide instructions you can pass to an administrator?

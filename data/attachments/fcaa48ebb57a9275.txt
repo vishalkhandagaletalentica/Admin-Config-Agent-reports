@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'f1a97d85-1e5f-4c9d-8292-6918b692acaf', 'query': 'Please update the Chain Unique ID to [new value].'}

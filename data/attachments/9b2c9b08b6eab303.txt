@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question. It confirms that the option to force zero duration for all Internal Milestones is enabled, which aligns perfectly with the Expected Output. There are no incorrect facts or unrelated entries introduced, and the phrasing, while slightly different, maintains the same factual meaning.

@@ -1,1 +1,0 @@
-The current column name for Project Attribute 5 is "Delayed Completion."

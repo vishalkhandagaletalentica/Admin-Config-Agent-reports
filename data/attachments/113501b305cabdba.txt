@@ -1,0 +1,1 @@
+I'm a Configuration Management Assistant and can only help with configuration settings. I can view current configuration values, update configurations, list all available sections, or show entries within a section. Is there a specific configuration you'd like me to check or change?

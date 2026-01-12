@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr -> Work Card Information — Work Card Status (Default Work Card Status Filter)', 'Common -> Column Names — Work Card Status (Column name for Work Card Status)', 'Work Card Integration — Work Card Status (Will be mapped to a custom text field)'], 'value': None, 'section': None, 'entry': None, 'url': None}

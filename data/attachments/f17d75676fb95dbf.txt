@@ -1,1 +1,0 @@
-The Task Normalized Float used in priority calculation is "New Priority Normalized Float".

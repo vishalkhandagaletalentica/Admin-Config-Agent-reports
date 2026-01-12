@@ -1,0 +1,1 @@
+Is the Purchase Dates Integration report generation enabled?

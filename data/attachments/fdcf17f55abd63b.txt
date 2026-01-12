@@ -1,0 +1,1 @@
+Escalation Impact filter name updated from 'Escalation Impact (days)' to 'Escalation Impact (hours)'.

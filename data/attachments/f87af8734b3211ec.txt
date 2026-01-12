@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Make Help Needed Mandatory', 'Help Needed Must Have Details', 'Enable Help Needed Prompt With No Change Or Increase In Remaining Duration'], 'value': None, 'section': None, 'entry': None, 'url': None}

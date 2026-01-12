@@ -1,0 +1,1 @@
+Include Completed Tasks is now set to "Show Only Active Tasks".

@@ -1,1 +1,0 @@
-The current titles being used for the column headings in the project attribute views and reports are "Items."

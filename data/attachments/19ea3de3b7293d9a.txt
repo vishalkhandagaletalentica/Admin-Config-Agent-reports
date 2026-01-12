@@ -1,1 +1,0 @@
-The queue is set to be depleted in 75 days based on the average buffer length.

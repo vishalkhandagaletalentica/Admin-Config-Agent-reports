@@ -1,0 +1,1 @@
+No — there is no default sort order set for the Task Level Priorities report.

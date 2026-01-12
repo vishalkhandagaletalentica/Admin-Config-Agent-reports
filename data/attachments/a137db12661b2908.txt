@@ -1,0 +1,1 @@
+Yes — performance logging for the Application Server is enabled.

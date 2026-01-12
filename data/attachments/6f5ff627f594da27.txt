@@ -1,1 +1,0 @@
-The "Days To Deplete For Queues Over Threshold" is now set to 75.

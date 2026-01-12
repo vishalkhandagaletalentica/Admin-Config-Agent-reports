@@ -1,0 +1,1 @@
+The mistake is a type mismatch, as the expected value type is string, and the provided value '12345' should be a valid string format; consider using a JSON array like '[{"key":"NEW_KEY","label":"New Label","present":true}]'.

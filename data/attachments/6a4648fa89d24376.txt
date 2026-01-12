@@ -1,0 +1,1 @@
+The DBR_ColorPriority2 setting has been successfully updated to 'R'.

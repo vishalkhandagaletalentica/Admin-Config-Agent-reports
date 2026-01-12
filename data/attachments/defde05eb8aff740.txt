@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'de014d88-469c-4536-9480-33af32217dd3', 'query': 'I meant the Include Completed Action Item setting for Escalated Tasks (Project Mgr/Resource Mgr).'}

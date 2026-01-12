@@ -1,1 +1,0 @@
-Can you show me if the setting for task predecessors being completed is enabled or disabled?

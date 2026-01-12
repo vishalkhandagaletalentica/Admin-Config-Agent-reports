@@ -1,1 +1,0 @@
-The current display name for team members in the column headers is "Team Members Updated."

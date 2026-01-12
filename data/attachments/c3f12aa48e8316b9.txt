@@ -1,1 +1,0 @@
-The Default Horizon (Subtask List under Task Mgr tab) is set to 45.

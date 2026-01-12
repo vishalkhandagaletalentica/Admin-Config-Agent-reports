@@ -1,0 +1,1 @@
+The Major Job Id will be mapped to the selected custom text field EXEC_CUSTOM_TASK_TEXT2.

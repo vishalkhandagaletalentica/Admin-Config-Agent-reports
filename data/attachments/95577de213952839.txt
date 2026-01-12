@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the title for the Light Red filter as 'Bright Red,' which aligns with the Expected Output. However, it introduces unnecessary quotation marks around the title, which could be seen as a minor deviation from the expected phrasing. Overall, it addresses the intent of the question effectively.

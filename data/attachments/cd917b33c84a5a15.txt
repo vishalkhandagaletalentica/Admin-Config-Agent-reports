@@ -1,1 +1,0 @@
-The Actual Output lists several columns that are hidden in the Milestone report, which addresses the intent of the Input question. However, it does not match the Expected Output in terms of factual correctness, as many of the columns listed are either incorrect or not included in the Expected Output. This discrepancy indicates a significant shortcoming in factual accuracy.

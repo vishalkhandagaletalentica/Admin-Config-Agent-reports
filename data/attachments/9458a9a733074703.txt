@@ -1,1 +1,0 @@
-Please update the Due Date display name to "Deadline".

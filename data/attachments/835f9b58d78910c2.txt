@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PROJECT_ATTRIBUTES', 'entry': 'ATTRIBUTE5_MANDATORY', 'url': None}

@@ -1,1 +1,0 @@
-The current threshold for highlighting changes in milestone penetration is 5 days.

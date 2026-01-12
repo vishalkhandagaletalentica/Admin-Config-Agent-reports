@@ -1,1 +1,0 @@
-Yes — team names in the Full Kit Manager filter are set to display as a list of team members (enabled).

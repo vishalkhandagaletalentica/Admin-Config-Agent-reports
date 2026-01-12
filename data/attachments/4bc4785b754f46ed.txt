@@ -1,0 +1,1 @@
+No, the setting to allow continuous penetration into the Project Buffer is disabled.

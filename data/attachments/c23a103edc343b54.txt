@@ -1,4 +1,0 @@
-There are two different settings named “Custom Task Text Field 5.” Which one do you mean?
-
-- Common -> Column Names (used for column headings)
-- Common, Task -> Custom Task Text Fields (used to customize task text fields appearance)

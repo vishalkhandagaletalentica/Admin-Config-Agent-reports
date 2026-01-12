@@ -1,0 +1,1 @@
+The Actual Output accurately states that the default rolling average period in the Cycle Time report is 8 periods, which aligns perfectly with the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

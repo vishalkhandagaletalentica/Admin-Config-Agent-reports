@@ -1,1 +1,0 @@
-The "Enable Execution Analysis" entry is set to the string "S2M_RC_ExecutionAnalysis".

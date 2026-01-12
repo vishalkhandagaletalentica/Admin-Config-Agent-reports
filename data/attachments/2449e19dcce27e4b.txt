@@ -1,1 +1,0 @@
-The current speed factor setting for constraint scheduling in Pipeline Planning is 2.

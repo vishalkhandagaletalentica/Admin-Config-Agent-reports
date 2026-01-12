@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the setting for the day used to display the monthly trend points?'}, {'role': 'assistant', 'content': 'The Monthly Trend Points setting is set to "Every 30 Days From Today."'}, {'role': 'user', 'content': 'Update this setting to "Every Month End."'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

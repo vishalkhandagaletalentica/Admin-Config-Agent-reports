@@ -1,0 +1,1 @@
+Performance Logging has been enabled.

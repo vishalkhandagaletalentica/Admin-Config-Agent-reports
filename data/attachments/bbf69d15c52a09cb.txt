@@ -1,1 +1,0 @@
-I updated the Chain Type for Project Chain View to RTS_CHAINS.

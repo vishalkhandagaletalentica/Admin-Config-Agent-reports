@@ -1,1 +1,0 @@
-The Time Interval filter for the Pipelining report is set to Monthly.

@@ -1,0 +1,1 @@
+The number of tasks shown in the widget is 10.

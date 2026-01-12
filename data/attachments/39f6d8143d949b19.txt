@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it accurately states that the option to display subprojects in the Pipelining report is disabled, which aligns perfectly with the Expected Output. Additionally, it directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

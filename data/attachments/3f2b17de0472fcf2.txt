@@ -1,0 +1,1 @@
+Type mismatch: expected an integer value between 1 and 99 instead of a string; a corrected example value could be 5.

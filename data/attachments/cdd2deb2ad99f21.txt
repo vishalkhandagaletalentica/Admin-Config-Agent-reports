@@ -1,0 +1,1 @@
+The Executive -> Queues Drilldown report includes data from the past 8 weeks.

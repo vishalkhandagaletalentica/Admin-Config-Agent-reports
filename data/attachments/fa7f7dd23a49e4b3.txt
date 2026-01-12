@@ -1,1 +1,0 @@
-The planning assistant feature is currently disabled in the planning client.

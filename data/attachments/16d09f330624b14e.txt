@@ -1,0 +1,1 @@
+No — the Projected Date calculation during Buffer Management is not based on the required buffer; it is based on where the Project End milestone task finishes.

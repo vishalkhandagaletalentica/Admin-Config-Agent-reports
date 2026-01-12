@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'a3ebeaf9-0aab-44b7-8e20-a2bf40989f92', 'query': 'The correct section name is "Common" and the ENTRY NAME is "Task Activity Calendar Name (Gantt)." Please update that one to \'NEW_CALNUM\'.'}

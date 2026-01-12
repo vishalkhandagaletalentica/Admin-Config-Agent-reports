@@ -1,0 +1,1 @@
+The log message feature for empty processing folders is disabled.

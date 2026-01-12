@@ -1,2 +1,0 @@
-- Buffer Name column heading: Buffer Name
-- Buffer Name and Unique Identifier column heading: Buffer UID & Name

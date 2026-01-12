@@ -1,1 +1,0 @@
-The Additional Details column for the Project Widget was updated from "Addl Details" to "New Additional Details".

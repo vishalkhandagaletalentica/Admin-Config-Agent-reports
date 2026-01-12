@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '35b7cbeb-a84e-4cdd-8419-d77f2517e55b', 'query': 'Please enable the Automatic Update of %FK Complete Based on Checklist Items.'}

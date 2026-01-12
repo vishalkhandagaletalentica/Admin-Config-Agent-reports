@@ -1,1 +1,0 @@
-The current title for the filtering pane is "P2P Buffers".

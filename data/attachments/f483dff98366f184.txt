@@ -1,0 +1,1 @@
+The default sorting order for the Actual Delay drill down project status report is based on the key "PAST_PROJECTED_DATE."

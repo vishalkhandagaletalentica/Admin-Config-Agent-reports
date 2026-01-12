@@ -1,0 +1,1 @@
+Yes — the Use Custom Task Identifier option under Integration -> Project Import is enabled.

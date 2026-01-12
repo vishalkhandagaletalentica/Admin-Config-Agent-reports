@@ -1,0 +1,1 @@
+In Buffer Priorities, ColorPriority6 is set to G.

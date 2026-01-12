@@ -1,0 +1,1 @@
+The default selection for the full kit manager filters was updated to "Selected Full Kit Managers."

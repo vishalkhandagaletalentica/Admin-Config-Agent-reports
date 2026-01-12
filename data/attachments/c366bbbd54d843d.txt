@@ -1,1 +1,0 @@
-No — the option to include resources in the Stuck Task Delay report is currently disabled.

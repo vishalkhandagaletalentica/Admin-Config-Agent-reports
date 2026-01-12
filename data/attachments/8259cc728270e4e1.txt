@@ -1,1 +1,0 @@
-The title shown for Subtask Unique ID in the Subtask List is "New Subtask UID."

@@ -1,0 +1,1 @@
+{'entryId': 1034, 'sectionId': 10, 'flags': 0, 'entryName': 'HELP_NEEDED_ITEM', 'entryFriendlyName': 'Help Needed Item', 'strValue': 'Assistance Required', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Help Needed Item', 'rangeList': None, 'validationRule': None, 'sequenceId': 120680.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

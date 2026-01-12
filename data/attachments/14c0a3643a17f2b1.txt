@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Mgr -> Task List -> Subtasks', 'Task Mgr -> Subtask List'], 'value': None, 'section': None, 'entry': None, 'url': None}

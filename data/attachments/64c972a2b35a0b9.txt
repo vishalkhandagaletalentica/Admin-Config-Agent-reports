@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'ebd4074d-6f48-4f0b-aa8c-f187eee67f94', 'query': 'The correct section name is "DBR Project Type" and the ENTRY NAME is "Yellow Y intercept at 0 X".'}

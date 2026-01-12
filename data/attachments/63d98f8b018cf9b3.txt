@@ -1,0 +1,1 @@
+Do you mean a specific searchable text column in the Task Manager (for example "Task Description" or "Task Manager ID"), or do you want the list of all text columns that can be searched to locate tasks?

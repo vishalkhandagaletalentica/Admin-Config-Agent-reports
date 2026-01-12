@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'decf9a68-446c-45d5-9708-a1389de6ac89', 'query': 'Is the option to split in-progress tasks for MS-Project display based on the Concerto schedule enabled?'}

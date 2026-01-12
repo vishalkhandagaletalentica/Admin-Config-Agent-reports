@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Diagnostics — Max Buffer Consumption Range', 'Common — Ignore Buffer Consumed Value', 'Common -> Column Names — Max Buffer Consumption', 'Common -> Column Names — Buffer Consumption'], 'value': None, 'section': None, 'entry': None, 'url': None}

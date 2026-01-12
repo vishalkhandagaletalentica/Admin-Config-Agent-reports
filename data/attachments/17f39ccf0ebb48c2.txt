@@ -1,1 +1,0 @@
-The current title displayed for Work Card Equipment in the Work Card Details report is "New Equipment."

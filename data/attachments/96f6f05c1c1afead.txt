@@ -1,0 +1,1 @@
+{'entryId': 1360, 'sectionId': 10, 'flags': 0, 'entryName': 'DAYS_ESC', 'entryFriendlyName': 'Days Escalated', 'strValue': 'Days Escalated (new)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Days Escalated.', 'rangeList': None, 'validationRule': None, 'sequenceId': 127200.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

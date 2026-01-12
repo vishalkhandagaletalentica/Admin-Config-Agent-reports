@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'Server', 'entry': 'CSTMFIELD_KE_MS_TEST_EVNT', 'url': None}

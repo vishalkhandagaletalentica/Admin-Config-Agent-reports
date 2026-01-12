@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '0ca5cc96-7b46-4bea-8ed1-9997a32c3207', 'query': 'The correct section name is Integration, and the ENTRY NAME is Subtask.'}

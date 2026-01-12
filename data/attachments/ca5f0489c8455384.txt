@@ -1,0 +1,1 @@
+The correct section name is Task List -> Task Mgr, and the entry name is Columns hidden in Print Preview.

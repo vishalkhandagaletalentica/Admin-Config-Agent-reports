@@ -1,3 +1,0 @@
-The command to update the Status is invalid because the expected value type is a string, but you provided a numeric value (12345). Please use a string value instead. 
-
-For example, you can use: `update Status to "Active"` or `update Status to "Completed"`.

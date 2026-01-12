@@ -1,0 +1,1 @@
+I couldn't enable "Allow update status for purchasing tasks" because you don't have permission to update configurations. Currently it is disabled.

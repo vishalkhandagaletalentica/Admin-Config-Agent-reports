@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the option to show participants in the Task Manager filter enabled?'}, {'role': 'assistant', 'content': 'Yes — the option to show participants in the Task Manager filter is enabled.'}, {'role': 'user', 'content': 'Update this setting to disabled.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

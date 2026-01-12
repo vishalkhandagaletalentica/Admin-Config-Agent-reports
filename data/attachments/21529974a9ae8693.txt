@@ -1,0 +1,1 @@
+BM can run a maximum of 3 times before Concerto prompts about compacting the database.

@@ -1,1 +1,0 @@
-I attempted to update Hidden Fields (Print) in the Global Resource File to 12345, but the update failed: no column definition was found to validate the multi-select format for that entry. Please provide a value that matches the expected multi-select format, or tell me how you'd like to proceed.

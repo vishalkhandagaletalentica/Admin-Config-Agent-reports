@@ -1,1 +1,0 @@
-The queue size threshold has been updated to 15%.

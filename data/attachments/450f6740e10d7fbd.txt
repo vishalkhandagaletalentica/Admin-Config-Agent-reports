@@ -1,1 +1,0 @@
-The Column Name for Longest Chain Remaining has been successfully updated to "Longest Chain Remaining".

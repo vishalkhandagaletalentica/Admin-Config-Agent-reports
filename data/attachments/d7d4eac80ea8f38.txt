@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '964d3e80-675e-41d9-a062-17954454af63', 'query': 'Please update the Activity Priority Code to 12345.'}

@@ -1,1 +1,0 @@
-The display name for the "By Who" column is "Assigned To."

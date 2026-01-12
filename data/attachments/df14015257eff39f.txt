@@ -1,1 +1,0 @@
-The current title used for the Task Status filter dropdown is "Released (RL)".

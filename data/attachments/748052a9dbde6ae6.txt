@@ -1,3 +1,0 @@
-The command "update Hidden Fields set value to 12345" is invalid because the expected value type is a multi-list, not a numeric value. The allowed values should be a comma-separated list of strings. 
-
-Please provide a value in the correct format, such as: "CUSTOM_TASK_TEXT1,CUSTOM_TASK_TEXT2".

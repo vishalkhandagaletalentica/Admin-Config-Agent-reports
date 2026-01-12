@@ -1,0 +1,1 @@
+No, Windows Authentication is disabled for the Concerto Pipeline Client.

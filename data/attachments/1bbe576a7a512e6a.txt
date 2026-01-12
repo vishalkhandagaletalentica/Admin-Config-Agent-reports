@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Integration -> Task (Processed Directory Name)', 'Integration -> Subtask (Processed Directory Name)'], 'value': None, 'section': None, 'entry': None, 'url': None}

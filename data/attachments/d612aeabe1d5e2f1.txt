@@ -1,1 +1,0 @@
-The current value for the task normalized float used in priority calculation is priorityNormalizedFloat.

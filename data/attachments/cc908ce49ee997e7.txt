@@ -1,0 +1,1 @@
+{'entryId': 1905, 'sectionId': 10, 'flags': 0, 'entryName': 'NEW_DUE_DATE', 'entryFriendlyName': 'New Due Date', 'strValue': 'New Due Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Item Name of New Due Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 138100.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

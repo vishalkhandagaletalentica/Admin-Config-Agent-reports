@@ -1,0 +1,1 @@
+{'entryId': 2424, 'sectionId': 10, 'flags': 0, 'entryName': 'STOP_DATE', 'entryFriendlyName': 'Stop Date', 'strValue': 'Stop Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Stop Date (Gantt)', 'rangeList': None, 'validationRule': None, 'sequenceId': 148480.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

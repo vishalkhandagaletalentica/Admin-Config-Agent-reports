@@ -1,1 +1,0 @@
-The current column order for the Tasks Delayed by Task Manager report is not set.

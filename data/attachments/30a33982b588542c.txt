@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Header Names (Resources)', 'Common -> Column Names (Resources)', 'Common -> Filter Names (Resources)'], 'value': None, 'section': None, 'entry': None, 'url': None}

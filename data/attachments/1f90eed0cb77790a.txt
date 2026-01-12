@@ -1,1 +1,0 @@
-The current title displayed for Effective Protection in the column headings is "% Effective Protection."

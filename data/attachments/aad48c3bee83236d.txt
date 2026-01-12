@@ -1,1 +1,0 @@
-The link to the subtask view is not included in the project status report.

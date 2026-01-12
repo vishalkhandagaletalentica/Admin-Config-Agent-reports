@@ -1,0 +1,1 @@
+The Date1 column name in Task Checklist has been updated from "Task Date" to "Due Date".

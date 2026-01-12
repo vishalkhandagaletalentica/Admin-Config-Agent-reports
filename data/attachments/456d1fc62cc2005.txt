@@ -1,1 +1,0 @@
-The Cycle Time column title is "Lead Time."

@@ -1,0 +1,1 @@
+The Actual Output correctly states that the default stream frequency for subtasks is set to 15 days, which aligns with the factual correctness of the Expected Output. However, it lacks the confirmation of a successful update, which is a key detail in the Expected Output, leading to a slight deduction in points.

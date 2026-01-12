@@ -1,1 +1,0 @@
-{'entryId': 2014, 'sectionId': 10, 'flags': 0, 'entryName': 'SUBTASKS_WIP_LIMIT', 'entryFriendlyName': 'Subtask WIP limit', 'strValue': 'WIP limit', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtasks WIP limit', 'rangeList': None, 'validationRule': None, 'sequenceId': 140280.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

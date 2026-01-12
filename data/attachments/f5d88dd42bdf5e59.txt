@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the column heading as 'Current Phase,' which aligns with the Expected Output. However, it lacks the context of 'the current phase of the project' and does not explicitly mention that it is displayed in reports, which slightly detracts from fully addressing the intent of the Input question.

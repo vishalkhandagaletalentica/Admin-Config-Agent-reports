@@ -1,3 +1,0 @@
-The command is invalid because the value type is set to 2, which indicates that a string value is expected, but you are attempting to set it to an integer (12345). The expected type for the 'value' should be a string that matches the allowed range, which is a multi-list format.
-
-Please provide a valid string value conforming to the allowed range. For example, a correct command could be: `update Hidden Fields set value to "Option1,Option2,Option3"`.

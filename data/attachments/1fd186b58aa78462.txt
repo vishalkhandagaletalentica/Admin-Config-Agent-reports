@@ -1,1 +1,0 @@
-Please update the Include Link to Subtask View setting to disabled.

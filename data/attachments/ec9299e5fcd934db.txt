@@ -1,0 +1,1 @@
+I can't set that to 'xyz'. The value should be boolean (e.g., enabled/disabled, included/excluded). Which would you like — enable or disable?

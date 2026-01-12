@@ -1,1 +1,0 @@
-Please update the column mapping for Text1 to SAPchecklist.

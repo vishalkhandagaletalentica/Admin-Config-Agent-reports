@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'b93113f4-16d3-47e1-b91e-58814a07bd70', 'query': 'What are the columns that are hidden in the report for the Milestone panel?'}

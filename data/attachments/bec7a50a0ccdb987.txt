@@ -1,1 +1,0 @@
-No column order is currently set for the Full Kit Delay Drilldown report.

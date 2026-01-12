@@ -1,0 +1,1 @@
+Yes, the filter for including cancelled projects is enabled.

@@ -1,1 +1,0 @@
-The Task Desc search column is currently set to "TASK_DESCRIPTION."

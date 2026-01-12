@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_ERP_INTEGRATION', 'entry': 'EARLY_ARRIVAL_TEXT_FIELD', 'url': None}

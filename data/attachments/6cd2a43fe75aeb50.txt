@@ -1,1 +1,0 @@
-Updated the display name for Exclude On Hold Task in Filters to "Do Not Include On Hold Task".

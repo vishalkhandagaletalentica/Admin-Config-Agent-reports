@@ -1,0 +1,1 @@
+The filter name "Show Weighted Average Delay" was updated to "Average Delay".

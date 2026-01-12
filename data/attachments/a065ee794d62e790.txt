@@ -1,0 +1,1 @@
+Yes, the Rolling Average is displayed in the Throughput report.

@@ -1,0 +1,1 @@
+The mistake is a type mismatch, as the expected value type is a string; a corrected example value could be "TREND_INDICATOR, PROJECT_NAME".

@@ -1,1 +1,0 @@
-The Actual Output provides a display type setting for the Throughput report, which aligns with the intent of the Input question. However, it does not match the Expected Output in terms of factual correctness, as it uses 'Drum name' instead of the expected 'DRUM_NAME'. This discrepancy affects the overall score.

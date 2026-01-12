@@ -1,1 +1,0 @@
-The current title shown in the project status filter dropdown is "Cancelled (CAN)".

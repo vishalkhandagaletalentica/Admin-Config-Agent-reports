@@ -1,0 +1,1 @@
+Sort Order updated to Task Type (ascending), Constraint Date (descending).

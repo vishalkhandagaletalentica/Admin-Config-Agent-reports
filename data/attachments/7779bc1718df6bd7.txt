@@ -1,1 +1,0 @@
-Yes — the Debuffered Baseline End Date column is visible in the SPI table view.

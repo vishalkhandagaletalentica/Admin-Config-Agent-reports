@@ -1,1 +1,0 @@
-The filter "Font size small" is already set to "tiny". No update is needed.

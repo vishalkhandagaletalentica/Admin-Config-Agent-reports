@@ -1,0 +1,1 @@
+The Display Name for Project Participants in Column Headers has been successfully updated to "NewDisplayName".

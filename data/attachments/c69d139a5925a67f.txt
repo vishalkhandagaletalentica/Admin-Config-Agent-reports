@@ -1,1 +1,0 @@
-The current title being used for the Chain Depth column in the reports is "Chain Seq."

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '8ee132ba-0690-4235-95b5-350ee590ddbd', 'query': 'Update the Number of Past Days to compute Due Date history to 45.'}

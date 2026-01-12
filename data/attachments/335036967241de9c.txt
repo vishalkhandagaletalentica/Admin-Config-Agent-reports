@@ -1,1 +1,0 @@
-{'entryId': 223, 'sectionId': 11, 'flags': 0, 'entryName': 'FEEDINGBUFFERS', 'entryFriendlyName': 'Feeding Buffers', 'strValue': 'Feeding Buffers', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'FEEDINGBUFFERS', 'rangeList': None, 'validationRule': None, 'sequenceId': 114460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

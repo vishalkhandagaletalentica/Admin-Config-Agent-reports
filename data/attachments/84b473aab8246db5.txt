@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '29484816-579a-4420-8a7d-02d2bd5f8be2', 'query': 'The correct section name is "Escalated Tasks report," and the ENTRY NAME is "Show logged in user selected in the Project Manager Filter."'}

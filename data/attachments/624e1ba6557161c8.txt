@@ -1,1 +1,0 @@
-The Text1 column mapping has been updated from "WBS" to "SAPchecklist".

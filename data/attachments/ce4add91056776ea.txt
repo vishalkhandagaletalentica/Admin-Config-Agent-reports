@@ -1,0 +1,1 @@
+The SNS Topic Subscriber Endpoint URL for Project CheckIn is 12345.

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Common -> Column Names — Work Card Equipment displayed in Work Card Details report', 'Work Card Integration — Work Card equipment will be mapped to the selected custom text field'], 'value': None, 'section': None, 'entry': None, 'url': None}

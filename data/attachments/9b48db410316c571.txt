@@ -1,7 +1,0 @@
-I found multiple possible matches for that description. Which one did you mean?
-
-- Task Mgr → Task List → Search Columns for Task Table — Custom Task Text 1
-- Task Mgr → Search Columns for Task Table — a text column (e.g., TEXT_18 / TEXT_28)
-- Common, Task → Custom Task Text Fields — Custom Task Text Field (list of custom task text fields)
-
-Please pick the option that matches where this setting lives.

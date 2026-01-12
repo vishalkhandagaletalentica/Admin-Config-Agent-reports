@@ -1,1 +1,0 @@
-{'entryId': 2772, 'sectionId': 124, 'flags': 0, 'entryName': 'GROUP_B_MAX_FLOAT', 'entryFriendlyName': None, 'strValue': None, 'floatValue': None, 'intValue': 40, 'valueType': 0, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 1295440.0, 'groupOrMerge': '$MERGE:GROUP_B_MIN_FLOAT', 'attributeFlag': 0.0, 'attrBack': None}

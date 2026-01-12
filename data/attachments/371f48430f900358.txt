@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_GRPT_ACT_BY_PROJ', 'entry': 'FILTERS_TO_DISPLAY', 'url': None}

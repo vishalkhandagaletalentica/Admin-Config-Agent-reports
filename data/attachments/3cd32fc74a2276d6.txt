@@ -1,1 +1,0 @@
-The current time interval for searching report data on escalated tasks is set to 2 Months.

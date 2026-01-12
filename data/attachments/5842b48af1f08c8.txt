@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it states that password history tracking for users is disabled, which aligns with the Expected Output. It directly addresses the intent of the Input question, providing a clear and concise response. The only minor difference is the phrasing, but it does not affect the factual accuracy.

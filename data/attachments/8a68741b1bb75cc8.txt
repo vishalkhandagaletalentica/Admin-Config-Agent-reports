@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question, confirming that background pipeline simulation scheduling is disabled. However, the phrasing 'No —' is slightly less concise than the Expected Output, which could be seen as a minor shortcoming in tone, but it does not detract from the factual accuracy.

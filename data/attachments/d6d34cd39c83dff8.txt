@@ -1,1 +1,0 @@
-Please update the Projected Delay(in Chain View Summary) to a new value. Set it to "Updated Projected Delay".

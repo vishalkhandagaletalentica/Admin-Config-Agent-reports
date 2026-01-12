@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Task Mgr (Columns hidden in Print Preview for Task Mgr)', 'Project Mgr/Resource Mgr -> Escalated Tasks (Fields displayed/hidden in printed report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

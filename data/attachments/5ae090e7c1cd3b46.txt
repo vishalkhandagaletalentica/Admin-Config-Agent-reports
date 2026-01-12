@@ -1,1 +1,0 @@
-No — the default milestones filter is set to show all contractual milestones, not the option to include only the selected milestones.

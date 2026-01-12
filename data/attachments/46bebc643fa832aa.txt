@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_CONTROL_MAIN', 'entry': 'FILTERS_DISPLAYABLE', 'url': None}

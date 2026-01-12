@@ -1,0 +1,1 @@
+The title displayed for the task scope in the reports is "New Scope."

@@ -1,1 +1,0 @@
-The column heading for "Unique Calendars" is currently set to the string "Unique Calendars" — it does not contain a numeric count.

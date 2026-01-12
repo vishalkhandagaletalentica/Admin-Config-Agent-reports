@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '713d5634-7a1b-4d9a-a2a8-b6d8692df35b', 'query': 'Please update the Rollup Reduction setting to enabled.'}

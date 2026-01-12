@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['User', 'User Name', 'User Full Name'], 'value': None, 'section': None, 'entry': None, 'url': None}

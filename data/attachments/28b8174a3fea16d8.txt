@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the TaskId to NewTaskId.'}, {'role': 'assistant', 'content': 'Which configuration section contains the TaskId entry?'}, {'role': 'user', 'content': 'The section name is Subtask Excel, and the entry name is TaskId.'}, {'role': 'assistant', 'content': 'The TaskId has been updated to NewTaskId.'}]

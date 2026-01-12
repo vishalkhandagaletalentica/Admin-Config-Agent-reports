@@ -1,0 +1,1 @@
+The default type of users listed for Task Participants is User.

@@ -1,1 +1,0 @@
-The current display name for Last Review Comment is "Latest Review Comment."

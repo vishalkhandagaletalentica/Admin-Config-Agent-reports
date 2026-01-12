@@ -1,1 +1,0 @@
-Please update the report display type in the Cycle Time report to PROJECTS.

@@ -1,1 +1,0 @@
-The Column Name for Text1 in Task Checklist is already set to "WBS". No update is needed.

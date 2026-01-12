@@ -1,0 +1,1 @@
+There are two configuration sections named "Full Kit Report." Which one did you mean: Full Kit Mgr -> Full Kit Report or Project Mgr -> Full Kit Report?

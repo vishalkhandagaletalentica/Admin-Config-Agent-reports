@@ -1,0 +1,1 @@
+The 'Hidden Fields' for Buffer Diagnostics -> Pen Chains already shows the Status column. No update is needed.

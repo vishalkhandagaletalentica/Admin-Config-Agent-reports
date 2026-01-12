@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is an integer between 0 and 100, so a corrected example value could be 95.

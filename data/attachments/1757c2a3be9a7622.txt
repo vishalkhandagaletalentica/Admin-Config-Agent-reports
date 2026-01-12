@@ -1,0 +1,1 @@
+Time Intervals, Time Interval, Show Data By, Show Rolling Average, Rolling Average Period, Include Drum Phase Cycle Time, Include Project Wait Time, Include Planned Cycle Time

@@ -1,0 +1,1 @@
+Yes, the calendar validation feature is enabled.

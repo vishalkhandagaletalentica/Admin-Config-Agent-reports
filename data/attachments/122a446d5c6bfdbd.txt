@@ -1,1 +1,0 @@
-The Actual Output lists columns that do not match the Expected Output, which specifies different hidden columns. This indicates a complete factual inaccuracy. Additionally, the response does not address the intent of the Input question correctly, as it fails to provide the correct information about the hidden columns in the Due Date Tracker report.

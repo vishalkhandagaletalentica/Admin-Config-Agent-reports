@@ -1,0 +1,1 @@
+The section name is Purchase Dates Integration report, and the entry name is the custom text field used to specify the value of the Early Arrival in days.

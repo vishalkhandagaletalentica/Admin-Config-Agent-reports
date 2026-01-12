@@ -1,0 +1,1 @@
+The Task Status Filter (Task Mgr → Subtask List) is set to NS, IP.

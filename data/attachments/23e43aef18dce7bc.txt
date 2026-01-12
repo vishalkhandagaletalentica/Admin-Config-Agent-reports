@@ -1,1 +1,0 @@
-The Manually Modified Buffers column heading was updated to "Updated Manually Modified Buffers".

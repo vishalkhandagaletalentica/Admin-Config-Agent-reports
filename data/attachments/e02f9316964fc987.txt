@@ -1,0 +1,1 @@
+Which setting would you like me to disable: the Milestone Report (Project Mgr → Milestone Report), the Project Chain View (Project Mgr → Project Chain View), or the Contractual Milestone Chain View (Project Mgr → Contractual Milestone Chain View)?

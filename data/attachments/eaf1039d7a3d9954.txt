@@ -1,0 +1,1 @@
+The searchable text column is NEW_TASK_TITLE.

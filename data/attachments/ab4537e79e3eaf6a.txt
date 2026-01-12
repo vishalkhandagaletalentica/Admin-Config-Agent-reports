@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Chain View Summary: Sort Chains By', 'Common -> Filter Names: Sort Chains By'], 'value': None, 'section': None, 'entry': None, 'url': None}

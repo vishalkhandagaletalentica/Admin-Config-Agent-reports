@@ -1,0 +1,1 @@
+The Actual Output provides a default sort order but fails to mention the key 'PAST_PROJECTED_DATE' as specified in the Expected Output. While it addresses the section name 'Actual Delay,' it does not fully align with the intent of the Input question regarding the sorting order, leading to a significant factual discrepancy.

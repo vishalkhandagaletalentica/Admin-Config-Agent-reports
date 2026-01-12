@@ -1,0 +1,1 @@
+Please set the display of the checklist for Custom Task Text Field 6 to yes.

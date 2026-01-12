@@ -1,1 +1,0 @@
-The current setting for the number of months covered in the Red Project Delay report is 10 months.

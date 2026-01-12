@@ -1,3 +1,0 @@
-The default sort order for the Red Projects report is:
-1. Delay (descending)
-2. Project Name (ascending)

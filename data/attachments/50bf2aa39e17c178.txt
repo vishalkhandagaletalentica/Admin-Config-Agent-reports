@@ -1,0 +1,1 @@
+The setting requiring special characters in passwords is disabled.

@@ -1,0 +1,1 @@
+The Actual Output accurately lists all the columns hidden in Print Preview for the Full Kit Report, matching the Expected Output in content. It directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information. The response is factually correct and comprehensive, fulfilling all evaluation criteria.

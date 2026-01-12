@@ -1,1 +1,0 @@
-The display name for Maximum Units has been updated from "Max Units" to "Maximum Units Allowed."

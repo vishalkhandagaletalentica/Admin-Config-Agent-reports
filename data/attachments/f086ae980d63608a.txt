@@ -1,0 +1,1 @@
+The title displayed for the baseline finish date of the task is "New Baseline Finish."

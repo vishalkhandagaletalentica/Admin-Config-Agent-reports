@@ -1,1 +1,0 @@
-The display name for managers in the Project report is "Show Managers Only".

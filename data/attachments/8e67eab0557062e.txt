@@ -1,0 +1,1 @@
+No, the resource leveling feature is disabled for scheduling.

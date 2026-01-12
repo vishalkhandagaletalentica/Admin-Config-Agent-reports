@@ -1,0 +1,1 @@
+I attempted to update the Gate Reports filters but the system rejected the change: No column definition found for this setting, so the multi-select format can't be validated. Would you like me to try again with the same labels, or provide a different set of labels?

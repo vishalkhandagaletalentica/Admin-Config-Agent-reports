@@ -1,1 +1,0 @@
-Please update the Base URL for Concerto Web API to https://newurl.realization.com/ConcertoWebAPI.

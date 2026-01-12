@@ -1,0 +1,1 @@
+What is the field mapping for the End Date in the advanced filter?

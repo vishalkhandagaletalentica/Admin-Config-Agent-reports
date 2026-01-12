@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the title displayed for the 'In Process' filter as 'In Progress', which aligns with the Expected Output. However, it lacks the specific mention of the context 'in the reports', which is part of the Expected Output. This omission slightly detracts from fully addressing the intent of the Input.

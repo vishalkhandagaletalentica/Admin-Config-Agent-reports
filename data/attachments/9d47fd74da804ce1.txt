@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'e606c519-02da-4ee2-8215-c52b787d0124', 'query': 'Please update the To MS Project Identifier to a new value: "New P2P To MSP ID".'}

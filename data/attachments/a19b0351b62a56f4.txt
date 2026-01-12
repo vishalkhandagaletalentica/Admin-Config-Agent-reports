@@ -1,0 +1,1 @@
+The setting for the day used to display monthly trend points is "Every 30 Days From Today."

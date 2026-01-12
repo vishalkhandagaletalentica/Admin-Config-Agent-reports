@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '8f35c9c6-38e7-4c40-af7c-5944cc417adf', 'query': 'The correct section name is Project Mgr -> Task Level Priorities By Project, and the ENTRY NAME is Show Managers Only in Project Mgr Filter.'}

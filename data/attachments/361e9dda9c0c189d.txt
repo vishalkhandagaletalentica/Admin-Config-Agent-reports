@@ -1,1 +1,0 @@
-No, the option to show separators after each sort window in the report is currently disabled.

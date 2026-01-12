@@ -1,0 +1,1 @@
+The Fixed Capacity Buffer (Days) has been successfully updated to 10.

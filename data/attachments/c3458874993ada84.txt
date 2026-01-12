@@ -1,1 +1,0 @@
-The current display name for the "By Who" column in the reports is "Assigned To".

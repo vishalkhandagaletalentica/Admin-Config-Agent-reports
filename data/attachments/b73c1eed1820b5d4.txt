@@ -1,0 +1,1 @@
+Yes — buffering is enabled.

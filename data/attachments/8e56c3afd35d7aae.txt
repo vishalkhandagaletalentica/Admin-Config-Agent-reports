@@ -1,0 +1,1 @@
+The Actual Output correctly states that the option for starting the Horizon in the past is disabled, which aligns with the Expected Output. However, it does not explicitly mention the context of 'Buffer Management' as indicated in the Input, which slightly detracts from fully addressing the intent of the question.

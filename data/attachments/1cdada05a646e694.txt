@@ -1,0 +1,1 @@
+Yes — buffer size rounding to the next hour is enabled.

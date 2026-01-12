@@ -1,1 +1,0 @@
-The current column mapping for Percent Complete is DPC_NEW.

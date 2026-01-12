@@ -1,0 +1,1 @@
+The Milestone Name column heading was updated from "New Milestone Name" to "Updated Milestone".

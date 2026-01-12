@@ -1,1 +1,0 @@
-The current filter name for End of Last Week is "Last Week's End".

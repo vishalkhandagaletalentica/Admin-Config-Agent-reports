@@ -1,1 +1,0 @@
-The current setting for the sixth project attribute that users can search in text columns is ATTRIBUTE3.

@@ -1,1 +1,0 @@
-The current value for the due date threshold that determines if a milestone is considered short term is 200 days.

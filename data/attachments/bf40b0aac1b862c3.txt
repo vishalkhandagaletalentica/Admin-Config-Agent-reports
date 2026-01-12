@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'Server', 'entry': 'FontCharSet', 'url': None}

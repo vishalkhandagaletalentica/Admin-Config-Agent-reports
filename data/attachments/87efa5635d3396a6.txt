@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '771d933b-2321-4747-bc3a-2d1fd4bbb334', 'query': 'What is the default number of escalation types set to expand for the escalation delay data?'}

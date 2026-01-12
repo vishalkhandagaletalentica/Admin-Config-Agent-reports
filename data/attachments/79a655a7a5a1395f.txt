@@ -1,0 +1,1 @@
+Yes, the setting to force BM to update the Predecessor P2P MS date is enabled.

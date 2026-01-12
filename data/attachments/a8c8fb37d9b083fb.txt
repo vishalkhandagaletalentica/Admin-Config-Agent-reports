@@ -1,1 +1,0 @@
-The current titles displayed for the assigned phases in the task column headings are "Assigned Phases."

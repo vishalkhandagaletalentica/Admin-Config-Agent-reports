@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Common — Task Status Filter (Default Task Status Filter)', 'Common -> Filter Names — Task Status', 'Common -> Column Names — Task Status'], 'value': None, 'section': None, 'entry': None, 'url': None}

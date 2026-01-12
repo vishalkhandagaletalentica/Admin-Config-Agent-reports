@@ -1,0 +1,1 @@
+Please update the Filters Available to include "Design Team Needed, Project Attribute 5, Project Attribute 6, New Project Attribute Value, [insert new value here]" instead of the current values.

@@ -1,0 +1,1 @@
+The buffer penetration value for coloring the buffer red when the chain is complete (DBR) is 75.

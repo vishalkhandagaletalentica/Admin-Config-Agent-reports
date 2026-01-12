@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it confirms that resource highlighting is enabled, aligning with the Expected Output. However, it lacks the additional detail of 'feature' present in the Expected Output, which slightly affects the completeness of the response. Overall, it addresses the intent of the Input question effectively.

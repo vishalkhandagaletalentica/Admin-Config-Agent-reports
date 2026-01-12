@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'fc6d553f-68da-49d4-84e9-e646206e6a01', 'query': 'Please update the Project Attribute5 validation to disabled.'}

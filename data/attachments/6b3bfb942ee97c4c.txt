@@ -1,1 +1,0 @@
-The Subtask Compact View filter has been renamed to "Expanded View".

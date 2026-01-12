@@ -1,1 +1,0 @@
-The Actual Output lists several items, but it does not accurately reflect the specific columns hidden in the Print Preview for the Milestone report as stated in the Expected Output. While some terms are similar, many key details are missing or incorrectly presented, leading to a significant misalignment with the factual correctness required.

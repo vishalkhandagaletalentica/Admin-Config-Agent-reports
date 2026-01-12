@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Update the username to 12345.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "username" you want to update?'}, {'role': 'user', 'content': 'The section name is Primavera integration, and the entry name is username.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

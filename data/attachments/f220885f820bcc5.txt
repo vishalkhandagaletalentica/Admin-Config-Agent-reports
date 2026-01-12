@@ -1,0 +1,1 @@
+Updated the filter name "End of Last Week" to "Last Week's Conclusion".

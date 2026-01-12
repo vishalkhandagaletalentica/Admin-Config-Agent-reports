@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Past Periods To Display — Common -> Filter Names', 'Past Periods In Tooltip — Metrics -> Issue Resolution'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-Please update the setting for "Show Managers Only in Full Kit Mgr Filter" to disabled.

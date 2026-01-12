@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Rows Per Page setting to 100.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Rows Per Page" setting?'}, {'role': 'user', 'content': 'The section name is Global Resource File, and the entry name is Rows per page.'}, {'role': 'assistant', 'content': 'The Rows per page is now set to 100.'}]

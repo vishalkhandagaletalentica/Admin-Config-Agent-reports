@@ -1,1 +1,0 @@
-The current number of resources used in batch processing for LtoC load during Auto BM is 2500.

@@ -1,0 +1,1 @@
+The value of the custom task text field 39 mapping in the advanced filter for Gantt is NewText39.

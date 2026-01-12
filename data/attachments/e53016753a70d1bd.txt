@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the current value for the SAP Integration Module setting?'}, {'role': 'assistant', 'content': 'The SAP Integration Module setting is set to 67890.'}, {'role': 'user', 'content': 'Update it to 12345.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

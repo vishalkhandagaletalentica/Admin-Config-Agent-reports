@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Resource Name to 67890.'}, {'role': 'assistant', 'content': 'Which section contains the “Resource Name” setting?'}, {'role': 'user', 'content': 'The section name is "Field Mapping for CSV/Excel Import."'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

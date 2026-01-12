@@ -1,0 +1,1 @@
+No, the load from Committed and In Queue projects is not displayed in the resource reports.

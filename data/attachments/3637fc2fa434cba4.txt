@@ -1,0 +1,1 @@
+The Actual Output correctly conveys that the EnableResourcePortal setting is enabled by stating it is set to 1, which aligns with the Expected Output's implication of being enabled. However, it could be more explicit in stating that the setting is enabled, which would enhance clarity and direct alignment with the Expected Output.

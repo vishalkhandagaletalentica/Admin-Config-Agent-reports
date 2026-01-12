@@ -1,0 +1,1 @@
+I couldn't find a configuration matching 'columns hidden in the report'. Could you tell me which section (for example: report settings, display, or export) and which specific entry you mean?

@@ -1,0 +1,1 @@
+I couldn't find a configuration matching "default fixed amount of stretch limit in days". Could you tell me which section (area) and which specific setting (entry) you mean?

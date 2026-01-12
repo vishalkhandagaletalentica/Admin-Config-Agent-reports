@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It accurately states the display name for Document Links in headers, matching the Expected Output in meaning, though it does not include quotation marks around 'New Document Links.' This minor omission prevents a perfect score, but overall, the response is clear and relevant.

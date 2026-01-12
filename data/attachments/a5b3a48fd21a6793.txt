@@ -1,0 +1,1 @@
+Include Completed Tasks is now enabled.

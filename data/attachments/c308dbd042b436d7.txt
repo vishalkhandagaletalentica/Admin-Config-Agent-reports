@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'Server', 'entry': 'GANTT_IMPORTEXPORT_DATE_FORMAT', 'url': None}

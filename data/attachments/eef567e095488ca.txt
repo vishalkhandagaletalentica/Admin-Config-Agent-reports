@@ -1,0 +1,1 @@
+I can't update "Include only Red Chains" to 'abcde' because that entry expects a boolean. The value should be boolean (e.g., enabled/disabled, included/excluded).

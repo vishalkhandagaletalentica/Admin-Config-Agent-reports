@@ -1,1 +1,0 @@
-The Buffer Diagnostics "Completed" setting is now enabled (Completed projects will be displayed).

@@ -1,1 +1,0 @@
-The "Task Participants" setting in "Resource Notes" is currently set to "New Participants".

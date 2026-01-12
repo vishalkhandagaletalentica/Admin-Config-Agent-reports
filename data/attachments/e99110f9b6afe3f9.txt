@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_ERP_INTEGRATION', 'entry': 'DELIM_TYPE', 'url': None}

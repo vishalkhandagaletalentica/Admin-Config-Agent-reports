@@ -1,1 +1,0 @@
-The current title displayed for the Additional Required Buffer Column in the Web Pipeline Commit dialog is "5 days."

@@ -1,0 +1,1 @@
+Yes, the option to show restricted users in the assign participants dialog is enabled.

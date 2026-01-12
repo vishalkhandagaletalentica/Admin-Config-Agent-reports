@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'fb73c2b0-8a53-41c1-9608-2dc20e607140', 'query': 'Please update the Internal milestones (IMS) to "Updated IMS".'}

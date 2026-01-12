@@ -1,1 +1,0 @@
-Escalation Duration Unit is now set to Hours.

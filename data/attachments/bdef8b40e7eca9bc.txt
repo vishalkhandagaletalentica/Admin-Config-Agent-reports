@@ -1,1 +1,0 @@
-The SMTP Server Port in Integration -> Subtask was 587 and has been updated to 465.

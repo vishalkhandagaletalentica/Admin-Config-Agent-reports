@@ -1,1 +1,0 @@
-The current title shown for Task Late Start Date (Gantt) is "New Late Start."

@@ -1,0 +1,1 @@
+No, the option to inherit task priorities and colors from P2P links is disabled.

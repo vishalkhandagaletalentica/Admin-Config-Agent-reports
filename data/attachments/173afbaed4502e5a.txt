@@ -1,1 +1,0 @@
-How many past days are being used to compute the Due Date history?

@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the filter name as 'Quarterly,' which aligns with the Expected Output. It directly addresses the intent of the Input question, providing a clear and factual answer. The slight difference in phrasing does not detract from its correctness, but the inclusion of 'set to' could be seen as unnecessary detail, preventing a perfect score.

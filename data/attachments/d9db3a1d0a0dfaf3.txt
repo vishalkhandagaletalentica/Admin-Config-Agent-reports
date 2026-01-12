@@ -1,0 +1,1 @@
+{'entryId': 1023, 'sectionId': 10, 'flags': 0, 'entryName': 'NEED_DATE', 'entryFriendlyName': 'Need Date', 'strValue': 'Required Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Need Date for Purchasing task', 'rangeList': None, 'validationRule': None, 'sequenceId': 120460.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

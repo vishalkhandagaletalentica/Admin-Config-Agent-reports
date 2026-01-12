@@ -1,1 +1,0 @@
-The advanced filter option “Days Decrease for Rem Dur in IP Tasks” is currently set to: "IP -> IP,Days for Delta/Decreased Rem Dur Calculations".

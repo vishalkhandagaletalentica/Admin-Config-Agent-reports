@@ -1,0 +1,1 @@
+The Actual Output correctly identifies that the setting expects a boolean value, which aligns with the factual correctness of the Expected Output. However, it fails to address the specific type mismatch mentioned in the Expected Output and does not provide the correct examples of boolean values ('true' or 'false'), leading to a partial answer to the input question.

@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it states the display name for the Monthly filter is 'Monthly Updates,' which matches the Expected Output. It directly addresses the intent of the Input question regarding the display name. However, it lacks the context of 'in the reports' mentioned in the Expected Output, which is a minor omission.

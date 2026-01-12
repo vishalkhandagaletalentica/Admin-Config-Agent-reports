@@ -1,1 +1,0 @@
-The setting is already enabled for Include On Hold Projects in Resource Requirement Charts. No update is needed.

@@ -1,0 +1,1 @@
+The custom text field for indicating ERP export is "Custom Task Text field to use for specifying export of Purchasing Task" and it is currently set to CUSTOM_TASK_TEXT10.

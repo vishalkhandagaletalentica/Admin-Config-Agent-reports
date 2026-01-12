@@ -1,1 +1,0 @@
-The current title for the All Work Card Skills filter in the dropdown list is "All Skills."

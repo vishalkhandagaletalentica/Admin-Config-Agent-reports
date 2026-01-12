@@ -1,1 +1,0 @@
-The Integration → Task timeout is 8000.

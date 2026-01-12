@@ -1,0 +1,1 @@
+The current setting for moving the feeding buffer or chain when the Critical Chain is delayed is Chain.

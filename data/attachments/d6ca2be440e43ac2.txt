@@ -1,1 +1,0 @@
-The display name for the Load to Capacity filter in the Resource Portal has been successfully updated to "L:C".

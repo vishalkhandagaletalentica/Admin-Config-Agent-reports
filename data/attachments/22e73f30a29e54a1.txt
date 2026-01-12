@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '66fe8a74-8d1a-4b3e-bde3-944f520bb444', 'query': "Please update the Task Float (Gantt) setting to a new value of 'FT'."}

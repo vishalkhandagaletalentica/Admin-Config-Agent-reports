@@ -1,0 +1,1 @@
+Yes, email alerting is enabled for Help Needed requests.

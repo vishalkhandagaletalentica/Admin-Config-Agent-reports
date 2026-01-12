@@ -1,1 +1,0 @@
-The current column name for TEXT8 in the task update settings is empty.

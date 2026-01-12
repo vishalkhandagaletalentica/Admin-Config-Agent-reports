@@ -1,1 +1,0 @@
-The current phase shown in the filtering pane is "In Progress."

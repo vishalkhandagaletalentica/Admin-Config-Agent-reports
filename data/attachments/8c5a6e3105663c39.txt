@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr/Resource Mgr → Escalated Tasks', 'Project Mgr → Project Chain View/Project Penetrating Chain', 'Task Mgr → Task List → Subtasks'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '1ee6a1af-0209-4262-8af9-1530db405896', 'query': "Update the Active Attribute to 'Inactive Status'."}

@@ -1,0 +1,1 @@
+The columns that are hidden in the report are the New Contractual Due Date, Status, Fixed Property, High, Options, Due Date, Custom Date 2, New Feasible Start Date, and Estimated Completion Date.

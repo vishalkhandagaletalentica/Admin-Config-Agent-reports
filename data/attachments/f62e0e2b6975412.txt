@@ -1,5 +1,0 @@
-The command to update the value to 12345 is invalid because the expected value type is a string, not an integer. The allowed values should be a comma-separated list of specific keys or identifiers, as defined by the `strValue`. 
-
-Please provide a valid string value from the allowed list. For example, you could use "DIVISION,AUTHOR,SUBJECT" as the new value. The correct command would be: 
-
-`update Hidden Fields set value to DIVISION,AUTHOR,SUBJECT`

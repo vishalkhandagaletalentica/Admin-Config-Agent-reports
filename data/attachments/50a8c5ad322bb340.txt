@@ -1,5 +1,0 @@
-The command you provided is invalid because the value type is set to 2, which indicates that the expected value should be a multi-list selection rather than a numeric value. The allowed values are a list of strings corresponding to the options available in the `strValue` field.
-
-Based on the `strValue`, you should provide a comma-separated list of valid options. For example, a correct command could be:
-
-`update Column Order set value to Task Type,Constraint Date,View Document Links;`

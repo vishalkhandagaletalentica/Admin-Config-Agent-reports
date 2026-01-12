@@ -1,0 +1,1 @@
+No default sort columns are set for the Full Kit Delay Drilldown report (the Sort Order is empty).

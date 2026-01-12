@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It accurately states the default date interval for the Pipeline View report as 'Monthly', which aligns with the Expected Output's meaning, despite the difference in capitalization. The response is relevant and does not introduce any incorrect facts or assumptions.

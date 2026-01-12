@@ -1,0 +1,1 @@
+Is the option to show completed subtasks in the Task List enabled?

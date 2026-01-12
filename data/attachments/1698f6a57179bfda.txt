@@ -1,1 +1,0 @@
-The Bulk Import → Customer mapping is blank (no value set).

@@ -1,0 +1,1 @@
+I couldn't find a configuration matching "hide OTD data and show only Rolling Average values." Could you provide the section name and the entry name (or describe the setting differently)?

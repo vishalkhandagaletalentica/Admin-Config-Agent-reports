@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the filter name for NS?'}, {'role': 'assistant', 'content': 'The filter name for NS is "New NS".'}, {'role': 'user', 'content': 'Update it to "Updated NS".'}, {'role': 'assistant', 'content': 'The filter name for NS was updated from "New NS" to "Updated NS".'}]

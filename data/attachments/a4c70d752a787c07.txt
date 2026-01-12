@@ -1,0 +1,1 @@
+Yes, SMTP Server SSL is enabled.

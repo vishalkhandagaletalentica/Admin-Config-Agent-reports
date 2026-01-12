@@ -1,1 +1,0 @@
-The Period Type in the Purchasing Tasks filter is set to: "Period Type for Purchasing Tasks".

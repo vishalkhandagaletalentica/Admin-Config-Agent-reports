@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'DRUM_THROUGHPUT_DRILLDOWN', 'entry': 'HIDDEN_FIELDS', 'url': None}

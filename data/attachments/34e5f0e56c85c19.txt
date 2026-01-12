@@ -1,1 +1,0 @@
-I updated Task Text 52 to "NewText52" in the Adv. filter in Gantt mapping. Previous value was "Text52" and is now "NewText52".

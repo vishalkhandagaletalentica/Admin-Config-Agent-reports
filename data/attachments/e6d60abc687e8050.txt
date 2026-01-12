@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> On-Time Delivery (Chart Type)', 'Common -> Filter Names (Chart Type)'], 'value': None, 'section': None, 'entry': None, 'url': None}

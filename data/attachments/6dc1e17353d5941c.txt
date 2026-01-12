@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the In Process setting to yes.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "In Process" setting?'}, {'role': 'user', 'content': 'The section name is Exclude Projects.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

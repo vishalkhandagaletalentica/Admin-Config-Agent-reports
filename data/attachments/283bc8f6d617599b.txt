@@ -1,1 +1,0 @@
-The current title displayed for the filtering pane regarding the last 7 days is "14 days."

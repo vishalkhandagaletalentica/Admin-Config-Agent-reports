@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RULE3', 'entry': 'EN_TM_PROJ_LEVEL_COMPLIANCE', 'url': None}

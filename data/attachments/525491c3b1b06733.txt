@@ -1,1 +1,0 @@
-The option to include Internal Milestones in the filters is currently disabled.

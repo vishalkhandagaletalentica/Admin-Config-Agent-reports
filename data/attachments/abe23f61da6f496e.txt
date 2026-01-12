@@ -1,3 +1,0 @@
-The command is invalid because the value type expected for this configuration setting is a string, but you provided a numeric value (12345). The allowed values are specific string identifiers: CUSTOM_TASK_TEXT1, CUSTOM_TASK_TEXT2, CUSTOM_TASK_TEXT3, CUSTOM_TASK_TEXT4, CUSTOM_TASK_TEXT5, CUSTOM_TASK_TEXT6, CUSTOM_TASK_TEXT7, CUSTOM_TASK_TEXT8, CUSTOM_TASK_TEXT9, CUSTOM_TASK_TEXT10.
-
-Please use one of the allowed string values. For example, you can use the command: `update configuration set value to CUSTOM_TASK_TEXT2`.

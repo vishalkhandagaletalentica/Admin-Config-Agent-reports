@@ -1,0 +1,1 @@
+The current column width for the Resource Hierarchy in the L:C screen is 300.

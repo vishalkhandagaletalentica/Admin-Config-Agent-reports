@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '34616dba-5a31-4236-a56e-2b8021eea5cc', 'query': 'The section name is "Concerto Desktop Clients" and the entry name is "Security Label Display."'}

@@ -1,0 +1,1 @@
+{'entryId': 989, 'sectionId': 10, 'flags': 1, 'entryName': 'ATTRIBUTE3', 'entryFriendlyName': 'Project Attribute 6', 'strValue': 'Updated Customer Name', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project Attribute 6', 'rangeList': None, 'validationRule': None, 'sequenceId': 119780.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+{'entryId': 1985, 'sectionId': 10, 'flags': 0, 'entryName': 'GLOBAL_MAX_UNITS', 'entryFriendlyName': 'Global Max units', 'strValue': 'Updated Global Max units', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Global Max units', 'rangeList': None, 'validationRule': None, 'sequenceId': 139700.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

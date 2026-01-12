@@ -1,1 +1,0 @@
-The current titles displayed in the column headings for the ConWeb views and reports are New Status Fields.

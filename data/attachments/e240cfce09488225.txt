@@ -1,1 +1,0 @@
-The current limit for Float Group C in resource leveling is 80%.

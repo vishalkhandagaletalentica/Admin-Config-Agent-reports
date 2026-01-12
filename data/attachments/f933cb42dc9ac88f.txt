@@ -1,1 +1,0 @@
-The option to use live BM Projected Dates is currently enabled.

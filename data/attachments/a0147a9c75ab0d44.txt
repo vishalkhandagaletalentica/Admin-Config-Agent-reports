@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Show Actual Delay (When checked, Actual Delay data will be displayed)', 'Show Rolling Average (Displays Rolling Average in Actual Delay report)', 'Show Weighted Average Delay (Calculates average delay based on project weight)'], 'value': None, 'section': None, 'entry': None, 'url': None}

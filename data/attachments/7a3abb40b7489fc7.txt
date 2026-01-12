@@ -1,1 +1,0 @@
-The current title displayed for the Work Card Skill column is "Work Card Skill."

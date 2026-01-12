@@ -1,1 +1,0 @@
-The correct section name is "Actual Delay report," and the entry name is "Filter name for Compute Delay Using."

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List -> Common — Task Status (default task status filter)', 'Common -> Column Names — Task Status (column heading)', 'Common -> Filter Names — Task Status (filter label)'], 'value': None, 'section': None, 'entry': None, 'url': None}

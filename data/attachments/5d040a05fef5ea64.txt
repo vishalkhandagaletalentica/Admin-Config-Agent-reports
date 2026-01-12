@@ -1,0 +1,1 @@
+I can't update Reduce CC Task Switching to 'abcde'. The value should be boolean (e.g., enabled/disabled, included/excluded).

@@ -1,0 +1,1 @@
+The default type is User.

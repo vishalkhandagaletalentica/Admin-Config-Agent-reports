@@ -1,0 +1,1 @@
+The filters not displayed in Pipeline Web (Hidden Filters) are: New Division, Portfolio, Updated Product Code, Client, Project Manager, xyz

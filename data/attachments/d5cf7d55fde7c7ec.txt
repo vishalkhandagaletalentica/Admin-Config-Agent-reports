@@ -1,1 +1,0 @@
-The current title displayed for the completion status in the task checklist column is "In Progress."

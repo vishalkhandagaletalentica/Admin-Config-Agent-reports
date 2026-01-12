@@ -1,1 +1,0 @@
-What is the current buffer penetration value for the DBR project type that triggers the red coloring when the chain is complete?

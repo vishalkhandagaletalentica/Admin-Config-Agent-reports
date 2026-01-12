@@ -1,0 +1,1 @@
+The Email Body has been updated from "Your file has been successfully processed. Attached are the log files for your review." to "Your file has been processed successfully. Please find the log files attached for your review.".

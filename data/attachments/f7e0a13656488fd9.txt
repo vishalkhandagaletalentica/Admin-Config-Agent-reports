@@ -1,3 +1,0 @@
-The command is invalid because the value '12345' is not of the expected string type. The allowed value should be a descriptive string for the column preset name. 
-
-Please use a string value such as 'Phase for Review' or another relevant name. For example, you could use the command: `update Column Preset 2 Name to 'New Column Name'`.

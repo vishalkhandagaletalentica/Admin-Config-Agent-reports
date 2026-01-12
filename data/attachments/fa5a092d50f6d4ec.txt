@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Filtering', 'Filter Changes', 'Red/Yellow/Other', 'Improved', 'Unchanged'], 'value': None, 'section': None, 'entry': None, 'url': None}

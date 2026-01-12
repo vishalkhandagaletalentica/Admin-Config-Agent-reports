@@ -1,0 +1,1 @@
+The Actual Output lists filters that are not mentioned in the Expected Output, indicating a lack of factual correctness. It fails to address the specific filters that are not displayed in the Pipeline View report as requested in the Input, leading to a significant misalignment with the intent of the question.

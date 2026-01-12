@@ -1,1 +1,0 @@
-{'entryId': 1261, 'sectionId': 10, 'flags': 0, 'entryName': 'WEIGHT', 'entryFriendlyName': 'Weight', 'strValue': 'Body Weight', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Weight column header', 'rangeList': None, 'validationRule': None, 'sequenceId': 125220.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

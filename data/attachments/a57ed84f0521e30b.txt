@@ -1,1 +1,0 @@
-The Subtask custom text field shown in Subtask Details is set to Subtask Text 2.

@@ -1,1 +1,0 @@
-I attempted to update the report filters to the list you provided, but I don't have the required privileges to apply the change. Please ask an administrator with config-write access to update the 'Filters available' setting in Task List -> Task Mgr, or grant my account the necessary permissions and I can retry.

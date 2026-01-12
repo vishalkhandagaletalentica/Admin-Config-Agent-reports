@@ -1,1 +1,0 @@
-Please update the display name for tasks to "New Tasks".

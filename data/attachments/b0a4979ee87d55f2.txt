@@ -1,1 +1,0 @@
-The current filter value for the Bar Chart is "Bar Chart".

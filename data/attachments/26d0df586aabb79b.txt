@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it lists the same hidden columns as the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information. The response is concise and maintains a professional tone.

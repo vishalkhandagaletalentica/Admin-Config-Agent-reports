@@ -1,1 +1,0 @@
-The "Include Chart" setting in the Filtering Pane has been updated to "Include Graph".

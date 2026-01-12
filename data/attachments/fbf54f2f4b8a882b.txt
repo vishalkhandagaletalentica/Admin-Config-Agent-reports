@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the display of subprojects enabled in the Pipeline View report?'}, {'role': 'assistant', 'content': 'Yes — subprojects are enabled in the Pipeline View report.'}, {'role': 'user', 'content': 'Update this setting to disabled.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

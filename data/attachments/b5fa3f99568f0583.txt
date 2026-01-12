@@ -1,0 +1,1 @@
+{'entryId': 65, 'sectionId': 7, 'flags': 0, 'entryName': 'CMSB-G-Priority', 'entryFriendlyName': 'Green Milestone Buffer', 'strValue': None, 'floatValue': None, 'intValue': 15, 'valueType': 0, 'itemDesc': 'Green Milestone Buffer', 'rangeList': None, 'validationRule': None, 'sequenceId': 71300.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

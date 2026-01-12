@@ -1,1 +1,0 @@
-Dates are displayed in the short date format (e.g. 12/20/2010) and durations are shown only in days.

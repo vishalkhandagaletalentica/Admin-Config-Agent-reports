@@ -1,0 +1,1 @@
+Yes — the "Enable Delta Buff Cnsmd Filter for NS Tasks" advanced filter is enabled.

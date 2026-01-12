@@ -1,0 +1,1 @@
+The Task Text 41 (Custom Task Text Field) value in the Gantt advanced filter mapping is NewText41.

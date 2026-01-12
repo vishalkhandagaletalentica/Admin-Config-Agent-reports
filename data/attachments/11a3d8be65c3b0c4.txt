@@ -1,3 +1,0 @@
-The command to update the "Display Custom Line" setting is invalid because the expected type for this setting is not a string. The valueType indicates that the input should be an integer (valueType: 3). 
-
-Please provide an integer value to update this setting. For example, you can use the command: `update Display Custom Line to 1`.

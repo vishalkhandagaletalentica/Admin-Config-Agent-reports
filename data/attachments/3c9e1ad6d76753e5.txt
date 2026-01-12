@@ -1,1 +1,0 @@
-The current setting for the number of future months for program performance is 3 months.

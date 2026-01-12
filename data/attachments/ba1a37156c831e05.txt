@@ -1,0 +1,1 @@
+Is the option to show update compliance enabled in the report?

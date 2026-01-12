@@ -1,0 +1,1 @@
+The hidden columns are: New MSP ID, % Project Buffer Consumption, % MB Cnsm`d, % FB Cnsm`d, New Participants, Updated Dur, No Addl Delay Duration, Gap With Chain Pred, No Addl Delay Start, No Additional Delay Finish, % Chain Pen, Comments Updated

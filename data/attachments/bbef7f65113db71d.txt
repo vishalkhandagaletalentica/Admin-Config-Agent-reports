@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it matches the Expected Output in content, providing the same information about the email body used for bulk imports. It directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information.

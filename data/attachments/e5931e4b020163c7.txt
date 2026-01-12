@@ -1,1 +1,0 @@
-The Planned parameter in the Project Control view is currently disabled.

@@ -1,0 +1,1 @@
+I couldn't enable 'Insert Page Break For Checklist Items' because you don't have permission to update this configuration.

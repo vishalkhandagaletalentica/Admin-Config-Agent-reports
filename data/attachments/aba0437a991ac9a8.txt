@@ -1,0 +1,1 @@
+LOE Progress Type has been updated from loeType to manual.

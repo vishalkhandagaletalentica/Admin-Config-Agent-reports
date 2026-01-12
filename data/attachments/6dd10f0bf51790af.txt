@@ -1,1 +1,0 @@
-What are the current settings for the Subtask fields that will be updated during integration?

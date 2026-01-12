@@ -1,1 +1,0 @@
-What is the current display name for the scheduling parameters in the column headers?

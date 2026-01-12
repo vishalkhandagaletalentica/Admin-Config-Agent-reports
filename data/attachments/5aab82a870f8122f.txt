@@ -1,0 +1,1 @@
+Task Text 36 (Custom Task Text Field) in the advanced filter mapping is set to Text36.

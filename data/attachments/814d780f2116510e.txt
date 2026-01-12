@@ -1,0 +1,1 @@
+The title displayed for the Changed From column in the Export to Excel Task Update History is "Modified By."

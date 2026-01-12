@@ -1,1 +1,0 @@
-The number of immediate retries currently set for alert generation is 3.

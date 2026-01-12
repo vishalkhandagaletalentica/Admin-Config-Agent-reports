@@ -1,1 +1,0 @@
-The Past Periods In Tooltip display name was updated from "Past Periods In Tooltip" to "abcde".

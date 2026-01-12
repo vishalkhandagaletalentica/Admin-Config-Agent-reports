@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'd9bffacd-d52b-4a0a-ba6c-df3fad161b2c', 'query': 'The correct section name is "Column Headings" and the ENTRY NAME is "Full Kit Date". Please set the value of the entry "Full Kit Date" to the string "Shipping Date".'}

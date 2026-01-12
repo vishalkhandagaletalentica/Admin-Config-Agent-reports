@@ -1,0 +1,1 @@
+The title displayed for the completion status in the full kit task checklist is "Complete."

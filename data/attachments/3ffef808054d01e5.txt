@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'INTEGRATION_PRIMAVERA', 'entry': 'PRIM_HOSTNAME', 'url': None}

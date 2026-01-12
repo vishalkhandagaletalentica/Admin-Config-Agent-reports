@@ -1,0 +1,1 @@
+{'entryId': 1066, 'sectionId': 11, 'flags': 0, 'entryName': 'END_DATE', 'entryFriendlyName': 'End Date', 'strValue': 'New End Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'End Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 131320.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

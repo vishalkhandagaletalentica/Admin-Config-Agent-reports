@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the number of days that defines the transition from Red to Yellow activities?'}, {'role': 'assistant', 'content': 'The transition from Red to Yellow activities is 15 days.'}, {'role': 'user', 'content': 'Update this setting to 20'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

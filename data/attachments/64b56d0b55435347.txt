@@ -1,0 +1,1 @@
+{'entryId': 2121, 'sectionId': 11, 'flags': 0, 'entryName': '8QUARTERS', 'entryFriendlyName': '8 Quarters', 'strValue': '8 Quarters Overview', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': '8 Quarters', 'rangeList': None, 'validationRule': None, 'sequenceId': 152420.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

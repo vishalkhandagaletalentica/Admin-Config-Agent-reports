@@ -1,0 +1,1 @@
+The queue size threshold is set to 20% of the average buffer length.

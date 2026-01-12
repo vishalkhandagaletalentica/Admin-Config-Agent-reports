@@ -1,0 +1,1 @@
+Is the error display setting enabled for commits of projects with missing phases?

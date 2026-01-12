@@ -1,0 +1,1 @@
+The Compare With filter in the Performance report is set to Due Date.

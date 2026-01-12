@@ -1,0 +1,1 @@
+I updated the Total Days Open (in Tasks Drilldown By Help Needed) title from "Days Open" to "Open Days".

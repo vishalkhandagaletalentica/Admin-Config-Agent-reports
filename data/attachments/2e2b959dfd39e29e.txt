@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Display Remaining Duration For NS Tasks', 'Allow Remaining Duration Update For NS Tasks and Subtasks', 'Remaining Duration (for Subtask)', 'Subtask Remaining Duration'], 'value': None, 'section': None, 'entry': None, 'url': None}

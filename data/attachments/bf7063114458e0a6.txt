@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Col Order (Column Order)', 'Resource Mgr -> Resource Needs (Sort Order - group by project)', 'Buffer Diagnostics -> Tasks Drilldown (Sort Order)'], 'value': None, 'section': None, 'entry': None, 'url': None}

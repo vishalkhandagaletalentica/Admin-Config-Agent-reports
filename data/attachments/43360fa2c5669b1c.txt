@@ -1,0 +1,1 @@
+Is automatic loading of Resource L:C Data enabled when I click on the Resource Mgr Tab?

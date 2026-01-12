@@ -1,1 +1,0 @@
-The Scheduling bucket size in Application → Concerto Pipeline is already set to Monthly. No update is needed.

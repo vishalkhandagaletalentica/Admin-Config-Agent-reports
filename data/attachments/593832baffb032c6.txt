@@ -1,1 +1,0 @@
-The Column Name for Date2 in the Full Kit Task Checklist has been successfully updated to "DateUpdated".

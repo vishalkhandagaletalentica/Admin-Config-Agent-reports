@@ -1,0 +1,1 @@
+What is the color of the task for the selected day in the Escalated Tasks report?

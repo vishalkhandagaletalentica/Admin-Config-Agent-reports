@@ -1,1 +1,0 @@
-The option to display completed action items is currently turned on in the Project Control report.

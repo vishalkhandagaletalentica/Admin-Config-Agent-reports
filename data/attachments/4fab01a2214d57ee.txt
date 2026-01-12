@@ -1,0 +1,1 @@
+No default sort columns are selected for the Escalated Tasks report.

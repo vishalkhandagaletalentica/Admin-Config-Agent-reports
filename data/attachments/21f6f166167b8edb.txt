@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'fbe25cd2-f670-4c7d-92cb-348187e5b249', 'query': 'Please set the Required Buffer Size (d) to New Buffer Size.'}

@@ -1,1 +1,0 @@
-The current password for connecting to the Primavera database is new_password_456.

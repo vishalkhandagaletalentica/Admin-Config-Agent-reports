@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please enable the On Hold setting.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "On Hold" setting?'}, {'role': 'user', 'content': 'The section name is Buffer Diagnostics, and the entry name is On Hold.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

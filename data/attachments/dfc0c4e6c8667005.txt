@@ -1,0 +1,1 @@
+Please update the Display Name for Info in Column Headers to "Details".

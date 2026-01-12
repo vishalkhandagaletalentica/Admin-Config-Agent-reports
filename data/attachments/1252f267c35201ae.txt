@@ -1,0 +1,1 @@
+The hidden columns in the Drum Throughput Drilldown report are: Bar Color, Project Name, Project Weight, Planned Date, New Est. Date, Project Manager, Updated Product Code, End User - Broker, Portfolio, New Contractual Due Date, Delayed Completion, New Customer Name, Purchase Order Number, SalesForce Number, Color.

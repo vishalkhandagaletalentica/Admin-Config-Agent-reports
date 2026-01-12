@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'cea203e7-ae62-449b-a929-4b6481e5d130', 'query': 'The correct section name is RYG Zones for Buffers, and the entry name is buffer penetration level for CCCB.'}

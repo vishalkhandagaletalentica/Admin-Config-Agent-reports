@@ -1,1 +1,0 @@
-The bucket size was updated from Weekly to Monthly.

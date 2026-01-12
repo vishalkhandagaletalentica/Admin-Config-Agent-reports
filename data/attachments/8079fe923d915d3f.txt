@@ -1,1 +1,0 @@
-The current setting for the LOE Progress Type is set to Manual.

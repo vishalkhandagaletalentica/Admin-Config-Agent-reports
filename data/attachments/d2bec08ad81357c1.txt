@@ -1,1 +1,0 @@
-{'entryId': 194, 'sectionId': 10, 'flags': 0, 'entryName': 'UNITS', 'entryFriendlyName': 'Units', 'strValue': 'Units', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Units', 'rangeList': None, 'validationRule': None, 'sequenceId': 103880.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

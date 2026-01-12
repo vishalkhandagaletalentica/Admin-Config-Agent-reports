@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'update Sort Order set value to 12345'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Sort Order" entry?'}, {'role': 'user', 'content': 'The section name is Task Checklist Items.'}, {'role': 'assistant', 'content': 'The Sort Order was updated from "B-CHECKLIST_SEQID" to "12345".'}]

@@ -1,0 +1,1 @@
+I can’t apply the value 12345. This entry uses label/key pairs and expects a string of selected labels (not a numeric ID). Please provide the filter labels to set (exactly as shown previously), for example: Task Manager Pro, Project, Horizon.

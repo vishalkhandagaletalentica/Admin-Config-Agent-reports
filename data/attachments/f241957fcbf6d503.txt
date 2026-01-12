@@ -1,1 +1,0 @@
-Please enable the error display during the commit of projects by updating the setting to yes.

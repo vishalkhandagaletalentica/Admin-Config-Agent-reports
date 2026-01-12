@@ -1,0 +1,1 @@
+Yes — the "Validate Calendars before BM" calendar-validation setting is enabled.

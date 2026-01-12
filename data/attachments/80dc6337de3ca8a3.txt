@@ -1,0 +1,1 @@
+Is auto linking tasks when adding a new task enabled?

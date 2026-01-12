@@ -1,0 +1,1 @@
+The Actual Output accurately reflects the factual content of the Expected Output by correctly identifying the column header text as 'Updated Planned Count.' It directly addresses the intent of the Input question regarding the column header, and the phrasing, while different, maintains the same factual meaning.

@@ -1,1 +1,0 @@
-Understood — the section is the Filtering Pane and the item description is "Filter name for Font size x-small." The filter value is already set to "x-small", so no update is needed.

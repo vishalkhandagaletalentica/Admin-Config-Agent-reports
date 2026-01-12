@@ -1,1 +1,0 @@
-The mapping for Task Text 32 (Custom Task Text Field) is "NewText32".

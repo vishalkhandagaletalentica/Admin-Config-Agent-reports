@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the date format used for Gantt import/export?'}, {'role': 'assistant', 'content': 'The Gantt import/export date format is set to 12345.'}, {'role': 'user', 'content': 'Update it to 54321.'}, {'role': 'assistant', 'content': 'Updated — the Gantt import/export date format was changed from 12345 to 54321.'}]

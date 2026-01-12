@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['SubTaskStatus — Integration → Subtask (Column name of Subtask status)', 'Subtask Status — Common → Column Names (Subtask Status in Subtask List)', 'Status (for Subtask) — Common → Column Names (Subtask Status in Task List)'], 'value': None, 'section': None, 'entry': None, 'url': None}

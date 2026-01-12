@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'FULL_KIT_DELAY_DRILLDOWN', 'entry': 'COLUMN_ORDER', 'url': None}

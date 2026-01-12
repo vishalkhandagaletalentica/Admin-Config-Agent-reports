@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['% Chain complete', 'Chain Complete'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The Task Excel column name for TEXT3 has been updated from "12345" to "newColumnName".

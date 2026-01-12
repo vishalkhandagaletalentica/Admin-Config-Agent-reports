@@ -1,0 +1,1 @@
+Hidden columns are: Color, Updates, NewUID, UID123, Subtask Actual Start, Subtask Actual End, WBS, New Reference, New Custom Text, Technician / Date, Region, mcn_updated, job_sts_cd, Text 8, Text 9, New Text 10, Dep Level.

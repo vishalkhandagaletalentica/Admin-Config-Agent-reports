@@ -1,1 +1,0 @@
-The currently hidden columns in the report for the Milestone panel are CUSTOM_DATE2, STRETCH, and CUSTOM_DATE1.

@@ -1,1 +1,0 @@
-The filter name has been updated from 'Include Compliant Full Kit Mgrs' to 'Include Compliant Full Kit Managers' in the Filtering Pane.

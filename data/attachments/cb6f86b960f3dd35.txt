@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'd9f4e358-d351-4467-808d-d86071bc2a54', 'query': 'The section name is "Common parameters for Pipeline Web" and the entry name is "Default stretch limit as a percentage of Project buffer."'}

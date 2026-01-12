@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Feeding Buffers (Project Mgr -> Project Control)', 'Feeding Buffers Policy (Planning Client -> Common)', 'Buffer Settings (Common -> Column Names)'], 'value': None, 'section': None, 'entry': None, 'url': None}

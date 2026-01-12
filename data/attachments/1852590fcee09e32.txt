@@ -1,1 +1,0 @@
-The Subtask Excel config file (Config File Location) is currently at D:\NewPath\config.ini.

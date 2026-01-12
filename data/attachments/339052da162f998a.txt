@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the column mapping for the Text2 field in the checklist integration?'}, {'role': 'assistant', 'content': 'The column mapping for Text2 is BOM Quantity.'}, {'role': 'user', 'content': 'Update it to Item Description.'}, {'role': 'assistant', 'content': 'Updated: the column mapping for Text2 was BOM Quantity and is now Item Description.'}]

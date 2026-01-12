@@ -1,1 +1,0 @@
-The current setting for the custom text field used to search for tasks is "CUSTOM_TASK_TEXT8".

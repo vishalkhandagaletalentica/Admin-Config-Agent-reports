@@ -1,1 +1,0 @@
-The current title displayed for the Document Links column in the ConWeb views and reports is "Document Access Links."

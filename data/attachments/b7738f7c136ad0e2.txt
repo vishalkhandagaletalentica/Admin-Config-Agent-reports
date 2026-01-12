@@ -1,0 +1,1 @@
+Yes — the option to include subtasks in the Batch Printing report is enabled.

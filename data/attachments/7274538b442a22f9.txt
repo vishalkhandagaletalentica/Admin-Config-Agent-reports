@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '29310147-3126-4d3f-a874-c646b1494201', 'query': 'Please update the Endpoint URL for subscribing Project CheckIn to /api/v1/subscribeProjectCheckInMessage/v3.'}

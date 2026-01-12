@@ -1,1 +1,0 @@
-The currently hidden columns in the Work Card Information report are: ENABLE_AUTO_DOC_LINK.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common → Column Names — "Assigned To" (column header)', 'Common → Filter Names — "Assign To" (filter label)', 'Task List → Common — "Assigned To Type in Help Needed" (default Assigned To dropdown)'], 'value': None, 'section': None, 'entry': None, 'url': None}

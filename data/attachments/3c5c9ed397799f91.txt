@@ -1,1 +1,0 @@
-You can check which text columns are currently searchable for locating tasks by looking at CUSTOM_TASK_TEXT5.

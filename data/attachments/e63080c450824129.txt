@@ -1,1 +1,0 @@
-The display name for Date Resolved (column header) is "Resolved Date."

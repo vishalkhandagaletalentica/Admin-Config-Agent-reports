@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Mgr -> Task List -> Search Columns for Task Table (TASK_MANAGER_ID)', 'Task Mgr -> Subtask List -> Search Columns for Task Table (TASK_MANAGER_ID)', 'Project Mgr -> Search Columns for TLP by Resource (TASK_MANAGER_ID)'], 'value': None, 'section': None, 'entry': None, 'url': None}

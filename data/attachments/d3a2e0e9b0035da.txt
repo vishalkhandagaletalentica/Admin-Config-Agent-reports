@@ -1,1 +1,0 @@
-The current title displayed for the chain identifier in the report is "Updated Chain ID."

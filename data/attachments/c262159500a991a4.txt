@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Project Control — Subproject Milestones (includes/excludes subprojects in the view)', 'Common -> Filter Names — Subproject Milestones (display/filter name)'], 'value': None, 'section': None, 'entry': None, 'url': None}

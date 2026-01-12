@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '87ce6882-8141-44f8-ac64-736f7c67039a', 'query': 'The section name is "Common Parameters for Concerto Desktop Clients," and the entry name is "Horizon Length."'}

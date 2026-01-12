@@ -1,1 +1,0 @@
-The current title displayed for the Full Kit Manager in the reports is "Full Kit Manager."

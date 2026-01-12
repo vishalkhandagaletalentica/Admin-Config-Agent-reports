@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Diagnostics → Completed', 'Project Mgr → Project Control → Complete', 'Project Mgr → Modify Projects → Complete', 'Metrics → Exclude Projects → Complete', 'Project Mgr → Project Status → Complete'], 'value': None, 'section': None, 'entry': None, 'url': None}

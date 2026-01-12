@@ -1,0 +1,1 @@
+The value should be boolean (e.g., enabled/disabled, included/excluded). I can't use "abcde" for this setting.

@@ -1,0 +1,1 @@
+{'entryId': 696, 'sectionId': 30, 'flags': 1, 'entryName': 'TASK_RESOURCES_LIST', 'entryFriendlyName': 'TASK_RESOURCES_LIST', 'strValue': 'NEW_TASK_RESOURCES_LIST', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 308660.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

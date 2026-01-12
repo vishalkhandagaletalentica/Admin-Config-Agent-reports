@@ -1,1 +1,0 @@
-The current mapping for the Early Start Date field in the Gantt chart is New RLES.

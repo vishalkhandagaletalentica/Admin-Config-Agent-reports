@@ -1,1 +1,0 @@
-The current default sorting option for the Tabular view in Pipeline Web is by Buffer Projected Date.

@@ -1,0 +1,1 @@
+Yes, the filter name for displaying cumulative data is enabled.

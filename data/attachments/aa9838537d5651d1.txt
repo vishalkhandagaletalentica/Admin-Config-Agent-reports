@@ -1,1 +1,0 @@
-The current setting for adding or updating subtasks in Excel is to add/update subtasks with SubtaskId.

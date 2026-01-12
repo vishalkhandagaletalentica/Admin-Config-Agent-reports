@@ -1,1 +1,0 @@
-The current filter name for the status in the task list is "Task Status."

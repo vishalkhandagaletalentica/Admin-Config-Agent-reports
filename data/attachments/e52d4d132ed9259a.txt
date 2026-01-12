@@ -1,1 +1,0 @@
-The current time set for task execution is 8000 milliseconds.

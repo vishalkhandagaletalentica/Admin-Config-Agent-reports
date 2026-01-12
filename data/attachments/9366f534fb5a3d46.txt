@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the name for CC Column Preset 1 in the table view settings?'}, {'role': 'assistant', 'content': 'The name for Column Preset 1 in the Planning Client -> Table View CC mode is 12345.'}, {'role': 'user', 'content': 'Update this setting to 67890.'}, {'role': 'assistant', 'content': 'Updated: Column Preset 1 name changed from 12345 to 67890.'}]

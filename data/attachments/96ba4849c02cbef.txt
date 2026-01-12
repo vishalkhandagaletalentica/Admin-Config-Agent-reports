@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the DBR_ColorPriority1 setting to a new value of N.'}, {'role': 'assistant', 'content': 'Which configuration section contains the DBR_ColorPriority1 setting?'}, {'role': 'user', 'content': 'The section name is DBR Project Type.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

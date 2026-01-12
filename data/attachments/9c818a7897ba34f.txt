@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_TASK_UPDATE', 'entry': 'HOR_DATE_TL', 'url': None}

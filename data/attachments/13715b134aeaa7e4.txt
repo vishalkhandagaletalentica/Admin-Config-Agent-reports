@@ -1,1 +1,0 @@
-What is the current field mapping for the Task Status in the advanced filter settings?

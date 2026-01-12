@@ -1,1 +1,0 @@
-The Project Attribute6 mandatory setting has been successfully updated to disabled.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Red Y intercept for CCCB', 'Red Y intercept for CCFB', 'Red Y intercept for CMSB'], 'value': None, 'section': 'BufferPenetrationColorGraph', 'entry': None, 'url': None}

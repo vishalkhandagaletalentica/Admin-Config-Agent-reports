@@ -1,1 +1,0 @@
-The Excluded setting in Exclude Projects is now disabled.

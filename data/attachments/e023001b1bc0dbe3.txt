@@ -1,1 +1,0 @@
-Horizon Length was updated from 4000 days to 5000 days.

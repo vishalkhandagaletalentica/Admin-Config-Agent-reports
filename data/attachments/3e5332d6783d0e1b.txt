@@ -1,1 +1,0 @@
-Please update the hidden fields in the report to include: BM_LAST_UPDATE, LAST_UPDATE_DATE, PROJECT_UNIQUE_ID, DELAY_IN_DAYS, TITLE, PIPELINE_PRIORITY, DIVISION, DRUM_PHASE_CT.

@@ -1,1 +1,0 @@
-The current setting for how many days earlier the Full Kit Date is pulled in for the project is 2 days.

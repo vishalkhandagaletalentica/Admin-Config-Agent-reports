@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '1deb8a30-af19-4472-94cd-bb3bee88ab91', 'query': 'Please update the Internal Milestones Must Have Zero Duration setting to no.'}

@@ -1,1 +1,0 @@
-The current title displayed for the link type in the reports is "Link Type."

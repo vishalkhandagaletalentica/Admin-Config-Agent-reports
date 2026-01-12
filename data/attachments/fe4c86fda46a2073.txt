@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Throughput: Show Data By', 'Metrics -> Cycle Time: Show Data By'], 'value': None, 'section': None, 'entry': None, 'url': None}

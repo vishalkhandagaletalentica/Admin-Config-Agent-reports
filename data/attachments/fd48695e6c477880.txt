@@ -1,0 +1,1 @@
+The title of the "Show Data By" filter in the Throughput and Cycle Time report is "View Data By."

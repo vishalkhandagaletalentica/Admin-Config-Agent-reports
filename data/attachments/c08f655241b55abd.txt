@@ -1,1 +1,0 @@
-The current title displayed for the Milestone Name and Unique Identifier in the reports is "New Milestone Name (UID)."

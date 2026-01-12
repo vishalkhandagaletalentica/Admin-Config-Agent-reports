@@ -1,1 +1,0 @@
-The current title displayed for the Additional Pipeline Delay in the Pipeline Dashboard report is "Additional Pipeline Delay (d)".

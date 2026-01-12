@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the checklist displayed for the custom task text field 4?'}, {'role': 'assistant', 'content': 'No — the checklist for Custom Task Text Field 4 (Text4) is disabled.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Done — the checklist for Custom Task Text Field 4 (Text4) is now enabled.'}]

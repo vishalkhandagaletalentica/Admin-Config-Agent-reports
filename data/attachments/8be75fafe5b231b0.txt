@@ -1,1 +1,0 @@
-The “Include Drum Phase Cycle Time” option has been enabled for the Cycle Time report.

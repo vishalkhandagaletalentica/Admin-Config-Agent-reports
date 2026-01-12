@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Throughput', 'Metrics -> On-Time Delivery', 'Executive -> Performance'], 'value': None, 'section': None, 'entry': None, 'url': None}

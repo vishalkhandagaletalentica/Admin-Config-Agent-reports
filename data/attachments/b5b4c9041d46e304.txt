@@ -1,1 +1,0 @@
-The Actual Output provides a title that is factually correct, matching the Expected Output's title. However, it fails to fully address the intent of the Input question by not mentioning that this title is specifically for the 'End of Yesterday filter' in the reports, which is a key detail in the Expected Output.

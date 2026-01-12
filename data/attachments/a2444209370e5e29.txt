@@ -1,1 +1,0 @@
-The "Show Team Members in Task Manager Filter" option under Project Mgr/Resource Mgr → Escalated Tasks has been enabled.

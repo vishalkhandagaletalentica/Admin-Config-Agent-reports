@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'fbd3e7c2-679c-4d88-8a07-52b98f6f9597', 'query': 'I mean disabling the checklist/display setting for Custom Task Text Field 4.'}

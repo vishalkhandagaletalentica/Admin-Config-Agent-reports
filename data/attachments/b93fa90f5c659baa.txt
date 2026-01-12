@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Login web page (Login web page) — used to specify the login page shown in email alerts', 'Concerto Web URL (Concerto Web URL) — the base web URL used in the email alert link', 'Streamliner Base URL for SignIn — base URL used for sign-in links'], 'value': None, 'section': None, 'entry': None, 'url': None}

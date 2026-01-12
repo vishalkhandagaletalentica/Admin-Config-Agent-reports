@@ -1,1 +1,0 @@
-The current setting for how scheduling is managed across multiple resources is 1.

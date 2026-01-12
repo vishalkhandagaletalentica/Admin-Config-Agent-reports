@@ -1,0 +1,1 @@
+The Actual Output provides a title ('Excluded') but fails to address the full scope of the Expected Output, which lists multiple specific titles related to excluded projects. This indicates a partial answer that does not meet the intent of the Input question.

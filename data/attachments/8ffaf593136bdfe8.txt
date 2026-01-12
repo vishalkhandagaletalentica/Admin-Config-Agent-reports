@@ -1,1 +1,0 @@
-{'entryId': 266, 'sectionId': 17, 'flags': 0, 'entryName': 'ROWS_PER_PAGE', 'entryFriendlyName': 'Rows Per Page', 'strValue': None, 'floatValue': None, 'intValue': 25, 'valueType': 0, 'itemDesc': 'Rows per page', 'rangeList': '$RANGE:1,99999', 'validationRule': None, 'sequenceId': 175320.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+I couldn't enable Task Update History because you don't have permission to update configurations. The setting is currently disabled.

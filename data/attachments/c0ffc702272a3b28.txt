@@ -1,0 +1,1 @@
+The column mapping for Text10 is LAST_MOD_DATE.

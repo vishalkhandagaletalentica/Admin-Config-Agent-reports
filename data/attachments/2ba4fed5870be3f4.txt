@@ -1,1 +1,0 @@
-The Task List setting to exclude users with access to all divisions is already disabled; no update is needed.

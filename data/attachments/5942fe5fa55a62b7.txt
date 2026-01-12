@@ -1,1 +1,0 @@
-The current title displayed for the Chain Complete/Buffer Consumed column in the Executive Gate drilldown report is "Chain Complete/Buffer Consumed."

@@ -1,0 +1,1 @@
+The filters available to be displayed in the Task Level Priorities By Project report are Project Manager, New Project Name, New Start Date, In Progress, Portfolio, Updated Product Code, Client, and New Division.

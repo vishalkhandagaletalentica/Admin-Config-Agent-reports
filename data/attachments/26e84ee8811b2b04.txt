@@ -1,0 +1,1 @@
+The number of months to look back is 15.

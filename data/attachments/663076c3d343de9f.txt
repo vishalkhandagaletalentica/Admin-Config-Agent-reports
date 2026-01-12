@@ -1,0 +1,1 @@
+Yes, a password is required for users during logon.

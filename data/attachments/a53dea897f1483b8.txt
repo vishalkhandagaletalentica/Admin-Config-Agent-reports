@@ -1,0 +1,1 @@
+No — the default query setting in the Task Manager filter (Use UNION in Task Manager Filter) is disabled.

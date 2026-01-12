@@ -1,0 +1,1 @@
+{'entryId': 2133, 'sectionId': 10, 'flags': 0, 'entryName': 'CURRENT_PHASE', 'entryFriendlyName': 'Current Phase', 'strValue': 'Next Phase', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Current phase of project', 'rangeList': None, 'validationRule': None, 'sequenceId': 142660.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,1 +1,0 @@
-What is the current column mapping for Task Description when I import a CSV or Excel file?

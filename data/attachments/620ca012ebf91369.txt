@@ -1,0 +1,1 @@
+The value of the searchable text columns for tasks is CUSTOM_TASK_TEXT3.

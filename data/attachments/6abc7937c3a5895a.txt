@@ -1,0 +1,1 @@
+The mistake is a type mismatch, as the expected value type is a string; you should provide a string formatted as key-value pairs or a list of such pairs, for example: "PHASE=Phase,TASK_COLOR=blue".

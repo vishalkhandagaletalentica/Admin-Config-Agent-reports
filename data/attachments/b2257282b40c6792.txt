@@ -1,0 +1,1 @@
+Is the error display option enabled for projects with missing phases?

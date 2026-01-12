@@ -1,0 +1,1 @@
+Updated the filter name from "Exclude Cancelled Projects" to "Include Cancelled Projects".

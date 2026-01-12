@@ -1,0 +1,1 @@
+The Do Not Limit Stretch value should be boolean (e.g., enabled/disabled, included/excluded). I can't set it to "abcde"—please provide a boolean value such as "enable" or "disable".

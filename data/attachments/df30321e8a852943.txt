@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_TASK_UPDATE', 'entry': 'USE_UNION_IN_FILTER_QUERY', 'url': None}

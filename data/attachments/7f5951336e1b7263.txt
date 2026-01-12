@@ -1,1 +1,0 @@
-The current title displayed for the completion percentage of subtasks in the reports is "%Complete."

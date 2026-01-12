@@ -1,1 +1,0 @@
-The display name for the Action Type column header is "New Action Type".

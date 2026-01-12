@@ -1,1 +1,0 @@
-The project level task manager compliance display has been successfully disabled for the task manager.

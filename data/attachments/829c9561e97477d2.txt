@@ -1,0 +1,1 @@
+Is the option for calculating buffer sizes based on duration variability enabled?

@@ -1,0 +1,1 @@
+I couldn't find a configuration matching 'include average days escalated in the report'. Could you provide the section name (or describe where this report setting lives) and the exact entry name or phrase you see in the UI?

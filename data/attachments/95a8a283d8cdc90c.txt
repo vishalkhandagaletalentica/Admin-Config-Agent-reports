@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '0eafa9c0-97b8-493f-aa97-a193916bbab9', 'query': 'What is the title for the Debuffered Baseline Start Date column in the SPI table view?'}

@@ -1,1 +1,0 @@
-The "Allow past Horizon Start for BM" option has been enabled.

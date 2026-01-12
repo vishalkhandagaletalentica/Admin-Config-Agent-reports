@@ -1,0 +1,1 @@
+The Actual Output contradicts the Expected Output by providing a detailed list of columns, while the Expected Output states that there are no columns in the report. This indicates a complete misalignment with the factual correctness required by the evaluation steps.

@@ -1,1 +1,0 @@
-The Custom Task Text field to use for specifying export of Purchasing Task has been successfully updated to CUSTOM_TASK_TEXT10.

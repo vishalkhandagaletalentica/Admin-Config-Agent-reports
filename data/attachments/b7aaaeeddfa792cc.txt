@@ -1,1 +1,0 @@
-The Buffer Penetration is already set to "% Buffer Consumption". No update is needed.

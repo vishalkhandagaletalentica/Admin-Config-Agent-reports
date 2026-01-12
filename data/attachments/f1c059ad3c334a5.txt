@@ -1,1 +1,0 @@
-Maximum Logon Retries updated from 5 to 7.

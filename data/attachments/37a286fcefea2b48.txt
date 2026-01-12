@@ -1,0 +1,1 @@
+The column name for the subtask resources is NewSubTaskResourceName.

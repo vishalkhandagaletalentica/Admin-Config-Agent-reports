@@ -1,0 +1,1 @@
+Yes — the option to show managers only in the Full Kit Manager filter is enabled.

@@ -1,0 +1,1 @@
+The Task Custom Text Field for External Task has been updated from CUSTOM_TASK_TEXT2 to CUSTOM_TASK_TEXT3.

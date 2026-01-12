@@ -1,0 +1,1 @@
+The Buffer Trend column name has been updated from "Trend" to "Updated Buffer Trend".

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['DBR — Green Project Buffer (applies to DBR Project Type)', 'Buffer Priorities — Green Project Buffer (sets relative buffer priorities)'], 'value': None, 'section': None, 'entry': None, 'url': None}

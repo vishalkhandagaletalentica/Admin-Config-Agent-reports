@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '947cf946-f442-451e-a21e-f695d7b99ac4', 'query': 'Please retry with the same mapping (label "Updated Task Type" → key TASK_TYPE).'}

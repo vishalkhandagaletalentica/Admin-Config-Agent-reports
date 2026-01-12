@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Pipelining Drilldown (Hidden Fields)', 'Project Mgr/Resource Mgr -> Assign Task Managers (Hidden Fields)', 'Project Mgr -> Modify Projects (Hidden Fields)', 'Project Mgr -> Project Control (Hidden Fields)'], 'value': None, 'section': None, 'entry': None, 'url': None}

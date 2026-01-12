@@ -1,1 +1,0 @@
-The "Show Team Members in Task Manager Filter" option under Task List → Common is already enabled. No update is needed.

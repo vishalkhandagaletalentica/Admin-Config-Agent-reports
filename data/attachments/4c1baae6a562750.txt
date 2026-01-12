@@ -1,0 +1,1 @@
+I can't update that because 'Show Actual Delay' expects a boolean value. The value should be boolean (e.g., enabled/disabled, included/excluded). Would you like to set it to enabled or disabled?

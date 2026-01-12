@@ -1,1 +1,0 @@
-{'entryId': 2761, 'sectionId': 10, 'flags': 0, 'entryName': 'LEVELED_FLOAT', 'entryFriendlyName': 'Leveled Task Float', 'strValue': 'Leveled Float', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Leveled Task Float (Gantt)', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

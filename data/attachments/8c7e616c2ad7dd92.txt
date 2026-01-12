@@ -1,1 +1,0 @@
-The setting "Show Logged-In User Selected in Full Kit Mgr Filter" has been successfully updated to enabled.

@@ -1,1 +1,0 @@
-The current filter name for the IMS in the Project Control view is enabled.

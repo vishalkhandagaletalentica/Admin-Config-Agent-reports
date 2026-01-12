@@ -1,0 +1,1 @@
+The column header label 'Done' was updated from "Completed" to "Finished".

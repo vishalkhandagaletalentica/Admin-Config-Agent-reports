@@ -1,1 +1,0 @@
-The Buffer Pen item in Column Headings is currently set to "Buffer Cnsm`d (%)".

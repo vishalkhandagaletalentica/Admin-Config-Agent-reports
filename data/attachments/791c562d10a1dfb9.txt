@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '000776e4-5bce-4294-9a39-0b0018c3db59', 'query': 'The section name is "Concerto Pipeline client parameters" and the entry name is "Check to log schedule highlights."'}

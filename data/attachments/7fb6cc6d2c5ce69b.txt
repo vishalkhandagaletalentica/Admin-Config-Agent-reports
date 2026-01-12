@@ -1,0 +1,1 @@
+Yes, the default roll-up duration value is enabled.

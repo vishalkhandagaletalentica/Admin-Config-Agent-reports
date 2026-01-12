@@ -1,1 +1,0 @@
-The All Milestones option in the Project Status Milestones filter has been successfully updated to "Project Milestones".

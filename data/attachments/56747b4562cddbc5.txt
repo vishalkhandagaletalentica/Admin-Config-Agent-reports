@@ -1,1 +1,0 @@
-The Show Rolling Average setting has been successfully updated to enabled.

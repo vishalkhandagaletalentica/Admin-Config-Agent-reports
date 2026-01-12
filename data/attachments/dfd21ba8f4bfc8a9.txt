@@ -1,1 +1,0 @@
-update configuration setting "Show Managers Only in Project Mgr Filter" to "abcde"

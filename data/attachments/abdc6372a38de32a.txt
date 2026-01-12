@@ -1,0 +1,1 @@
+I resolved the section "Full Kit Report" and the entry "Print Font Size". The Print Font Size is already set to FONT_LARGE. No update is needed.

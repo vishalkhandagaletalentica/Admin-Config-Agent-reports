@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List → Common (Display separator after each Sort Window)', 'Project Mgr → Task Level Priorities By Task Mgr (Display separator after each Sort Window)', 'Project Mgr → Task Level Priorities By Project (Display separator after each Sort Window)'], 'value': None, 'section': None, 'entry': None, 'url': None}

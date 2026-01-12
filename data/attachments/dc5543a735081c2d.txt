@@ -1,1 +1,0 @@
-The column name for "Validate Attribute for Project Exclusiveness" has been successfully updated to "Project Exclusiveness Validation".

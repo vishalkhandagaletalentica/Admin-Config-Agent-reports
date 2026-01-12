@@ -1,1 +1,0 @@
-The default sorting order in Task List has been updated from B-CHECKLIST_SEQID to A-CHECKLIST_SEQID.

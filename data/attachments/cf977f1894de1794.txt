@@ -1,1 +1,0 @@
-I couldn't enable the external link for the Resource Report because I don't have the necessary privileges to update configuration entries. Please ask an administrator with update rights to enable it, or grant me the required update permission and I can try again.

@@ -1,1 +1,0 @@
-The current title displayed for users who have opened the network for editing is "Editors Network."

@@ -1,0 +1,1 @@
+The Actual Output correctly identifies that the setting expects a boolean value, which aligns with the Expected Output's identification of a type mismatch. However, it fails to directly address the request to update the setting to 'xyz', which is not a boolean value. This oversight leads to a partial answer, as it does not fulfill the intent of the Input question.

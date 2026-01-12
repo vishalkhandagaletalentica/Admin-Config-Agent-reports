@@ -1,0 +1,1 @@
+Yes — automatic loading of the Executive Dashboard is enabled when you click the Executive tab.

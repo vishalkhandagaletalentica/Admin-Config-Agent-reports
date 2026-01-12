@@ -1,1 +1,0 @@
-The default sorting order was updated to A-CHAINSEQNO,D-CMSB_PENETRATION,A-EARLIEST_ARRIVAL,A-CHAINUID.

@@ -1,1 +1,0 @@
-Done — verification of the actual task delay for CO tasks (Verify CO Task Delay) is now disabled.

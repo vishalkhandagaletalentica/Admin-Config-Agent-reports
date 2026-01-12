@@ -1,1 +1,0 @@
-The filter name for "Compare With" in Gate Reports was updated from DUE_DATE to CUSTOM_DATE1.

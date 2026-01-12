@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Resource Manager setting to Resource Mgr.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Resource Manager” setting?'}, {'role': 'user', 'content': 'The section name is "Column Headings."'}, {'role': 'assistant', 'content': 'The Resource Manager is already set to "Resource Mgr". No update is needed.'}]

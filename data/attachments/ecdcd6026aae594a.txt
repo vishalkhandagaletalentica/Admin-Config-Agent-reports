@@ -1,1 +1,0 @@
-The Text1 column is currently mapped to "SAPchecklist".

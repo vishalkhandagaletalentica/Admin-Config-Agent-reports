@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the default font size used in Print Preview for the Work Card Information report?'}, {'role': 'assistant', 'content': 'The default print preview font size for Work Card Information is Font Large.'}, {'role': 'user', 'content': 'Set it to FONT_XLARGE'}, {'role': 'assistant', 'content': 'Done — the Print Font Size is now set to Font XLarge.'}]

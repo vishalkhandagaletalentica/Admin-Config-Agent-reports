@@ -1,0 +1,1 @@
+Do you mean the columns used by the Task Mgr subtask list (Task Mgr -> Subtask List) or the common column names used across views (Common -> Column Names)?

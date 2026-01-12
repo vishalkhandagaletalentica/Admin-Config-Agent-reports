@@ -1,1 +1,0 @@
-{'entryId': 1465, 'sectionId': 11, 'flags': 0, 'entryName': 'IMS', 'entryFriendlyName': 'IMS', 'strValue': 'IMS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for IMS.', 'rangeList': None, 'validationRule': None, 'sequenceId': 139300.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

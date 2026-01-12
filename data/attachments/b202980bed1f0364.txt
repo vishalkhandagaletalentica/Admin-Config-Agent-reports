@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Enable Planning Assistant', 'Disable Auto Save Revisions', 'Show Push out project schedule option', 'Planned (PL)'], 'value': None, 'section': None, 'entry': None, 'url': None}

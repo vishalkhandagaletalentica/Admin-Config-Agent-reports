@@ -1,0 +1,1 @@
+The maximum number of login attempts allowed before an account gets locked out is 5.

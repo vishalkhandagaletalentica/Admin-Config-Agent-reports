@@ -1,0 +1,1 @@
+The display name for Incl Current Period Detail was updated from "Include Current Period Details" to "Exclude Current Period Details".

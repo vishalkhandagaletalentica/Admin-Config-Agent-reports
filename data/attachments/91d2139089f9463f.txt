@@ -1,0 +1,1 @@
+No — password validation for numeric characters is disabled.

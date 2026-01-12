@@ -1,0 +1,1 @@
+Yes — the filter name for past periods data is set to "Past".

@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the option to display Actual Delay data checked?'}, {'role': 'assistant', 'content': 'No — the option to display Actual Delay data is not checked (disabled).'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

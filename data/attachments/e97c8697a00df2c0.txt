@@ -1,1 +1,0 @@
-The Percentage Stretch Limit in the Concerto Pipeline client settings is 75%.

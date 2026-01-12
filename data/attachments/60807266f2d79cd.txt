@@ -1,1 +1,0 @@
-The "Is Virtual" column heading is set to "Not Virtual".

@@ -1,1 +1,0 @@
-The Date1 mapping in Checklist Integration Fields Mapping has been updated from "Contractual Delivery Date" to "Delivery Date".

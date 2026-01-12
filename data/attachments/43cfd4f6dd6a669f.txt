@@ -1,1 +1,0 @@
-The current value of the custom text column named CUSTOMTEXT7 is NewColumnName.

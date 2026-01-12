@@ -1,0 +1,1 @@
+Yes, the display of subprojects is enabled in the Throughput report.

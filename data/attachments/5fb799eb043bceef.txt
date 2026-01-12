@@ -1,1 +1,0 @@
-I attempted to update the hidden columns but was unable to apply the change: the system rejected the value because it could not validate the column names for that section. Please provide valid column identifiers (or confirm the exact column names to hide) so I can try again.

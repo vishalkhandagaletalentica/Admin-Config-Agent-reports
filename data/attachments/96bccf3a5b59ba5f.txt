@@ -1,1 +1,0 @@
-The Subtask type Parallel has been successfully updated to Sequential.

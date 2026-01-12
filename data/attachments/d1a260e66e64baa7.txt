@@ -1,1 +1,0 @@
-Currently displayed filters: Division, Project Manager, Portfolio, Product Code, Customer.

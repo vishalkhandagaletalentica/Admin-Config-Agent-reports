@@ -1,1 +1,0 @@
-The “Complete” setting in Modify Projects (Specifies if Completed projects should be displayed) is enabled.

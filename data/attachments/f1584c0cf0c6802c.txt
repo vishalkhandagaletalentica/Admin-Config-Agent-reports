@@ -1,1 +1,0 @@
-The Adequate Buffers column heading has been updated to "New Adequate Buffers".

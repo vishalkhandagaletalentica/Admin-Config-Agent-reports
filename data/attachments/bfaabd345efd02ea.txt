@@ -1,0 +1,1 @@
+No — in Metrics -> Full Kit Delay, "Show Team Members in Full Kit Manager Filter" is disabled.

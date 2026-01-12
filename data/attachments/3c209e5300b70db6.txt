@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Linear aggresive', 'Binary routine'], 'value': None, 'section': None, 'entry': None, 'url': None}

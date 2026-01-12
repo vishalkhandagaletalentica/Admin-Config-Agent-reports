@@ -1,1 +1,0 @@
-The "Calculate Projected Date Using" setting has been updated to use Remaining Duration for IP tasks (enabled).

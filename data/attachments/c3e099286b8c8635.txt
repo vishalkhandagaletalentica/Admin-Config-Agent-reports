@@ -1,1 +1,0 @@
-The Total Project WIP display has been disabled in the report. It was enabled before and is now disabled.

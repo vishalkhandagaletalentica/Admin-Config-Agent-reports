@@ -1,1 +1,0 @@
-The filters currently being displayed in the Modify Projects report are Project, Status, Project Manager, New Product Code, and Division.

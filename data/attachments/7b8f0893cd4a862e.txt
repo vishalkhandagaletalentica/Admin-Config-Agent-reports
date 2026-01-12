@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, so you should provide a string representation of the column order, such as "PROJECT_NAME, OLD_DUE_DATE, NEW_DUE_DATE, USERNAME, CHANGED_DATE, CHANGED_REASON, SUBJECT, AUTHOR, CATEGORY, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4, ATTRIBUTE5".

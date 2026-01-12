@@ -1,0 +1,1 @@
+The Actual Output lists fields that are relevant to the Compact View but does not match the Expected Output in terms of the specific field names. While it addresses the intent of the question, the factual correctness is compromised due to the incorrect naming of fields, leading to a significant deduction in points.

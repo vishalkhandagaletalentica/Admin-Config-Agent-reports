@@ -1,0 +1,1 @@
+The User Full Name column heading was updated from "User Full Name" to "User Display Name".

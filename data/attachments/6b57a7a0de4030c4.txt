@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Task Level Priorities By Project', 'Project Mgr -> Task Level Priorities By Task Mgr', 'Project Mgr -> Task Level Priorities By Resource', 'Task List -> Common'], 'value': None, 'section': None, 'entry': None, 'url': None}

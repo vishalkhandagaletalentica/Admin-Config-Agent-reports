@@ -1,1 +1,0 @@
-Logging schedule highlights is currently enabled.

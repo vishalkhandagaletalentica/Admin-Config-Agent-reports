@@ -1,0 +1,1 @@
+The title displayed for Resource Mgr in the column headings is RESOURCE_MANAGER_ID.

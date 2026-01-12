@@ -1,0 +1,1 @@
+The title for the "Include Drum Phase Cycle Time" filter in the Cycle Time report is Drum Phase Duration.

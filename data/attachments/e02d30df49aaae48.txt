@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_FILTER_NAMES', 'entry': 'SETASIDE_PROTECTIVE_CAPACITY_FILTER_NAME', 'url': None}

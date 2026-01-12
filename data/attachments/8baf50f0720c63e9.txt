@@ -1,1 +1,0 @@
-The current filter name for Task List Horizon is "Horizon".

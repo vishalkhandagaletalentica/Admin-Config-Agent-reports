@@ -1,0 +1,1 @@
+Yes, the caching of manager, project, and resource names is currently enabled.

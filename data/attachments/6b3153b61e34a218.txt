@@ -1,0 +1,1 @@
+The mistake is a type mismatch, as the expected value type is a string, and the provided value should be formatted as a key-value pair like 'key1=value1,key2=value2'; for example, "WORK_CARD_SUPPORTABLE=false,WORK_CARD_MAJOR_JOBID=67890".

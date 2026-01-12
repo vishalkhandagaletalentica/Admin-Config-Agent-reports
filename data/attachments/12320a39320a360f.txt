@@ -1,3 +1,0 @@
-Current filters displayed in the Buffer Diagnostics report:
-- Category: New Product Code
-- Author: Portfolio

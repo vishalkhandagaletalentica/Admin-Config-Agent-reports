@@ -1,1 +1,0 @@
-The default selection for the project manager filters has been successfully updated to "All Project Managers".

@@ -1,1 +1,0 @@
-The current setting for limiting the stretch of a project's length during pipeline planning is disabled.

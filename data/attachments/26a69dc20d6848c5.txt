@@ -1,1 +1,0 @@
-The currently hidden columns in the Drum Throughput Drilldown report are PROJECT UNIQUE ID, TITLE, and DIVISION.

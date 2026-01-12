@@ -1,1 +1,0 @@
-The "All" label in the filtering pane is set to "Everything."

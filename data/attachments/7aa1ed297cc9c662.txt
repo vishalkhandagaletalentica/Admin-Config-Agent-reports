@@ -1,1 +1,0 @@
-The current title displayed for the Manage Help Needed column is "Associated List."

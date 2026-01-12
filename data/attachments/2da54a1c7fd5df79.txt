@@ -1,0 +1,1 @@
+The filter name 'Minimum Percentage Completion for Release' was updated to 'Release Completion Percentage'.

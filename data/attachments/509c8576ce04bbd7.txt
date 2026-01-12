@@ -1,0 +1,1 @@
+I couldn't find a configuration matching "default number of escalation types set to expand for the escalation delay data." Could you tell me which configuration section and entry you mean (section name or a short description, and the entry name or label)?

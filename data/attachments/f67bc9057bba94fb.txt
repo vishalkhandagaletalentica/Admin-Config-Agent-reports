@@ -1,1 +1,0 @@
-The display name for Peak Load:Capacity in filters has been successfully updated to "Peak Load Capacity".

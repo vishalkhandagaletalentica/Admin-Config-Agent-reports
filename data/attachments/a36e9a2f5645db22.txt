@@ -1,1 +1,0 @@
-The current title for the Close Date column is Close Date Updated.

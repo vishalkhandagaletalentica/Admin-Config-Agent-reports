@@ -1,1 +1,0 @@
-The Project Stretch in DB(in Days) is already set to "Stretch in DB (d)". No update is needed.

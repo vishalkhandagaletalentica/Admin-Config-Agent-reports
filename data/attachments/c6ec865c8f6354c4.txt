@@ -1,1 +1,0 @@
-Please update the setting to disable the generation of data for Purchase Dates Integration during BM.

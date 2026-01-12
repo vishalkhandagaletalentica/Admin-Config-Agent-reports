@@ -1,0 +1,1 @@
+I couldn't enable 'Make Comments mandatory for Date Change' because you don't have permission to update configuration. The setting is currently disabled.

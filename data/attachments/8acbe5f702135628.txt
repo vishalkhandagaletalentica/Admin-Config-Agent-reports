@@ -1,0 +1,1 @@
+The Throughput report uses the following filter-related settings: Filters Available (controls which filter names appear in the Advanced Filtering tool), Filters To Display (selects the default filters shown in the report). Active attributes will always be displayed regardless of these settings.

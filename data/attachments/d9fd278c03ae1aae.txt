@@ -1,1 +1,0 @@
-No — “Debuffered Baseline Duration” is not listed in the hidden fields for the Planning Client -> Table View, so the column is currently visible.

@@ -1,1 +1,0 @@
-The Project Attribute field for Gate has been successfully updated to CATEGORY.

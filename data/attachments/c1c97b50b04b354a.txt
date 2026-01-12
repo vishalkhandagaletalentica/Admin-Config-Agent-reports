@@ -1,1 +1,0 @@
-The Critical Path Sorting feature has been successfully disabled.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common → Filter Names: Checklists (display name used in the filtering pane)', 'Common → Header Names: Checklist (title shown in Task Details)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Late Finish setting to "LF Updated".'}, {'role': 'assistant', 'content': 'Which section contains the "Late Finish" setting you want to update?'}, {'role': 'user', 'content': 'The section name is "Field Mapping for Adv. filter in Gantt."'}, {'role': 'assistant', 'content': 'Late Finish updated from "LF" to "LF Updated".'}]

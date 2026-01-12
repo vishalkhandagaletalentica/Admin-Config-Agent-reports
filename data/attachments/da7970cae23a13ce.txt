@@ -1,1 +1,0 @@
-The current title for the "Show Rolling Average" filter is "Average Cycle Time".

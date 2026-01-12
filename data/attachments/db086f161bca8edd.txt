@@ -1,0 +1,1 @@
+No — the password change requirement for new users is disabled.

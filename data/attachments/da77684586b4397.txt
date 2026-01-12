@@ -1,1 +1,0 @@
-The setting for "Delay All Milestones During Push Out" has been successfully updated to disabled.

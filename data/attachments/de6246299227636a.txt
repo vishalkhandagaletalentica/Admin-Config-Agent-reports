@@ -1,0 +1,1 @@
+The Parameter display name was updated from "New Parameter" to "Updated Parameter".

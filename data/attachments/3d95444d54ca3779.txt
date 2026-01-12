@@ -1,1 +1,0 @@
-The Actual Output correctly identifies most of the columns that are hidden in the Tabular View, aligning with the intent of the Input. However, it incorrectly lists ATTRIBUTE3, ATTRIBUTE4, and ATTRIBUTE5 multiple times, which introduces factual inaccuracies. This affects the overall correctness of the response, leading to a moderate score.

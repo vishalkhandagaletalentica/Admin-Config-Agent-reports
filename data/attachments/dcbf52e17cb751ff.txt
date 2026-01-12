@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Apply Buffers — Apply buffers on scheduling', 'Feeding Buffers Policy — CC settings: Feeding Buffers Policy', 'Buffer Settings — The percentage settings for max feeding path length'], 'value': None, 'section': None, 'entry': None, 'url': None}

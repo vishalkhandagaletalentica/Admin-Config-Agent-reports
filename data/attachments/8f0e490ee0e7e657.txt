@@ -1,1 +1,0 @@
-The display name for the Weight column header has been successfully updated to "Body Weight".

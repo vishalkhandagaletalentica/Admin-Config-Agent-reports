@@ -1,1 +1,0 @@
-The column name for Last Month in the R&R Full Kit Compliance report has been successfully updated to "Previous Month".

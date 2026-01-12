@@ -1,0 +1,1 @@
+Yes, the mandatory project attribute 4 is enabled.

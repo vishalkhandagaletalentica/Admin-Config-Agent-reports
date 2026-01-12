@@ -1,0 +1,1 @@
+The number of months in the past for showing data in the Gate Reports is 5.

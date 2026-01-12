@@ -1,1 +1,0 @@
-{'entryId': 1440, 'sectionId': 11, 'flags': 0, 'entryName': 'FONT_XSMALL', 'entryFriendlyName': 'X-small', 'strValue': 'x-small', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Font size x-small.', 'rangeList': None, 'validationRule': None, 'sequenceId': 138800.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

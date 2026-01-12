@@ -1,1 +1,0 @@
-The current title displayed for the Update Task Manager column is "Update Task Manager."

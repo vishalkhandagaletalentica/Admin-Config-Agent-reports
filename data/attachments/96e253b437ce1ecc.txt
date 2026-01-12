@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the correct title of the cancel filter. However, it lacks the additional context of 'in the project status dropdown' found in the Expected Output, which slightly reduces its completeness.

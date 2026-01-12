@@ -1,1 +1,0 @@
-The SMTP Server SSL (Task Excel) is enabled.

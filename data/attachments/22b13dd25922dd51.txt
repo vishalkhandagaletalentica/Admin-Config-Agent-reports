@@ -1,1 +1,0 @@
-{'entryId': 572, 'sectionId': 11, 'flags': 0, 'entryName': 'MONTHS', 'entryFriendlyName': 'Months', 'strValue': 'New Month Name', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Months in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121440.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

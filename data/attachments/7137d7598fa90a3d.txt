@@ -1,4 +1,0 @@
-The following filters are set to be hidden in the Project Status report:
-- Category → New Product Code
-- Author → Portfolio
-- Project Role → Project Role

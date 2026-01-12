@@ -1,0 +1,1 @@
+The column mapping for the Text2 field in the checklist integration is 12345.

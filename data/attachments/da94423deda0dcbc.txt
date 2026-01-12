@@ -1,1 +1,0 @@
-{'entryId': 2463, 'sectionId': 10, 'flags': 0, 'entryName': 'RELATIVE', 'entryFriendlyName': 'Relative', 'strValue': 'Relative', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Relative', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

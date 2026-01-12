@@ -1,0 +1,1 @@
+The Buffer Settings entry for the percentage settings for max feeding path length has been updated from "Buffer Settings" to "New Buffer Setting".

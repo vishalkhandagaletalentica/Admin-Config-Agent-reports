@@ -1,1 +1,0 @@
-The following column is hidden in the Commit/Edit Report: Custom Date 2.

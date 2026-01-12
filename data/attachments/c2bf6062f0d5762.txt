@@ -1,1 +1,0 @@
-The current title displayed for the Work Card Count column is "Work Cards Total."

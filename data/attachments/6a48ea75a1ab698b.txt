@@ -1,1 +1,0 @@
-The Delay column title in the Actual Delay Report is: New Delay (d).

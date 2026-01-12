@@ -1,1 +1,0 @@
-Please update the default sorting for the Tabuler view in Pipeline Web to BUFFER_PROJECTED_DATE.

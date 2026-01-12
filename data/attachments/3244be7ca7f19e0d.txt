@@ -1,1 +1,0 @@
-Custom Path has been updated from http://concertoserver/conweb/RealizationProjectViewer.msi to http://newserver/path/to/RealizationProjectViewer.msi.

@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it accurately states that the internal milestone filter is disabled by default, which aligns perfectly with the Expected Output. Additionally, it directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

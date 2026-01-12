@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Changed Value', 'Changed Field', 'Update Task Manager', 'Autolink', 'Description', 'Manager'], 'value': None, 'section': None, 'entry': None, 'url': None}

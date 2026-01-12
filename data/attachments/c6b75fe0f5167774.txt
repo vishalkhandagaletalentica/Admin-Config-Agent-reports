@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the default target value for new entries in the On-Time Delivery report settings?'}, {'role': 'assistant', 'content': 'The default target value for new On-Time Delivery targets is 95.'}, {'role': 'user', 'content': 'Set it to 90'}, {'role': 'assistant', 'content': 'I set the default On-Time Delivery target from 95 to 90.'}]

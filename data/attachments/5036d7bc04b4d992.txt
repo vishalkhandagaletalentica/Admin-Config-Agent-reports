@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it confirms that the filter for including cancelled projects is enabled, aligning with the Expected Output. However, it lacks the additional detail of explicitly stating 'the filter for' which is present in the Expected Output, leading to a slight deduction in clarity and completeness.

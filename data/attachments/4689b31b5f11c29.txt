@@ -1,1 +1,0 @@
-The current filter setting for the Due Date is "Due Date."

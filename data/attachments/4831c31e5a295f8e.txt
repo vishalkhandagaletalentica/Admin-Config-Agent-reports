@@ -1,0 +1,1 @@
+Display name for Subproject in headers updated from "Subproject" to "New Subproject Name".

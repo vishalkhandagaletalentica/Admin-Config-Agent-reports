@@ -1,1 +1,0 @@
-{'entryId': 969, 'sectionId': 2, 'flags': 0, 'entryName': 'EnableMPPForCheckIn', 'entryFriendlyName': 'Enable checkin of MPP files', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Check to enable MPP files for checkin.', 'rangeList': None, 'validationRule': None, 'sequenceId': 39380.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

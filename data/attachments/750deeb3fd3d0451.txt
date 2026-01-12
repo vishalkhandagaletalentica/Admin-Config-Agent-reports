@@ -1,0 +1,1 @@
+The name of the column used for comments in the Task Excel is Comments.

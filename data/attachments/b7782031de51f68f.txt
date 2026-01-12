@@ -1,1 +1,0 @@
-The Actual Output accurately reflects the Expected Output in terms of factual correctness, stating the default sorting order as '12345'. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions. The phrasing is slightly different, but the factual meaning remains intact.

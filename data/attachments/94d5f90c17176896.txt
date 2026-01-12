@@ -1,0 +1,1 @@
+What is the title displayed for the Percent Full Kit Complete column?

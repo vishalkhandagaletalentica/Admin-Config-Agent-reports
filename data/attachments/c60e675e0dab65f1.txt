@@ -1,1 +1,0 @@
-They cover 30 — the Default Horizon (for completed tasks) is currently set to 30.

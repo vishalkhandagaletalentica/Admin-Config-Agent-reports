@@ -1,1 +1,0 @@
-How many rows are currently set to display per page in the Pipeline View report?

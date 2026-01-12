@@ -1,9 +1,0 @@
-The report is currently displaying these filters:
-- Horizon
-- In Progress (Task status)
-- Task Manager Pro
-- Project
-- Division
-- Portfolio (Author)
-- Task Type
-- Project Manager

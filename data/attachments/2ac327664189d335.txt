@@ -1,0 +1,1 @@
+The columns hidden in the report for the checklist items are ID4, In Progress, New Description, New Column Title, MMH, Status, MCN, Task Date, and Date.

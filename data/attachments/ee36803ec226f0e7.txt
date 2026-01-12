@@ -1,1 +1,0 @@
-The Buffer Size is already set to "Buf Sz (new)". No update is needed.

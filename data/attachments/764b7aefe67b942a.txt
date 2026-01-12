@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_TASK_UPDATE_SUBTASKVIEW', 'entry': 'CUSTOM_FIELDS_TO_DISPLAY', 'url': None}

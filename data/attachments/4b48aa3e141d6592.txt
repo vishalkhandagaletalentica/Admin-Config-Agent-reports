@@ -1,1 +1,0 @@
-The current setting for the Project Attribute field for Base in the Gate Reports is CATEGORY.

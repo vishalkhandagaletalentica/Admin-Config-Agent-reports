@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Throughput — Include Planned Throughput (boolean)', 'Common -> Filter Names — Include Planned Throughput (string)', 'Executive -> Performance — Include Planned Throughput/Cycle Time (boolean)'], 'value': None, 'section': None, 'entry': None, 'url': None}

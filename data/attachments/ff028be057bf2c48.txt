@@ -1,1 +1,0 @@
-The "Display Custom Line" option in the Cycle Time report is enabled.

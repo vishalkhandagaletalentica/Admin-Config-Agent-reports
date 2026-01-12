@@ -1,0 +1,1 @@
+Please update the Show On Time Delivery Rolling Average setting to disabled.

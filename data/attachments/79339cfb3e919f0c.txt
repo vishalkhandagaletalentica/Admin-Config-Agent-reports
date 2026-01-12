@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the Completions Chart shown by default in the Flow Trend report?'}, {'role': 'assistant', 'content': 'No — the Completions Chart is not shown by default in the Flow Trend report (disabled).'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

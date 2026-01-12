@@ -1,1 +1,0 @@
-The Actual Output lists multiple searchable text columns but fails to directly address the specific setting mentioned in the Expected Output, which is TASK_MANAGER_ID. While it provides relevant information, it does not align with the intent of the Input question, leading to a significant deduction in points.

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '99eed54b-57a1-4f86-b0e4-31fd72843778', 'query': 'Please enable Auto-collapse Filters.'}

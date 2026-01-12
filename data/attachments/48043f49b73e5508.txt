@@ -1,0 +1,1 @@
+Updated "% Completion on Release" to "Completion Percentage".

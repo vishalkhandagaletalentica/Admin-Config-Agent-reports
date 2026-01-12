@@ -1,1 +1,0 @@
-The current title displayed in the filtering pane for the Task Manager is "Task Manager Pro."

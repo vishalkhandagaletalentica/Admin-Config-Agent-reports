@@ -1,1 +1,0 @@
-No, the checklist dialog is not enabled to pop up when the full kit task status is set to "Released".

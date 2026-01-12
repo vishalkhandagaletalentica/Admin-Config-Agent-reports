@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Projects — Breakdown Tasks by Projects (Projects)', 'Scope for Task Search — Default value for Task Type Filter (Scope for Task Search)', 'Only Tasks — Used in the scope for Task Search dropdown (Only Tasks)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The current display name for the "Days Ago" filter in the reports is "Days Ago Updated."

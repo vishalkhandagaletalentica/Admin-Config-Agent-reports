@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics → Task Mgt (used in Task Mgt reports)', 'Common → Filter Names (used for filter pane titles)'], 'value': None, 'section': None, 'entry': None, 'url': None}

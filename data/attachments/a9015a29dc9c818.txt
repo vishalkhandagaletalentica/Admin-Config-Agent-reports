@@ -1,1 +1,0 @@
-Is the option to display project-level action items in the Action Item dialog currently enabled?

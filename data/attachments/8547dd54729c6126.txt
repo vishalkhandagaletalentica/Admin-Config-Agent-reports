@@ -1,0 +1,1 @@
+The comparison line is named "Updated Comparison Line" by default.

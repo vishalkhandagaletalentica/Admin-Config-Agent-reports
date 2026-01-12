@@ -1,1 +1,0 @@
-The current setting for the project attribute type is 2.

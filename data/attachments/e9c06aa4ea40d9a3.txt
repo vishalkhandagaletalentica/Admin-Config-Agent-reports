@@ -1,0 +1,1 @@
+Is the buffer management start time being used as the horizon start for penetration calculation?

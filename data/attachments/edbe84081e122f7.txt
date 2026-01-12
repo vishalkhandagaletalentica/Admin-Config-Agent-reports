@@ -1,1 +1,0 @@
-The section name is "RYG Zones for Buffers" and the entry name is "Buffer Penetration Level for the Red Zone when Chain is Complete."

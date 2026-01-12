@@ -1,0 +1,1 @@
+No, the individual trend chart feature is disabled for the project status view.

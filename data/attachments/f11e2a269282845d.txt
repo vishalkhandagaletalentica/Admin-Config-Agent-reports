@@ -1,0 +1,1 @@
+Checklist Item Close Date updated from "Checklist Item Close Date" to "New Checklist Item Close Date".

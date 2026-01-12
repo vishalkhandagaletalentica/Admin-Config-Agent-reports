@@ -1,1 +1,0 @@
-The "Exclude On Hold Task" setting in Escalated Tasks is now enabled.

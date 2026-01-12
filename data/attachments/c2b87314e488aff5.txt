@@ -1,0 +1,1 @@
+The Comments search column is set to UPDATED_COMMENTS.

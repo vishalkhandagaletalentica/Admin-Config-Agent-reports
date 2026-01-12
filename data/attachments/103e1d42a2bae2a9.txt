@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '44d8153b-fe4d-40e3-9932-3bd53c776971', 'query': 'What is the default stretch limit as a percentage of the Project Buffer?'}

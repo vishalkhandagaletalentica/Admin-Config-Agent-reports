@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '96026df5-42cf-4c67-b5f4-040d30a2c332', 'query': 'Please enable the option to allow checklist item roll back.'}

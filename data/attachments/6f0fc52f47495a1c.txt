@@ -1,0 +1,1 @@
+Enabled — checklist items will now be shown when Full Kit status is set to "Released".

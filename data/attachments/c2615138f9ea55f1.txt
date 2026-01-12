@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Show On Time Delivery (Executive -> Project Status)', 'On Time Delivery column title (Common -> Column Names)', 'Show Rolling Average in On-Time Delivery (Metrics -> On-Time Delivery)'], 'value': None, 'section': None, 'entry': None, 'url': None}

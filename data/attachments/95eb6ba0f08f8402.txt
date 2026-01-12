@@ -1,0 +1,1 @@
+The display name for "From" in the filters is Recipient.

@@ -1,0 +1,1 @@
+What is the percentage of the horizon length used to read Calendars from the past?

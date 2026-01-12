@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the correct display name. However, it is slightly less comprehensive than the Expected Output, which includes additional context about the column headers. This minor omission prevents a perfect score.

@@ -1,1 +1,0 @@
-The current setting for splitting in the IP task is enabled.

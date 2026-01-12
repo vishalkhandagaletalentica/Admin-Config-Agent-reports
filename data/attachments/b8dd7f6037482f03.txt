@@ -1,1 +1,0 @@
-The Default Horizon in Project Chain View is set to 60.

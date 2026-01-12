@@ -1,1 +1,0 @@
-The current title displayed for the last modified time stamp in the reports is "Last modified time stamp."

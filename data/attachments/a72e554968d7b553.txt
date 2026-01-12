@@ -1,0 +1,1 @@
+What is the date format currently being used, American or European?

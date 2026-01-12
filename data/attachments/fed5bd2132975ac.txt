@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by providing the current display name for the Due Date header. However, it lacks the additional context of specifying that it pertains to the Red Project Delay report, which is mentioned in the Expected Output. This omission prevents a perfect score.

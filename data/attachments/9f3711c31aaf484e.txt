@@ -1,1 +1,0 @@
-The current filter name for American displayed in the filtering pane is "United States."

@@ -1,0 +1,1 @@
+The current value of Column Preset2 for CC Mode includes Phase, blue (Task Color), NewCheckList (Checklist Indicator), Task Type, Task Name, Status, Updated Duration, Resources, Predecessors Updated, Successor Tasks, New Start Date, New Auto RU Duration, and New Auto Rollup Resource.

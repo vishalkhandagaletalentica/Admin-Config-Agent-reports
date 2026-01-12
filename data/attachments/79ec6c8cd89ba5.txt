@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Project Control (SGD_PROJECT_DETAILS_REPORT)', 'Project Mgr -> Task Level Priorities By Project (SGD_GRPT_ACT_BY_PROJ)', 'Project Mgr -> Project Status (SGD_EXEC_STATUS_REPORT)'], 'value': None, 'section': None, 'entry': None, 'url': None}

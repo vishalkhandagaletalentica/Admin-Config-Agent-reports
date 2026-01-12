@@ -1,0 +1,1 @@
+The Actual Output incorrectly states the title as 'Min Percent Full Kit Complete', which does not match the Expected Output of 'Max Percent Complete'. This introduces a factual error, and while it addresses the intent of the question, the incorrect title significantly impacts the overall accuracy.

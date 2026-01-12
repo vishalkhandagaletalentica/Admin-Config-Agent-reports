@@ -1,0 +1,1 @@
+Yes, the rollup of subtask resources to the parent task in Execution is enabled during buffer management.

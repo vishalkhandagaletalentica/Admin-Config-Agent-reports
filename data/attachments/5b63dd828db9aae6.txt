@@ -1,0 +1,1 @@
+Rows per page updated from 20 to 30.

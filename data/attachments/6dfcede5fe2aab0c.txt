@@ -1,1 +1,0 @@
-The Task Status Filter is already set to "NS, IP, RL". No update is needed.

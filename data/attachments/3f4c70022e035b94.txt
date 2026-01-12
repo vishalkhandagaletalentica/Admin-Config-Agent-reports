@@ -1,1 +1,0 @@
-The current filter name is "Update Compliance Period (hrs)."

@@ -1,0 +1,1 @@
+The Past Periods In Tooltip has been updated from 10 to 5.

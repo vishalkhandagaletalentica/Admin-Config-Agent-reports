@@ -1,0 +1,1 @@
+Yes — the In Process buffering setting is enabled.

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '5b44c139-fdb3-407a-8880-0efba61ecb60', 'query': 'What is the Period Type for Purchasing Tasks in the report settings?'}

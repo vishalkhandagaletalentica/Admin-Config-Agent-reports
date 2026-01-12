@@ -1,5 +1,0 @@
-The command you provided is invalid because the value type for the "Hidden Fields" entry is a multi-list, and you are attempting to set it to a single integer value (12345). The expected value should be a comma-separated list of valid options from the given strValue.
-
-Please use a command with a valid multi-list value. For example: 
-
-`update Hidden Fields set value to CUSTOM_TASK_TEXT1,CUSTOM_TASK_TEXT2`

@@ -1,0 +1,1 @@
+The team member display option is disabled for the Task Manager filter.

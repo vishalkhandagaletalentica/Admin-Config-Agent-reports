@@ -1,0 +1,1 @@
+The Minimum Number Of Impacted Projects For Display In Queues has been successfully updated to 10.

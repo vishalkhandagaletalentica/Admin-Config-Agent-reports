@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Column heading (used in report column headings)', 'Filter title (used in the filtering pane and some reports)'], 'value': None, 'section': None, 'entry': None, 'url': None}

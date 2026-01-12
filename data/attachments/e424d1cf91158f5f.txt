@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '55b3f5a2-8fe6-4849-aa59-abb01b14358d', 'query': 'The correct section name is "Column Headings" and the ENTRY NAME is "Contractual (CMS) and Internal (IMS) milestones per project."'}

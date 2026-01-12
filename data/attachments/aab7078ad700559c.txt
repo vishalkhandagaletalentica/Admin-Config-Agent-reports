@@ -1,0 +1,1 @@
+The default sort order is: Project Name, Planned Date, Due Date.

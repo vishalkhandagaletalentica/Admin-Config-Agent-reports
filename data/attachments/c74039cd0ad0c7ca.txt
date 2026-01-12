@@ -1,1 +1,0 @@
-I attempted to update the hidden columns but encountered a problem applying the change: the system could not validate the column list in the required format. Please confirm the exact column identifiers to hide (or provide them in the format used by your system) and I will try again.

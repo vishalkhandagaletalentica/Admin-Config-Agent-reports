@@ -1,0 +1,1 @@
+The column order in the Purchase Dates Integration report is not specified.

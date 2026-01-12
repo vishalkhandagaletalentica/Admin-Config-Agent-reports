@@ -1,0 +1,1 @@
+{'entryId': 810, 'sectionId': 10, 'flags': 0, 'entryName': 'SUCCESSOR_NAME', 'entryFriendlyName': 'Task Successor Name', 'strValue': 'Updated Successor Name', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Successor Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 116200.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Resource Notes (for Subtask)', 'Subtask Resource Notes'], 'value': None, 'section': None, 'entry': None, 'url': None}

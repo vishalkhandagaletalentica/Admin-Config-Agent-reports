@@ -1,1 +1,0 @@
-The current display name for showing participants in the Task Manager filter is enabled.

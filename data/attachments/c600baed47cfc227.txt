@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the value of the Red Project Buffer setting?'}, {'role': 'assistant', 'content': 'The Red Project Buffer is 1.'}, {'role': 'user', 'content': 'Set it to 2'}, {'role': 'assistant', 'content': 'Updated — the Red Project Buffer was 1 and is now 2.'}]

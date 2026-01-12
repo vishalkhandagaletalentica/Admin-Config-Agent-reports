@@ -1,1 +1,0 @@
-The Count column header display name has been updated to "Total Count".

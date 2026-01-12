@@ -1,1 +1,0 @@
-{'entryId': 807, 'sectionId': 10, 'flags': 0, 'entryName': 'BUFFER_CHAINCOMPLETE', 'entryFriendlyName': 'Chain Complete', 'strValue': '% Chain Complete', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Chain Complete', 'rangeList': None, 'validationRule': None, 'sequenceId': 116140.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

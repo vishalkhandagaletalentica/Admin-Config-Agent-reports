@@ -1,0 +1,1 @@
+Updated the column name for users who have opened the network for editing to "Collaborators Network".

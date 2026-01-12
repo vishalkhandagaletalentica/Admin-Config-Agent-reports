@@ -1,1 +1,0 @@
-The Project Status filter already includes CIQ, IP, and OH. No update is needed.

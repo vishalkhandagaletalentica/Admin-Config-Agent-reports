@@ -1,0 +1,1 @@
+Display name for Work In Process in Filters updated from "Work In Progress" to "In Progress".

@@ -1,0 +1,1 @@
+The value should be a string. Please provide the new value for Full Kit Delay — Time Interval as text (for example: Monthly).

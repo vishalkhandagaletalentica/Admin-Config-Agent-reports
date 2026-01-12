@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the resource scheduling feature enabled?'}, {'role': 'assistant', 'content': 'No — resource scheduling is disabled.'}, {'role': 'user', 'content': 'Update this setting to enabled.'}, {'role': 'assistant', 'content': 'Resource scheduling is now enabled.'}]

@@ -1,1 +1,0 @@
-The data point for buckets in the Pipelining report was updated from START_OF_BUCKET to END_OF_BUCKET.

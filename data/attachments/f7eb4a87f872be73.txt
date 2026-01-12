@@ -1,1 +1,0 @@
-The Action Type display name is already set to "New Action Type". No update is needed.

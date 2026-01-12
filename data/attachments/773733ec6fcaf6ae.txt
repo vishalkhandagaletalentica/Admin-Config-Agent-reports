@@ -1,1 +1,0 @@
-No. The setting you specified (Custom Task Text Field 5) is a text field and its current value is "NewText5" — it does not control whether a checklist is displayed.

@@ -1,0 +1,1 @@
+The title displayed for the column heading of the schedule type is "New Schedule Type."

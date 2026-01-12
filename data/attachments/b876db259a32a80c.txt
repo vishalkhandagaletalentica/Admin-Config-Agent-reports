@@ -1,0 +1,1 @@
+{'entryId': 1702, 'sectionId': 11, 'flags': 0, 'entryName': 'WORK_CARD_SKILL', 'entryFriendlyName': 'Skills', 'strValue': 'Expertise', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Work Card Skill Code.', 'rangeList': None, 'validationRule': None, 'sequenceId': 144040.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

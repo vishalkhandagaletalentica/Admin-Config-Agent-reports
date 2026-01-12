@@ -1,0 +1,1 @@
+The Actual Output provides a column mapping value (PFD), which is factually correct, but it does not directly address the specific question about the 'P2P MS Date' column mapping. This partial relevance leads to a deduction in points, as the response does not fully answer the input question.

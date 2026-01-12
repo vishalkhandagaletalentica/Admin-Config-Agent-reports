@@ -1,0 +1,1 @@
+The value for the BMRun option in the Buffer Management settings is 1.

@@ -1,6 +1,0 @@
-The command to update the hidden fields print value is invalid because the specified value '12345' is not of the correct type or format. The expected value should be a string that corresponds to the allowed fields listed in the `strValue`. 
-
-You need to provide a value that matches the allowed fields, such as 'Task Type,Custom Task Text1,Custom Task Text2'. 
-
-For example, a correct command would be:  
-`update hidden fields print set value to Task Type,Custom Task Text1`

@@ -1,1 +1,0 @@
-The current mapping for Task Text 42 in the advanced filter field mapping is "NewText42".

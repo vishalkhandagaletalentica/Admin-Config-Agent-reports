@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Task Type to "New Task Type".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Task Type" entry?'}, {'role': 'user', 'content': 'The section name is "Column Headings".'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

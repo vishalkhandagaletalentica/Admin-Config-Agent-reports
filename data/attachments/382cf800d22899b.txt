@@ -1,1 +1,0 @@
-The current title displayed for the Date2 column in the Full Kit Task Checklist is "DateUpdated."

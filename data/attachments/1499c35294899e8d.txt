@@ -1,0 +1,1 @@
+{'entryId': 1218, 'sectionId': 10, 'flags': 0, 'entryName': 'CURRENT_DAY', 'entryFriendlyName': 'Current Day', 'strValue': 'New Day', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Current Day.', 'rangeList': None, 'validationRule': None, 'sequenceId': 124360.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

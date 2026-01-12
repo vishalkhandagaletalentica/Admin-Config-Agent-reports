@@ -1,5 +1,0 @@
-The command to update the "Sort Order" with the value '12345' is invalid because the expected type for this setting is a string that represents the sorting columns, not an integer. The allowed values are specified in the $SORTABLELIST, which includes keys like 'D-PROJECT_NAME' and 'A-PAST_DELAY'.
-
-To correct the command, you should provide a string value that includes the appropriate keys. For example, a valid command could be: 
-
-`update configuration setting for "Sort Order" to "D-PROJECT_NAME,A-PAST_DELAY";`

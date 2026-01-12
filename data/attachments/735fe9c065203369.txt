@@ -1,1 +1,0 @@
-The setting "Include Committed, In Queue Projects" has been successfully updated to disable the display of load from Committed, In Queue projects in both reports View Resource L:C and View Tasks By Resource.

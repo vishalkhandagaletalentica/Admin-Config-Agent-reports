@@ -1,1 +1,0 @@
-The current setting for the task status that users can search is "TASK_STATUS".

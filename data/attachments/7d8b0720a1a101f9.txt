@@ -1,0 +1,1 @@
+{'entryId': 1359, 'sectionId': 10, 'flags': 0, 'entryName': 'BUFF_CONSMD', 'entryFriendlyName': 'Buffer Cnsmd', 'strValue': 'Buffer Cnsmd (new value)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Buffer Cnsmd.', 'rangeList': None, 'validationRule': None, 'sequenceId': 127180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

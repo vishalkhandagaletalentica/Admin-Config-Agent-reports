@@ -1,1 +1,0 @@
-The current filter name for Project Unit in the Throughput report is "Project Unit".

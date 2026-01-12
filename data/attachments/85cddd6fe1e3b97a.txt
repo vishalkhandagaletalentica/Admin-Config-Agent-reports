@@ -1,0 +1,1 @@
+I couldn't find a configuration matching 'display name for the inclusion in the report'. Could you tell me which section (for example: Reports, Reporting, or Report Layout) and which specific entry or setting you mean by 'inclusion'?

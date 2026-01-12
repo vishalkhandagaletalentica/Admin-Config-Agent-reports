@@ -1,1 +1,0 @@
-The current title for Work Card Material in the Work Card Details report is "New Material".

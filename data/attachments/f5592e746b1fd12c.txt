@@ -1,0 +1,1 @@
+{'entryId': 2086, 'sectionId': 10, 'flags': 0, 'entryName': 'Chain', 'entryFriendlyName': 'Chain', 'strValue': 'New Chain', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Move feeding chain option', 'rangeList': None, 'validationRule': None, 'sequenceId': 141720.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

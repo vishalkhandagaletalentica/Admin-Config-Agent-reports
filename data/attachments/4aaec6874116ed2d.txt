@@ -1,0 +1,1 @@
+Please update the ColorPriority7 setting to 12345.

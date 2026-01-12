@@ -1,0 +1,1 @@
+The Actual Output lists several hidden columns correctly, but it includes 'Color' and 'Delayed Completion' which are not part of the Expected Output. Additionally, it fails to mention 'Included' as specified in the Expected Output. While the response is mostly relevant, the inaccuracies and omissions affect its alignment with the factual correctness required.

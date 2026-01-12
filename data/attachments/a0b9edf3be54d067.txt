@@ -1,1 +1,0 @@
-The Rollup Duration setting (roll up subtask duration to the parent task during buffer management) is enabled.

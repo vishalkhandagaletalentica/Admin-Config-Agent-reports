@@ -1,0 +1,1 @@
+I can't set it to twenty-five because the value must be an integer between 1 and 20. What integer (1–20) would you like to set for Number of tasks displayed in the widget?

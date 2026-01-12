@@ -1,1 +1,0 @@
-The automatic loading of Project Status Data is disabled when you click the Project Manager Tab.

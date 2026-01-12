@@ -1,1 +1,0 @@
-I couldn't apply the update — you don't have privileges to change that setting. The Default Project Buffer % size is currently 50.

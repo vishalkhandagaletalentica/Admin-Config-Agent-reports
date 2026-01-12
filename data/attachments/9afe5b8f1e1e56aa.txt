@@ -1,1 +1,0 @@
-The current filter name for Project Count is "New Project Count".

@@ -1,1 +1,0 @@
-The "no files" log message for the processing folder is enabled.

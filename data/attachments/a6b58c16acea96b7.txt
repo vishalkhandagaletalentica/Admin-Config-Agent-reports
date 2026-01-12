@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': "What's the value of the column mapping for Text9 when importing a CSV or Excel file?"}, {'role': 'assistant', 'content': 'The column mapping for Text9 is 12345.'}, {'role': 'user', 'content': 'Update it to 54321.'}, {'role': 'assistant', 'content': 'Updated: Text9 was 12345, now set to 54321.'}]

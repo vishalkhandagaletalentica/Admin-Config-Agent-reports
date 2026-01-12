@@ -1,0 +1,1 @@
+{'entryId': 971, 'sectionId': 12, 'flags': 0, 'entryName': 'BREAKDOWN_BY', 'entryFriendlyName': 'Breakdown By', 'strValue': 'Detailed Breakdown', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Breakdown By', 'rangeList': None, 'validationRule': None, 'sequenceId': 139420.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

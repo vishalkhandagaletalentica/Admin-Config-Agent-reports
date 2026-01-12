@@ -1,1 +1,0 @@
-Please update the setting to disable the validation of calendars before BM.

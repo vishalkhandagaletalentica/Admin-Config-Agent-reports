@@ -1,1 +1,0 @@
-The current default font size used in Print Preview for modifying projects and project repair is extra-large.

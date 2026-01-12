@@ -1,0 +1,1 @@
+{'entryId': 2246, 'sectionId': 10, 'flags': 0, 'entryName': 'STREAM', 'entryFriendlyName': 'Stream', 'strValue': 'Task Stream', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Stream column name', 'rangeList': None, 'validationRule': None, 'sequenceId': 144920.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

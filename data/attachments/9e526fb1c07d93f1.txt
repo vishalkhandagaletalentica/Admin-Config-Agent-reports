@@ -1,0 +1,1 @@
+The column mapping for the Start Date when importing a CSV or Excel file is INT_EN.

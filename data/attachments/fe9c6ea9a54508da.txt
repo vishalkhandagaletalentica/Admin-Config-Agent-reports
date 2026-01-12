@@ -1,0 +1,1 @@
+The Actual Output does not address the Input question at all, as it provides a timeout message instead of discussing the type mismatch issue outlined in the Expected Output. There is no relevance to the request about marking the TITLE column as hidden, and it fails to provide any factual correctness related to the expected response.

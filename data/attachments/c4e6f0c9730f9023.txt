@@ -1,0 +1,1 @@
+The column name for CUSTOMTEXT8 in the Subtask Excel settings is NewValue.

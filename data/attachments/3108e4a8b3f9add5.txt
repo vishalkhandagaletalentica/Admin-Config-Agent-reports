@@ -1,1 +1,0 @@
-The current default sorting order for the Tasks Delayed By Help Needed report is: D-DELAY_REASON_CODE,D-TOTAL_REASON_CODE_DELAY,D-NUM_REASONS

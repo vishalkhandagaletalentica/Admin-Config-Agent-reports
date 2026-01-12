@@ -1,1 +1,0 @@
-No, the option to export the Debuffered File after running Buffer Management is currently disabled.

@@ -1,0 +1,1 @@
+The value of the Resource Name for the tasks is NEW_RESOURCE_NAME.

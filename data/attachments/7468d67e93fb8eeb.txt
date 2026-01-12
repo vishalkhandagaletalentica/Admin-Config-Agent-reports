@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '72cffefe-84e2-44eb-81ec-0a7aa3f6f7be', 'query': 'The section name is "Milestone panel" and the entry name is "LONGEST_PATH_FILTER".'}

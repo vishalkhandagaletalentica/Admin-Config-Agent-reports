@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'a2337f03-ccf9-4295-99fc-4bcde03d0b9f', 'query': "Update the Full Kit/Purchasing Task to 'Updated Full Kit/Purchasing Task'."}

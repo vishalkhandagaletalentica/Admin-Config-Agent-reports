@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Filter titles (label shown in filtering pane)', 'Buffer Diagnostics (include tasks with non-zero start delay)'], 'value': None, 'section': None, 'entry': None, 'url': None}

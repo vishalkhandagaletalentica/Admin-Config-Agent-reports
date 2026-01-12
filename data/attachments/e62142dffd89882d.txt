@@ -1,1 +1,0 @@
-The Task Manager column heading has been updated from "Task Mgr" to "Task Manager".

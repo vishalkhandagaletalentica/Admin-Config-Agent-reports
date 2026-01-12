@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names (Time Intervals)', 'Metrics -> Red Project Delay (Time Interval)', 'Metrics -> Throughput (Time Interval)'], 'value': None, 'section': None, 'entry': None, 'url': None}

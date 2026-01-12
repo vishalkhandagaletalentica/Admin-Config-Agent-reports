@@ -1,0 +1,1 @@
+Update this setting to Resource Name,Group,RESOURCE_MANAGER_ID,Total Units,Reserve Units,Not Virtual,Base Calendar,Updated Exceptions,Alternate Resource Mgr.

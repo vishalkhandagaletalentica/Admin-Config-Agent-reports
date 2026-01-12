@@ -1,0 +1,1 @@
+{'entryId': 1980, 'sectionId': 10, 'flags': 0, 'entryName': 'CHAIN_COMPLETE', 'entryFriendlyName': '% Chain complete', 'strValue': '% Chain complete', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': '% Chain complete', 'rangeList': None, 'validationRule': None, 'sequenceId': 139600.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,1 +1,0 @@
-The default selection for the project manager filters is "Default Project Managers".

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '04807821-599d-49f1-9e2d-d132cf1a97d7', 'query': 'Please update the setting to disable the archiving of Project files during auto BM. Set the value to 0.'}

@@ -1,0 +1,1 @@
+The Display Name to Show Hierarchy for Resource Portal in Html has been successfully updated to "Resource Hierarchy".

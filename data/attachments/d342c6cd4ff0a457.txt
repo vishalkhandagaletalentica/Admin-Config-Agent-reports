@@ -1,0 +1,1 @@
+The Actual Output correctly identifies most of the hidden columns in the throughput drill down report, aligning well with the Expected Output. However, it includes additional columns that are not mentioned in the Expected Output, which introduces incorrect facts. This discrepancy affects the overall accuracy of the response, leading to a deduction in points.

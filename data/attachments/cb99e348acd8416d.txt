@@ -1,0 +1,1 @@
+Please update the setting to disable the use of Full Kit Original Duration Calculation for NS Task.

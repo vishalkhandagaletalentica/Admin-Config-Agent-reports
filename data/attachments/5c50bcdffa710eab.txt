@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names (PROJECT_MANAGER_DISPLAYNAME in SGD_COLUMN_NAMES)', 'Common -> Filter Names (PROJECTMANAGER in SGD_FILTER_NAMES)', 'Bulk Import (MANAGER in BULK_IMPORT)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+Yes — the View Delay By Task drilldown is displayed on the Print Preview page (the setting is currently enabled by default).

@@ -1,1 +1,0 @@
-The chain color in the Chain View Summary is "Chain Color".

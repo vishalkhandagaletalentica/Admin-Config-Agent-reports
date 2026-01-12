@@ -1,0 +1,1 @@
+Yes — Rollup Resources (rollup of subtask resources to the parent task in Execution during buffer management) is enabled.

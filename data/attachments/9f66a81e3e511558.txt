@@ -1,1 +1,0 @@
-The option to show team members in the Full Kit Delay report's Task Manager filter is enabled.

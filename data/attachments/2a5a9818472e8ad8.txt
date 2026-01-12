@@ -1,0 +1,1 @@
+The columns hidden in the report for the Edit Project Info feature are Project Name, Division, Team Members, Planned Date, Project Weight, Custom Date 1, Custom Date 2, and New Planned Start.

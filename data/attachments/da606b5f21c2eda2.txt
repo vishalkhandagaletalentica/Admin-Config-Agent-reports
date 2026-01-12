@@ -1,1 +1,0 @@
-The Flow Trend report setting “Show Team Members in Task Manager Filter” is now enabled.

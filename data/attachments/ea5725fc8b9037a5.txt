@@ -1,0 +1,1 @@
+The LLM's responses lack clarity and directness, as it repeatedly asks for more details without providing a clear answer to the user's question about the title displayed for Resource Notes. While it attempts to maintain a professional tone, it fails to effectively address the user's needs by not confirming or clarifying the information requested.

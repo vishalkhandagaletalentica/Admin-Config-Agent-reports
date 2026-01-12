@@ -1,1 +1,0 @@
-{'entryId': 1036, 'sectionId': 10, 'flags': 0, 'entryName': 'ITEM_NAME', 'entryFriendlyName': 'Item Name', 'strValue': '[provide the new value]', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Item Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 120720.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

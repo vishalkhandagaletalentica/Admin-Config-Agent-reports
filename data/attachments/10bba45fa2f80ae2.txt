@@ -1,0 +1,1 @@
+The title displayed for the P2P buffer status in the reports is "New Buffer Status."

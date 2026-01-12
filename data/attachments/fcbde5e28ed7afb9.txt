@@ -1,0 +1,1 @@
+Yes, the option to show the project description in the WIP report is enabled.

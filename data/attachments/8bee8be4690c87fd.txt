@@ -1,0 +1,1 @@
+{'entryId': 159, 'sectionId': 10, 'flags': 0, 'entryName': 'P2P_EXPORT_TASK_EXPORT', 'entryFriendlyName': 'Export', 'strValue': 'P2P_EXPORT_TASK_EXPORT', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P_EXPORT_TASK_EXPORT', 'rangeList': None, 'validationRule': None, 'sequenceId': 103180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

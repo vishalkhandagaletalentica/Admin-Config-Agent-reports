@@ -1,0 +1,1 @@
+The filter name for including completed tasks is Show Only Active Tasks.

@@ -1,0 +1,1 @@
+Yes, the option to allow stretch during the pipeline is enabled.

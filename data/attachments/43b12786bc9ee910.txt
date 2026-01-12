@@ -1,0 +1,1 @@
+What is the column mapping for the Start Date when importing a CSV or Excel file?

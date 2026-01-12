@@ -1,0 +1,1 @@
+The Actual Output correctly states that there are no default sort columns selected, which aligns with the factual correctness of the Expected Output. However, it does not fully address the intent of the Input question regarding the default sorting order, as it lacks the clarification that the order is unspecified. This omission affects the completeness of the response.

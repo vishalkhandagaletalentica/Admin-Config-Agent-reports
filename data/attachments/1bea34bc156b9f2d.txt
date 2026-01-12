@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PLANNING_CLIENT_COMMON', 'entry': 'DEFAULT_CMSB_BUFFER_PERCENT_SIZE', 'url': None}

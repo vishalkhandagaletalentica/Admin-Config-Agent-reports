@@ -1,1 +1,0 @@
-The current settings for the Subtask fields that will be updated during integration are TASK_RESOURCES_LIST, REMAINING_DURATION, TASK_STATUS, and TASK_MANAGER_ID.

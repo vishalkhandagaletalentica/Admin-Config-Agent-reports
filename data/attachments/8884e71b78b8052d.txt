@@ -1,0 +1,1 @@
+{'entryId': 118, 'sectionId': 10, 'flags': 0, 'entryName': 'PROJECT_STATUS', 'entryFriendlyName': 'Status (Project)', 'strValue': 'In Progress', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Status', 'rangeList': None, 'validationRule': None, 'sequenceId': 102360.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

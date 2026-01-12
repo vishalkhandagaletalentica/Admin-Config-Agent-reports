@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the column title as 'In Progress', which matches the Expected Output in terms of factual correctness. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

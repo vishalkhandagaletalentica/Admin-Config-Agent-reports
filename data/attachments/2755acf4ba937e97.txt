@@ -1,1 +1,0 @@
-Please update the Duration Display Format in Gantt to 2.

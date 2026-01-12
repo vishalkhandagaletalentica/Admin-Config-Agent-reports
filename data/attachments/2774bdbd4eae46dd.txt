@@ -1,0 +1,1 @@
+Rows Per Page in Metrics -> Exclude Projects is now set to 30 (was 20).

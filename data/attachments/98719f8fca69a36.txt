@@ -1,0 +1,1 @@
+What is the current chain type for the milestone view?

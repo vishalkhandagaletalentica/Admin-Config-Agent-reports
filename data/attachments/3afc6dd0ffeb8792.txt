@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Executive → Task List (number of tasks displayed in the widget)', 'Executive → Stuck Task List (number of tasks displayed in the widget)'], 'value': None, 'section': None, 'entry': None, 'url': None}

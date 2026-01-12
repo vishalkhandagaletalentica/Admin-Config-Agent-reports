@@ -1,0 +1,1 @@
+The value of InitialXBuckets in the Concerto Pipeline settings is 40.

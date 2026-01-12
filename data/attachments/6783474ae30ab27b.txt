@@ -1,0 +1,1 @@
+The Actual Output provides a filter name related to the Compare With feature, but it incorrectly states 'Due Date' instead of the expected 'DUE_DATE'. This introduces a factual inaccuracy, which significantly impacts the score. While the response addresses the intent of the question, the incorrect filter name detracts from its overall correctness.

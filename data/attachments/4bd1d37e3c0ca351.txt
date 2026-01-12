@@ -1,1 +1,0 @@
-{'entryId': 392, 'sectionId': 10, 'flags': 0, 'entryName': 'EXEC_TASK_STATUS', 'entryFriendlyName': 'Status (for Subtask)', 'strValue': 'Status', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Status in Task List', 'rangeList': None, 'validationRule': None, 'sequenceId': 107840.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

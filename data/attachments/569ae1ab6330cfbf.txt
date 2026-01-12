@@ -1,0 +1,1 @@
+I couldn't find a configuration matching "column order in the report." Could you tell me which section and which specific report or entry you mean (for example: the Reports > Sales Report section, and the "column order" entry)?

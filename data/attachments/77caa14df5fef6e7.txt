@@ -1,1 +1,0 @@
-The column name for Priority has been successfully updated to "Updated Priority Name".

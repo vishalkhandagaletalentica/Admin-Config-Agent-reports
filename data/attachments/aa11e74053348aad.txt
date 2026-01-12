@@ -1,1 +1,0 @@
-The filter name for the Display Data Table has been successfully updated to "Updated Data Table."

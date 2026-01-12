@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List → Col Order (Column Order)', 'Sys Admin → Manage Users (Sort Order)', 'Project Mgr → Pipeline View (Sort Order)', 'Buffer Diagnostics → Tasks Drilldown From Reason (Sort Order)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+Yes, the default roll up resources setting is enabled.

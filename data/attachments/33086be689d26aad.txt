@@ -1,0 +1,1 @@
+The Actual Output is factually correct, providing the same count of WIP tasks as the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information. The phrasing differs from the Expected Output, but the factual meaning remains intact.

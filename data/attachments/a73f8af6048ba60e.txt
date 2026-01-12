@@ -1,1 +1,0 @@
-The current mapping for the Actual End Date in the advanced filter is AF.

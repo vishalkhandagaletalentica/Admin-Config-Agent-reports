@@ -1,0 +1,1 @@
+Yes — pipeline projected calculation with stretch is enabled.

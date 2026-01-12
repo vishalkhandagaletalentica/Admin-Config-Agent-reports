@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the current column mapping for the Revised Baseline Name when importing a CSV or Excel file?'}, {'role': 'assistant', 'content': 'The current column mapping for Revised Baseline Name is 12345.'}, {'role': 'user', 'content': 'Update it to 54321.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

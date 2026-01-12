@@ -1,0 +1,1 @@
+Yes — project status charts are shown by default in the new Project Status UI (the setting is enabled).

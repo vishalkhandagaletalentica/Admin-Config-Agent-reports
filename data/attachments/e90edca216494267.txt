@@ -1,0 +1,1 @@
+No default sorting order is set for Action Items (no columns selected).

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Resource Manager (Common -> Column Names)', 'Resource Manager (Common -> Filter Names)', 'Resource Manager (Project Mgr -> Search Columns for TLP by Resource)'], 'value': None, 'section': None, 'entry': None, 'url': None}

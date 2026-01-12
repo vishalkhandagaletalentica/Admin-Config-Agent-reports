@@ -1,1 +1,0 @@
-What is the current username set for connecting to the Primavera database?

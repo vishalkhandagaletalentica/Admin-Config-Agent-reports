@@ -1,1 +1,0 @@
-Updated the Subtask Remaining Duration column heading from "Subtask Rem.Dur" to "Subtask Remaining Duration".

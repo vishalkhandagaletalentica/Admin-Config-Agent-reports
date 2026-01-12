@@ -1,0 +1,1 @@
+What is the current setting for the subtask types that are hidden in the task list and planning client?

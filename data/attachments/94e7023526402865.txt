@@ -1,1 +1,0 @@
-Enable SAP Integration was updated from "Enabled" to "12345".

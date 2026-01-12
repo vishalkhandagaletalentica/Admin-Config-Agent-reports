@@ -1,1 +1,0 @@
-Is the option to use the buffer management start time for penetration calculation currently enabled or disabled?

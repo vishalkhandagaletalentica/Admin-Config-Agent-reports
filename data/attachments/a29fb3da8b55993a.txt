@@ -1,0 +1,1 @@
+{'entryId': 1051, 'sectionId': 11, 'flags': 0, 'entryName': 'IMPROVED', 'entryFriendlyName': 'Improved', 'strValue': 'yes', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Improved in Filters.', 'rangeList': None, 'validationRule': None, 'sequenceId': 131020.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

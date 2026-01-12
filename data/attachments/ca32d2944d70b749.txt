@@ -1,0 +1,1 @@
+I couldn't update 'Project Attribute Field For External Project Name' to "12345" because the value must be one of: AUTHOR, CATEGORY, SUBJECT, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4, ATTRIBUTE5. The value should be a string. The setting is currently set to ATTRIBUTE2.

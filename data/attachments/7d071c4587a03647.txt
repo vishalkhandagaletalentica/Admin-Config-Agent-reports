@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '3437f3c0-e598-4dc5-8777-a07513ba5b3b', 'query': 'The section name is "Escalated Tasks report," and the entry name is "Default Selection for Rem Dur Decrease Filter."'}

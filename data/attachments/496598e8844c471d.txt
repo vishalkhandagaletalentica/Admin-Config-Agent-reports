@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '76c44ee2-6146-4063-8374-3ac03fd2e4f2', 'query': 'Please update the Gap With Chain Pred to "Updated Gap With Chain Pred".'}

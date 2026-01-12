@@ -1,0 +1,1 @@
+The display name for the column that lists the teams in Manage Teams is "Updated Team Name."

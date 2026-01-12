@@ -1,1 +1,0 @@
-The display name for Period in Filters has been successfully updated to "New Period".

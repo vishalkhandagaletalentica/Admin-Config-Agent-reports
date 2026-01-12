@@ -1,1 +1,0 @@
-The option to enable external links for the Tasklist Report is currently turned on.

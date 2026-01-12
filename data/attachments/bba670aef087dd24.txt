@@ -1,1 +1,0 @@
-The Complex Project Mode is currently disabled in the SPI Client.

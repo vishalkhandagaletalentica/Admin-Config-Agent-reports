@@ -1,1 +1,0 @@
-The filters currently set to be displayed in the Full Kit Delay report are Portfolio, New Product Code, Customer, New Kit Manager, New Full Kit Task Desc, Design Team Needed, Project Attribute 5, Project Attribute 6, New Project Attribute Value, and [insert new value here].

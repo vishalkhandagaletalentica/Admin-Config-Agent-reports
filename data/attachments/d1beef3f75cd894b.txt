@@ -1,1 +1,0 @@
-The Offset Weight column header display name was updated to "Weight Adjustment".

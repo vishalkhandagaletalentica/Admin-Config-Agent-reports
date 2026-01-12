@@ -1,0 +1,1 @@
+I couldn't find a configuration matching "the filter for including completed tasks". Could you tell me which configuration section and entry you mean (or describe them differently)?

@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question. It accurately conveys the status of the option to revert back to the old roll behavior, aligning closely with the Expected Output. The slight difference in phrasing does not affect the factual correctness, but the omission of 'currently' in the Actual Output is a minor shortcoming.

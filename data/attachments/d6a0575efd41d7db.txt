@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Include Compliant Task Managers (Metrics -> Task Mgt)', 'Enable project-level task manager compliances (Metrics -> Task Mgt)'], 'value': None, 'section': None, 'entry': None, 'url': None}

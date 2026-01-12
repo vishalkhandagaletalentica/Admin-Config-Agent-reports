@@ -1,0 +1,1 @@
+Do you want me to update the Column Order setting under "Task Mgr -> Subtask List" to the provided column selection (only keys will be saved)?

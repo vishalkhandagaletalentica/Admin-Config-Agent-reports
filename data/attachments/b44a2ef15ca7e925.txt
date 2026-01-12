@@ -1,0 +1,1 @@
+Please update the Hidden Fields to show the "Chain Color" and "Chain No" columns in the report.

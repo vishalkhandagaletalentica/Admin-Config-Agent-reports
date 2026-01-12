@@ -1,1 +1,0 @@
-Splitting in the IP task is enabled.

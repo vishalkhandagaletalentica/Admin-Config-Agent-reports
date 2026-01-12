@@ -1,0 +1,1 @@
+The title displayed for the Earned Duration of Activity/Task/CheckList-Item is Total Hours Earned.

@@ -1,0 +1,1 @@
+Is the load from Committed and In Queue projects displayed in both reports View Resource L:C and View Tasks By Resource?

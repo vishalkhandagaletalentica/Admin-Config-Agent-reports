@@ -1,0 +1,1 @@
+I couldn't update the setting because the system failed to validate the multi-select list for this entry: no column definition was found for this section and entry (cannot validate $MULTILIST format).

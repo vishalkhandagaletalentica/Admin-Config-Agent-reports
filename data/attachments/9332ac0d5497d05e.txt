@@ -1,1 +1,0 @@
-{'entryId': 228, 'sectionId': 12, 'flags': 0, 'entryName': 'STATUS', 'entryFriendlyName': 'Status', 'strValue': '12345', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Status', 'rangeList': None, 'validationRule': None, 'sequenceId': 124560.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

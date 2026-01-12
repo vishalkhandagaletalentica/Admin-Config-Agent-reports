@@ -1,1 +1,0 @@
-The Actual Output provides some information about the sorting configuration but fails to accurately reflect the Expected Output, which states that the default sorting order is by Planned Date. The response introduces unnecessary details about sort tokens and does not directly address the intent of the Input question, leading to a partial answer.

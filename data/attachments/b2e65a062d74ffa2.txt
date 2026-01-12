@@ -1,0 +1,1 @@
+The following columns are currently hidden in the Contractual Milestone Chain View: Task Type, UID123, New Description, Task Mgr, New Start Date, Status, Updated Dur, % Project Buffer Consumption, % MB Cnsm`d, Comments Updated, Last Update, Document Access Links, Help Needed, Not Ready To Start, Subtask Type, Est Rem Dur, WIP limit, NewCheckList

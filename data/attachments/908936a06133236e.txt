@@ -1,1 +1,0 @@
-The column heading is currently "Previous Weeks".

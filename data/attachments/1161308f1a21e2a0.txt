@@ -1,0 +1,1 @@
+What is the default fixed size of the Capacity Buffer in days?

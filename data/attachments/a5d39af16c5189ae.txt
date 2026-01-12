@@ -1,1 +1,0 @@
-{'entryId': 1387, 'sectionId': 84, 'flags': 1, 'entryName': 'TASK_MANAGER_ID', 'entryFriendlyName': 'TASK_MANAGER_ID', 'strValue': 'TASK_MANAGER_ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 867740.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

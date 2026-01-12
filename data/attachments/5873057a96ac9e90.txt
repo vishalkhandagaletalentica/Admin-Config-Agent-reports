@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': "Please update the ERP Id to 'New ERP Id'."}, {'role': 'assistant', 'content': 'Which configuration section contains the "ERP Id" entry?'}, {'role': 'user', 'content': 'The section name is Column Headings. The entry name is ERP Id.'}, {'role': 'assistant', 'content': 'ERP Id updated from "ERP Id" to "New ERP Id".'}]

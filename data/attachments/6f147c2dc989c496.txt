@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Is the global custom task identifier enabled for project imports?'}, {'role': 'assistant', 'content': 'No — the global custom task identifier is disabled for project imports.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Enabled — the global custom task identifier is now enabled for project imports.'}]

@@ -1,1 +1,0 @@
-The advanced filter mapping for Task Text61 (Custom Task Text Field) is set to "NewText".

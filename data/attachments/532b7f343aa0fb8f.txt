@@ -1,0 +1,1 @@
+Is the option to complete a task only if all checklist items are marked complete enabled?

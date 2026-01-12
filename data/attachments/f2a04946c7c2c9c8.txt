@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '6c4d7c17-4baf-4bda-999d-cb09ff001861', 'query': 'The section name is "common parameters for planning client" and the entry name is "Duration of auto save".'}

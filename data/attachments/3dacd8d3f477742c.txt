@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RESOURCE_PORTAL_TASKLIST', 'entry': 'HIDDEN_FIELDS', 'url': None}

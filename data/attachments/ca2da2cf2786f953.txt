@@ -1,0 +1,1 @@
+The Actual Output provides a specific column order, which contradicts the Expected Output stating that the column order is not available. This indicates a complete factual inaccuracy, as the Actual Output does not align with the information provided in the Expected Output.

@@ -1,1 +1,0 @@
-The display name for Maximum Capacity in Column Headers has been successfully updated to "Maximum Capacity".

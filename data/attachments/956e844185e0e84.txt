@@ -1,0 +1,1 @@
+The setting has been updated: comments when dates are modified are now disabled.

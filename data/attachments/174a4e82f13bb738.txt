@@ -1,1 +1,0 @@
-Is the display of P2P Buffers currently enabled or disabled in the Project Control view?

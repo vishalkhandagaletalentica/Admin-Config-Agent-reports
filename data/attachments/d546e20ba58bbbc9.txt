@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the Font Face Name for Hebrew in the Concerto desktop clients as Arial, which aligns with the Expected Output. While the wording differs slightly, the factual content remains accurate and directly addresses the intent of the Input question. The response is relevant and does not introduce incorrect facts or assumptions.

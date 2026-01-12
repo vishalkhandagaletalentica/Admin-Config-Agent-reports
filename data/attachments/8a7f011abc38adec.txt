@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'd9af1669-7921-4913-948e-025d5d1d1e24', 'query': 'The section name is "Column Headings" and the entry name is "Past Days."'}

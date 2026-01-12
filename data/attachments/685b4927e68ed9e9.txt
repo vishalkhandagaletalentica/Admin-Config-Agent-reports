@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '1389db22-dc3e-4886-9b24-9726a01a644f', 'query': 'Please update the hidden fields to include "TASK_TYPE" and hide "CONSTRAINT_DATE".'}

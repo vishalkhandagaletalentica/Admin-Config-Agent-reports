@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question. It confirms that the 'Display Custom Line' option is enabled in the On-Time Delivery report, matching the factual content of the Expected Output while maintaining a professional tone.

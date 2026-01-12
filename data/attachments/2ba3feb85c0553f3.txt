@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr/Resource Mgr -> Escalated Tasks (Show Managers Only in Task Mgr Filter)', 'Task List -> Common (Show Managers Only in Task Mgr Filter / Task Level Priorities)', 'Project Mgr -> Modify Projects (Show Managers Only in Project Mgr Filter)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+{'entryId': 1223, 'sectionId': 10, 'flags': 0, 'entryName': 'PAST_WEEKS', 'entryFriendlyName': 'Past Weeks', 'strValue': 'Last Weeks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Past Weeks.', 'rangeList': None, 'validationRule': None, 'sequenceId': 124460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

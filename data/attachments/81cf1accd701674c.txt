@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '818cb60c-ecf6-4239-a79a-8f88b31324dd', 'query': 'Please change the Task Custom Text field for Task Attribute to 12345.'}

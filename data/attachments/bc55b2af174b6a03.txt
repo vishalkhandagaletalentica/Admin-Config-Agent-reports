@@ -1,0 +1,1 @@
+I found multiple settings for “Columns hidden in Print Preview.” Which one did you mean: Project Chain View/Project Penetrating Chain, Task Mgr -> Task List -> Subtasks, or Task Level Priorities By Resource?

@@ -1,5 +1,0 @@
-The command is invalid because the value type is expected to be a multi-list, but you are attempting to set it to a single integer (12345). The expected type is a comma-separated list of string values. 
-
-Please provide a valid multi-list value, such as: `CUSTOM_DATE2,STRETCH,CUSTOM_DATE1`. 
-
-A correct command would be: `update Hidden Fields set value to CUSTOM_DATE2,STRETCH,CUSTOM_DATE1`.

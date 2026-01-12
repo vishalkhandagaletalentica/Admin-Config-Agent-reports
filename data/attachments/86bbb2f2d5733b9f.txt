@@ -1,0 +1,1 @@
+No — Include Drum Phase Cycle Time is currently disabled in the Cycle Time report.

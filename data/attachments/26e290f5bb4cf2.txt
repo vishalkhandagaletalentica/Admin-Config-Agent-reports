@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '9638ee8c-8699-4728-9ff1-3308305388c9', 'query': "Please update the MSP Task ID to a new value of 'NEW_MSP_TASK_ID'."}

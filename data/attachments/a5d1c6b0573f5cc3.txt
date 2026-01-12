@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the new filter name as 'Average Lead Time', aligning with the Expected Output. However, it incorrectly states that the previous name was 'Average Cycle Time' instead of 'Show Rolling Average', which introduces an incorrect fact. This misalignment affects the overall accuracy of the response.

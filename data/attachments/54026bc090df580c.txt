@@ -1,1 +1,0 @@
-{'entryId': 1062, 'sectionId': 10, 'flags': 0, 'entryName': 'ISSUE', 'entryFriendlyName': 'Issue', 'strValue': 'Issue', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Issue in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 121240.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

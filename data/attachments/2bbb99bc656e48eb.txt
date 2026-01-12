@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Chain View (Project Mgr -> Project Chain View/Project Penetrating Chain)', 'Task List -> Subtasks (Task Mgr -> Task List -> Subtasks)', 'Task Level Priorities By Resource (Project Mgr -> Task Level Priorities By Resource)'], 'value': None, 'section': None, 'entry': None, 'url': None}

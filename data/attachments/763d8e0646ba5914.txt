@@ -1,1 +1,0 @@
-What is the current setting for displaying whether a task's expected start date is today?

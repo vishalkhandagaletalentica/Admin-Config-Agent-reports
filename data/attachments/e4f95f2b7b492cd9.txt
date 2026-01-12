@@ -1,1 +1,0 @@
-We are using 10 working days in the past to calculate the queue trend indicator.

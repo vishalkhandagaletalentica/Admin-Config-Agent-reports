@@ -1,1 +1,0 @@
-Please update the Concerto Web URL to http://newconcertoserver/conweb/.

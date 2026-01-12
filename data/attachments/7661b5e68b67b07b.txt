@@ -1,0 +1,1 @@
+The columns that are hidden in the report include Ignored, Project Name, UID123, Task Description, Task Mgr, Help Needed, Total Buff. Cnsmd, Occurrences, Task Buf Cnsm (d), Delay In Start, Status, Task Duration, Updated Dur, Start Date, End Date, and % Chain Pen.

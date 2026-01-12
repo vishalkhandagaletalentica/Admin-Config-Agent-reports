@@ -1,1 +1,0 @@
-Updated Task Text 79 (Custom Task Text Field 79) in Adv. filter in Gantt from "Text79" to "NewText79".

@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please set the Port to 8080.'}, {'role': 'assistant', 'content': "I couldn't find a configuration matching 'Port'. Which configuration section is the Port entry in?"}, {'role': 'user', 'content': 'The Port entry is in the Primavera integration section.'}, {'role': 'assistant', 'content': 'The Port is now set to 8080.'}]

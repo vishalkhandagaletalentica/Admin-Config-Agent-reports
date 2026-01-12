@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_FILTER_NAMES', 'entry': 'PERCENT_FK_COMPLETE', 'url': None}

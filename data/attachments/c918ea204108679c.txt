@@ -1,0 +1,1 @@
+{'entryId': 593, 'sectionId': 11, 'flags': 0, 'entryName': 'YEARLY', 'entryFriendlyName': 'Yearly', 'strValue': 'Yearly', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Yearly in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121860.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

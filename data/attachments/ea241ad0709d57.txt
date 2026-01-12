@@ -1,0 +1,1 @@
+The columns hidden in the report are Updates, EXECMGT_TASK_MANAGER_ID, Seq ID, New Subtask UID, New Subtask Description, Pred, Ready to Start, Proposed Start, Res.Notes Updated, Status, Subtask Remaining Duration, Feedback, LastUpdate, and Successor UID.

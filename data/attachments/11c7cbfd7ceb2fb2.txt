@@ -1,1 +1,0 @@
-Planned projects are disabled on the Exclude Projects page.

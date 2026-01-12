@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Status Filter (Task List -> Common)', 'Task Status (Common -> Filter Names)', 'Task Status (Common -> Column Names)', 'Task Status (Project Mgr -> Work Card Information)'], 'value': None, 'section': None, 'entry': None, 'url': None}

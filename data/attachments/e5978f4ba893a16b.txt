@@ -1,0 +1,1 @@
+Yes — automatic selection of the logged in user in the Resource Manager Filter is enabled.

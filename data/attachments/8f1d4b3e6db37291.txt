@@ -1,1 +1,0 @@
-The Column Headings entry "Original Value" is currently set to "Updated Value."

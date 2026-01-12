@@ -1,1 +1,0 @@
-The current value of the custom text field for storing scope information in the CCP project is CUSTOM_TASK_TEXT5.

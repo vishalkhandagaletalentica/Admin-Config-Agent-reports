@@ -1,0 +1,1 @@
+What is the column mapping for Resource Name when importing a CSV or Excel file in the Planning client?

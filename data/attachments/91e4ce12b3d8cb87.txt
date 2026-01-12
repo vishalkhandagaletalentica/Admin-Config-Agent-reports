@@ -1,0 +1,1 @@
+The Actual Output provides a filter name, but it is factually incorrect as it does not match the Expected Output, which specifies 'Quarterly' as the correct filter name. Additionally, the response does not fully address the intent of the Input question, leading to a significant deduction in points.

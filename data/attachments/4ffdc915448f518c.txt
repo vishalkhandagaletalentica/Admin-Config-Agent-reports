@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '9377845c-b868-4fd5-bf74-7e86dbe4a1f5', 'query': "Please update the SNET Date to a new value of 'Updated SNET Date'."}

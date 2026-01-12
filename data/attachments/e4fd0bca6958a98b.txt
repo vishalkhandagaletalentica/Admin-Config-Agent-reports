@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List — Project Mgr', 'Task List — Task Mgr', 'Task List — Resource Mgr', 'Metrics — Pipelining Drilldown'], 'value': None, 'section': None, 'entry': None, 'url': None}

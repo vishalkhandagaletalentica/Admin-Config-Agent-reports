@@ -1,1 +1,0 @@
-The current title for the week filter in the reporting views is "New Week."

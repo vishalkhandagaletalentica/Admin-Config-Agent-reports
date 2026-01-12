@@ -1,0 +1,1 @@
+The filters that can be displayed in the report are Portfolio, Updated Product Code, Client, Design Team Needed, New Project Attribute, New Project Title, New Project Attribute Value, and [insert new value here].

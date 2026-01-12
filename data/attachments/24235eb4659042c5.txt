@@ -1,1 +1,0 @@
-The Actual Output accurately lists the default sorting order for the Project Chain View, matching the factual content of the Expected Output. While the phrasing differs slightly, the order and direction of sorting for each field are correct. The response is relevant and directly addresses the input question, with no incorrect facts or assumptions introduced.

@@ -1,1 +1,0 @@
-The current time interval set for filtering the Pipeline View report data is 2 Months.

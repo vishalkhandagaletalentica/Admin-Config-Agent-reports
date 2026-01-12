@@ -1,3 +1,0 @@
-The command you provided, "set Sort Order to 12345," is invalid because the Sort Order expects a specific set of strings rather than an integer. The expected type is a list of sortable column names, such as 'D-PROJECT_REPORT_STATUS,D-A-PERCENT_CHAIN_COMPLETE,A-PROJECT_NAME'. 
-
-Please provide a valid string value from the allowed sortable list. For example, you can use: "set Sort Order to D-PROJECT_REPORT_STATUS,D-A-PERCENT_CHAIN_COMPLETE".

@@ -1,1 +1,0 @@
-The section name is "Concerto desktop clients" and the entry name is "default horizon length."

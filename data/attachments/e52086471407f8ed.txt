@@ -1,1 +1,0 @@
-Task Text 60 is now set to NewText60.

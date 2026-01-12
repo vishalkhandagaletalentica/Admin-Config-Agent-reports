@@ -1,1 +1,0 @@
-{'entryId': 2799, 'sectionId': 2, 'flags': 0, 'entryName': 'RES_ACCURACY_FACTOR', 'entryFriendlyName': 'Resource Accuracy Factor', 'strValue': None, 'floatValue': None, 'intValue': 30, 'valueType': 0, 'itemDesc': 'Resource Accuracy Factor', 'rangeList': '$RANGE:1,100', 'validationRule': None, 'sequenceId': 75980.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

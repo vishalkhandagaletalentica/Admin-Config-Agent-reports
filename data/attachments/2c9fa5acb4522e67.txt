@@ -1,1 +1,0 @@
-Current threshold for Buffer Pen/%Complete Graph — Red Y intercept for CCFB: 67 (integer). This setting specifies the buffer penetration into the CCFB at which the buffer will be colored red when the chain complete for the buffer is zero percent.

@@ -1,0 +1,1 @@
+The buffer penetration level that triggers red for the CCCB when the chain is complete is 100.

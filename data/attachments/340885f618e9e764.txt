@@ -1,0 +1,1 @@
+The column name for TEXT3 is updatedColumnName.

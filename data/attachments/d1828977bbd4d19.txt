@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, so please update the COMMENTS setting to a valid string value.

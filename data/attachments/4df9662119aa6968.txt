@@ -1,1 +1,0 @@
-The Description column mapping in Checklist Integration Fields Mapping was updated from "Description" to "New Description".

@@ -1,1 +1,0 @@
-The current task update email subject is not set.

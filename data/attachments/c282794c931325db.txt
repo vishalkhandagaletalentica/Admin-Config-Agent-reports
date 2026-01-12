@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '73daf092-caa6-48c6-87dc-9697f0f2d69e', 'query': 'The section name is "Sand Chart," and the entry name is "Fractional Rounding Digits."'}

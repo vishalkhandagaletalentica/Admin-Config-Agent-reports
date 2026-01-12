@@ -1,0 +1,1 @@
+Yes, the option to periodically expire passwords is enabled.

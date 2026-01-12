@@ -1,1 +1,0 @@
-The current title for the Previous Critical Task (Gantt) is "New Critical Task."

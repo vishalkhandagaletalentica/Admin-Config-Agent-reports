@@ -1,0 +1,1 @@
+No, global float validation is disabled.

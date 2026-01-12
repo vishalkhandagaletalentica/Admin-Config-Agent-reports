@@ -1,1 +1,0 @@
-{'entryId': 74, 'sectionId': 7, 'flags': 0, 'entryName': 'ColorPriority5', 'entryFriendlyName': 'ColorPriority5', 'strValue': 'G', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'ColorPriority5', 'rangeList': None, 'validationRule': None, 'sequenceId': 71480.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '8c4ffe5a-56a8-4572-b0dd-bebb3a9c2220', 'query': 'The section name is "Cycle Time report," and the entry name is "Default Rolling Average Period."'}

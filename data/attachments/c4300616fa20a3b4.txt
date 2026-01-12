@@ -1,1 +1,0 @@
-{'entryId': 230, 'sectionId': 12, 'flags': 0, 'entryName': 'DEPENDENCIES', 'entryFriendlyName': 'Dependencies', 'strValue': 'Dependencies', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Dependencies', 'rangeList': None, 'validationRule': None, 'sequenceId': 124600.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

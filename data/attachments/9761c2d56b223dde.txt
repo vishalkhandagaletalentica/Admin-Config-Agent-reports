@@ -1,1 +1,0 @@
-The default sort order for the Full Kit Report is: A-PERCENT_FK_COMPLETE, A-FULLKIT_DATE.

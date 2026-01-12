@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_TASKLIST_BATCHPRINT', 'entry': 'INSERT_PAGE_BREAK_FOR_CHECKLIST', 'url': None}

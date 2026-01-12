@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'f7e9c5ef-089b-468a-8070-3c4d476db4a8', 'query': 'The section name is "Field Mapping for Adv. filter in Gantt" and the entry name is "Custom Task Text Field 53".'}

@@ -1,1 +1,0 @@
-The SMTP Server Port (Bulk Import) is currently set to 465.

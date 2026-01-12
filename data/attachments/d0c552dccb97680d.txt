@@ -1,0 +1,1 @@
+I cannot process sensitive personal information such as passwords. Please remove any personal or secret data from your request and try again. I can help with configuration settings (viewing or updating non-sensitive configuration values, listing sections or entries).

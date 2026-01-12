@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the columns hidden in Print Preview, aligning closely with the Expected Output. However, it omits the 'and' before 'Need Date,' which is a minor grammatical detail but does not affect the factual correctness of the information provided. Overall, it effectively addresses the intent of the Input question.

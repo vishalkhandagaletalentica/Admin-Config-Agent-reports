@@ -1,0 +1,1 @@
+Yes — the "Include Completed Tasks" option for the Project Chain View is enabled.

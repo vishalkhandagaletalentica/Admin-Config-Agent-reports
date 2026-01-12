@@ -1,0 +1,1 @@
+The setting "Display Average For Current Period" has been successfully updated to enable the display of average for the current period in the report.

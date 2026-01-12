@@ -1,0 +1,1 @@
+The currently displayed filter in the Escalated Tasks report is Task Type.

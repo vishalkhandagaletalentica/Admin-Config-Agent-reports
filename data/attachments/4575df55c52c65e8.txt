@@ -1,1 +1,0 @@
-The update period for the remaining duration in Buffer Management is 2.

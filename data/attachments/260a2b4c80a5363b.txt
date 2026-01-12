@@ -1,1 +1,0 @@
-The current title displayed for the P2PADD_DEL column in the reports is "New Value."

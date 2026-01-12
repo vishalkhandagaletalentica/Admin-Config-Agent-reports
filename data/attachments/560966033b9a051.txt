@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Enable resource based pipeline (resources available for drum selection and highlighting)', 'Enable resource highlighting (resources available only for highlighting)'], 'value': None, 'section': None, 'entry': None, 'url': None}

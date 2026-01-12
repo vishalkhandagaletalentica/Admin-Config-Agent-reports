@@ -1,0 +1,1 @@
+The maximum number of times BM can run before Concerto prompts to compact the database is 3.

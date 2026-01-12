@@ -1,1 +1,0 @@
-The "Task Dur < 10 Days" column heading is currently set to "Task Dur < 10 Days."

@@ -1,1 +1,0 @@
-Please update the setting to not include resources in the Stuck Task Delay report.

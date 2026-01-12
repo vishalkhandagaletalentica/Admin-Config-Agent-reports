@@ -1,0 +1,1 @@
+The current priority value for the Yellow Project Buffer is 3.

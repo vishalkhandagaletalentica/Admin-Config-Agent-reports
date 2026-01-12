@@ -1,0 +1,1 @@
+The title displayed for the Associated Lists in the Manage Help Needed section is "Updated Associated Lists."

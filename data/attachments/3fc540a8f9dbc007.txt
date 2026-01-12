@@ -1,1 +1,0 @@
-Feeding Buffers Policy is now set to "Consume feeding buffers".

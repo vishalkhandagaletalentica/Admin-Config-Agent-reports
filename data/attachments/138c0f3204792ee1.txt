@@ -1,1 +1,0 @@
-Updated the Delay (in Results and Rules) display name from "Delay (d)" to "Delay Time".

@@ -1,0 +1,1 @@
+The mistake is a type mismatch, as the expected value type is string; you should use a value from the allowed range, such as "AUTHOR".

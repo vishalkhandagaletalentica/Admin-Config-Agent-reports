@@ -1,0 +1,1 @@
+The correct section name is Sand Chart and the ENTRY NAME is the load from Committed and In Queue projects displayed in both reports.

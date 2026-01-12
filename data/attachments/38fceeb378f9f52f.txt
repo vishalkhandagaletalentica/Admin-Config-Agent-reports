@@ -1,1 +1,0 @@
-The current setting for the maximum buffer consumption is % Max Chain Pen.

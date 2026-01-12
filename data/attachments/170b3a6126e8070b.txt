@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by providing the current setting for the Content field when a task is ready to start. It matches the Expected Output in content, with only minor differences in punctuation, which do not affect the factual meaning.

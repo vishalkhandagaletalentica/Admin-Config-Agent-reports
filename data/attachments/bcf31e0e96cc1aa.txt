@@ -1,1 +1,0 @@
-The command is invalid because the expected value type for "Display Past Data" is an integer, but you provided a string value ("maybe"). The allowed values are typically integers representing specific options, such as 0 or 1. For example, you can use the command: `update Display Past Data to 1`.

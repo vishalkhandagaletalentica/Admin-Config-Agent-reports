@@ -1,1 +1,0 @@
-The current title displayed for the request date in the ConWeb views and reports is "New Req Dt."

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Item Description (Task Checklist)', 'Text1 (Task Checklist)', 'Text3 (Task Checklist)'], 'value': None, 'section': None, 'entry': None, 'url': None}

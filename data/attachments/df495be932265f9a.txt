@@ -1,0 +1,1 @@
+The Chain Color (in Chain View Summary) has been updated from "Chain Color" to "New Chain Color."

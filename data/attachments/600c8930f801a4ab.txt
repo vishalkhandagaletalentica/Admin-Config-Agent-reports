@@ -1,0 +1,1 @@
+The password for authentication to the Streamliner API is 12345.

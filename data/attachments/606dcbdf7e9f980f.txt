@@ -1,1 +1,0 @@
-The Normalized Total Float Range for Yellow is now set to 15 days.

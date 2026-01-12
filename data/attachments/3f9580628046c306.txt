@@ -1,1 +1,0 @@
-The Chain Identifier has been updated from "New Chain ID" to "Updated Chain ID".

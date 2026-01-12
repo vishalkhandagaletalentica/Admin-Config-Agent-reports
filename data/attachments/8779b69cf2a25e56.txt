@@ -1,1 +1,0 @@
-The team names in the Task Manager filter are not set to display as a list of team members.

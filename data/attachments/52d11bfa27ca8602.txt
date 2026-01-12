@@ -1,3 +1,0 @@
-The command to update the "Max Start Week (in the past) for Buffer Trend" is invalid because the value 'abcde' is not an integer. The expected type is an integer between 0 and 25, where 0 represents the current week, 1 the previous week, and so on. 
-
-For example, a correct command could be: `update Max Start Week (in the past) for Buffer Trend to 4`.

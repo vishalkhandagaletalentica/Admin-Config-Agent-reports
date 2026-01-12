@@ -1,1 +1,0 @@
-The current column mapping for Remaining Duration when importing CSV/Excel is "RDU_NEW".

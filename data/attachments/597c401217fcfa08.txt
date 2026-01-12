@@ -1,0 +1,1 @@
+Is the option to show remaining duration for not started tasks enabled?

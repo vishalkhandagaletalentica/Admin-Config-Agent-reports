@@ -1,1 +1,0 @@
-The "Use External Mailer" setting is now enabled.

@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it conveys the same information as the Expected Output regarding the setting of Project Attribute8 Type. However, it lacks the phrase 'current setting for the project attribute type,' which slightly diminishes its clarity in addressing the intent of the Input question.

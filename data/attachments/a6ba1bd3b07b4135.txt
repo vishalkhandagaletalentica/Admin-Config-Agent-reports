@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Format Report Data — Purchase Dates Integration', 'Report Duration Display Format — Server', 'Show Data By — Metrics → Cycle Time'], 'value': None, 'section': None, 'entry': None, 'url': None}

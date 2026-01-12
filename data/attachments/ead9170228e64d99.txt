@@ -1,0 +1,1 @@
+The display name for months in the filters is "Updated Month Name".

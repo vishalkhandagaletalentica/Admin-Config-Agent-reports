@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Resource Mgr -> Resource Needs (Sort Order)', 'Executive -> Project Status (Order By)', 'Task List -> Col Order (Column Order)'], 'value': None, 'section': None, 'entry': None, 'url': None}

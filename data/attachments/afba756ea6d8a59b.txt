@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the number of rows displayed per page in the Edit Project Info feature?'}, {'role': 'assistant', 'content': 'The number of rows displayed per page is 20.'}, {'role': 'user', 'content': 'Set it to 25'}, {'role': 'assistant', 'content': 'Rows per page updated from 20 to 25.'}]

@@ -1,1 +1,0 @@
-{'entryId': 769, 'sectionId': 48, 'flags': 0, 'entryName': 'DBR_ColorPriority1', 'entryFriendlyName': 'DBR_ColorPriority1', 'strValue': 'Y', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'DBR_ColorPriority1', 'rangeList': None, 'validationRule': None, 'sequenceId': 495380.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

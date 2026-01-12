@@ -1,1 +1,0 @@
-The section name is Subtask List, and the item description is Columns hidden in report.

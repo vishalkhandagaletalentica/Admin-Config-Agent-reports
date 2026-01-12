@@ -1,0 +1,1 @@
+No — Windows Authentication for the Concerto Pipeline Client is disabled.

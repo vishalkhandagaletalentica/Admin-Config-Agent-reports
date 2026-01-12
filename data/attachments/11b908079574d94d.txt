@@ -1,0 +1,1 @@
+Is calendar validation against the global resource file enabled?

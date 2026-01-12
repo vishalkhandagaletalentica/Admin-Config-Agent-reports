@@ -1,1 +1,0 @@
-The Task Status Filter for the Task Level Priorities By Resource report is set to: NS -> New NS, IP -> IP.

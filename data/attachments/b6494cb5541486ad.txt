@@ -1,0 +1,1 @@
+The date format (Type of date format) is set to American.

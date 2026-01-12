@@ -1,0 +1,1 @@
+No — the Display Data Table filter is not an enabled/disabled setting. It's a text filter name currently set to "newExampleStringValue".

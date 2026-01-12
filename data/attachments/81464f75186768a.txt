@@ -1,0 +1,1 @@
+No — the Exclude On Hold Task filter is not enabled; it is currently set to "Include On Hold Task".

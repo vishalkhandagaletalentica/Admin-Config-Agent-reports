@@ -1,0 +1,1 @@
+Yes, the option for requiring Help Needed during task updates is enabled.

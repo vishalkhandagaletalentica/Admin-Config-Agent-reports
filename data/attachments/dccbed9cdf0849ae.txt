@@ -1,1 +1,0 @@
-The current column name used for task status in Task Excel is "Task Status."

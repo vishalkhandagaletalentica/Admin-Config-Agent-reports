@@ -1,1 +1,0 @@
-The current mapping for End Date in the advanced filter is "stopDate".

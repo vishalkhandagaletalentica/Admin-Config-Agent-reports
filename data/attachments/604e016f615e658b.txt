@@ -1,5 +1,0 @@
-The command you provided is invalid because the value 'abcde' is not a valid integer. The expected type for the Default Rolling Average Period is an integer within the allowed range of 1 to 99. 
-
-Please use a valid integer value, such as 7, or any integer within the specified range. 
-
-A correct command would be: `update configuration set Default Rolling Average Period (X periods in past) to 7`.

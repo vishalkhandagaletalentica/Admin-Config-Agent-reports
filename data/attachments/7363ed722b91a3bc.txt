@@ -1,1 +1,0 @@
-The current percentage of cross links allowed between tasks in the planning configuration is 25%.

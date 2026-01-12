@@ -1,1 +1,0 @@
-The "Days Open" column heading has been updated to "Open Days".

@@ -1,1 +1,0 @@
-Please update the setting to disable the use of the global custom task identifier during project import.

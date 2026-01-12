@@ -1,0 +1,1 @@
+The title displayed for Successors in the Task Details feature is "New Successor Title."

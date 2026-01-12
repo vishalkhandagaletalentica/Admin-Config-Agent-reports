@@ -1,1 +1,0 @@
-The current title for the Name column is "Name".

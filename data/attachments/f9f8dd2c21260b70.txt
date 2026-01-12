@@ -1,0 +1,1 @@
+The display of subprojects is disabled for the Sand Chart.

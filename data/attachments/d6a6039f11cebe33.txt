@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the filter name for 'Compare With' but introduces a minor factual inaccuracy by using 'DUE_DATE_2' instead of the expected 'Due Date 2'. While the response addresses the intent of the input question, the discrepancy in naming affects its factual correctness.

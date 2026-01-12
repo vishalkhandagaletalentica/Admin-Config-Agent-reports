@@ -1,0 +1,1 @@
+The Actual Output correctly states that the date range from the Start Date is 90 days, aligning with the factual information in the Expected Output. However, it lacks the detail about the date range starting from the beginning of the milestone, which is a key aspect of the Expected Output. Overall, it addresses the intent of the Input question but is slightly incomplete.

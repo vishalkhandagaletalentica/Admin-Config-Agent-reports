@@ -1,1 +1,0 @@
-The buffer penetration threshold for DBR (red when chain is 100% complete) is 75%.

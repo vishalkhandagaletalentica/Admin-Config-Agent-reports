@@ -1,1 +1,0 @@
-The On Hold status is currently disabled in the Project Control view.

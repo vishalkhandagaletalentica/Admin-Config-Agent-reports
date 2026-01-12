@@ -1,0 +1,1 @@
+I couldn't find a configuration matching "display Actual Delay". Which section and entry do you mean for this setting?

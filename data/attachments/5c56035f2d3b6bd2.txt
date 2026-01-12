@@ -1,1 +1,0 @@
-The "Show Bucket Capacity" setting is currently disabled.

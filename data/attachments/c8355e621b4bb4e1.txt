@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '1d210bcb-3d05-4aff-ab3f-30bafbb1265a', 'query': 'What is the day of the week used for the trend points in the drill down?'}

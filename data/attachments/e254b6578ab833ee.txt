@@ -1,0 +1,1 @@
+{'entryId': 213, 'sectionId': 11, 'flags': 1, 'entryName': 'BEINGMODIFIED', 'entryFriendlyName': 'BEINGMODIFIED', 'strValue': 'Currently Under Review', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'BEINGMODIFIED', 'rangeList': None, 'validationRule': None, 'sequenceId': 114260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

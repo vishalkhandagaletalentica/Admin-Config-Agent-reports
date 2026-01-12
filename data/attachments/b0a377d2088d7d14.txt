@@ -1,1 +1,0 @@
-The DBR Color Priority 0 setting in DBR Project Type was updated from 'R' to 'G'.

@@ -1,1 +1,0 @@
-The Default Horizon (date range from the start date) is currently set to 30.

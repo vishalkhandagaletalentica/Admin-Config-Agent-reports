@@ -1,0 +1,1 @@
+Yes — the load from Planned projects is displayed in both reports (it is currently enabled).

@@ -1,1 +1,0 @@
-Which of the commit-error entries would you like to enable? Please specify one of the options I listed earlier.

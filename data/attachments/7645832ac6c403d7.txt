@@ -1,0 +1,1 @@
+The current window size for grouping the display of tasks in the Subtask List is 10.

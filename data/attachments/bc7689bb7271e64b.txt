@@ -1,1 +1,0 @@
-Please update the Buffer Size (Subproject) to a new value. The new value should be "New Buffer Size".

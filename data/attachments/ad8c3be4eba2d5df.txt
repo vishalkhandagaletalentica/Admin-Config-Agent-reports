@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'ab3d7577-a856-4964-8728-6a5fb930640d', 'query': 'Is the Default Setting for Set Aside Protective Capacity Filter enabled?'}

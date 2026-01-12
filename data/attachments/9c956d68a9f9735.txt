@@ -1,1 +1,0 @@
-The default sorting order for the Milestone Chain View is: ascending by CHAINSEQNO, then descending by CMSB_PENETRATION, then ascending by EARLIEST_ARRIVAL, then ascending by CHAINUID.

@@ -1,0 +1,1 @@
+No — the "Update expected finish date for FK tasks" option is disabled.

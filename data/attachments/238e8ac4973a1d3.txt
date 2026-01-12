@@ -1,1 +1,0 @@
-Confirmed: I'm referring to Adv. filter in Gantt (Adv. Filter Field Mapping) for Custom Task Text Field 51. The current value is "Text51".

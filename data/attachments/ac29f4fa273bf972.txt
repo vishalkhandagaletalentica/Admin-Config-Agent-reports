@@ -1,0 +1,1 @@
+The hidden columns are: Text1, RZ Reference, Expected Enhancements, Hours Remaining, CUSTOM_TASK_TEXT5, QA Check, Technician, New Zone, Job Status, Route Key

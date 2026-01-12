@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '0845fca1-3072-4e5f-b418-1570ef7e4e70', 'query': 'The correct section is "Table view in planning client for Float mode" and the ENTRY NAME is "Name for Float Column Preset 3".'}

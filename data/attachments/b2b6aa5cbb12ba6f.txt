@@ -1,0 +1,1 @@
+The buffer penetration level that triggers the red color when the chain is 100% complete is 95.

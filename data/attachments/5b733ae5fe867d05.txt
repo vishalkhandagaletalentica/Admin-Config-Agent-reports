@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_CHECKIN_VALIDATION', 'entry': 'CS_PHASE_NONBLANKGRP_NOT_FOUND_ERROR', 'url': None}

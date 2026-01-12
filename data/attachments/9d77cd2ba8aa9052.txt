@@ -1,1 +1,0 @@
-The correct section name is "Executive" and the entries are "Project Status report" and "Red Projects report," both of which specify the default sorting order.

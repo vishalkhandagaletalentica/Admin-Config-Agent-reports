@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly matches the Expected Output, confirming that the option to update the status for purchasing tasks is enabled. It addresses the intent of the Input question without introducing any incorrect facts or assumptions.

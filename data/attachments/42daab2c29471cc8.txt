@@ -1,0 +1,1 @@
+{'entryId': 564, 'sectionId': 11, 'flags': 0, 'entryName': 'FILTERBY', 'entryFriendlyName': 'Filter By', 'strValue': 'Filter Options', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Filter By in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121280.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

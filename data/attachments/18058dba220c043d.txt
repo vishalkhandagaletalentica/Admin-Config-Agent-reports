@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_TASK_UPDATE', 'entry': 'ASSIGNED_TO_TYPE_IN_HELP_NEEDED', 'url': None}

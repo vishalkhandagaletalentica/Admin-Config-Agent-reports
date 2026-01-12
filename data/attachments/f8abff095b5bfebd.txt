@@ -1,0 +1,1 @@
+The custom text field used to indicate if a task needs to be exported for ERP Integration is CUSTOM_TASK_TEXT10.

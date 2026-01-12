@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Project Mgr', 'Buffer Diagnostics -> Pen Chains', 'Full Kit Mgr -> Full Kit Report', 'Common -> Filter Names (Filter Changes)'], 'value': None, 'section': None, 'entry': None, 'url': None}

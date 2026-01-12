@@ -1,0 +1,1 @@
+Is the setting to restrict changing successor task statuses enabled?

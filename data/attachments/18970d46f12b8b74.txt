@@ -1,1 +1,0 @@
-The time component is currently displayed in the ConWeb reports.

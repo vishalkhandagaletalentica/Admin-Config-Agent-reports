@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Scope — Common -> Column Names (Task scope)', 'Scope for Task Search — Task List -> Common (Default value for Task Type Filter)'], 'value': None, 'section': None, 'entry': None, 'url': None}

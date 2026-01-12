@@ -1,1 +1,0 @@
-The Work Card Information report default sort is: Task Unique ID (ascending), Work Card Count (descending), Task Status (descending).

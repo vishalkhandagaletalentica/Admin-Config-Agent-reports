@@ -1,1 +1,0 @@
-The current title for the Relative Priority column in the reports is "High Priority."

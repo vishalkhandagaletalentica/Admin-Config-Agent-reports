@@ -1,1 +1,0 @@
-The current name set for the first column preset in the table view is DEFAULT_NEW.

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'b09fb452-dfa2-4ca1-b171-975d940eec47', 'query': 'Is the automatic selection of the logged-in user in the Task Manager Filter enabled?'}

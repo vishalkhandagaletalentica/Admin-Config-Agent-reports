@@ -1,1 +1,0 @@
-The SMTP server name for Subtask Excel updates is smtp.example.com.

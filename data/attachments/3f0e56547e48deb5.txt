@@ -1,1 +1,0 @@
-The Actual Output correctly states that 'Global Float Validation is enabled,' which aligns with the factual correctness of the Expected Output. However, it does not fully address the intent of the Input question, as it lacks the detail about the 'current value for the global float validation setting.' This omission results in a partial answer, leading to a deduction in points.

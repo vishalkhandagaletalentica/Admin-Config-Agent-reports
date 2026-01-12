@@ -1,1 +1,0 @@
-Password Expiration Days has been updated from 15 to 30.

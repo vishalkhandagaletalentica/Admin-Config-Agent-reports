@@ -1,1 +1,0 @@
-The current filter name for the Subtask Compact View is "Expanded View."

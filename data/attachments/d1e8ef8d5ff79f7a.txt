@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the option to show update compliance enabled in the report?'}, {'role': 'assistant', 'content': 'No, the Show Update Compliance option is disabled in the report.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Show Update Compliance has been enabled.'}]

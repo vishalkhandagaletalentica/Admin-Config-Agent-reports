@@ -1,1 +1,0 @@
-The Actual Output partially addresses the intent of the Input by asking for a choice between RELATIVE and ABSOLUTE, but it fails to acknowledge that the command is invalid due to the absence of a valid option. It does not provide the necessary information about the allowed values or the correct command format, which is a significant shortcoming.

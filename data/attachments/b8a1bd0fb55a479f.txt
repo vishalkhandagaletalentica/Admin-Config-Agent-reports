@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Project Control (Project Control view/report)', 'Common -> Filter Names (filtering pane titles)', 'Project Mgr -> Project Status (Project Status view/report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

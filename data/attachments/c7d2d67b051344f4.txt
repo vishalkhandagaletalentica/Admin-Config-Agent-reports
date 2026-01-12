@@ -1,1 +1,0 @@
-The current setting for the task remaining duration change history display is "Delta Rem Dur."

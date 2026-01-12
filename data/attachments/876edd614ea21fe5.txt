@@ -1,0 +1,1 @@
+The hidden columns in Print Preview for Project Control are: Project Name, Project Manager, Status, New Planned Start, Due Date, Description, Due Date, New Est. Date, Delay, Buffer Cnsmd, Longest Chain Complete, Critical Task, New MSP ID, Task Mgr, Last Update, Comments, Custom Date 1, Custom Date 2, Custom Date 1 Delay, Custom Date 2 Delay, Current Phase.

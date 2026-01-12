@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Customer Status to disabled.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Customer Status” entry? (I need the section name to proceed.)'}, {'role': 'user', 'content': 'The section name is Project Attributes.'}, {'role': 'assistant', 'content': 'Customer Status has been disabled.'}]

@@ -1,1 +1,0 @@
-The default feeding buffer percentage size is 75%.

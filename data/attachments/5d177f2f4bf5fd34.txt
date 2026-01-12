@@ -1,1 +1,0 @@
-What is the current column mapping for Text10 when I'm importing a CSV or Excel file in the Planning client?

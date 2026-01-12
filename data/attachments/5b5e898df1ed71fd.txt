@@ -1,0 +1,1 @@
+In Buffer Priorities, the ColorPriority0 setting is set to R.

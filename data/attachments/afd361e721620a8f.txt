@@ -1,0 +1,1 @@
+The number of rows set to display per page in the milestone view is 30.

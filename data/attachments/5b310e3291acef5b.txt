@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task Text 64 — Common -> Column Names (Custom Task Text Field 64)', 'Task Text 64 — Planning Client -> Adv. Filter Field Mapping (Custom Task Text Field 64)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The start date displayed in the column headings is set to "Start Date".

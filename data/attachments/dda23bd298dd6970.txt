@@ -1,1 +1,0 @@
-The chain-complete buffer turns yellow at 50%.

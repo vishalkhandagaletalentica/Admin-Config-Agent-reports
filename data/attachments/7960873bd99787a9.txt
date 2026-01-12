@@ -1,1 +1,0 @@
-Please update the Display Name for Filter By in Filters to "Filter Options".

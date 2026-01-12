@@ -1,1 +1,0 @@
-Please update the Number of Past Days to compute Due Date history to 45.

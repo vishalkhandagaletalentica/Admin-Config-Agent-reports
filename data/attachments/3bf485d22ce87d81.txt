@@ -1,1 +1,0 @@
-{'entryId': 1848, 'sectionId': 109, 'flags': 0, 'entryName': 'PRIM_PASSWORD', 'entryFriendlyName': 'Password', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Specifies the password to connect to Primavera database.', 'rangeList': '', 'validationRule': None, 'sequenceId': 1106102.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

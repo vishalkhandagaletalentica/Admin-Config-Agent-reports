@@ -1,0 +1,1 @@
+The value of the Task Custom Text field for specifying Checklist Mapping Id is CUSTOM_TASK_TEXT3.

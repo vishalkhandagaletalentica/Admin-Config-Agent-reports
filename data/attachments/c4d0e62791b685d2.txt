@@ -1,1 +1,0 @@
-The column heading “Is Virtual” has been updated to “Not Virtual”.

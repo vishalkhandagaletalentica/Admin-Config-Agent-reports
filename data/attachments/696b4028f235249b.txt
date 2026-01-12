@@ -1,1 +1,0 @@
-The current default sorting order for the Drum Throughput Drilldown report is 12345.

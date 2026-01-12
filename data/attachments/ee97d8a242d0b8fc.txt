@@ -1,1 +1,0 @@
-I couldn't apply the update to ColorPriority4 in Buffer Priorities because I don't have permission to change configuration values. Would you like me to retry later or provide instructions on how to get the needed privileges?

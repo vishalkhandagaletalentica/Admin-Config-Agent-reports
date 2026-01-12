@@ -1,1 +1,0 @@
-The Task Status in the advanced filter is mapped to "Status".

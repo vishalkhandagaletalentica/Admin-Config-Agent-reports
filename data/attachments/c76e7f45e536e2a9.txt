@@ -1,0 +1,1 @@
+The mistake is a type mismatch since a string is expected but an integer was provided; please use a valid string value such as 'AUTHOR,CATEGORY,SUBJECT,ATTRIBUTE1,ATTRIBUTE2,ATTRIBUTE3,ATTRIBUTE4,ATTRIBUTE5'.

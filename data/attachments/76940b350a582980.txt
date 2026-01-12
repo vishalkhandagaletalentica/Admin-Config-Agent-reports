@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_CONTROL_QUEUES', 'entry': 'QUEUE_FOR_IP_TASK', 'url': None}

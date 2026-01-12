@@ -1,0 +1,1 @@
+Please update the Filters Available to include "Design Team Needed, Portfolio, New Product Code, Customer, Project Attribute 5, Project Attribute 6, New Project Attribute Value" and remove "New Kit Manager".

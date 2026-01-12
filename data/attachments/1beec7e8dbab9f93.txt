@@ -1,0 +1,1 @@
+The column mapping for Text2 was updated from "Item Description" to "12345".

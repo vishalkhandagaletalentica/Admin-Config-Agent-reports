@@ -1,0 +1,1 @@
+{'entryId': 373, 'sectionId': 28, 'flags': 0, 'entryName': 'AUTOLINK_INSERTED_TASKS', 'entryFriendlyName': 'Auto-link Inserted Subtasks', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Auto-link of Subtasks', 'rangeList': None, 'validationRule': None, 'sequenceId': 266900.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

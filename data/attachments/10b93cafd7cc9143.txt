@@ -1,1 +1,0 @@
-I couldn't disable Show Project Description in the WIP Report because you do not have privileges to update configuration settings. Currently, Show Project Description is enabled.

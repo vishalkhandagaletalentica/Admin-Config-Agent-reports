@@ -1,1 +1,0 @@
-The current default sorting order for the Task Level Priorities By Resource report is Ascending Sort Window Start, Ascending Resource Name, Descending Priority Level Penetration, Ascending Earliest Arrival, Descending Priority Level.

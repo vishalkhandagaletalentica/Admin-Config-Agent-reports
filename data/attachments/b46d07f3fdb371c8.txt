@@ -1,0 +1,1 @@
+The default grouping used in the resource requirement reports is by Project.

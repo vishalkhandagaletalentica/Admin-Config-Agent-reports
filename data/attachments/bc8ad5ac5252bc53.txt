@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '04527b66-b059-4b95-b337-6a9b81b0712f', 'query': "Please update the Marked as Buffer Recovery setting to 'Not Marked as Buffer Recovery'."}

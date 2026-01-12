@@ -1,0 +1,1 @@
+Update the Priority Inheritance setting to "Task Priority Level".

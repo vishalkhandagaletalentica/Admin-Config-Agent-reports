@@ -1,0 +1,1 @@
+The Text8 column name was updated from "" to "NewColumnName".

@@ -1,0 +1,1 @@
+No, the Buffer Management is set to use the resource sheet in the Global Resource File.

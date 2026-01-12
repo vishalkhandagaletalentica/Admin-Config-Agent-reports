@@ -1,0 +1,1 @@
+Under Project Status Filter → Cancelled (CAN): the entry is already set to "Cancelled (CAN)". No update is needed.

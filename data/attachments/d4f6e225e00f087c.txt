@@ -1,1 +1,0 @@
-Updated the "Changes" column heading to "Updates".

@@ -1,1 +1,0 @@
-The filtering configuration has been updated to "New Milestone Filters".

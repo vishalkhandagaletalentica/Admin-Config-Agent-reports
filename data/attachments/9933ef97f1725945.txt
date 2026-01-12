@@ -1,1 +1,0 @@
-No, the View Delay By Task drilldown is currently disabled on the Print Preview page.

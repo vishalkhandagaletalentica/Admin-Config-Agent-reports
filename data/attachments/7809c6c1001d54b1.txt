@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '6e59783c-4179-489b-bdce-8716454ae067', 'query': 'Please enable Ignore IP sub task updates during Integration.'}

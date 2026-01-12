@@ -1,1 +1,0 @@
-{'entryId': 2526, 'sectionId': 146, 'flags': 0, 'entryName': 'REMAINING_DURATION', 'entryFriendlyName': 'Rem Dur(sh)', 'strValue': 'RDU', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Rem Dur(sh)', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510520.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,0 +1,1 @@
+The default sort order for the Pipelining drill down report is: Project Name, Due Date, Last Update, Priority Level.

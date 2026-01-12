@@ -1,1 +1,0 @@
-The automatic selection of the logged-in user in the Project Manager Filter has been disabled.

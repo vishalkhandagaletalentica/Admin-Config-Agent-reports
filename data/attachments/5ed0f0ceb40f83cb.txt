@@ -1,0 +1,1 @@
+The mistake is a type mismatch as the expected value type is an integer, so please provide an integer value between 1 and 99999, such as 48.

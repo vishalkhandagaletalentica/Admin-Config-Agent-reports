@@ -1,0 +1,1 @@
+What is the current window size for grouping the display of tasks in the Subtask List?

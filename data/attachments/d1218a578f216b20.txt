@@ -1,1 +1,0 @@
-The current title displayed for the Projected Date header in the reports is 12345.

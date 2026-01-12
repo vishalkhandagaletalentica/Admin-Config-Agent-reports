@@ -1,0 +1,1 @@
+I can't apply that update because Update Compliance Period (hours) expects an integer. The value should be an integer.

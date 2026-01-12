@@ -1,0 +1,1 @@
+The mistake is a type mismatch, as the expected value type is string and the provided values are integers; please use string values like "DIVISION", "AUTHOR".

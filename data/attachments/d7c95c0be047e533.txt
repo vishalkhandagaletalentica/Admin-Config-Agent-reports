@@ -1,1 +1,0 @@
-The current default sorting order for the Project/Milestone Penetrating Chain report is Ascending Earliest Arrival, Ascending Chain ID, Descending Sortn2.

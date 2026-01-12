@@ -1,1 +1,0 @@
-What is the current default stretch limit in days for fixed projects?

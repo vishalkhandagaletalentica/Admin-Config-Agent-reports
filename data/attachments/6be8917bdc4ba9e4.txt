@@ -1,1 +1,0 @@
-The "Include only Red Chains" option in Project Chain View has been enabled.

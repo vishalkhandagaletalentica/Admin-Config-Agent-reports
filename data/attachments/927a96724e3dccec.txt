@@ -1,0 +1,1 @@
+The Actual Output does not address the intent of the Input question, which is about a specific configuration issue related to column order in a report. Instead, it provides an unrelated error message about a timeout, failing to mention the type mismatch described in the Expected Output.

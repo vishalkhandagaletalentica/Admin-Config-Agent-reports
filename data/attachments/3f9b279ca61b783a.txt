@@ -1,1 +1,0 @@
-The filters currently set to not display in the WIP report are Project Attribute 5, Project Attribute 6, New Project Attribute Value, and [insert new value here].

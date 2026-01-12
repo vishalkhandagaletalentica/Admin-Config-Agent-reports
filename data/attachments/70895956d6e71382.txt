@@ -1,1 +1,0 @@
-The Resource Manager is already set to "Resource Mgr". No update is needed.

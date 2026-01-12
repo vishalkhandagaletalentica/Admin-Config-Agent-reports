@@ -1,1 +1,0 @@
-{'entryId': 2401, 'sectionId': 143, 'flags': 0, 'entryName': 'INTEGRATION_TASK_TEXT7_COLUMN', 'entryFriendlyName': 'Text7', 'strValue': '', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name of TEXT7', 'rangeList': None, 'validationRule': None, 'sequenceId': 1478020.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

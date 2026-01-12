@@ -1,0 +1,1 @@
+The hidden columns are: NewUID, [insert new value here], Division, Last Update, Last BM Date, Pipeline Priority.

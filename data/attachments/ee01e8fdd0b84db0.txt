@@ -1,1 +1,0 @@
-The current title for the filter used for Escalated Tasks is "High Priority Escalated Tasks."

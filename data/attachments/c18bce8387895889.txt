@@ -1,0 +1,1 @@
+The number of Days or Hours set for highlighting tasks scheduled to start in the first time interval is 10.

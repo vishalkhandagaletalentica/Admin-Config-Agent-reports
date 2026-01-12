@@ -1,0 +1,1 @@
+The title displayed for the Past Weeks in the reports is Last Weeks.

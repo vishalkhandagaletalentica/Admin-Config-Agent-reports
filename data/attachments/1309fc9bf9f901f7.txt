@@ -1,1 +1,0 @@
-The current endpoint for the Streamliner push notifications is not specified.

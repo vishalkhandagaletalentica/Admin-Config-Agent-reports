@@ -1,1 +1,0 @@
-Automatic FK status updates based on checklist items have been disabled.

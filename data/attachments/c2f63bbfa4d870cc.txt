@@ -1,1 +1,0 @@
-I attempted to set “Subtasks to be loaded from database” to 30000, but the update failed because I don’t have privileges to change configurations. The current value remains 25000. Please grant update privileges or ask an administrator to apply the change.

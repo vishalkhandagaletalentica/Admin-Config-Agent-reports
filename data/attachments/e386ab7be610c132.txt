@@ -1,0 +1,1 @@
+{'entryId': 1248, 'sectionId': 76, 'flags': 0, 'entryName': 'CUSTOM_TASK_TEXT6', 'entryFriendlyName': 'Text6', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Display checklist for Custom Text6.', 'rangeList': None, 'validationRule': None, 'sequenceId': 784960.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

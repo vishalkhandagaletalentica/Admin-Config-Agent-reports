@@ -1,0 +1,1 @@
+Is using the server date as today's date enabled?

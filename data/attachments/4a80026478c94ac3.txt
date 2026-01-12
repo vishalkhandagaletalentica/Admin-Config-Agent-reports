@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it states that the Show Managers Only option is disabled, which aligns with the Expected Output. However, it does not directly reference the 'Project Mgr Filter' as mentioned in the Input, which slightly detracts from addressing the full intent of the question. The tone is professional and concise.

@@ -1,1 +1,0 @@
-The current column mapping for Man Hours when importing a CSV or Excel file is MHEST.

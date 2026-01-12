@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '0fe0c678-52ac-4072-ba10-43a6bdcea2ba', 'query': 'The correct section name is "Resource Mgr -> Resource L:C" and the ENTRY NAME is "Filters Available."'}

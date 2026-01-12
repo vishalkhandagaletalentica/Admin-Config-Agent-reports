@@ -1,0 +1,1 @@
+The filters that can be displayed in the Cycle Time report are: Time Intervals, Include Drum Phase Cycle Time, Include Project Wait Time, Rolling Average Period, Show Rolling Average, Show Data By, Cycle Time.

@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'RULE2_BUFFERING', 'entry': 'FILTERS_DISPLAYABLE', 'url': None}

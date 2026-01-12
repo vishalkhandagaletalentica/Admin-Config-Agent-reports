@@ -1,1 +1,0 @@
-The current column mapping for the Text3 field in the checklist integration is 12345.

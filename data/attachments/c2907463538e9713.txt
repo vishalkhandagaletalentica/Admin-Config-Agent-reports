@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'What is the current setting for the custom task text field?'}, {'role': 'assistant', 'content': 'Which custom task text field do you mean? For example: Custom Task Text Field 1, 2, 3, etc.'}, {'role': 'user', 'content': 'I mean Custom Task Text Field 7.'}, {'role': 'assistant', 'content': 'Custom Task Text Field 7 is set to "enabled".'}]

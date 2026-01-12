@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the value of Project Attribute6 Type?'}, {'role': 'assistant', 'content': 'The Project Attribute6 Type is 2.'}, {'role': 'user', 'content': 'Set it to 1'}, {'role': 'assistant', 'content': 'Project Attribute6 Type updated from 2 to 1.'}]

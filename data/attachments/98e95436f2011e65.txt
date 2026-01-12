@@ -1,0 +1,1 @@
+The title displayed for the total delay in the Milestone Report is "New Milestone Penetration Value."

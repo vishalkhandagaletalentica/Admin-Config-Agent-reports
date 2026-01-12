@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Header Names — Predecessors (title shown in Task Details)', 'Common -> Column Names — Predecessors (column heading)', 'Common -> Column Names — Predecessors (Subtask List)'], 'value': None, 'section': None, 'entry': None, 'url': None}

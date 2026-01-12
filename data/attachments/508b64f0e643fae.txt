@@ -1,1 +1,0 @@
-The current endpoint for the Streamliner sign-in is not provided.

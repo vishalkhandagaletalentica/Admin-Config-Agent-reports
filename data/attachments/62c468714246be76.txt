@@ -1,0 +1,1 @@
+Sort Order updated from (none) to Resource Name, Task Mgr, Project Name.

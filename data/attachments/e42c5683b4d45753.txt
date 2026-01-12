@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_TASK_UPDATE', 'entry': 'MAKE_HELPNEEDED_MANDATORY', 'url': None}

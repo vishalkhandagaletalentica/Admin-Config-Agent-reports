@@ -1,1 +1,0 @@
-The current label for Autolink in the milestone view is "New Autolink".

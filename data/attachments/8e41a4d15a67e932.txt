@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names — Document Links (column title)', 'Common -> Header Names — Document Links (header display name)', 'Common, Task -> Task Document Links — View Document Links (task/document links feature)'], 'value': None, 'section': None, 'entry': None, 'url': None}

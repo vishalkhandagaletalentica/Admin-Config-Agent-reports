@@ -1,0 +1,1 @@
+The Filters Available setting in Metrics -> Buffering already includes the label "Portfolio". No update is needed.

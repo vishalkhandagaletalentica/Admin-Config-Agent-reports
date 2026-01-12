@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Actual Delay — Time Interval (bucket size in reports)', 'Common -> Filter Names — Time Interval (filter title in filtering pane)'], 'value': None, 'section': None, 'entry': None, 'url': None}

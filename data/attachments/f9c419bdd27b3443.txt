@@ -1,0 +1,1 @@
+Updated the filter name for Light Green from Bright Green to Dark Green.

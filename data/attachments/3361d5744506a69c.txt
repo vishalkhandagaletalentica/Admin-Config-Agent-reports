@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Horizon Length to 1200 days.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Horizon Length" setting?'}, {'role': 'user', 'content': 'The section name is "Critical Chain". The entry name is "Horizon Length".'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

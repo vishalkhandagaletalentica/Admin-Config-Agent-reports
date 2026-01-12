@@ -1,0 +1,1 @@
+I'm a Configuration Management Assistant, so I can only help with viewing and updating configuration settings. I can list available configuration sections, show entries within a section, read specific configuration values, and update them. I can't discuss hidden features or anything outside configuration management. Is there a configuration setting you'd like to check or change?

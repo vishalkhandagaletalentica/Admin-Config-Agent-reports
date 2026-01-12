@@ -1,1 +1,0 @@
-Planned throughput is enabled in the Executive -> Performance report.

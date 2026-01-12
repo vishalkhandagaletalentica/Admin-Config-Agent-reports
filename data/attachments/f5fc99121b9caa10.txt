@@ -1,1 +1,0 @@
-{'entryId': 1269, 'sectionId': 10, 'flags': 0, 'entryName': 'CHECKLIST_TEXT2', 'entryFriendlyName': 'Text2', 'strValue': 'MMH', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name for Text2 in Task Checklist', 'rangeList': None, 'validationRule': None, 'sequenceId': 125380.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

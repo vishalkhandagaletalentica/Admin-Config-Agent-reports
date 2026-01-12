@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'c116aa30-aa74-4fb8-bd92-a099b9237559', 'query': 'Please update the Default KE/MS for honoring Due Date/PF in Critical Path to use the value: SR01,CR01,UD01,SS01,SH01,CA01,TW01,DB01,BV01,SF01,DC01,FD01,PW01,PW52,FC01.'}

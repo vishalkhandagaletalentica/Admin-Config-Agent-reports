@@ -1,1 +1,0 @@
-What is the current setting for the Task Checklist Field used to specify Baseline Duration in the Earned Hours Report?

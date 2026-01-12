@@ -1,0 +1,1 @@
+The hidden columns in the Milestone report are Document Access Links, Disable Auto Document Link, Project Name, Project Manager, New MSP ID, Milestone ID, Task Mgr, Status, Milestone Date, Projected Date, Delay, and Milestone Type.

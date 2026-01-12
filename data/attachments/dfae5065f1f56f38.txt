@@ -1,1 +1,0 @@
-The current number of days that a task has been escalated is Escalation Duration.

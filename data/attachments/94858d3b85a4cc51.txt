@@ -1,1 +1,0 @@
-The current column title for Chain Unique ID is "[new value]".

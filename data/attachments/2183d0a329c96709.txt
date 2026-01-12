@@ -1,0 +1,1 @@
+Show Restricted Users in Assign Participants Dialog has been disabled.

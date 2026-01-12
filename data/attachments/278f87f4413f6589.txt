@@ -1,1 +1,0 @@
-The default sorting order for the Task Penetrating Chain report is: 12345.

@@ -1,1 +1,0 @@
-{'entryId': 972, 'sectionId': 12, 'flags': 0, 'entryName': 'INCL_IN_RPT', 'entryFriendlyName': 'Include in Report', 'strValue': 'Include in Summary', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Include in Report', 'rangeList': None, 'validationRule': None, 'sequenceId': 139440.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

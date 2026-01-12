@@ -1,0 +1,1 @@
+{'entryId': 1226, 'sectionId': 10, 'flags': 0, 'entryName': 'DELAY', 'entryFriendlyName': 'Delay', 'strValue': 'Delay (d) Updated', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Delay (d).', 'rangeList': None, 'validationRule': None, 'sequenceId': 124520.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the email subject used for bulk imports?'}, {'role': 'assistant', 'content': 'The Bulk Import email subject is: "New Bulk Import Notification"'}, {'role': 'user', 'content': 'Update this setting to "Bulk Import Alert"'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'be564b67-6646-4df8-91e4-853d7c70229c', 'query': "Please update the Adequate Buffers setting to 'Updated Adequate Buffers'."}

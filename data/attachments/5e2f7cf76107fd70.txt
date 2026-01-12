@@ -1,1 +1,0 @@
-Yes, the buffer size is set to round to the next hour.

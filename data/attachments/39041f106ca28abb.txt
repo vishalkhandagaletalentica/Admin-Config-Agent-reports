@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the display name as 'Proposed Due Date', which aligns with the Expected Output. However, it lacks the additional context provided in the Expected Output regarding the section and entry names, which slightly diminishes its completeness in addressing the input's intent.

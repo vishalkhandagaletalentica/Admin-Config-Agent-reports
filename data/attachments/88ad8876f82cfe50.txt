@@ -1,1 +1,0 @@
-The option to show priority compliance in the task management report is currently disabled.

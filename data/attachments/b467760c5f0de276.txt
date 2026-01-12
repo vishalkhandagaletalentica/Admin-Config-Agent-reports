@@ -1,1 +1,0 @@
-{'entryId': 2263, 'sectionId': 56, 'flags': 0, 'entryName': 'CATEGORY_VALIDATION', 'entryFriendlyName': 'Business Unit validation', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Business Unit validation', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

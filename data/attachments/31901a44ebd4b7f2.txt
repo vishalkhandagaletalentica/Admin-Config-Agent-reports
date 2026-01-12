@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'e7b8bd79-5ee9-47d7-a5cd-7c053ee01958', 'query': 'Please update the Filter name for Compare With to DUE_DATE_2.'}

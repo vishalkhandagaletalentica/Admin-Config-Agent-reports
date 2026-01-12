@@ -1,0 +1,1 @@
+Project Name in Common -> Column Names was updated from NEW_PROJECT_NAME to NewProjectName.

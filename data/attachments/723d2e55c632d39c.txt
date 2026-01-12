@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question. It confirms that auto-linking is enabled when adding a new task, which aligns perfectly with the Expected Output. The response is concise and maintains a professional tone without introducing any incorrect facts or assumptions.

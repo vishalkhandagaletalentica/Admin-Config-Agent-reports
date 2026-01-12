@@ -1,0 +1,1 @@
+The fields displayed in the Compact View for the managers are Task Description, Remaining Duration, Project Name, Task Manager ID, Parent Task Description, and Earliest Arrival.

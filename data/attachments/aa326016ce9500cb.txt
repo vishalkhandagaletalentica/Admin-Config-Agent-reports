@@ -1,1 +1,0 @@
-The section name is "Resource panel" and the entry name is "Columns hidden in report."

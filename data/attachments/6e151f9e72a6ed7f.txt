@@ -1,1 +1,0 @@
-The option to revert back to the old roll behavior is currently enabled.

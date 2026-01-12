@@ -1,1 +1,0 @@
-The column name for Fixed Property has been successfully updated to "Fixed Property".

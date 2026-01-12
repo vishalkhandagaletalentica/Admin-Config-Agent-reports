@@ -1,0 +1,1 @@
+The value of the title for the Float Group in the resource-leveling settings is Resource Leveling Group.

@@ -1,0 +1,1 @@
+The filter name for All Work Card Skills in the Skills dropdown list is Work Card Skills.

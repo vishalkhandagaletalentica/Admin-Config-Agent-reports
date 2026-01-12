@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Buffer Diagnostics → Tasks Drilldown From Reason (Hidden Fields - Print)', 'Buffer Diagnostics → Tasks Drilldown From TM/Resource/Task Desc (Hidden Fields - Print)', 'Project Mgr → Full Kit Report (Hidden Fields - Print)', 'Project Mgr → Add/Checkin/Edit (Hidden Fields)'], 'value': None, 'section': None, 'entry': None, 'url': None}

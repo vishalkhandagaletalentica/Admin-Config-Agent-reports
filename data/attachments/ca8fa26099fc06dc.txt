@@ -1,1 +1,0 @@
-Yes — the FK/PT Holdup Chart is enabled in the Project Status view.

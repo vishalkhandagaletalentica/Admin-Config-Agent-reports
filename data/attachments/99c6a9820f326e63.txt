@@ -1,0 +1,1 @@
+The following columns are hidden: Task Type, UID123, New MSP ID, New Description, Task Mgr, Status, New Participants, New Start Date, Expected Finish, Updated Dur, Comments Updated, Last Update.

@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It accurately states that updating the status for purchasing tasks is disabled, which aligns with the Expected Output. The only minor difference is the omission of 'the option to' in the Actual Output, but this does not affect the factual correctness or the overall meaning.

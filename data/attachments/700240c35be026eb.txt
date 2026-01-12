@@ -1,1 +1,0 @@
-The Project Tools setting was updated from "Tools" to "New Tools".

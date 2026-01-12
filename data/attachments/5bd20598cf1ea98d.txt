@@ -1,1 +1,0 @@
-The current title displayed for the external division filter in the Import Teams interface is "External Division."

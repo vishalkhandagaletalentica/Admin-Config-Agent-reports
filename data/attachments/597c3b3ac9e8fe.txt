@@ -1,1 +1,0 @@
-The current Float Group C limit is 80%.

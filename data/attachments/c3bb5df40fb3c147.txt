@@ -1,1 +1,0 @@
-The display name for Tasks is now set to "New Tasks."

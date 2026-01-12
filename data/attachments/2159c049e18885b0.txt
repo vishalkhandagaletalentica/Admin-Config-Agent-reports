@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names (used in the filtering pane)', 'Project Mgr -> Project Chain View (used to filter Chains in Project Chain Report)', 'Project Mgr -> Contractual Milestone Chain View (used to filter Chains in CMS Chain Report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

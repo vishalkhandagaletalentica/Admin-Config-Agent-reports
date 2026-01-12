@@ -1,1 +1,0 @@
-Task Text 73 (Custom Task Text Field) was updated from "New Text" to "NewText73".

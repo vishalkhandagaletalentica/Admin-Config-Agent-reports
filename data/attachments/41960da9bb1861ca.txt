@@ -1,0 +1,1 @@
+Yes — the "Display separator after each Sort Window" option for Task Level Priorities By Resource is enabled.

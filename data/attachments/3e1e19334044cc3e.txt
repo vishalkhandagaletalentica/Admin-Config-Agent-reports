@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'ec1bcc1b-a145-43d7-adf4-9bd1946f9e96', 'query': 'Update the P2P Buffers setting to "New P2P Buffers".'}

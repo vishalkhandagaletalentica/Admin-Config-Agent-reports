@@ -1,1 +1,0 @@
-The default sort order for the task templates list is by Last Modified Timestamp.

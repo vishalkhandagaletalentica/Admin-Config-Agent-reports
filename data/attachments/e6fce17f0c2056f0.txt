@@ -1,0 +1,1 @@
+No — limiting the project's Stretch is disabled. The Do Not Limit Stretch option is enabled.

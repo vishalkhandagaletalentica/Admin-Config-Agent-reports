@@ -1,1 +1,0 @@
-{'entryId': 1337, 'sectionId': 10, 'flags': 0, 'entryName': 'CHAINS', 'entryFriendlyName': 'Chains', 'strValue': 'Chains', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'The total number of chains per project.', 'rangeList': None, 'validationRule': None, 'sequenceId': 126740.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

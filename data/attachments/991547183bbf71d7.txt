@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Task Color to red.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Task Color” setting?'}, {'role': 'user', 'content': 'The section name is "Column Headings." The entry name is "Task Color."'}, {'role': 'assistant', 'content': 'Task Color updated from blue to red.'}]

@@ -1,1 +1,0 @@
-The current priority setting for tasks by resource is Days.

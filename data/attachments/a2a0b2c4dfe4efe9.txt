@@ -1,0 +1,1 @@
+There is no default sort configured for checklist items in the Task List — no sort columns are selected.

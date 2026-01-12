@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please set the Planned value to yes.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Planned" entry you want to set to yes?'}, {'role': 'user', 'content': 'The section name is Project Control, and the entry name is Planned.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

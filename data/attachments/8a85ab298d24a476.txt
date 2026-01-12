@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'ede60dad-a95c-4bef-9b47-ea5b43722628', 'query': 'Please update the Use UNION in Task Manager Filter setting to Disabled.'}

@@ -1,0 +1,1 @@
+The section "Display Name for Weekly in Filters" and entry "Weekly" are already set to "Weekly Updated". No update is needed.

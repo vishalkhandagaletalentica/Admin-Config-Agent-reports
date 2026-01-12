@@ -1,1 +1,0 @@
-The current title displayed for the Reset count filter in the filtering pane is "New Reset Count Name."

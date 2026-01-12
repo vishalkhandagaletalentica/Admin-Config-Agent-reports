@@ -1,0 +1,1 @@
+Yes — the load from On Hold projects is enabled and will be displayed in the Resource Requirement Charts reports.

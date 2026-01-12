@@ -1,0 +1,1 @@
+The Actual Output correctly lists all the columns hidden in Print Preview, matching the Expected Output in content. However, it lacks the conjunction 'and' before the last item, which is a minor grammatical detail. Overall, it directly addresses the intent of the Input question and maintains factual accuracy.

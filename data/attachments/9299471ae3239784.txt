@@ -1,0 +1,1 @@
+{'entryId': 398, 'sectionId': 10, 'flags': 0, 'entryName': 'EXEC_LAST_UPDATE_DATE', 'entryFriendlyName': 'Last Update (for Subtask)', 'strValue': 'LastUpdate', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Last Update Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 107960.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

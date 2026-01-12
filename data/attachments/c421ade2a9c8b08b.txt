@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List → Resource Mgr — Hidden Fields (Print) (Print Preview for Resource Mgr)', 'Project Mgr/Resource Mgr → Escalated Tasks — Hidden Fields (Print) (Printed report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

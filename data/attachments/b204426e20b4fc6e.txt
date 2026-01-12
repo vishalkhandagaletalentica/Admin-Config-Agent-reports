@@ -1,1 +1,0 @@
-The Actual Output provides a detailed list of field mapping entries for the Gantt chart, but it does not address the specific request for the current field mapping settings, which are indicated in the Expected Output as 'taskMgrUpdated.' The response is overly verbose and introduces irrelevant details, leading to a significant misalignment with the intent of the Input question.

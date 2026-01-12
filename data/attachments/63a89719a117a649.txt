@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '4b7cfc56-6ec5-4ea8-871d-9349e2e80154', 'query': 'What is the data point used for the buckets in the Pipelining report?'}

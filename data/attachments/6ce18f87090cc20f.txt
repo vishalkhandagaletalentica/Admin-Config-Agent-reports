@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Feeding Buffers — Common -> Filter Names (string title)', 'Feeding Buffers — Project Mgr -> Project Control (boolean, shown/hidden)'], 'value': None, 'section': None, 'entry': None, 'url': None}

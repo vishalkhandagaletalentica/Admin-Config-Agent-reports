@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr -> Project Status (Project Status view/report)', 'Project Mgr -> Contractual Milestone Chain View/Milestone Penetrating Chain', 'Resource Mgr -> Tasks By Resource'], 'value': None, 'section': None, 'entry': None, 'url': None}

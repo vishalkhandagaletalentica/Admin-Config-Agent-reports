@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_SAP_INTEGRATION_COMMON', 'entry': 'MODIFY_LAST_UPDATE_DATE', 'url': None}

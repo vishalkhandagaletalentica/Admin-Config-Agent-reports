@@ -1,0 +1,1 @@
+The Task Manager title in the filtering pane is "Task Manager Pro".

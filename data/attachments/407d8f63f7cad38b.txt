@@ -1,1 +1,0 @@
-The Portfolio title in the filtering pane is "Portfolio".

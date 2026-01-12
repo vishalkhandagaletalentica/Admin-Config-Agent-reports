@@ -1,1 +1,0 @@
-The column mapping for UNITS has been successfully updated to 'QTY,NEW_VALUE'.

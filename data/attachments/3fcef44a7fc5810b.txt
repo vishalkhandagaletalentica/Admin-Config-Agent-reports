@@ -1,1 +1,0 @@
-The current "Email to" for Subtask Excel is support@newdomain.com.

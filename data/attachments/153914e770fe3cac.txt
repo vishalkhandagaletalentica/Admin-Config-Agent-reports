@@ -1,1 +1,0 @@
-The Actual Output states that the current filter name is 'Expanded View,' which is factually incorrect as it contradicts the Expected Output. The response does not address the input correctly, leading to a complete misalignment with the evaluation steps.

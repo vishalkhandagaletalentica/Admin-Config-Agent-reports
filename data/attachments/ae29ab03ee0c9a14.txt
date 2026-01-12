@@ -1,0 +1,1 @@
+The SNS Topic Subscriber Endpoint URL for BufferManagement was updated from /api/v1/subscribeBufferManagementMessage to /api/v1/subscribeBufferManagementMessage/v2.

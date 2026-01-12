@@ -1,1 +1,0 @@
-The “Default optimization option” in the Concerto Pipeline client maps to the OptimizeForSpeed setting and is currently enabled. No update is needed.

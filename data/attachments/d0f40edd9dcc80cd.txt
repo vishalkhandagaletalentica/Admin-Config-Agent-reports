@@ -1,1 +1,0 @@
-The Projected Date calculation during Buffer Management is based on the required buffer (enabled).

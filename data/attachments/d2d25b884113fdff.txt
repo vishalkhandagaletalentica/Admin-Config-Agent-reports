@@ -1,0 +1,1 @@
+What’s the value of the title displayed for the 6 Months filter?

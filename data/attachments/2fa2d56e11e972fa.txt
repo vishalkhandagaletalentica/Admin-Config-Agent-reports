@@ -1,1 +1,0 @@
-{'entryId': 1866, 'sectionId': 10, 'flags': 0, 'entryName': 'GATE_STATUS', 'entryFriendlyName': 'Phase Status', 'strValue': 'Phase Status', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Phase Status.', 'rangeList': None, 'validationRule': None, 'sequenceId': 137320.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,1 +1,0 @@
-Show Completed Bucket for Subtask View is now disabled.

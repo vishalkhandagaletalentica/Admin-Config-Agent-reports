@@ -1,1 +1,0 @@
-The current title shown for Subtask Comments in the Task List is "Feedback".

@@ -1,3 +1,0 @@
-The command to set the Print Font Size to 12345 is invalid because the value is out of the allowed range. The expected values are specific font size keys: FONT_XSMALL, FONT_SMALL, FONT_MEDIUM, FONT_LARGE, or FONT_XLARGE. 
-
-Please provide a valid command using one of these options. For example, you could use: `set Print Font Size to FONT_LARGE`.

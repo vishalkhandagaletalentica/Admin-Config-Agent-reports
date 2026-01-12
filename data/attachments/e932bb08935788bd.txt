@@ -1,0 +1,1 @@
+The setting for adding the queue URL during auto BM is that it will be added automatically on queue creation.

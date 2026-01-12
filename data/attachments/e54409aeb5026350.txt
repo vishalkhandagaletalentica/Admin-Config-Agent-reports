@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Application -> Concerto Pipeline: Percentage Stretch Limit', 'Pipeline Mgr: Stretch Limit as Percent of Project Buffer'], 'value': None, 'section': None, 'entry': None, 'url': None}

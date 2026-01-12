@@ -1,1 +1,0 @@
-{'entryId': 2065, 'sectionId': 10, 'flags': 0, 'entryName': 'SUBTASK_TYPE_STREAM', 'entryFriendlyName': 'Subtask type Stream', 'strValue': 'Streams', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask type Stream', 'rangeList': None, 'validationRule': None, 'sequenceId': 141300.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

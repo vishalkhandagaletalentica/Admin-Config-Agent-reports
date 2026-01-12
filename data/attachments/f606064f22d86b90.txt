@@ -1,0 +1,1 @@
+The 'Monthly' display name in Filters was updated from 'Monthly Updates' to 'Monthly News'.

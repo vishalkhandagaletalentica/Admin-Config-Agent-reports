@@ -1,0 +1,1 @@
+Is the option to print checklist items for each task on different pages enabled?

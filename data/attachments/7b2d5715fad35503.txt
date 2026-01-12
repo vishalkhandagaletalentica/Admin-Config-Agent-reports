@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'be9e78fd-ee31-49b8-9f1f-31655679f8ae', 'query': "Please set the Days Decrease for Rem Dur in IP Tasks to 'Days for Delta/Decreased Rem Dur Calculations'."}

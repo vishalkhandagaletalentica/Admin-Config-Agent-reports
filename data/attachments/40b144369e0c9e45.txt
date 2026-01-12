@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the color display for the Resource Requirement Charts enabled?'}, {'role': 'assistant', 'content': 'No, the color display for the Resource Requirement Charts is disabled.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Done — color display for the Resource Requirement Charts is now enabled.'}]

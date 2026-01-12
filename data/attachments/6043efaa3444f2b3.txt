@@ -1,1 +1,0 @@
-The Actual Output accurately states that the P2P Buffers display is enabled in the Project Control view, which aligns perfectly with the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

@@ -1,0 +1,1 @@
+Duration Reduction option in CC Settings is now set to ROUND_TO_DAY. Previous value was ROUND_TO_QUARTER.

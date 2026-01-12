@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Pipeline Mgr — Hidden Filters (filters not to display in pipeline web load project screen)', 'Project Mgr → WIP Report — Hidden Filters (parameters used by WIP Report)', 'Metrics → Exclude Projects — Hidden Filters (filters not to display in report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

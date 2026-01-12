@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, so please update the Hidden Fields to "SHOW_IN_EXPANDED_FILTERS, WINDOWS_USERID, ALERT_ADDR".

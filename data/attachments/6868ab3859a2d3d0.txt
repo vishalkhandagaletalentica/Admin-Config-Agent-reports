@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['CCCB (Yellow Y intercept at 100% chain complete)', 'CCFB (Yellow Y intercept at 100% chain complete)', 'DBR (Yellow Y intercept at 100% chain complete)'], 'value': None, 'section': None, 'entry': None, 'url': None}

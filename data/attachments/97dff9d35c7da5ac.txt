@@ -1,1 +1,0 @@
-The current column heading for Item Name is "[provide the new value]".

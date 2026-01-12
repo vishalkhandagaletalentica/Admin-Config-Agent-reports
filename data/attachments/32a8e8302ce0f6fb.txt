@@ -1,1 +1,0 @@
-The current value for the column name of TEXT2 in the Task Excel settings is "New Value".

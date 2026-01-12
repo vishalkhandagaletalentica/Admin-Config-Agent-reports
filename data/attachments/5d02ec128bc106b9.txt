@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List → Project Mgr (Filters currently being displayed in the report for Project Mgr)', 'Executive (Filters currently being displayed in the report)', 'Project Mgr → Modify Projects (Filters currently being displayed in the report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-{'entryId': 122, 'sectionId': 10, 'flags': 0, 'entryName': 'LAST_UPDATE_DATE', 'entryFriendlyName': 'Last Update', 'strValue': 'Last Update', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Last Update', 'rangeList': None, 'validationRule': None, 'sequenceId': 102440.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

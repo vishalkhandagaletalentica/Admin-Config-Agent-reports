@@ -1,0 +1,1 @@
+No — Stretch limiting is disabled (projects are not limited).

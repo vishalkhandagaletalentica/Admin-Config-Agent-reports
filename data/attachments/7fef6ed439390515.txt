@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it conveys the same information as the Expected Output, although it introduces a slight discrepancy by using 'Weekly Saturday Filter' instead of 'Filter name for Every Friday'. However, it directly addresses the intent of the Input question regarding the filter name, maintaining the necessary factual meaning.

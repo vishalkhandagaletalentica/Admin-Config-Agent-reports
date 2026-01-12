@@ -1,0 +1,1 @@
+The current format setting for displaying task durations is Week, days and hours format (2w 1d 4h).

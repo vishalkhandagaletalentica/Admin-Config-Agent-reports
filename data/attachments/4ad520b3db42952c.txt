@@ -1,0 +1,1 @@
+The hidden columns in the chain view summary report are Chain Color, Chain No, Projected Date, and Updated Projected Delay.

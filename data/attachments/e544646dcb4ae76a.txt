@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'bfa239fe-8cc6-428c-8e50-b5f8b14c1921', 'query': 'Please update the Default Rollup option for Batch Rollup to a new value of TOTAL_DURATION.'}

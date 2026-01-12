@@ -1,1 +1,0 @@
-{'entryId': 975, 'sectionId': 11, 'flags': 0, 'entryName': 'TASKS', 'entryFriendlyName': 'Tasks', 'strValue': 'New Tasks', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Tasks', 'rangeList': None, 'validationRule': None, 'sequenceId': 129500.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

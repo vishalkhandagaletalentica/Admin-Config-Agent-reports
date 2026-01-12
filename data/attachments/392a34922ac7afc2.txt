@@ -1,0 +1,1 @@
+{'entryId': 587, 'sectionId': 11, 'flags': 0, 'entryName': 'TASKID', 'entryFriendlyName': 'Task Unique ID', 'strValue': 'TASK_ID_123', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Task Unique ID.', 'rangeList': None, 'validationRule': None, 'sequenceId': 121740.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

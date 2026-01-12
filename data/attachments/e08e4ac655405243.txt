@@ -1,0 +1,1 @@
+The Days for Delta/Decreased Rem Dur Calculations was updated from "In Last Month" to "In Last 30 Days".

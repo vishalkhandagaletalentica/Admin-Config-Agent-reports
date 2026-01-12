@@ -1,1 +1,0 @@
-The priority-window grouping (Sort By Priority Fields Within Windows Of) is set to 5 (integer window size).

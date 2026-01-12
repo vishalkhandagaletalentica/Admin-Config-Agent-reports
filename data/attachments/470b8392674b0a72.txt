@@ -1,0 +1,1 @@
+The display name for Scheduling Parameters was updated to "Updated Scheduling Settings".

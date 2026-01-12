@@ -1,3 +1,0 @@
-The command is invalid because the expected value type for the setting "Show Team Members in Task Manager Filter" is a boolean (true/false), not a string. Please use either "true" to enable the setting or "false" to disable it. 
-
-For example, the correct command would be: `update setting "Show Team Members in Task Manager Filter" to true`.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Col Order (Column Order in the report)', 'Executive -> Project Status (Order By for Project Delays)', 'Resource Mgr -> Resource Needs (Sort Order - default sorting, multi-column)', 'Buffer Diagnostics -> Tasks Drilldown From Reason (Sort Order for tasks)'], 'value': None, 'section': None, 'entry': None, 'url': None}

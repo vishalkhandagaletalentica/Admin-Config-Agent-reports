@@ -1,0 +1,1 @@
+The "Display Data Table" filter title in Common -> Filter Names is now disabled.

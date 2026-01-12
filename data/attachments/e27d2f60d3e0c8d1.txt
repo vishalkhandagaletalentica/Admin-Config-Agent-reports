@@ -1,0 +1,1 @@
+Which Actual Delay setting should I set to 5? (for example: Default Rolling Average Period, Time Interval, Date Range (past or future), or another setting)

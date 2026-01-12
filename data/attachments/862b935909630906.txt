@@ -1,0 +1,1 @@
+No — the "Committed, In Queue" setting is currently enabled to display committed projects (exclusion is disabled).

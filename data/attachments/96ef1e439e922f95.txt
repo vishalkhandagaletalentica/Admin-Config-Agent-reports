@@ -1,3 +1,0 @@
-The command is invalid because the value for CUSTOM_TASK_TEXT10 is expected to be a string (valueType: 2), but you are providing an integer (12345). Please provide a valid string value instead. 
-
-For example, a correct command could be: `update CUSTOM_TASK_TEXT10 to "New Task Description"`

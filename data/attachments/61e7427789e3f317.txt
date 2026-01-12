@@ -1,1 +1,0 @@
-BMRun option in Buffer Management is now set to 1.

@@ -1,1 +1,0 @@
-Including planned cycle time in the report is currently enabled.

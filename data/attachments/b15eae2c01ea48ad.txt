@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Completed setting to "Completed".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Completed" setting?'}, {'role': 'user', 'content': 'The section name is Filtering Pane Settings.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

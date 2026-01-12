@@ -1,0 +1,1 @@
+Please update the Subtask type Parallel to a new value of "Parallel".

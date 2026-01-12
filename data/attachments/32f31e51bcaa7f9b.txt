@@ -1,0 +1,1 @@
+The Actual Output is factually correct, directly addressing the intent of the Input question by stating that the Modify Projects page displays 25 rows per page. It aligns perfectly with the Expected Output in terms of factual content, even though the phrasing differs slightly.

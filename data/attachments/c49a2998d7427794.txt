@@ -1,1 +1,0 @@
-I attempted to update the Column Order for the Task Incomplete Predecessors report, but the update failed: no column definition was found to validate the multi-list value. Please provide a valid column list in the report's expected format, or tell me if you want me to show the available columns for that report.

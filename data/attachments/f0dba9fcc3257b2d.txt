@@ -1,1 +1,0 @@
-The current default sorting order for the Project Chain View is Ascending Chain UID, Ascending Chain Sequence Number, Descending CCCB Penetration, Descending CCFB Penetration, Ascending Earliest Arrival.

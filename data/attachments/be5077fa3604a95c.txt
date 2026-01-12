@@ -1,0 +1,1 @@
+{'entryId': 878, 'sectionId': 10, 'flags': 0, 'entryName': 'PEN_TASK_FINISH', 'entryFriendlyName': 'Max Pred Finish', 'strValue': 'New Max Pred Finish', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Max Pred Finish', 'rangeList': None, 'validationRule': None, 'sequenceId': 117560.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

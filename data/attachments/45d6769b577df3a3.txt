@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'What is the current password for connecting to the Primavera database?'}, {'role': 'assistant', 'content': 'No password is currently configured for the Primavera integration.'}, {'role': 'user', 'content': "Set it to 'new_password_123'."}, {'role': 'assistant', 'content': 'Password for the Primavera integration has been updated successfully.'}]

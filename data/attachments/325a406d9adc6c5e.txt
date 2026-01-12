@@ -1,0 +1,1 @@
+The Filters to display setting in Task Mgr already includes AUTHOR and excludes CATEGORY. No update is needed.

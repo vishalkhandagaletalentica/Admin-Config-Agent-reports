@@ -1,1 +1,0 @@
-The option to inherit task priorities from P2P links has been enabled.

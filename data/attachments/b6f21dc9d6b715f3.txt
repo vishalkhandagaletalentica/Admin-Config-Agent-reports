@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Planning Client -> Import Field Mapping: Text8', 'Planning Client -> Adv. Filter Field Mapping: Text 8', 'Integration -> Task: Text8'], 'value': None, 'section': None, 'entry': None, 'url': None}

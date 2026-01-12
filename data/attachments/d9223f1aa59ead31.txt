@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Inherit Task Priorities from P2P Links', 'Task Normalized Float used in priority calculation', 'Final Milestone (the milestone a task inherits its priority from)'], 'value': None, 'section': None, 'entry': None, 'url': None}

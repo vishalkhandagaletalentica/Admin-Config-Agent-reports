@@ -1,1 +1,0 @@
-The current filters available to be displayed in the Task Level Priorities report are Task Manager Pro, Project, Start Date, In Progress, Portfolio, New Product Code, Customer, and Division.

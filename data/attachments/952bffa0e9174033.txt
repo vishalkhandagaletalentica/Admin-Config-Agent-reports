@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'd4f442ce-6d97-4f7c-89ae-1d4ef126272a', 'query': 'Please update the SNS Topic Display Name for Buffer Management to "Updated Buffer Management Project".'}

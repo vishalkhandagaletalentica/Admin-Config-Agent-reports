@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It accurately states that Business Unit validation is disabled, matching the factual content of the Expected Output, even though the phrasing differs slightly. There are no incorrect facts or assumptions introduced, and the response maintains a professional tone.

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'e9b57ab7-712e-4b81-9f8c-8ceffae5dd03', 'query': 'The section name is "Tabular View in Pipeline Web" and the entry name is "Columns hidden in report."'}

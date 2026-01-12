@@ -1,1 +1,0 @@
-The current mapping for the Leveled Task Float in the advanced filter settings for Gantt is RLTF.

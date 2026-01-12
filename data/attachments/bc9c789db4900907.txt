@@ -1,1 +1,0 @@
-The current title displayed for the Check List Status column is "Check List Status."

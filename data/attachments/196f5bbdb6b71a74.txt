@@ -1,1 +1,0 @@
-The setting "Use Resource Calendar For Task Duration" has been successfully updated to enabled.

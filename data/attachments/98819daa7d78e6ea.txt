@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '65a06638-a226-4be0-917b-a89ea2025bef', 'query': 'Please update the Automatic Link URL to a new value of "54321".'}

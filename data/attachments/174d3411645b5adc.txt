@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Checklist Integration -> Fields Mapping for Checklist (Date1: excel file column mapping)', 'Common -> Column Names (Date1: column heading)'], 'value': None, 'section': None, 'entry': None, 'url': None}

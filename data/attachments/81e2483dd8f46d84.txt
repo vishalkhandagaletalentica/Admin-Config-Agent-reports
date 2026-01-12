@@ -1,0 +1,1 @@
+The name displayed for Subtask Manager in the filter is "Updated Subtask Manager".

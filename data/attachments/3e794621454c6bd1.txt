@@ -1,0 +1,1 @@
+There is no default sort configured for checklist items.

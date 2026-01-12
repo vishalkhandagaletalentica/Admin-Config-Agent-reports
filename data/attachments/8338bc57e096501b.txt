@@ -1,0 +1,1 @@
+The current column order is: Bar Color, Project Name, Project Weight, Planned Date, New Est. Date, NewUID, [insert new value here], Project Manager, Division, Updated Product Code, End User - Broker, Portfolio, New Contractual Due Date, Delayed Completion, New Customer Name, Purchase Order Number, SalesForce Number, Color

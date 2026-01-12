@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr -> Project Control', 'Project Mgr -> Project Status', 'Project Mgr -> Task Level Priorities By Project'], 'value': None, 'section': None, 'entry': None, 'url': None}

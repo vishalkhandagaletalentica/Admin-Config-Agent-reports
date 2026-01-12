@@ -1,0 +1,1 @@
+Number of Intervals to Display updated from 10 to 15.

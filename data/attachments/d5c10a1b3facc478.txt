@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['USE_REM_DUR_FOR_IP_TASK', 'USE_REM_DUR_AND_BUFFER_FOR_IP_TASK'], 'value': None, 'section': 'CCBMScheduling', 'entry': 'CALCULATE_PROJECTED_DATE_USING', 'url': None}

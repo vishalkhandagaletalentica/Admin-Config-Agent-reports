@@ -1,0 +1,1 @@
+The scheduling mode for the application server is set to CC_ONLY.

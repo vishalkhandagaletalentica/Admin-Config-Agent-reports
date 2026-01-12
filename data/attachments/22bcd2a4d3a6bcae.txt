@@ -1,6 +1,0 @@
-The command you provided is invalid because the value you are trying to set (12345) is not within the allowed range for the 'Columns hidden in report' field, which expects a multi-list value. 
-
-The expected type is a comma-separated list of strings. 
-
-A correct example command would be: 
-`update Hidden Fields set Columns hidden in report = CATEGORY,SUBJECT,AUTHOR;`

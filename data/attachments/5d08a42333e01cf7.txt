@@ -1,1 +1,0 @@
-What is the current setting for how many weeks back we compare the Trend Point data?

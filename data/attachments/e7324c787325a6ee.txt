@@ -1,0 +1,1 @@
+No, a separator will not be displayed after each sort window in the report.

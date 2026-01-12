@@ -1,1 +1,0 @@
-Under the "Common -> Filter Names" section, the filter name for "Filter name for update compliance period." is already set to "Update Compliance Period (hrs)". No update is needed.

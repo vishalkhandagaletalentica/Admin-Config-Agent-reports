@@ -1,1 +1,0 @@
-The current percentage set for moving the feeding chain is 50%.

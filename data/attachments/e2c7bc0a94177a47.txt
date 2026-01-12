@@ -1,0 +1,1 @@
+Please update the Schedule Type to a different value. Set it to "New Schedule Type".

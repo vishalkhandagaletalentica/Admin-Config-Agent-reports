@@ -1,0 +1,1 @@
+{'entryId': 1881, 'sectionId': 66, 'flags': 0, 'entryName': 'INCLUDE_SUBPROJ_FLAG', 'entryFriendlyName': 'Subprojects  ', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Specifies if subprojects should be displayed ', 'rangeList': None, 'validationRule': None, 'sequenceId': 746100.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

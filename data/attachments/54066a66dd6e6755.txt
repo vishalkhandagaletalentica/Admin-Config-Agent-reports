@@ -1,0 +1,1 @@
+The title displayed for the column showing existing Stretch on a project in Pipeline Web is "Stretch in DB (days)."

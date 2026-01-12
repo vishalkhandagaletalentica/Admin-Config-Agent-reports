@@ -1,0 +1,1 @@
+Please enable the display of load from Planned projects in both reports View Resource L:C and View Tasks By Resource.

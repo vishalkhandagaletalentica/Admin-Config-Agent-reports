@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Diagnostics -> Tasks Drilldown From TM/Resource/Task Desc', 'Buffer Diagnostics -> Tasks Drilldown From Reason'], 'value': None, 'section': None, 'entry': None, 'url': None}

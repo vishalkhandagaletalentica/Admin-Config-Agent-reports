@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Project Mgr', 'Buffer Diagnostics -> By Help Needed', 'Resource Mgr -> Sand Chart'], 'value': None, 'section': None, 'entry': None, 'url': None}

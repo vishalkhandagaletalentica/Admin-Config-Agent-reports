@@ -1,0 +1,1 @@
+{'entryId': 865, 'sectionId': 10, 'flags': 0, 'entryName': 'TASK_DURATION', 'entryFriendlyName': 'Task Duration', 'strValue': 'New Task Duration', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Duration', 'rangeList': None, 'validationRule': None, 'sequenceId': 117300.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

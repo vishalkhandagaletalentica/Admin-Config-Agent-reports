@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the File Type to Document.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “File Type” entry?'}, {'role': 'user', 'content': 'The section name is "Column Headings."'}, {'role': 'assistant', 'content': 'The File Type was updated from "File Type" to "Document".'}]

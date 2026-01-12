@@ -1,0 +1,1 @@
+I resolved Column Headings → P2P From MSP ID. The From MS Project Identifier is set to New MSP ID. No update is needed.

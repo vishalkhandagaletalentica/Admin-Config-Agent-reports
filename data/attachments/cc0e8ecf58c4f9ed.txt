@@ -1,0 +1,1 @@
+The title displayed for the Delay column in the ConWeb views and reports is "Delay (d) Updated".

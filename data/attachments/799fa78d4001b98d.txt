@@ -1,1 +1,0 @@
-The display name for Project Participants in the column headers is "Team Members".

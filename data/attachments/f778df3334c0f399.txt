@@ -1,1 +1,0 @@
-The display of additional information for remaining duration history of IP tasks is now disabled. It was previously enabled.

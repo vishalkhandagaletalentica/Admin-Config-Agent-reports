@@ -1,1 +1,0 @@
-The option to calculate %Longest Chain Complete using the most penetrating chain for the project buffer is now enabled.

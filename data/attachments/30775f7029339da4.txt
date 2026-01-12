@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': {'old': 'Hours', 'new': 'Minutes'}, 'section': 'SGD_STUCK_TASK', 'entry': 'DURATION_DECREASE_IP_TASK_UNIT', 'url': None}

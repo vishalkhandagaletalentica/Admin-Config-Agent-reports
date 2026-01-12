@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Days value to 30.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Days" entry?'}, {'role': 'user', 'content': 'The section name is Work Card Information report, and the entry name is Days.'}, {'role': 'assistant', 'content': 'The Days value has been updated from 45 to 30.'}]

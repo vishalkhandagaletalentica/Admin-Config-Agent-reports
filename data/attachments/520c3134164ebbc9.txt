@@ -1,1 +1,0 @@
-The current title displayed for the "Exclude on hold task" option in the filters is "Do Not Include On Hold Task."

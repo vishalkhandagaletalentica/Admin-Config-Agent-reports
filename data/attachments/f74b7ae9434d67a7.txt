@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the hidden columns in the Modify Projects report, aligning well with the Expected Output. However, it includes additional descriptive information that, while informative, is not present in the Expected Output. This slight deviation from the expected format and the inclusion of extra details led to a minor deduction in the score.

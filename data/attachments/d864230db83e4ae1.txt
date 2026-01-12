@@ -1,1 +1,0 @@
-Is the Buffer Management synchronization with Concerto Servers currently enabled?

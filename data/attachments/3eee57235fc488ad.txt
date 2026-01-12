@@ -1,0 +1,1 @@
+The Actual Output correctly indicates that the Baseline Duration for SubTask has been updated to 'Updated Baseline Duration', which aligns with the intent of the Input. However, it incorrectly states that it was updated from 'New Baseline Duration' instead of acknowledging the change from the previous value. This introduces a factual inaccuracy, leading to a deduction in points.

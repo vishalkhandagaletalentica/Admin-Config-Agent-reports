@@ -1,0 +1,1 @@
+{'entryId': 200, 'sectionId': 11, 'flags': 0, 'entryName': 'RESOURCEMANAGER', 'entryFriendlyName': 'Resource Manager', 'strValue': 'Updated Resource Manager', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Resource Manager', 'rangeList': None, 'validationRule': None, 'sequenceId': 114000.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

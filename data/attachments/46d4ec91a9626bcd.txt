@@ -1,0 +1,1 @@
+No, the auto-collapse feature for filters is disabled when a report is created.

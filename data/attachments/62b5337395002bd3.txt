@@ -1,1 +1,0 @@
-The current time interval set for searching report data on Completed Full Kit tasks is the last 2 months.

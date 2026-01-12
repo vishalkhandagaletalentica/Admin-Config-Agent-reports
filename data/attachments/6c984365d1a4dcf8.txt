@@ -1,3 +1,0 @@
-The command is invalid because the value type for "Checklist Status" is 2, which indicates that it requires a string value rather than an integer. Please provide a string value that matches the expected type. 
-
-A correct example command would be: `update Checklist Status set value to "Task Status"` or simply use an appropriate string like `"Completed"` or `"Pending"`.

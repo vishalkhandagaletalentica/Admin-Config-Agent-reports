@@ -1,0 +1,1 @@
+I disabled "Show Full Path for All Chains" in the Project Chain View. It is now disabled.

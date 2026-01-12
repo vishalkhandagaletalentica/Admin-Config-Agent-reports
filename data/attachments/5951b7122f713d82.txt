@@ -1,0 +1,1 @@
+{'entryId': 1048, 'sectionId': 11, 'flags': 0, 'entryName': 'BUFFER_TREND', 'entryFriendlyName': 'Buffer Trend', 'strValue': 'Updated Buffer Trend', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Buffer Trend Filter Name', 'rangeList': None, 'validationRule': None, 'sequenceId': 130960.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

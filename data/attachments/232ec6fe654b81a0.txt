@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Advanced Filter Field Mapping - Custom Task Text fields (Task Text 52/53/54)', 'Task List -> Task Mgr - Hidden Fields'], 'value': None, 'section': None, 'entry': None, 'url': None}

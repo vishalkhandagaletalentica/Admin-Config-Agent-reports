@@ -1,1 +1,0 @@
-{'entryId': 2738, 'sectionId': 10, 'flags': 0, 'entryName': 'TASK_DESC', 'entryFriendlyName': 'Task Desc', 'strValue': 'Task Desc', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Desc (Gantt)', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

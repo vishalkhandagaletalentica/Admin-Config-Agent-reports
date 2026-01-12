@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project buffer (CCCB) yellow threshold', 'Contractual milestone buffer (CMSB) yellow threshold', 'Chain-complete buffer (CCFB) yellow threshold'], 'value': None, 'section': None, 'entry': None, 'url': None}

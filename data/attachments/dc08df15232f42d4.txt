@@ -1,5 +1,0 @@
-The command you provided is invalid because 'abcde' is not an allowed value for the configuration setting. The expected type is an integer, and the allowed values are 30, 60, 90, 365, or 9999. 
-
-Please use one of the allowed values. For example, you can update the configuration with the command: 
-
-`update configuration set Default Horizon (For Completed Tasks) to 60`

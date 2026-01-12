@@ -1,0 +1,1 @@
+{'entryId': 125, 'sectionId': 10, 'flags': 0, 'entryName': 'PIPELINE_PRIORITY', 'entryFriendlyName': 'Pipeline Priority', 'strValue': 'High Priority', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Pipeline Priority', 'rangeList': None, 'validationRule': None, 'sequenceId': 102500.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

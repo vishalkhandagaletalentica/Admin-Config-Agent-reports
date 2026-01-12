@@ -1,1 +1,0 @@
-The current title shown in the Work Card Details report is "Major Job ID".

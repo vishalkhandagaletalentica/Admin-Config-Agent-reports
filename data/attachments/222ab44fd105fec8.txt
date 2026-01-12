@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_TASK_UPDATE', 'entry': 'SHOW_PRIMARY_PROJMGR_ONLY', 'url': None}

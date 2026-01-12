@@ -1,1 +1,0 @@
-The Actual Output correctly states that the display of security labels for marked projects is enabled, aligning with the factual correctness of the Expected Output. However, it lacks the specific mention of 'in Concerto,' which is part of the Expected Output, leading to a slight deduction in points for not fully addressing the intent of the Input.

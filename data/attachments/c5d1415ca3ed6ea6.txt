@@ -1,0 +1,1 @@
+The Task Custom Text field for KE/MS/TEST Events has been updated from CUSTOM_TASK_TEXT1 to CUSTOM_TASK_TEXT2.

@@ -1,1 +1,0 @@
-update configuration set Allow update status for purchasing tasks = 'abcde';

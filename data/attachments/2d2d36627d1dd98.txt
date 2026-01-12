@@ -1,0 +1,1 @@
+The title for the projected delay of chain in the Chain View Summary is "New Projected Delay."

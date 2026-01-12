@@ -1,0 +1,1 @@
+The value of the attributes hidden from display is none.

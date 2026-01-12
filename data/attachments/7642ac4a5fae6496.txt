@@ -1,0 +1,1 @@
+No — the advanced filter option for IP tasks (Enable Rem Dur Decrease Filter for IP Tasks) is disabled.

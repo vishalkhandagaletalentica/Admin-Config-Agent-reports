@@ -1,0 +1,1 @@
+The default privilege identifiers for admin groups are 29, 6, 490, and 492.

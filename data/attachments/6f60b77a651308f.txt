@@ -1,0 +1,1 @@
+No default sorting is configured for the Project Status report — no sort columns are selected.

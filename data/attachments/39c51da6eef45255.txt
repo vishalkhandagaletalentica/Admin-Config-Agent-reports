@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': {'old': 50, 'new': 25}, 'section': 'SGD_SWIMLANE_REPORT', 'entry': 'ROWS_PER_PAGE', 'url': None}

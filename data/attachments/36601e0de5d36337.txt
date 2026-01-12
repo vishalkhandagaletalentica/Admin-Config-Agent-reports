@@ -1,0 +1,1 @@
+The display name for the issue has been successfully updated to 'Bug Tracker'.

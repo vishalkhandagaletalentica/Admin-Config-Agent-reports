@@ -1,1 +1,0 @@
-{'entryId': 2854, 'sectionId': 153, 'flags': 0, 'entryName': 'INTEGRATION_TASK_PORT', 'entryFriendlyName': 'SMTP Server Port', 'strValue': None, 'floatValue': None, 'intValue': 465, 'valueType': 0, 'itemDesc': 'SMTP Server Port', 'rangeList': None, 'validationRule': None, 'sequenceId': 1587080.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

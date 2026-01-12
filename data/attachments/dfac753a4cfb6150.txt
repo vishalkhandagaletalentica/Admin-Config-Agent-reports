@@ -1,1 +1,0 @@
-The Project Status view is set to display 50 rows per page.

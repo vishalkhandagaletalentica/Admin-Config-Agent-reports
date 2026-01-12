@@ -1,0 +1,1 @@
+The User/Team display name shown in column headers is New Display Name.

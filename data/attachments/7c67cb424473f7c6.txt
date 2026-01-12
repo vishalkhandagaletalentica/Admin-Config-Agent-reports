@@ -1,1 +1,0 @@
-The setting in Application -> Concerto Critical Chain that prevents MS Project from showing the "not responding" message is enabled (the option is set to suppress that message).

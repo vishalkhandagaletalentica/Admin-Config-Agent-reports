@@ -1,1 +1,0 @@
-Enabled "Show Team Members in Project Manager Filter" for the Task Level Priorities By Project area. It is now enabled.

@@ -1,1 +1,0 @@
-The current title displayed for the Project/Milestone buffer in the Planned Buffer Column tooltip is "Project/Milestone buffer."

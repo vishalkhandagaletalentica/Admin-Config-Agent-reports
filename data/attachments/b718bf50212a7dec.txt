@@ -1,1 +1,0 @@
-The current setting for the searchable text columns in the Task Manager is TASK_MANAGER_ID.

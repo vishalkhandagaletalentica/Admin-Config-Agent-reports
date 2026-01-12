@@ -1,1 +1,0 @@
-The current default sorting order for the Task Incomplete Predecessors report is Ascending Earliest Arrival, Descending Sortn2.

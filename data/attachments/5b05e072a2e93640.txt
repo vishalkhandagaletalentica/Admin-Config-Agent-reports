@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '9d3a329a-fc67-4ad7-b0e0-87567a4c9ab6', 'query': 'The correct section name is the one that includes titles in the filtering pane, and the ENTRY NAME is "Cycle Time". Please change its value to "Production Time".'}

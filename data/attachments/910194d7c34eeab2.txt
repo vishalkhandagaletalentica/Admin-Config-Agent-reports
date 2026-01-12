@@ -1,1 +1,0 @@
-The current default sorting order for the Pipeline View report is by Start Date.

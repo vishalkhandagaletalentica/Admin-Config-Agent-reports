@@ -1,1 +1,0 @@
-The current title displayed for Work Card Skill in the filtering pane is: Skills.

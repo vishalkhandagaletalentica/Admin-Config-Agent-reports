@@ -1,1 +1,0 @@
-{'entryId': 151, 'sectionId': 10, 'flags': 0, 'entryName': 'P2P_FROM_PROJ', 'entryFriendlyName': 'From Project', 'strValue': 'From Project', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2P_FROM_PROJ', 'rangeList': None, 'validationRule': None, 'sequenceId': 103020.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

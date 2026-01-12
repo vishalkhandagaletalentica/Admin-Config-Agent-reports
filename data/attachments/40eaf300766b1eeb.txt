@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Resource Mgr -> Resource Needs (Filters available)', 'Program Mgr (Filters available)', 'Buffer Diagnostics (Filters available)', 'Common -> Filter Names (Filter Changes)'], 'value': None, 'section': None, 'entry': None, 'url': None}

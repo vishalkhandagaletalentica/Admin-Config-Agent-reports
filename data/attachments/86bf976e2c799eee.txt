@@ -1,1 +1,0 @@
-{'entryId': 1590, 'sectionId': 88, 'flags': 0, 'entryName': 'DISPLAY_PAST_PERIOD', 'entryFriendlyName': 'Display Past Data', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Used to specify whether to display past data', 'rangeList': None, 'validationRule': None, 'sequenceId': 974400.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

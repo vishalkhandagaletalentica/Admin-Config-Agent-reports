@@ -1,0 +1,1 @@
+{'entryId': 573, 'sectionId': 11, 'flags': 0, 'entryName': 'MSPID', 'entryFriendlyName': 'MS Project ID', 'strValue': 'MSP ID New', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for MS Project ID in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121460.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

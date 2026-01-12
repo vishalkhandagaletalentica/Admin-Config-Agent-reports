@@ -1,0 +1,1 @@
+The Sort Order for Executive -> Action Items was updated from Issue Tracker, Task, Project Name, Assigned To, Due Date, Creation Date, Resolved Date, Division, Buffer Recovery, Last Update to Ascending Issue Tracker, Descending Task, Ascending Project Name, Descending Assigned To, Ascending Due Date.

@@ -1,0 +1,1 @@
+The Resource Manager (Common -> Filter Names) was updated from "Resource Manager" to "Updated Resource Manager".

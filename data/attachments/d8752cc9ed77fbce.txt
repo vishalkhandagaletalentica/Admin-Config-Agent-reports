@@ -1,1 +1,0 @@
-{'entryId': 954, 'sectionId': 10, 'flags': 0, 'entryName': 'WINDOWS_USER_ID', 'entryFriendlyName': 'Windows User ID', 'strValue': 'Windows User ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Windows User ID', 'rangeList': None, 'validationRule': None, 'sequenceId': 119080.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

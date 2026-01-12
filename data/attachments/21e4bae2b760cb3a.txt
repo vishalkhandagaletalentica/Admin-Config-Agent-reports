@@ -1,1 +1,0 @@
-The current title used for the filter to view projects is "Project Overview."

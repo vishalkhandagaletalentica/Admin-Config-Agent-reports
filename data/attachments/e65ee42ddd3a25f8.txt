@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '1d62f775-f43c-4cb2-ba5d-3bcdd3639604', 'query': 'The section name is "Filtering Pane," and the entry name is "STARTDATE." Yes, please proceed with setting it to the literal value "New Start Date."'}

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'b151beb1-6342-430d-9e3a-14771faf58c7', 'query': 'Please update the filter name for Every Sunday to "Weekly Saturday".'}

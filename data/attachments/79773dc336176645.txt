@@ -1,3 +1,0 @@
-The command is invalid because the value '12345.67' is a float, but the expected type for TASK_MANAGER_ID is an integer. Please provide an integer value instead. 
-
-For example, you could use the command: `update TASK_MANAGER_ID to 12345`.

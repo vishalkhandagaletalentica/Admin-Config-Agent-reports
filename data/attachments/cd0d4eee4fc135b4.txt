@@ -1,1 +1,0 @@
-The "Rows Per Page" setting has been updated from 100 to 10.

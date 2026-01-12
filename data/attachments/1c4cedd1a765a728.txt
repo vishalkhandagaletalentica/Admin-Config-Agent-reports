@@ -1,5 +1,0 @@
-The command you provided is invalid because the value type for the 'Hidden Fields' entry does not accept a numeric value like '12345'. The expected type is a string (strValue) representing a list of key-value pairs or a comma-separated list of values.
-
-Please provide a value that matches the allowed format. For example, you could use: `CONSTRAINT_DATE,P2PMS_DATE,ENABLE_AUTO_DOC_LINK`. 
-
-A correct command would be: `update Hidden Fields set value to 'CONSTRAINT_DATE,P2PMS_DATE,ENABLE_AUTO_DOC_LINK';`

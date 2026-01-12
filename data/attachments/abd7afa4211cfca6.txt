@@ -1,1 +1,0 @@
-Project details are currently not included in the Project Status view — “Include Project Details” is disabled.

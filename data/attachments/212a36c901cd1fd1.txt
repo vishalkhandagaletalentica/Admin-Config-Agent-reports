@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'ce5886ab-5e55-4958-9d50-6438549db4fc', 'query': 'The section name is "Alert Generation Parameters" and the entry name is "External Mailer".'}

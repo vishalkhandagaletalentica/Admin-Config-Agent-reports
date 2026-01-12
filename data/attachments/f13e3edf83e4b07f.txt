@@ -1,1 +1,0 @@
-{'entryId': 1751, 'sectionId': 10, 'flags': 0, 'entryName': 'FKORPT_DELAY', 'entryFriendlyName': 'FK/PT Delay', 'strValue': 'Delay(d)', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Full Kit or PT Delay.', 'rangeList': None, 'validationRule': None, 'sequenceId': 135020.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

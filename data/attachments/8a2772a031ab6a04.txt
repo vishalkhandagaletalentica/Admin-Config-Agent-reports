@@ -1,1 +1,0 @@
-The current title being displayed in the column headings for the ConWeb views and reports is "Updates."

@@ -1,0 +1,1 @@
+Yes — the option to include a link to the subtask view is enabled.

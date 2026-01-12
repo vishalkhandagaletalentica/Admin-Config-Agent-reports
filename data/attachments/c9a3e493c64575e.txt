@@ -1,1 +1,0 @@
-The current appearance setting for the custom text field in the Subtask List is "New Custom Text."

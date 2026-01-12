@@ -1,0 +1,1 @@
+The title displayed for "Show Penetrating Chain" in the filtering pane is Updated Penetrating Chain.

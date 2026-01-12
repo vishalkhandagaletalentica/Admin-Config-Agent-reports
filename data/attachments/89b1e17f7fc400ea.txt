@@ -1,0 +1,1 @@
+Project Name, Status, New Adequate Buffers, Cnsmd FB/Total FB, New Tasks, CMS, New IMS, New Start No Later Than, New Multiple Resources, Fractional Units, Task Dur < 10 Days, Task Dur > $% of Project Length, Chains, Resource Dependencies, Resources, Unique Calendars

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Status Filter (Default Task Status Filter)', 'Sort By Priority Fields Within Windows Of (window size for grouping priority fields)', 'Update Task Manager (column name for Update Task Manager)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The current setting for the All Milestones option in the Project Status Milestones filter is "Project Milestones."

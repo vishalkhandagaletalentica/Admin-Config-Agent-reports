@@ -1,1 +1,0 @@
-Full Kit Status (column heading) is already set to "Updated Status". No update is needed.

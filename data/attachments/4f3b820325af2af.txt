@@ -1,1 +1,0 @@
-The Chain View sorting by display name is controlled by the “Sort By” setting. Current value: "Sort By". Purpose: Sort Chains by display name in the Chain View report.

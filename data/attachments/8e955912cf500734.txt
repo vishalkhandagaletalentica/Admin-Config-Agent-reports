@@ -1,0 +1,1 @@
+What is the number of resources in batch processing for LtoC load during Auto BM?

@@ -1,0 +1,1 @@
+The section name is "Task Mgt client in CC Mode," and the entry name is "Column order in the report."

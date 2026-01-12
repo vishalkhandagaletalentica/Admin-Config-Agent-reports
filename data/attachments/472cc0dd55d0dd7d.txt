@@ -1,0 +1,1 @@
+The buffer penetration percentage that turns the color red when the chain is complete is 90%.

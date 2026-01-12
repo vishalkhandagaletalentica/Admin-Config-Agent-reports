@@ -1,0 +1,1 @@
+Which Metrics area did you mean for the "Planned" setting: Metrics -> Buffering (Planned) or Metrics -> Exclude Projects (Planned)?

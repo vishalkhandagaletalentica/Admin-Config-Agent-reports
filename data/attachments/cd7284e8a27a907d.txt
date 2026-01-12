@@ -1,1 +1,0 @@
-The Load to Capacity filter is displayed as "L:C -> L:C".

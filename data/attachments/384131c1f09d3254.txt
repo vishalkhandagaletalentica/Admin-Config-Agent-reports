@@ -1,0 +1,1 @@
+Please update the setting to enable the display of average for the current period in the report. Set it to yes.

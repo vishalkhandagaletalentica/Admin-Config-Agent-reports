@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the option to display subprojects enabled?'}, {'role': 'assistant', 'content': 'Which area do you mean when you say “display subprojects”?'}, {'role': 'user', 'content': 'I mean the option to display subprojects in the Project Control view/report.'}, {'role': 'assistant', 'content': 'Yes — subprojects are enabled in the Project Control view.'}]

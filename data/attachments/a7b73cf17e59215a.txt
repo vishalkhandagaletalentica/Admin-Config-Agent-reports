@@ -1,1 +1,0 @@
-The 'Ignore Buffer Consumed' option in ConWeb reports is currently disabled.

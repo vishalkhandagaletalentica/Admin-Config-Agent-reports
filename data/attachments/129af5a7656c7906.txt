@@ -1,0 +1,1 @@
+The threshold value for highlighting the Change in Milestone Penetration in the milestone report is 10 days.

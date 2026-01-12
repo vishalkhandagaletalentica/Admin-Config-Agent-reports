@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by confirming that the filter is enabled. While it does not match the phrasing of the Expected Output, it conveys the same factual meaning. The response is concise and professional, with no incorrect facts or assumptions introduced.

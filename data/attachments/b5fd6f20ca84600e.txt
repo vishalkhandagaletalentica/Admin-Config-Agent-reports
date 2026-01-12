@@ -1,0 +1,1 @@
+No — scheduling Project End and CMS one at a time is disabled. The "Delay All Milestones During Push Out" option is enabled, so milestones (including Project End and CMS) are delayed together.

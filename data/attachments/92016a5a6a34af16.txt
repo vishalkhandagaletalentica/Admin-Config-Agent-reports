@@ -1,0 +1,1 @@
+Is the color display option turned on for the Resource Requirement Charts?

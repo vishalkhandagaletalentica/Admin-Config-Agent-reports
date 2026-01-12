@@ -1,0 +1,1 @@
+{'entryId': 1457, 'sectionId': 11, 'flags': 0, 'entryName': 'RED_YELLOW_OTHER', 'entryFriendlyName': 'Red/Yellow/Other', 'strValue': 'Other', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Red/Yellow/Other.', 'rangeList': None, 'validationRule': None, 'sequenceId': 139140.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

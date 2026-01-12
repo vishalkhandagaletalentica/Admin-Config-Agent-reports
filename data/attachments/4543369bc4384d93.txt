@@ -1,0 +1,1 @@
+{'entryId': 2549, 'sectionId': 10, 'flags': 1, 'entryName': 'LOE_PROGRESS_TYPE', 'entryFriendlyName': 'LOE Progress Type', 'strValue': 'Auto', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'LOE Progress Type(Gantt) - Auto or Manual', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

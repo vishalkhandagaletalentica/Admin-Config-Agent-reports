@@ -1,0 +1,1 @@
+The Actual Output incorrectly states a specific column order, while the Expected Output indicates that all columns are marked as not present. This fundamental factual inaccuracy directly contradicts the Expected Output, leading to a complete misalignment with the evaluation steps.

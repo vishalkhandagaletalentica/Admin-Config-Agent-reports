@@ -1,2 +1,0 @@
-Task Manager Filter: New Task Manager Filter
-Project Manager Filter: New Project Manager Filter

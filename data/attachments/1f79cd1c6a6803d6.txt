@@ -1,0 +1,1 @@
+Yes, the option to show participants in the task manager filter is enabled.

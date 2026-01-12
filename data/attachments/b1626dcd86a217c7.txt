@@ -1,0 +1,1 @@
+Is the buffer diagnostics setting for committed in queue enabled?

@@ -1,3 +1,0 @@
-The command is invalid because the value you provided (12345) is of the wrong type. The expected type for the setting "Select Changes To Highlight" is a string. Please provide a string value that represents the selection of changes to highlight, such as "Highlight All Changes". 
-
-A correct example command would be: `update configuration "Select Changes To Highlight" set value to "Highlight All Changes"`.

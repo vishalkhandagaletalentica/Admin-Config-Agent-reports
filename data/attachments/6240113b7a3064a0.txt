@@ -1,0 +1,1 @@
+I couldn't update the hidden-columns setting because the system failed to validate the column list for the Edit Project Info section. Please check that the column definitions exist for this section and try again.

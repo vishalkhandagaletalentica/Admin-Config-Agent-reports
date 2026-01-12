@@ -1,1 +1,0 @@
-{'type': 'success', 'selectable_values': None, 'value': {'old': 0, 'new': 50}, 'section': 'CCBMScheduling', 'entry': 'RealignmentPercentageToUseWithMFB', 'url': None}

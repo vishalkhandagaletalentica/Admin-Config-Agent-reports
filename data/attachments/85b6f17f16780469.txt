@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names (column heading title)', 'Common -> Filter Names (filter pane title)'], 'value': None, 'section': None, 'entry': None, 'url': None}

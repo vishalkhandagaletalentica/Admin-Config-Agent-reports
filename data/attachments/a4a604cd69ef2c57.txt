@@ -1,0 +1,1 @@
+I can't update that — The value should be boolean (e.g., enabled/disabled, included/excluded). Would you like to enable or disable Include Project Chain View?

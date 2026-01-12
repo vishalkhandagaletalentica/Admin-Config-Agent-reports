@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Filter title (Task Manager shown in filter pane)', 'Column heading (Task Manager shown as a column title)', 'Column heading (Update Task Manager variant)'], 'value': None, 'section': None, 'entry': None, 'url': None}

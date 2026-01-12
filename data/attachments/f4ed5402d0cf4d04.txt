@@ -1,0 +1,1 @@
+No, the option to display the Total Project WIP in the report is disabled.

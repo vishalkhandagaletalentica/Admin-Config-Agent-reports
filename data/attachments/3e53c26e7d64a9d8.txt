@@ -1,0 +1,1 @@
+Do you mean the Task List report's column order (the list of columns shown) or the sort order for Task List (how rows are ordered)?

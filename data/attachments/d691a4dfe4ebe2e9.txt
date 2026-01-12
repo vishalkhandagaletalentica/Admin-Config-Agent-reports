@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Project Control (default for Project Control view)', 'Project Mgr -> Modify Projects (applies to Modify Projects)', 'Project Mgr -> Task Level Priorities By Project', 'Project Mgr/Resource Mgr -> Escalated Tasks'], 'value': None, 'section': None, 'entry': None, 'url': None}

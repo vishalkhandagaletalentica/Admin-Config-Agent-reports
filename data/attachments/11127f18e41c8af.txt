@@ -1,1 +1,0 @@
-The Use Local Resources for BM setting has been updated from disabled to enabled.

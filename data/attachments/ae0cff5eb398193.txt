@@ -1,0 +1,1 @@
+The current manager set for Bulk Import is ResAdmin2.

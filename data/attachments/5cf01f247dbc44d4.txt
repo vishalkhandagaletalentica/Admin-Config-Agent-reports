@@ -1,1 +1,0 @@
-{'entryId': 555, 'sectionId': 11, 'flags': 0, 'entryName': 'BY_WHEN', 'entryFriendlyName': 'By When', 'strValue': 'By When', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for By Who in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121100.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,1 +1,0 @@
-The Stuck Task List widget is currently set to display 10 tasks.

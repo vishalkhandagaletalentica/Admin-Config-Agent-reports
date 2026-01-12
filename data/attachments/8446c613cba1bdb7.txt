@@ -1,1 +1,0 @@
-The display name for Action Item in the column headers is "Task".

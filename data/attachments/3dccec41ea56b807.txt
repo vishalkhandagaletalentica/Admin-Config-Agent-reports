@@ -1,0 +1,1 @@
+The Actual Output correctly indicates that no default sort columns are selected, which aligns with the factual meaning of the Expected Output stating that the default sorting order is not specified. However, it could be more directly aligned with the phrasing of the Expected Output, which may lead to slight confusion regarding the intent of the Input question.

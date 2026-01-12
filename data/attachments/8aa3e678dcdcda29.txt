@@ -1,0 +1,1 @@
+'xyz' is not a valid boolean. The value should be boolean (e.g., enabled/disabled, included/excluded). Do you want to set "Show additional info for remaining duration history of IP tasks" in "Project Mgr -> Chain View Summary" to enabled or disabled?

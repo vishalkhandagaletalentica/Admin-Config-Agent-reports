@@ -1,0 +1,1 @@
+The Actual Output correctly states that the checkin of MPP files is now enabled, which aligns with the factual correctness of the Expected Output. However, it lacks the detail about the setting being successfully updated, which is a key aspect of the Expected Output. While the response is relevant and addresses the intent of the Input, it could be more comprehensive.

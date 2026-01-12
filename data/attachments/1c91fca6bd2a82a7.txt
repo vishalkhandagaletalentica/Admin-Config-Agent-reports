@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RULE1', 'entry': 'FILTERS_DISPLAYABLE', 'url': None}

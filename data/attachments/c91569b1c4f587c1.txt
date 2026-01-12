@@ -1,0 +1,1 @@
+Yes — including In Progress tasks in the Queue report is enabled.

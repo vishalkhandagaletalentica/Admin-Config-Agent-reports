@@ -1,1 +1,0 @@
-Updated. Resource Notes (Task Mgr -> Task List -> Search Columns for Task Table) changed from "RESOURCE_NOTES" to "12345".

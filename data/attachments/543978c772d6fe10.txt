@@ -1,1 +1,0 @@
-The chart type is currently set to Line Chart.

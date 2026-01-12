@@ -1,0 +1,1 @@
+The default type of users shown in the Task Managers dropdown is Team.

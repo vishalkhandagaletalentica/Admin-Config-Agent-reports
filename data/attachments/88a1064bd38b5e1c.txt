@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Role', 'Manager (Role Type)', 'Task Manager Filter'], 'value': None, 'section': None, 'entry': None, 'url': None}

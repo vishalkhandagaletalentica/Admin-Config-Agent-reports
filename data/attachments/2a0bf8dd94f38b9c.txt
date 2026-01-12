@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the checklist displayed for the custom task text field?'}, {'role': 'assistant', 'content': 'Which custom task text field do you mean — Text1 through Text10?'}, {'role': 'user', 'content': 'I mean Custom Task Text Field 1.'}, {'role': 'assistant', 'content': 'No — the checklist for Custom Task Text Field 1 is disabled.'}]

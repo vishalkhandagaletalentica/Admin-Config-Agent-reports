@@ -1,1 +1,0 @@
-The column name of TEXT6 has been successfully updated to 67890.

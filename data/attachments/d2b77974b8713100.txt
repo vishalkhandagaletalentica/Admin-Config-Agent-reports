@@ -1,0 +1,1 @@
+The current time horizon set for the Resource Requirement Charts report is 5 Weeks.

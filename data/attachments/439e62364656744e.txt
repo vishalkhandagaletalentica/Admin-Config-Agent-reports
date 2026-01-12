@@ -1,1 +1,0 @@
-The Report File Path has been updated from C:\Concerto\Out to C:\Reports\PurchaseDates.

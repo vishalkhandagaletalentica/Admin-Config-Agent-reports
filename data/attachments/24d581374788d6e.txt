@@ -1,1 +1,0 @@
-The current IMS filter name is "New IMS".

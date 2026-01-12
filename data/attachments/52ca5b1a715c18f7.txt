@@ -1,0 +1,1 @@
+No — "Allow multiple users to collaborate in Gantt" is currently disabled.

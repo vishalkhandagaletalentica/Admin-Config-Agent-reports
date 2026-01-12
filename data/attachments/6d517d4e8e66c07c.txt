@@ -1,1 +1,0 @@
-Please update the Completed Column Name to "Finished".

@@ -1,1 +1,0 @@
-The Show Data Through filter in the Issue Resolution report is set to End of Day.

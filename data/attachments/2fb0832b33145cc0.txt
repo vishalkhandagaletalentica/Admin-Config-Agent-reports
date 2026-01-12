@@ -1,0 +1,1 @@
+The CONTACT in Task Mgr -> Search Columns for Task Table was updated from TASK_MANAGER_ID to NEW_TASK_MANAGER_ID.

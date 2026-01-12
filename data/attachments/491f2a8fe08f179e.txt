@@ -1,1 +1,0 @@
-The current delimiter for the Purchase Dates Integration report is |.

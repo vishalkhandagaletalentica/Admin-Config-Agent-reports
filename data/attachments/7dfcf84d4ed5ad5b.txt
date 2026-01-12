@@ -1,1 +1,0 @@
-The current setting for the planning client parameters is 400.

@@ -1,0 +1,1 @@
+The title displayed for Text3 in the Full Kit Task Checklist is NewText3.

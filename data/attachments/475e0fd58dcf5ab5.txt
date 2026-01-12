@@ -1,1 +1,0 @@
-The filter name for End of Today has been successfully updated to "End of Day".

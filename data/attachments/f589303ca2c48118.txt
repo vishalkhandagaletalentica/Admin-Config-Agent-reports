@@ -1,0 +1,1 @@
+The Reset Count at Start of Fiscal Year was renamed from "New Reset Count Name" to "Updated Reset Count Name".

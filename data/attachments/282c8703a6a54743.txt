@@ -1,1 +1,0 @@
-{'entryId': 437, 'sectionId': 31, 'flags': 1, 'entryName': 'EXEC_TASKUNIQUEID', 'entryFriendlyName': 'EXEC_TASKUNIQUEID', 'strValue': 'EXECMGT_TASKUNIQUEID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 318740.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

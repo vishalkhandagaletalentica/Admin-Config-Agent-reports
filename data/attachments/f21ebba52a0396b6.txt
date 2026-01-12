@@ -1,1 +1,0 @@
-The filter name for Escalation Impact is already set to "Escalation Impact (days)". No update is needed.

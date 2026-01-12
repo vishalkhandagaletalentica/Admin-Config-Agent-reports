@@ -1,0 +1,1 @@
+The number of rows per page on the Exclude Projects page is 30.

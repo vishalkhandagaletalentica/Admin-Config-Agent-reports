@@ -1,0 +1,1 @@
+The mistake is a type mismatch since the expected value type is a string, and '12345' is not one of the allowed options; please use one of the following: CATEGORY, SUBJECT, AUTHOR, DIVISION, BUFFER_TREND, HORIZON, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4, ATTRIBUTE5.

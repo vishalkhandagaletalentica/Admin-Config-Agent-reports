@@ -1,1 +1,0 @@
-The current title displayed for the Task Checklist's fourth text column is MCN.

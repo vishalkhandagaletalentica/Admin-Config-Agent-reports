@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '9d38bddf-a3d3-4f80-a3c7-134165ce645f', 'query': 'Please update the Number of Retries to 10.'}

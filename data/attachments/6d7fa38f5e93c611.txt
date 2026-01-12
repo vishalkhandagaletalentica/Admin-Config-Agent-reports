@@ -1,1 +1,0 @@
-The Actual Finish import column mapping has been updated from "AF" to "AF2".

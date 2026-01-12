@@ -1,1 +1,0 @@
-Please update the Change in Milestone Penetration (in Days) Threshold to 5.

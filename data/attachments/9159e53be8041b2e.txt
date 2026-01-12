@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Disable Capacity Buffer (Application -> Concerto Pipeline)', 'Feeding Buffers Policy (Planning Client -> Common)', 'Buffer Settings (Common -> Column Names)'], 'value': None, 'section': None, 'entry': None, 'url': None}

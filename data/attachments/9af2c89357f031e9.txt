@@ -1,0 +1,1 @@
+The filter name for Red/Yellow/Other is Other.

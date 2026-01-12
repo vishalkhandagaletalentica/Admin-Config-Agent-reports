@@ -1,1 +1,0 @@
-{'entryId': 2533, 'sectionId': 146, 'flags': 0, 'entryName': 'P2PMS_DATE', 'entryFriendlyName': 'Plan Finish', 'strValue': 'PF', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Plan Finish', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510660.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

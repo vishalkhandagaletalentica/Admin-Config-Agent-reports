@@ -1,1 +1,0 @@
-The "Export Task and Subtask Data As Excel" option in the Modify Projects section is currently disabled.

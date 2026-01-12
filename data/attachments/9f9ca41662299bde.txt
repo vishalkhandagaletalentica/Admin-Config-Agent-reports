@@ -1,1 +1,0 @@
-You should move the feeding buffer when the Critical Chain is delayed.

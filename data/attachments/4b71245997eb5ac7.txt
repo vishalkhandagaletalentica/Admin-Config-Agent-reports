@@ -1,0 +1,1 @@
+The current count of how many times BM has been run without compacting the database is 5.

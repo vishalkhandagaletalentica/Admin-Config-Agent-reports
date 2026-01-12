@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'Alerts', 'entry': 'SNS_TOPIC_SUBSCRIBER_ENDPOINT_URL_FOR_BUFFER_MANAGEMENT', 'url': None}

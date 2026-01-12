@@ -1,0 +1,1 @@
+The Default Key Events and Milestones for Priority Hold in Calculate Priority has been successfully updated to: SR02,CR02,UD02,SS02,SH02,CA02.

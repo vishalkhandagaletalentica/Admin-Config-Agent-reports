@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['CUSTOM_TASK_TEXT1', 'CUSTOM_TASK_TEXT4', 'CUSTOM_TASK_TEXT10', 'TASK_STATUS', 'TASK_MANAGERS', 'TASK_MANAGER_ID', 'PARENT_TASK_MGR', 'INCLUDE_COMPLIANCE_TM'], 'value': None, 'section': None, 'entry': None, 'url': None}

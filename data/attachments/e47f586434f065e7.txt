@@ -1,1 +1,0 @@
-The current filter name for including compliant full kit managers is "Include Compliant Full Kit Managers."

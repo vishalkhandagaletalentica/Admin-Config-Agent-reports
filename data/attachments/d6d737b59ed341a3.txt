@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '6693f3be-1695-4c66-951b-eb3307859e3d', 'query': 'Please update the minimum value for Float Group B to 30.'}

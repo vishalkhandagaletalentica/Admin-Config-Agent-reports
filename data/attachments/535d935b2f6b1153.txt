@@ -1,1 +1,0 @@
-{'entryId': 163, 'sectionId': 10, 'flags': 0, 'entryName': 'P2PADD_DEL', 'entryFriendlyName': 'Delete', 'strValue': 'Del', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'P2PADD_DEL', 'rangeList': None, 'validationRule': None, 'sequenceId': 103260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

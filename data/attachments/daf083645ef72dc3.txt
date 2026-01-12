@@ -1,0 +1,1 @@
+I couldn't find a configuration entry named "Task Float (Gantt)" in the Planning Client section. Do you mean the advanced-filter mapping under "Planning Client -> Adv. Filter Field Mapping" (e.g., Leveled Float or Float mapping) or the column title under "Common -> Column Names" (Task Float)?

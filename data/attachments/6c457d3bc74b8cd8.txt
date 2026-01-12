@@ -1,0 +1,1 @@
+Display of completed projects is now enabled.

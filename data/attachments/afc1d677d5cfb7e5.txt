@@ -1,5 +1,0 @@
-The command you provided is invalid because the expected value type for the "Hidden Fields" configuration is a multi-list, and the value you attempted to set (12345) is not a valid string format. 
-
-The allowed values must be a comma-separated list of strings corresponding to the keys you wish to set. In this case, you can use 'SHOW_IN_EXPANDED_FILTERS,WINDOWS_USERID,ALERT_ADDR' as the new value.
-
-A correct command would be: `update Hidden Fields set value to SHOW_IN_EXPANDED_FILTERS,WINDOWS_USERID,ALERT_ADDR`.

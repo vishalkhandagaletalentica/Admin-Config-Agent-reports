@@ -1,0 +1,1 @@
+The Major Job ID (displayed in Work Card Details report) was updated from "Major Job ID" to "New Major Job ID".

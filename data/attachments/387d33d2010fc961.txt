@@ -1,0 +1,1 @@
+Yes, prompting for Help Needed during task updates is turned on.

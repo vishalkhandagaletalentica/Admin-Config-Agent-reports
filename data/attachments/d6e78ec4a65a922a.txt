@@ -1,0 +1,1 @@
+Is the option to show team members in the Task Manager filter enabled?

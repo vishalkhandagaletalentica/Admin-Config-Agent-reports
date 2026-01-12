@@ -1,0 +1,1 @@
+Is the Rolling Average feature enabled in the Throughput report?

@@ -1,1 +1,0 @@
-The filter name for current period data has been updated from "Current" to "Updated".

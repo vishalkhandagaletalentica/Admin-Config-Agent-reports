@@ -1,1 +1,0 @@
-The LLM's responses lack clarity and directness, as it repeatedly asks for the specific value to set for 'Global Max units' without providing any guidance or acknowledgment of the user's request. While it maintains a professional tone, it fails to effectively address the user's needs by not confirming the update or providing a clear path forward.

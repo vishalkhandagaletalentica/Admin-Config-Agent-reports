@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is boolean (true or false), so please use 'true' or 'false' instead of 'xyz'.

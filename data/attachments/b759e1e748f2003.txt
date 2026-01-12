@@ -1,1 +1,0 @@
-The default selection for the task manager filters is "All Task Managers."

@@ -1,6 +1,0 @@
-The command you provided is invalid because the value you are trying to set (12345) is not of the expected type. The allowed values for the "Sort Order" setting are a list of sortable items, not an integer. 
-
-The expected type is a comma-separated list of sortable items. Based on the current values, you could use something like 'A-FULLKIT_DATE,A-PERCENT_FK_COMPLETE' as the new value. 
-
-For example, a correct command would be: 
-`update Sort Order set value to A-FULLKIT_DATE,A-PERCENT_FK_COMPLETE`

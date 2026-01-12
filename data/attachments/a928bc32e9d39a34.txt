@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the external link for the Compliance Report enabled?'}, {'role': 'assistant', 'content': 'Yes — the Compliance Report external link is enabled.'}, {'role': 'user', 'content': 'Update this setting to disabled.'}, {'role': 'assistant', 'content': 'The Compliance Report external link has been disabled.'}]

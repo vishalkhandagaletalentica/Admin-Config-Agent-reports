@@ -1,0 +1,1 @@
+The buffer diagnostics setting for committed in queue is enabled.

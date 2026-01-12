@@ -1,1 +1,0 @@
-I updated the Print Font Size from FONT_MEDIUM to FONT_LARGE for the Task Penetrating Chain report.

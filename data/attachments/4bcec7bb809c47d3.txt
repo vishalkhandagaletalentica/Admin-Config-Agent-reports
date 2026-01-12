@@ -1,1 +1,0 @@
-Please disable the automatic update of FK Status to complete based on checklist items.

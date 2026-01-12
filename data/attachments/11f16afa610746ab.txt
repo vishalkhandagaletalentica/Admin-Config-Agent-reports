@@ -1,1 +1,0 @@
-Yes, the option to automatically select your user account in the Task Manager Filter is currently enabled.

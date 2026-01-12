@@ -1,0 +1,1 @@
+What is the time interval set for searching completed tasks in the report data?

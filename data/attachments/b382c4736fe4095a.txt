@@ -1,0 +1,1 @@
+The filter name for the date range in the Milestone report is 15 days.

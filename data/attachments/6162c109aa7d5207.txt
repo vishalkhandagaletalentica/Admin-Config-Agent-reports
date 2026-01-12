@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the default font size as FONT_MEDIUM, which aligns with the Expected Output. However, it only addresses the section 'Task Level Priorities By Project' and does not mention 'Modify Projects and Project Repair,' which is part of the Expected Output. This partial alignment with the intent of the Input results in a deduction of points.

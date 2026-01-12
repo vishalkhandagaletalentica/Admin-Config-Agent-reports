@@ -1,1 +1,0 @@
-No — Project Wait Time is currently excluded from the Cycle Time report (the "Include Project Wait Time" option is disabled).

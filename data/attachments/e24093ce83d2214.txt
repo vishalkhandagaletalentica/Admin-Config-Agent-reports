@@ -1,1 +1,0 @@
-Understood. The filter name for Escalated Tasks (Filtering Pane) is set to "High Priority Escalated Tasks".

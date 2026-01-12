@@ -1,1 +1,0 @@
-The security label appears after 15 rows for special projects in the web reports.

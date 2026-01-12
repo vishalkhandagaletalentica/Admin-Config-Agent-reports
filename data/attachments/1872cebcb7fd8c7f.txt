@@ -1,1 +1,0 @@
-{'entryId': 233, 'sectionId': 12, 'flags': 0, 'entryName': 'SUCCESSORS', 'entryFriendlyName': 'Successors', 'strValue': 'Successors', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Successors', 'rangeList': None, 'validationRule': None, 'sequenceId': 124660.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

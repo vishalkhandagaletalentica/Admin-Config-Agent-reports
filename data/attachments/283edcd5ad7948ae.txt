@@ -1,1 +1,0 @@
-The current filters available for the On-Time Delivery report are Portfolio, New Product Code, Customer, Milestone Updated, Design Team Needed, Project Attribute 5, Project Attribute 6, New Project Attribute Value, and [insert new value here].

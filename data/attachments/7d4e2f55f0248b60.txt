@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the title for the Required Buffer Size column as 'New Buffer Size', which matches the Expected Output in factual content. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

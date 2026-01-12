@@ -1,1 +1,0 @@
-The current mapping for the Predecessor Task UIDs in the Gantt filter is "predecessorIds."

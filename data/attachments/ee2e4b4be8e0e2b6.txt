@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Float(sh)', 'Leveled Float', 'Priority Normalized Float(sh)'], 'value': None, 'section': None, 'entry': None, 'url': None}

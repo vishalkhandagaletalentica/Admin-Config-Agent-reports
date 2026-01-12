@@ -1,0 +1,1 @@
+Please update the hidden fields for Print Preview to include "TASK_TYPE," "HAS_TASK_LINKS," and "PROJECT_NAME."

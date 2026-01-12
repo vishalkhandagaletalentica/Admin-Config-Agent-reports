@@ -1,1 +1,0 @@
-The current column mapping for the Due Date when importing a CSV or Excel file is FD.

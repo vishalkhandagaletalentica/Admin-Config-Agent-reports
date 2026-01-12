@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RULE1_DRILLDOWN', 'entry': 'COLUMN_ORDER', 'url': None}

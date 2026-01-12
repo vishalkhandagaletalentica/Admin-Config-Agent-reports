@@ -1,0 +1,1 @@
+Yes, the option to enable MPD files for check-in is turned on.

@@ -1,0 +1,1 @@
+I couldn't find an 'Include Completed Tasks' setting that clearly belongs to the Milestone Report. Which setting do you mean: the Milestone Report (Project Mgr → Milestone Report) or one of the chain view settings (Project Chain View or Contractual Milestone Chain View)?

@@ -1,1 +1,0 @@
-The filter name for Include Planned Throughput has been successfully updated to "New Planned Throughput."

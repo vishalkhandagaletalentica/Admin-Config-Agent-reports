@@ -1,1 +1,0 @@
-Task Text 65 (Custom Task Text Field) in the Advanced Filter is currently mapped to "Text65".

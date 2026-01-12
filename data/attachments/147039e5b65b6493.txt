@@ -1,0 +1,1 @@
+Yes — including ignored tasks is enabled.

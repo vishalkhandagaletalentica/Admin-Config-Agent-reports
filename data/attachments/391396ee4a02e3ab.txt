@@ -1,1 +1,0 @@
-The option to force zero duration for all Internal Milestones is currently enabled.

@@ -1,1 +1,0 @@
-update configuration setting "Show logged in user selected in the Project Manager Filter" to "xyz";

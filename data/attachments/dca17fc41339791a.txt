@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names: Include Ignored Tasks (title)', 'Buffer Diagnostics: Include Ignored Tasks (chart/drill-down)'], 'value': None, 'section': None, 'entry': None, 'url': None}

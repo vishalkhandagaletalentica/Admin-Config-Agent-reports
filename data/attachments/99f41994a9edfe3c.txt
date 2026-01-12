@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Earliest Test Event to "New Test Event".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Earliest Test Event" entry?'}, {'role': 'user', 'content': 'The section name is "Column Headings."'}, {'role': 'assistant', 'content': 'The Earliest Test Event was updated to "New Test Event".'}]

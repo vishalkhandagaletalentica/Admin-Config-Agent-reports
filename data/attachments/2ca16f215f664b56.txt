@@ -1,1 +1,0 @@
-The current title displayed for the Sequential subtask type in the reports is "Sequential".

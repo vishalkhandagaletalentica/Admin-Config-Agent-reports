@@ -1,0 +1,1 @@
+The current setting for mapping the Successor Task UIDs in the Gantt filter is newSuccessorIds.

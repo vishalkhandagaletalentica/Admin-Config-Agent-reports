@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Manager Filter (display name used in the Project report)', 'Show Managers Only (label for showing only managers in the Project report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

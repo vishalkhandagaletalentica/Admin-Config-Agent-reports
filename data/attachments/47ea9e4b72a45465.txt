@@ -1,0 +1,1 @@
+The Actual Output correctly identifies that the entry expects an integer, which aligns with the Expected Output's mention of a type mismatch. However, it fails to provide the specific range of acceptable values (0 to 100) and an example, which are crucial details from the Expected Output. This omission affects the completeness of the response.

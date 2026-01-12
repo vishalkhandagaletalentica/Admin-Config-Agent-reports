@@ -1,1 +1,0 @@
-{'entryId': 495, 'sectionId': 10, 'flags': 0, 'entryName': 'TASK_RESOURCES_LIST', 'entryFriendlyName': 'Resources', 'strValue': 'Resources', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Resources with Units in the brackets', 'rangeList': None, 'validationRule': None, 'sequenceId': 109900.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+Yes — the option to limit stretch for unfixed and In Process projects is enabled.

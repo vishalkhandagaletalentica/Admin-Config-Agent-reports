@@ -1,0 +1,1 @@
+The BM Sequence display name in Column Headers has been updated to "New BM Sequence Name".

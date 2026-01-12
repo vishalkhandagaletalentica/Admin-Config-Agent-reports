@@ -1,1 +1,0 @@
-The Default value for Task Type Filter is already set to "Tasks and Subtasks." No update is needed.

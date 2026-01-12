@@ -1,1 +1,0 @@
-The “Excluded” checkbox (Results & Rules reports) is currently set to "Included".

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '36fc2176-3ffe-4048-9c01-eb2dc7d1fde7', 'query': 'The section name is "Common Parameters for Subtask" and the entry name is "Read-Only Fields."'}

@@ -1,1 +1,0 @@
-Disabled “Include Committed, In Queue Projects” — the load from Committed, In Queue projects will no longer be shown in View Resource L:C and View Tasks By Resource.

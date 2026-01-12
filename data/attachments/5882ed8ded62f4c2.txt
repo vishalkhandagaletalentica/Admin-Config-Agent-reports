@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Exclude Projects', 'Buffer Diagnostics', 'Project Mgr -> Project Control', 'Project Mgr -> Pipeline View'], 'value': None, 'section': None, 'entry': None, 'url': None}

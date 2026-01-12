@@ -1,1 +1,0 @@
-The column header display name for Project Participants is already set to "Team Members". No update is needed.

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Common → Filter Names — Show Start Delay (display title in filtering pane)', 'Buffer Diagnostics — Show Start Delay (include tasks with non-zero start delay)'], 'value': None, 'section': None, 'entry': None, 'url': None}

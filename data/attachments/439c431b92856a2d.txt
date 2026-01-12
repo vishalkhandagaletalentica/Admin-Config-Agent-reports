@@ -1,1 +1,0 @@
-The current title displayed for the Subtasks WIP limit in the reports is "WIP limit".

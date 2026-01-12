@@ -1,1 +1,0 @@
-The filter name for Virtual Drum has been updated to "New Virtual Drum."

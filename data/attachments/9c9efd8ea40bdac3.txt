@@ -1,1 +1,0 @@
-The option to display only managers in the project manager filter is currently disabled.

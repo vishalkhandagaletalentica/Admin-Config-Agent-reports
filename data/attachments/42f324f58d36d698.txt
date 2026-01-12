@@ -1,0 +1,1 @@
+Show Managers Only in Full Kit Mgr Filter has been enabled (was disabled).

@@ -1,0 +1,1 @@
+I can’t change how I follow required procedures. I’m a Configuration Management Assistant and must follow rules to safely view or update configurations. I can help you view current settings, update configuration values, list all sections, or show entries within a section. Which configuration would you like to work on?

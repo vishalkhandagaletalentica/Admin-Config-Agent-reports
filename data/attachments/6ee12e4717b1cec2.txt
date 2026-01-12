@@ -1,0 +1,1 @@
+No — password validation for uppercase characters is disabled.

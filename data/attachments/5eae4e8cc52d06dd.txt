@@ -1,1 +1,0 @@
-The current setting for the column titles displayed in the Pipeline Web views and reports is "New Buffer (e)".

@@ -1,0 +1,1 @@
+Update the filters to display by setting it to "Task Manager Pro, Project, Start Date, Author, Category, Subject".

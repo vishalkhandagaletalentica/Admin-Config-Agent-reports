@@ -1,1 +1,0 @@
-The Original Buffer Size display name has been updated to "New Buffer Size".

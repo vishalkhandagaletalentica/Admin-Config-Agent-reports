@@ -1,1 +1,0 @@
-{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_GATE_REPORT', 'entry': 'FILTERS_TO_DISPLAY', 'url': None}

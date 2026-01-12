@@ -1,1 +1,0 @@
-The Project List drilldown is currently disabled on the Print Preview page.

@@ -1,5 +1,0 @@
-The command is invalid because the value type for "Project Status Report" is 3, which does not accept string values. You should provide an integer or a float value instead. 
-
-For example, you could use an integer value like '2' or a float value like '1.5'. The correct command would be: 
-
-`update Project Status Report set value to 2`

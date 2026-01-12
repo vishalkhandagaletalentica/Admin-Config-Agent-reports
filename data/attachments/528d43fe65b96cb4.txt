@@ -1,0 +1,1 @@
+I couldn't find a configuration matching "error display setting during project add or check-in." Could you provide the configuration section and entry name, or describe where this setting appears (section name and entry name)?

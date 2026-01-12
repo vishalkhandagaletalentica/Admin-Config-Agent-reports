@@ -1,0 +1,1 @@
+Column Preset 1 for CC mode contains: NewCheckList, Task Type, Task Name, CUSTOM_TASK_TEXT5, Status, Updated Dur, Resources, Predecessors Updated, Successor Tasks, New Start Date.

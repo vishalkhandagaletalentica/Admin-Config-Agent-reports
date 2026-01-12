@@ -1,1 +1,0 @@
-I unchecked "Don't Limit Stretch For Fixed In Process Projects" — stretch limiting for fixed & In Process projects is now disabled.

@@ -1,0 +1,1 @@
+I couldn't find a configuration matching "ColorPriority7". Could you provide the section name where this setting lives, or describe it differently so I can find the correct section and entry?

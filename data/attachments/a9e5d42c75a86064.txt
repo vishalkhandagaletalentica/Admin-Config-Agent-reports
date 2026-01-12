@@ -1,1 +1,0 @@
-The display name for the average buffer consumed in the issue resolution chart is "Average Buffer Consumed."

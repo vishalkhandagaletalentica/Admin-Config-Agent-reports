@@ -1,1 +1,0 @@
-The current status of the Committed and In Queue parameters for Buffer Diagnostics is disabled.

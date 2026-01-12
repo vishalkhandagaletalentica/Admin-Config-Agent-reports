@@ -1,5 +1,0 @@
-The command you've entered is invalid because the value 'abcde' is not within the allowed range of 1 to 99. The expected type for this setting is an integer. 
-
-Please provide a value within the specified range. For example, you could use the command: 
-
-`update configuration set Default number of escalation types to expand = 10`

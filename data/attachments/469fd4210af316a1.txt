@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_GLOBAL_RES_FILE', 'entry': 'SORT', 'url': None}

@@ -1,0 +1,1 @@
+The current setting for Column Preset3 in Float Mode includes Task Name, Resources, Updated Dur, Predecessors Updated, Successor Tasks, SNET Date, Task Duration, Actual Start Date, and Actual End Date.

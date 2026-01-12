@@ -1,0 +1,1 @@
+The filter name for the Time Interval in the Cycle Time report is "Weekly."

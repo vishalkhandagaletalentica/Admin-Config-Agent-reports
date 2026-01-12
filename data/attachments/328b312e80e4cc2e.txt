@@ -1,1 +1,0 @@
-Updated the "7 days" filtering pane title to "14 days."

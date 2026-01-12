@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'How many rows are currently set to display per page in the Pipeline View report?'}, {'role': 'assistant', 'content': 'The Pipeline View report is set to display 100 rows per page.'}, {'role': 'user', 'content': 'Set it to 50.'}, {'role': 'assistant', 'content': "I've updated the Pipeline View rows-per-page setting from 100 to 50."}]

@@ -1,0 +1,1 @@
+The mistake is a type mismatch, as the expected value type is a string, not an integer; please provide a valid string from the allowed range.

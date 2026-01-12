@@ -1,0 +1,1 @@
+{'entryId': 2205, 'sectionId': 10, 'flags': 0, 'entryName': 'EXEC_PERCENT_COMPLETE', 'entryFriendlyName': '%Complete(for SubTask)', 'strValue': '%Completion', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': '%Complete of subtask', 'rangeList': None, 'validationRule': None, 'sequenceId': 144100.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

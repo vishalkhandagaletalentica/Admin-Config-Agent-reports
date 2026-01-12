@@ -1,1 +1,0 @@
-The Display In Results Pane setting has been successfully updated to Cycle Time.

@@ -1,1 +1,0 @@
-Task Text 76 (Custom Task Text Field) is currently mapped to "Text76" in the advanced filter.

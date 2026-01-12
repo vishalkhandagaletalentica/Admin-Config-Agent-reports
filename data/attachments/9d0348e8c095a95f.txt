@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It provides the correct display name for 'By Who' as 'Responsible Person', which aligns with the Expected Output. The only minor difference is the omission of 'in the column headers', but this does not significantly detract from the overall correctness of the response.

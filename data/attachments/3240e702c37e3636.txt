@@ -1,0 +1,1 @@
+Chart Zoom Level updated from 5 to 3.

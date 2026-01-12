@@ -1,1 +1,0 @@
-{'entryId': 2501, 'sectionId': 10, 'flags': 1, 'entryName': 'PRIORITY_NUMBER', 'entryFriendlyName': 'Priority Number', 'strValue': 'Priority Number', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Priority Number', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

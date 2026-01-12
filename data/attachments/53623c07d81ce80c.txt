@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '62483a9c-f6ab-4924-b2f2-edcf735dfa6c', 'query': 'Please enable the automatic loading of the Executive Dashboard Report.'}

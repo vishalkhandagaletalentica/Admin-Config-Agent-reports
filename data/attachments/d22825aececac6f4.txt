@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Automatically Load Project Status Report', 'Include Chart', 'Display In Results Pane'], 'value': None, 'section': None, 'entry': None, 'url': None}

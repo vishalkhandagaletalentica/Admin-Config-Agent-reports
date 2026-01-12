@@ -1,1 +1,0 @@
-{'entryId': 1260, 'sectionId': 10, 'flags': 0, 'entryName': 'COUNT', 'entryFriendlyName': 'Count', 'strValue': 'Count', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Count column header', 'rangeList': None, 'validationRule': None, 'sequenceId': 125200.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

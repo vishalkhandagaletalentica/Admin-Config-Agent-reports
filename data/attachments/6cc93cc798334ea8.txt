@@ -1,0 +1,1 @@
+Please set the Column name of task Manager to "New Task Name".

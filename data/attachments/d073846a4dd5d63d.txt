@@ -1,1 +1,0 @@
-The current mapping for the custom task text field 49 in the advanced filter is Text49.

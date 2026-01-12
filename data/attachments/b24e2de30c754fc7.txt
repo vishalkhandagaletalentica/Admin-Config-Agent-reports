@@ -1,1 +1,0 @@
-How many immediate retries are currently set for alert generation?

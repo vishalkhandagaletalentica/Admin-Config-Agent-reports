@@ -1,1 +1,0 @@
-The "Round to nearest quarter" setting is already set to "Round to nearest quarter". No update is needed.

@@ -1,0 +1,1 @@
+The Actual Output does not address the intent of the Input question, which is about a configuration issue related to 'Columns hidden in report.' Instead, it provides an unrelated timeout message. Additionally, it fails to acknowledge the type mismatch described in the Expected Output, leading to a significant lack of relevance and factual correctness.

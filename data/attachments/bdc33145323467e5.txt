@@ -1,1 +1,0 @@
-The Number of Immediate Retries is already set to 3. No update is needed.

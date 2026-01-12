@@ -1,0 +1,1 @@
+Which configuration section contains the "On Hold" setting you mean (for example: notifications, orders, workflows)?

@@ -1,1 +1,0 @@
-Consideration of P2P links and P2P MS is currently disabled.

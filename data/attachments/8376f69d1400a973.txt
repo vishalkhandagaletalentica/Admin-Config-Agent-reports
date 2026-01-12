@@ -1,1 +1,0 @@
-The current percentage setting for the maximum feeding path length for each project is Buffer Settings.

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '6c0f6333-da52-4e2b-9423-c98672e0f520', 'query': 'The section name is Primavera integration, and the entry name is username.'}

@@ -1,1 +1,0 @@
-The option to display subprojects is currently disabled in the Project Control view.

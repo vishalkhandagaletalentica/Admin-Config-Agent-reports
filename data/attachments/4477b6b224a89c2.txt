@@ -1,0 +1,1 @@
+{'entryId': 404, 'sectionId': 10, 'flags': 0, 'entryName': 'DEPENDENCY_LEVEL', 'entryFriendlyName': 'Dependency Level', 'strValue': 'New Level', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Dependency Level', 'rangeList': None, 'validationRule': None, 'sequenceId': 108080.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

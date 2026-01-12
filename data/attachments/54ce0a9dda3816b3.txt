@@ -1,0 +1,1 @@
+The columns that are currently hidden in the report are Task Type, UID123, New Description, Task Mgr, New Start Date, Status, Updated Dur, % Project Buffer Consumption, % MB Cnsm`d, Comments Updated, Last Update, Document Access Links, Help Needed, CUSTOM_TASK_TEXT2, Subtask Type, Est Rem Dur, and WIP limit.

@@ -1,0 +1,1 @@
+Yes — subprojects are enabled in the Project Control view.

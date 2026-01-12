@@ -1,1 +1,0 @@
-The current column heading is Task Buffer Consumption.

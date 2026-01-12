@@ -1,1 +1,0 @@
-The Actual Output is factually correct as it accurately states the percentage for reducing rollup duration, which matches the Expected Output. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions. The slight difference in phrasing does not affect the factual correctness.

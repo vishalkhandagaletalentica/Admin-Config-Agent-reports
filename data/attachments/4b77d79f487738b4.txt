@@ -1,1 +1,0 @@
-Updated the filter name "Large" to "extra-large."

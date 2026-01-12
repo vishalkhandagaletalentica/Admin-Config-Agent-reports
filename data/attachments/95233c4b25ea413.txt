@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'c5e10c89-9c0f-4cf3-8f17-7771113c7e0f', 'query': 'Is the project status chart display enabled by default in the new Project Status UI?'}

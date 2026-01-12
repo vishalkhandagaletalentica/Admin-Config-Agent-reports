@@ -1,0 +1,1 @@
+No, the option to include completed Action Items in the report is disabled.

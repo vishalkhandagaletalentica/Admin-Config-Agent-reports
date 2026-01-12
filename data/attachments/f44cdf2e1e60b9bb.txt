@@ -1,1 +1,0 @@
-Updated the Milestone Name and Unique Identifier column heading to "New Milestone Name (UID)".

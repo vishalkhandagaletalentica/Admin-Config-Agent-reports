@@ -1,0 +1,1 @@
+The column name for Prior Phase Status is Current Phase Status.

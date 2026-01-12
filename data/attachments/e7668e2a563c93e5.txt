@@ -1,0 +1,1 @@
+No — in the Actual Delay report the Filters currently being displayed in the report do not include the Portfolio filter; Portfolio is currently disabled.

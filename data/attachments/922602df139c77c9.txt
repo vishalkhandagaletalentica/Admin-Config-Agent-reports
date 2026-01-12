@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Task Duration to a new value: DURATION.'}, {'role': 'assistant', 'content': 'What value would you like to set for the Task Duration?'}, {'role': 'user', 'content': 'Yes, please proceed.'}, {'role': 'assistant', 'content': "I don't have the new duration value yet — what value would you like to set for Task Duration?"}]

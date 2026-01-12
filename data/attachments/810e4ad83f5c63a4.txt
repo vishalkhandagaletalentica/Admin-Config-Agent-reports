@@ -1,1 +1,0 @@
-The Internal Milestones filter in Project Control is now enabled.

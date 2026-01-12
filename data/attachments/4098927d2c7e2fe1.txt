@@ -1,0 +1,1 @@
+I couldn't find a configuration matching "filter name for the time interval in the Issue Resolution report." Could you provide the section name and entry name, or describe the filter name differently so I can resolve it?

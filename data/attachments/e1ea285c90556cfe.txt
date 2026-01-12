@@ -1,1 +1,0 @@
-Default Milestone Buffer % size updated from 50 to 75.

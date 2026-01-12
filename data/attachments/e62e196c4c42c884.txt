@@ -1,0 +1,1 @@
+Please update the Default Rolling Average Period (X periods in past) to 'twenty'.

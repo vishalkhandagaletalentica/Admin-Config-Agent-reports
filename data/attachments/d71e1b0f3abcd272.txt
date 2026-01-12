@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is calendar validation against the global resource file enabled?'}, {'role': 'assistant', 'content': 'Yes — calendar validation against the global resource file is enabled.'}, {'role': 'user', 'content': 'Update this setting to disabled.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

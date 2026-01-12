@@ -1,0 +1,1 @@
+The columns hidden in the Print Preview for the Milestone report include Document Access Links, Project Name, Project Manager, New MSP ID, Milestone ID, Task Manager, Status, Milestone Date, Projected Date, Delay, Milestone Type, Security Code Updated, Milestone Penetration (in Days), On-Time, and Change in Milestone Penetration (in Days).

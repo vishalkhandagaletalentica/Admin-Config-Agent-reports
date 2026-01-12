@@ -1,5 +1,0 @@
-The command is invalid because the value type is set to 2, which indicates that the value must be a multi-list type, but you are trying to set it to a single integer (12345). 
-
-The expected type for this setting is a comma-separated list of values. Based on the provided strValue, a correct example command would be: 
-
-`update Hidden Fields set value to MAXCUM_LTOC,MAXCAP_LTOC,PEAK_LTOC`

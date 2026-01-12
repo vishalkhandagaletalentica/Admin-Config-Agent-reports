@@ -1,1 +1,0 @@
-The default sort is: 1) ascending by Window Start, 2) ascending by Resource Name, 3) descending by Priority Level Penetration, 4) ascending by Earliest Arrival, 5) descending by Priority Level.

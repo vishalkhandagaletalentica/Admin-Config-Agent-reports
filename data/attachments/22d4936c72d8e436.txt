@@ -1,0 +1,1 @@
+The Actual Output incorrectly states that there is a default sort order ('none selected'), which contradicts the Expected Output that specifies the default sorting order is not specified. While the response attempts to address the question, it introduces incorrect information, leading to a significant deduction in points.

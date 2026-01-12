@@ -1,1 +1,0 @@
-The Project Name column used by the Task Excel is "ProjectName".

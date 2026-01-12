@@ -1,0 +1,1 @@
+Use Local Resources for BM has been disabled. It was enabled and is now disabled.

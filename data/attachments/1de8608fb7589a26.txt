@@ -1,1 +1,0 @@
-{'entryId': 225, 'sectionId': 11, 'flags': 0, 'entryName': 'INCLUDECHART', 'entryFriendlyName': 'Include Chart', 'strValue': 'Include Chart', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'INCLUDECHART', 'rangeList': None, 'validationRule': None, 'sequenceId': 114500.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

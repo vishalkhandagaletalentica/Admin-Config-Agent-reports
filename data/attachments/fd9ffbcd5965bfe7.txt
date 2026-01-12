@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'd564a12b-8a1e-423a-a564-f2e3eb43a625', 'query': 'The section name is ConWeb reports, and the entry name is Updated to 4.0.'}

@@ -1,1 +1,0 @@
-The Planned setting in Metrics -> Buffering is now disabled.

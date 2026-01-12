@@ -1,1 +1,0 @@
-The current title for the "Last Month" column in the R&R Full Kit Compliance report is "Previous Month."

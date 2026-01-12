@@ -1,1 +1,0 @@
-The Count column header is currently "Total Count".

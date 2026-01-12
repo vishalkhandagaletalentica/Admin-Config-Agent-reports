@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '87a63a6f-2a93-4ff3-93d4-2ea62bbc62c7', 'query': 'The section name is "External Links Configuration" and the entry name is "External link for Compliance Report enabled."'}

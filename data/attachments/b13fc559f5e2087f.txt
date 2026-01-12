@@ -1,1 +1,0 @@
-Please enable auto linking tasks when adding a new task between existing tasks.

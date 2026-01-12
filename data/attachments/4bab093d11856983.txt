@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Is the option to display subprojects in the Pipelining report currently enabled or disabled?'}, {'role': 'assistant', 'content': 'The Subprojects option in the Pipelining report is currently disabled.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Subprojects in the Pipelining report is now enabled.'}]

@@ -1,1 +1,0 @@
-Please update the setting to disable the display of remaining duration for not started tasks.

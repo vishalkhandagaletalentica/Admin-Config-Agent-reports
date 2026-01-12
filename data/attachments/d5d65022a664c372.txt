@@ -1,0 +1,1 @@
+{'type': 'error', 'selectable_values': None, 'value': None, 'section': 'SGD_ASSIGN_TASK_MANAGERS', 'entry': 'HIDDEN_FIELDS', 'url': None}

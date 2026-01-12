@@ -1,1 +1,0 @@
-The optimized data query is currently being used in the Task Level Priorities report.

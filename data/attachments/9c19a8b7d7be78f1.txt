@@ -1,1 +1,0 @@
-The name for the second CC column preset in the table view is: Phase for Pipeline

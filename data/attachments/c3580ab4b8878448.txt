@@ -1,1 +1,0 @@
-The filters currently set to be displayed are: Category → Product Code; Author → Portfolio.

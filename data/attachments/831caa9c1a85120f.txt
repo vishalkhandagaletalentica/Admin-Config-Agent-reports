@@ -1,7 +1,0 @@
-The command is invalid because the value type specified for "Column Order" does not match the expected type. The allowed value type is a multi-list, but the current value includes a key-value pair which is not allowed. 
-
-You should only use the value part(s) from the string. The correct command should look like this: 
-
-`update configuration set Column Order to New Parent Task UID,12345` 
-
-Please ensure that you only include the values in the correct format.

@@ -1,0 +1,1 @@
+Yes, the option to show Load to Capacity % value in each bucket is enabled.

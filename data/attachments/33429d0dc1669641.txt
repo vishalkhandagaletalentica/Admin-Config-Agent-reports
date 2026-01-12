@@ -1,0 +1,1 @@
+The Actual Output lists columns that are not mentioned in the Expected Output, indicating a complete mismatch in factual correctness. Additionally, it fails to address the intent of the Input question, which specifically asks for the hidden columns in the report, leading to a response that is irrelevant and incorrect.

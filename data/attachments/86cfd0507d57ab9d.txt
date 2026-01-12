@@ -1,1 +1,0 @@
-The Cycle Time column heading has been updated to "Lead Time".

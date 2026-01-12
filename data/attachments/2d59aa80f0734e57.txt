@@ -1,0 +1,1 @@
+The current number of retries for alert generation during auto BM is 5.

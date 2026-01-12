@@ -1,1 +1,0 @@
-The column heading for the CheckList indicator is "NewCheckList".

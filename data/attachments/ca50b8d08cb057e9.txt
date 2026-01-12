@@ -1,0 +1,1 @@
+I cannot apply that value because Stretch Limit as Percent of Project Buffer expects an integer. The value should be an integer.

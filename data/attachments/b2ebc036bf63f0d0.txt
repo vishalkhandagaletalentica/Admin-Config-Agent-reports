@@ -1,0 +1,1 @@
+Is the project attribute validation for Attribute7 enabled?

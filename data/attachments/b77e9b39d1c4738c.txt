@@ -1,0 +1,1 @@
+Which report or configuration section do you mean? Please tell me the report name or section and the specific entry (for example: "Sales Report" section and "Hidden Columns" entry).

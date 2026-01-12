@@ -1,0 +1,1 @@
+Yes — Committed, In Queue is enabled in Buffer Diagnostics.

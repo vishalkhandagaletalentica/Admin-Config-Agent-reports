@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '0270bc0e-501f-4716-9b07-3d626b81ac2e', 'query': 'What is the value of the Green Project Buffer priority?'}

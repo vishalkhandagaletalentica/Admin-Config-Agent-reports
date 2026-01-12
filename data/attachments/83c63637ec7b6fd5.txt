@@ -1,1 +1,0 @@
-Please disable the Critical Path Sorting feature.

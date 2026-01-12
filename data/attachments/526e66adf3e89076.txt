@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '850714fc-6a7d-4e30-86f7-898650cf7a93', 'query': 'Please update the Ignore Buffer Consumed setting to "Ignore Buffer Consumed Adjusted".'}

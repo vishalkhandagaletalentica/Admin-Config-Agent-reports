@@ -1,1 +1,0 @@
-The Task Text 54 (custom task text field) in the advanced Gantt filter is currently mapped to "NewText54".

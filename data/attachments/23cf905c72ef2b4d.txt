@@ -1,6 +1,0 @@
-The command you've provided is invalid because the value for "Column Order" must be a list of items in a specific format, not a single integer value. The expected type is a string that consists of key-value pairs or a comma-separated list of such pairs. 
-
-For example, you could use a command like:  
-`update Column Order to Task Type,Project Name,New Description` 
-
-Please ensure the new value adheres to the required format.

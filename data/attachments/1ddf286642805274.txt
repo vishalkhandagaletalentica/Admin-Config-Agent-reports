@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Internal Milestone Filter (default setting for the Project Status view)', 'Include Internal Milestone in Filter (specifies if internal milestones should be included in filters)'], 'value': None, 'section': None, 'entry': None, 'url': None}

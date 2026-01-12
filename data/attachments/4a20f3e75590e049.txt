@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string formatted as a sortable list, such as "COLOR->false,TASK_MANAGER_ID->false,...".

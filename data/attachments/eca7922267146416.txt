@@ -1,1 +1,0 @@
-What is the current setting for the start day of the week in the Metrics reports?

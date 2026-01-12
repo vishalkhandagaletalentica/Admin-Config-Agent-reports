@@ -1,1 +1,0 @@
-The "All Tasks" setting in the Filtering Pane has been updated from "All" to "Ready".

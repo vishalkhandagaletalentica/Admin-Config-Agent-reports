@@ -1,1 +1,0 @@
-The current default sorting order for the Stuck Tasks Delays report is Descending New Column, Ascending Task Description.

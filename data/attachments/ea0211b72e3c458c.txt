@@ -1,1 +1,0 @@
-Can you check if completed projects are currently set to be displayed in the Issue Resolution report?

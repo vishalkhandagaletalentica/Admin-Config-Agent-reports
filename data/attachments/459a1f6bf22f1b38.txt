@@ -1,1 +1,0 @@
-The current default sorting order for the task checklist items is 12345.

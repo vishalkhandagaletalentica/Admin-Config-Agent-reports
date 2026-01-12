@@ -1,0 +1,1 @@
+Resource Name is now set to NEW_RESOURCE_NAME.

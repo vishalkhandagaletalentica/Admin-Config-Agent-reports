@@ -1,1 +1,0 @@
-{'entryId': 1833, 'sectionId': 11, 'flags': 0, 'entryName': 'IN_PROGRESS_IP', 'entryFriendlyName': 'In Progress (IP)', 'strValue': 'In Progress', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Used in Task Status filter dropdown.', 'rangeList': None, 'validationRule': None, 'sequenceId': 146660.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

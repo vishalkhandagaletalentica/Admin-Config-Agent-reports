@@ -1,1 +1,0 @@
-The current setting for planned projects on the Exclude Projects page is disabled.

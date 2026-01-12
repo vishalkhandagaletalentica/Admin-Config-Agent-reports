@@ -1,0 +1,1 @@
+The mistake is a type mismatch, as the expected value type is a string, so please provide a valid string representation of the column order, such as "TREND_INDICATOR,TREND_NAME,TARGET_COMPLETION_DATE".

@@ -1,1 +1,0 @@
-Resource highlighting is currently disabled. (This setting requires the next Buffer Management run for changes to take effect.)

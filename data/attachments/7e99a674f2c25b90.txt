@@ -1,0 +1,1 @@
+The Actual Output correctly states the time for execution as 10000, which aligns with the Expected Output. While the phrasing differs slightly, the factual content is accurate and directly addresses the intent of the Input question. The only minor deduction is for the lack of the word 'set' in the Actual Output, but this does not significantly impact the overall correctness.

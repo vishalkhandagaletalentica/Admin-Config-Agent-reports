@@ -1,1 +1,0 @@
-The current status of the BMRun option in the Buffer Management settings is enabled.

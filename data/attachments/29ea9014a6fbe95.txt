@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the correct custom text for the Quality Checklist. However, it lacks the additional context of 'in the Application Server settings' found in the Expected Output, which slightly reduces its completeness.

@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Relative Priority to High Priority.'}, {'role': 'assistant', 'content': 'Which configuration section contains the “Relative Priority” setting?'}, {'role': 'user', 'content': 'The section name is "Column Headings."'}, {'role': 'assistant', 'content': 'The Relative Priority column heading was updated to "High Priority."'}]

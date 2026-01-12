@@ -1,4 +1,0 @@
-The command you provided is invalid because the value 'xyz' is not within the allowed range of 0 or 1 for the setting "Include Hours for Date/Duration Display Format." The expected type is an integer, specifically either 0 or 1.
-
-Please use a valid command, such as:
-`update configuration set Include Hours for Date/Duration Display Format to 1;`

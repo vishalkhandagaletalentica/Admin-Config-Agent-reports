@@ -1,1 +1,0 @@
-{'entryId': 1479, 'sectionId': 10, 'flags': 0, 'entryName': 'CHAIN_SEQUENCEID', 'entryFriendlyName': 'Sequence Number', 'strValue': 'Sequence Number', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Sequence Number.', 'rangeList': None, 'validationRule': None, 'sequenceId': 129580.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

@@ -1,1 +1,0 @@
-What is the current column name for TEXT9 in the task updates?

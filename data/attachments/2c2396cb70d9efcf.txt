@@ -1,0 +1,1 @@
+Which specific entry do you mean by “current float-based priority value”? For example: the color calculation mode, the Red→Yellow threshold, or another Float Priorities setting?

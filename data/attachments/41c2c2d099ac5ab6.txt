@@ -1,1 +1,0 @@
-The Default Feeding Buffer fixed size (Hrs) has been successfully updated to 5.

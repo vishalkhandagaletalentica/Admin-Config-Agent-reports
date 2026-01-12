@@ -1,0 +1,1 @@
+{'entryId': 2210, 'sectionId': 10, 'flags': 0, 'entryName': 'EXEC_END_DATE', 'entryFriendlyName': 'End Date(for SubTask)', 'strValue': 'End Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'End Date of subtask', 'rangeList': None, 'validationRule': None, 'sequenceId': 144200.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

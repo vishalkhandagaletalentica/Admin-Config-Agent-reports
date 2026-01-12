@@ -1,0 +1,1 @@
+Updated the Default Project Buffer fixed size (Hrs) from 5 to 6.

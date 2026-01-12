@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Priority 0', 'Priority 1', 'Priority 2'], 'value': None, 'section': None, 'entry': None, 'url': None}

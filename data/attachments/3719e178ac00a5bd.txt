@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'd99fdee4-5921-406c-af4a-c1b1e50ad752', 'query': 'Please update the Allow Remaining Duration Update For NS Tasks and Subtasks setting to disabled.'}

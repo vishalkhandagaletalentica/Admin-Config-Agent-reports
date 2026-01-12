@@ -1,0 +1,1 @@
+Is the checklist dialog enabled for the full kit task status when it's set to "Released"?

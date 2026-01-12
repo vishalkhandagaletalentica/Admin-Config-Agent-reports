@@ -1,0 +1,1 @@
+What is the number of tasks currently displayed in the Stuck Task List widget?

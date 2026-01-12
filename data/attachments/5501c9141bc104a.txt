@@ -1,1 +1,0 @@
-What is the current title displayed for the exceptions of red tasks in the task manager?

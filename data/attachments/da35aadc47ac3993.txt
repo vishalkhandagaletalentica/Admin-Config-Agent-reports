@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Feeding Buffer Consumption (%)', 'Default Feeding Buffer % size', 'Move Feeding Buffer %', 'CCCB Buffer Settings (Percentage Size + Fixed Size In Hours)', 'CMSB Buffer Settings (Percentage Size + Fixed Size In Hours)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-Please update the start day of the week to 3.

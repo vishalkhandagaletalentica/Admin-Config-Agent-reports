@@ -1,1 +1,0 @@
-The Number of Past Days to compute Due Date history was updated from 30 to 45.

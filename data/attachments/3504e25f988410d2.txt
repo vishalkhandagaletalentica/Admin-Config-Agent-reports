@@ -1,1 +1,0 @@
-The display name for All Priorities in the filters is "All Priorities Updated".

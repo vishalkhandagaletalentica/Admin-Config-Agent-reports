@@ -1,0 +1,1 @@
+Please update the Queue Trend Interval (In Weeks) to 8 weeks.

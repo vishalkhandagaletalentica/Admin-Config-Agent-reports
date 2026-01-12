@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RULE2_BUFFERING', 'entry': None, 'url': None}

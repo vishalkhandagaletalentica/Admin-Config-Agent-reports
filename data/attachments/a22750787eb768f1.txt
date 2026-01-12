@@ -1,1 +1,0 @@
-The current setting for the font size displayed as large in the filtering options is extra-large.

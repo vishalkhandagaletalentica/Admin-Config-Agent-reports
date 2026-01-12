@@ -1,1 +1,0 @@
-The current default selection is "Select Changes To Highlight".

@@ -1,0 +1,1 @@
+The Work Card Supportable column heading was updated from "Not Supportable" to "Supportable".

@@ -1,1 +1,0 @@
-The current display name for Select Project File is "[your desired value]".

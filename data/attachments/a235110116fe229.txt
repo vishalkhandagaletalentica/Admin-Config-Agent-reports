@@ -1,1 +1,0 @@
-update server_parameter_name set value = 12345

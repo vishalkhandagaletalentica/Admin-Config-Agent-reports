@@ -1,0 +1,1 @@
+The current delay value for the Actual Delay report is 1.

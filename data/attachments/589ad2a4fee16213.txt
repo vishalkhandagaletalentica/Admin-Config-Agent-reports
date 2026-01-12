@@ -1,1 +1,0 @@
-The Actual Output accurately reflects the factual correctness of the Expected Output by confirming the update of the column name from 'Relative' to 'New Relative Name'. It directly addresses the intent of the Input question, providing a clear and relevant response. However, it lacks the phrase 'successfully updated', which is a minor detail that prevents a perfect score.

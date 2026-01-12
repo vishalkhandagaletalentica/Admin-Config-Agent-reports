@@ -1,0 +1,1 @@
+Show Project Description in the WIP Report is now enabled.

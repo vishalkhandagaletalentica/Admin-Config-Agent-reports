@@ -1,1 +1,0 @@
-The Import Export Date Format in Gantt has been successfully updated to "DD-MMM-YYYY:HHmm".

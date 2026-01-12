@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'dfa051c1-8854-4d6c-97da-50bb04f87ba1', 'query': 'What is the start time for Shift 2?'}

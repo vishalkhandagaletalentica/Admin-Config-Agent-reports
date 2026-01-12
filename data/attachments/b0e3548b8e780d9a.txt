@@ -1,5 +1,0 @@
-The command is invalid because the value "abcde" is not a numeric value, and the allowed range for "Default Project Buffer % size" is between 0 and 100. The expected type is an integer. 
-
-Please provide a numeric value within the allowed range, such as "75". 
-
-A correct command would be: `update configuration set "Default Project Buffer % size" to "75"`

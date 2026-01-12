@@ -1,0 +1,1 @@
+Show Weighted Average Delay is now enabled (was disabled).

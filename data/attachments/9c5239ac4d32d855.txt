@@ -1,1 +1,0 @@
-Please update the display name for Incl Current Period Detail in the Issue Resolution filter options to "Include Current Period Details."

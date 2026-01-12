@@ -1,1 +1,0 @@
-What is the current column name for comments used in the task update?

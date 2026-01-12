@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Percent Full Kit Complete to 75.'}, {'role': 'assistant', 'content': 'Which configuration section is “Percent Full Kit Complete” under?'}, {'role': 'user', 'content': 'The section name is Full Kit Report.'}, {'role': 'assistant', 'content': 'Percent Full Kit Complete was updated from 50 to 75.'}]

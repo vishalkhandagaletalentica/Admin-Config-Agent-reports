@@ -1,0 +1,1 @@
+The Hidden Filters for Admin -> Edit Project Info already excludes Division. No update is needed.

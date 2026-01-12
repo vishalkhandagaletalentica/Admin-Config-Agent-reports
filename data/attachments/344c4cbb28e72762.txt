@@ -1,1 +1,0 @@
-{'entryId': 1403, 'sectionId': 84, 'flags': 1, 'entryName': 'AUTHOR', 'entryFriendlyName': 'AUTHOR', 'strValue': 'AUTHOR', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 868060.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

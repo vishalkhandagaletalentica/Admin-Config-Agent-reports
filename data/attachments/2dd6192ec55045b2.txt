@@ -1,1 +1,0 @@
-The current filter name for the time interval in the reports is "Time Interval."

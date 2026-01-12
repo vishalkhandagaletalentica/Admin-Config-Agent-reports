@@ -1,1 +1,0 @@
-{'entryId': 2521, 'sectionId': 146, 'flags': 0, 'entryName': 'CUSTOM_TASK_TEXT7', 'entryFriendlyName': 'Text 7', 'strValue': 'Text7', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Text 7', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510420.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,0 +1,1 @@
+{'entryId': 806, 'sectionId': 10, 'flags': 0, 'entryName': 'BUFFER_CONSUMPTION', 'entryFriendlyName': 'Buffer Penetration', 'strValue': 'New Buffer Consumption', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Buffer Penetration', 'rangeList': None, 'validationRule': None, 'sequenceId': 116120.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

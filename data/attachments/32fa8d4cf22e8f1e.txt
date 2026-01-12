@@ -1,1 +1,0 @@
-The current filter name for the Show Data Through in the Issue Resolution report is END_OF_TODAY.

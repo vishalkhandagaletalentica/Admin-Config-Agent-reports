@@ -1,0 +1,1 @@
+The columns that are hidden in the report for the Assign Task Mgrs feature are Resource Name, Task Mgr, Task Description, and New Start Date.

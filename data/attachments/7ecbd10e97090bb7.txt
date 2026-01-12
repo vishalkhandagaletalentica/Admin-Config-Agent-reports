@@ -1,1 +1,0 @@
-update configuration set Chart Type to 12345

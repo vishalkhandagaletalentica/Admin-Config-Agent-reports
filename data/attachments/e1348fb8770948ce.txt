@@ -1,1 +1,0 @@
-The Actual Output accurately reflects the Expected Output by confirming the title of the column as 'Weighted Resource Cap,' which is factually correct. It directly addresses the intent of the Input question without introducing any incorrect facts or assumptions. The response is clear and concise, maintaining a professional tone.

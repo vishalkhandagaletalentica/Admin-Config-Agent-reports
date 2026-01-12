@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '9d9277ff-8fa8-489e-a24c-6afa65f6cd9d', 'query': 'What are the filters available to be displayed in the Buffer Diagnostics report?'}

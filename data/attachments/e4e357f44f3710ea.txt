@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_CALENDAR', 'entry': 'NUM_SHIFTS', 'url': None}

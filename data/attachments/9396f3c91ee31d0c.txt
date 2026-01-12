@@ -1,1 +1,0 @@
-Please update the Display In Results Pane setting to Cycle Time.

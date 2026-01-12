@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the feature that prevents MS Project from causing Buffer Management to hang enabled?'}, {'role': 'assistant', 'content': 'No — that prevention feature is currently disabled.'}, {'role': 'user', 'content': 'Update this setting to disabled.'}, {'role': 'assistant', 'content': 'That prevention feature is already disabled. No update is needed.'}]

@@ -1,1 +1,0 @@
-The Actual Output correctly identifies 'Resource Name' as the searchable resource field, aligning with the intent of the Input. However, it fails to match the Expected Output's specific phrasing and does not include the term 'RESOURCE_NAME', which is crucial for factual correctness. This results in a partial answer that does not fully meet the expectations set by the test case.

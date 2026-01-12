@@ -1,0 +1,1 @@
+The default font size used in Print Preview for the Work Card Information report is FONT_SMALL.

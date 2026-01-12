@@ -1,0 +1,1 @@
+Text1 was updated from "New Column Title" to "Task Checklist".

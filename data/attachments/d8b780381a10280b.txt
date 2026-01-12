@@ -1,1 +1,0 @@
-Item Completion Status in Task Checklist was updated from "Complete" to "In Progress".

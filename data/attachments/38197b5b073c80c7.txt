@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the project attribute field used for specifying the external project name?'}, {'role': 'assistant', 'content': 'The project attribute field set for the external project name is Attribute 2.'}, {'role': 'user', 'content': 'Update it to ATTRIBUTE1.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

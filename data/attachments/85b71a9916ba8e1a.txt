@@ -1,0 +1,1 @@
+No, the option for both CC and Float Schedule mode is not available in the Gantt Planning Client.

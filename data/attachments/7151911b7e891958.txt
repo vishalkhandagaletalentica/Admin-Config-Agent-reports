@@ -1,1 +1,0 @@
-The current name set for the filter that is included in the reports is "Included".

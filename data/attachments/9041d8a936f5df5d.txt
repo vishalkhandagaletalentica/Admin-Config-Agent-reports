@@ -1,1 +1,0 @@
-The column name for Work Card Skill has been successfully updated to "Skillset".

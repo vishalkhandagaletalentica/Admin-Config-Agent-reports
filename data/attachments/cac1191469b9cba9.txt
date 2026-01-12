@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the Critical Path Sorting feature enabled?'}, {'role': 'assistant', 'content': 'No — the Critical Path Sorting feature is disabled.'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Updated — the Critical Path Sorting feature is now enabled.'}]

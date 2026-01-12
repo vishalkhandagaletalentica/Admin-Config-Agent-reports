@@ -1,0 +1,1 @@
+The default stretch limit as a percentage of the project buffer is 20%.

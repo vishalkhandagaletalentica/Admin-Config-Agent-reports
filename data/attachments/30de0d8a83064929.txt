@@ -1,0 +1,1 @@
+The Actual Output lists several hidden columns, but it includes extra columns like 'Buffer Cnsmd' and 'Longest Chain Complete' that are not mentioned in the Expected Output. While it correctly identifies some of the hidden columns, the inclusion of incorrect entries detracts from its factual accuracy. Additionally, the response is somewhat verbose, which affects its conciseness.

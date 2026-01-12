@@ -1,0 +1,1 @@
+Is the feature that prevents MS Project from causing Buffer Management to hang enabled?

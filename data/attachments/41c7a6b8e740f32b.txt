@@ -1,0 +1,1 @@
+The automatic selection for the logged in user in Task Level Priorities By Task Mgr is disabled.

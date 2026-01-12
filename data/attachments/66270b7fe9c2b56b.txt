@@ -1,1 +1,0 @@
-Do you mean the default sort-order setting used by the Assign Task Managers view in Task List → Task Mgr (the report's default Sort Order)?

@@ -1,0 +1,1 @@
+The list of task fields that should be passed as parameters on the Automatic Link URL is based on what parameters you plan to use in the custom script to identify the task.

@@ -1,1 +1,0 @@
-The section name is "searchable text columns." I am referring to the task table/columns configuration.

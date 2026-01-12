@@ -1,0 +1,1 @@
+Acknowledged: section "Filtering Pane" and entry "project status cancel filter in set status dropdown". I resolved this to the existing filter title, which is already set to Cancelled.

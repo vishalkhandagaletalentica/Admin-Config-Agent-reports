@@ -1,1 +1,0 @@
-The current title displayed for 'By Help Needed' in the column headings is "Assistance Required."

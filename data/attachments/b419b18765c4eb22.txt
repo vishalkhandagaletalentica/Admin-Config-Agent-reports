@@ -1,1 +1,0 @@
-Please update the default stream frequency for subtasks to 10 days.

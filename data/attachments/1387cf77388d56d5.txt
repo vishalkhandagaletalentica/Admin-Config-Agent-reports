@@ -1,1 +1,0 @@
-{'entryId': 597, 'sectionId': 10, 'flags': 0, 'entryName': 'ACTIONTYPE', 'entryFriendlyName': 'Action Type', 'strValue': 'Action Type', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Action Type in Column Headers.', 'rangeList': None, 'validationRule': None, 'sequenceId': 111940.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

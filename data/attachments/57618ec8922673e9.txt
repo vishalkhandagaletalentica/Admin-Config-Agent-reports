@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr → Project Chain View/Project Penetrating Chain (Hidden Fields - Print)', 'Task Mgr → Task List → Subtasks (Hidden Fields - Print)', 'Project Mgr → Task Level Priorities By Resource (Hidden Fields - Print)'], 'value': None, 'section': None, 'entry': None, 'url': None}

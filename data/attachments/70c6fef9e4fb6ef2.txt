@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Integration → Task (Config File Location)', 'Integration → Subtask (Config File Location)'], 'value': None, 'section': None, 'entry': None, 'url': None}

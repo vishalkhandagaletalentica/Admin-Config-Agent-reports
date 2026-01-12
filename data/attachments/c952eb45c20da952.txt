@@ -1,1 +1,0 @@
-{'entryId': 1191, 'sectionId': 11, 'flags': 0, 'entryName': 'PERIOD_TYPE', 'entryFriendlyName': 'Period Type', 'strValue': 'Period Type', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Period Type.', 'rangeList': None, 'validationRule': None, 'sequenceId': 133820.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

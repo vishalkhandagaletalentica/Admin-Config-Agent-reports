@@ -1,1 +1,0 @@
-The default optimization option for the Pipeline algorithm is enabled (optimized for speed).

@@ -1,0 +1,1 @@
+Is background pipeline simulation scheduling enabled?

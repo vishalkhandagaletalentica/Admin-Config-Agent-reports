@@ -1,0 +1,1 @@
+The Actual Output correctly conveys that the display of tasks by shifts has been disabled, aligning with the factual correctness of the Expected Output. However, it lacks the specific mention of the setting name and the confirmation of the update's success, which are present in the Expected Output. This omission slightly detracts from the completeness of the response.

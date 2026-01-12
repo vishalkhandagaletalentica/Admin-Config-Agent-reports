@@ -1,1 +1,0 @@
-The mandatory project attribute is enabled.

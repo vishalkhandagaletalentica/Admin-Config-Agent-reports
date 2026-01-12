@@ -1,1 +1,0 @@
-The current column mapping for the Excel file related to Text2 is "BOM Quantity."

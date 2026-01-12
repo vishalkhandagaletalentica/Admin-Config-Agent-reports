@@ -1,0 +1,1 @@
+The Actual Output partially addresses the intent of the Input by mentioning the filter name for 'All Work Card Skills', but it omits the context of the 'Skills dropdown list' specified in the Expected Output. While the factual content about the filter name is correct, the lack of complete context leads to a deduction in points.

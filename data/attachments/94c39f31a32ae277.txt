@@ -1,0 +1,1 @@
+The buffer consumption threshold that is currently set is "Ignore Buffer Consumed Adjusted."

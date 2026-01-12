@@ -1,1 +1,0 @@
-The task manager parameter name has been updated to task_manager_v3.

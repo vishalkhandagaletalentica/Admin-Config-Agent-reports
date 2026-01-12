@@ -1,1 +1,0 @@
-The current title displayed for the Subtask Resource Notes in the reports is "Res.Notes Updated."

@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, so please update the Task Float (Gantt) setting to a valid string value such as 'TF'.

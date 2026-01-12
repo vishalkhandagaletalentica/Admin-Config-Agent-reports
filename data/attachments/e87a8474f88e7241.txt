@@ -1,1 +1,0 @@
-The current filter name for the End of Last Period is "End of Previous Period."

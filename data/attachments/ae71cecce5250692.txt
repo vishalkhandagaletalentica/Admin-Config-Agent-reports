@@ -1,1 +1,0 @@
-Please update the display name for the Parent task's Task Manager to "Main Task Manager".

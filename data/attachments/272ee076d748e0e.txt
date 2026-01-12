@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the option to round the buffer size to the next hour enabled?'}, {'role': 'assistant', 'content': 'Yes — rounding the buffer size to the next hour is enabled.'}, {'role': 'user', 'content': 'Update this setting to disabled.'}, {'role': 'assistant', 'content': 'The buffer rounding option has been disabled.'}]

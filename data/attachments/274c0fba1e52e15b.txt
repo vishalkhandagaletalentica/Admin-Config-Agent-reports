@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'c92f69b0-7a96-44d0-910d-40e657a2b585', 'query': 'The section name is Subtask View for Project Mgr, Task Mgr and Resource Mgr clients, and the entry name is Fields to display in Compact View.'}

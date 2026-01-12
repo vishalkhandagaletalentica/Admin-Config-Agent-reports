@@ -1,0 +1,1 @@
+Yes — the "Show Managers Only in Project Mgr Filter" setting for Task Level Priorities By Project is enabled.

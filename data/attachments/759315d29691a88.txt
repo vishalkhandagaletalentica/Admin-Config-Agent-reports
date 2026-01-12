@@ -1,1 +1,0 @@
-The Auto DB Compact Threshold has been successfully updated to 2.

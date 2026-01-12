@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Mgr -> Subtask List: Hidden Fields', 'Task Mgr -> Subtask List: Column Order', 'Task List -> Task Mgr: Hidden Fields', 'Integration -> Task: TaskManager'], 'value': None, 'section': None, 'entry': None, 'url': None}

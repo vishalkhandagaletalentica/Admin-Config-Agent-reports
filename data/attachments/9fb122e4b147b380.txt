@@ -1,1 +1,0 @@
-The Streamliner Email Id for Authentication in Alerts has been updated from its previous value to user@example.com.

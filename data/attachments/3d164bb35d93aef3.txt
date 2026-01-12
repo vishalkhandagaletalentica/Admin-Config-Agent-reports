@@ -1,1 +1,0 @@
-The current mapping for Task Text 38 (Custom Task Text Field) is "NewText38".

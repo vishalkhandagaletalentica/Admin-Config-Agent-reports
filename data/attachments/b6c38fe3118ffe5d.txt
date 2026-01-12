@@ -1,1 +1,0 @@
-The current title displayed for the custom defined date in the reports is "Custom Date 1".

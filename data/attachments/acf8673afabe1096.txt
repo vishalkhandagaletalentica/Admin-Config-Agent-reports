@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'b6a9cf3e-469f-46d0-93c1-0bcdbf523952', 'query': 'What is the name for the second column preset in the table view?'}

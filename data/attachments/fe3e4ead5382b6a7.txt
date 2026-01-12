@@ -1,1 +1,0 @@
-The default value displayed for the Due Date Tolerance in the On-Time Delivery report is 15%.

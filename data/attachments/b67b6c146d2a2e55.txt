@@ -1,1 +1,0 @@
-The display name for Scheduling Parameters in column headers has been successfully updated to "Scheduling Settings".

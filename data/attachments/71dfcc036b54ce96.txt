@@ -1,0 +1,1 @@
+The buffer penetration point that turns the zone yellow when the chain is at zero percent is 40.

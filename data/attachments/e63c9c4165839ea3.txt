@@ -1,1 +1,0 @@
-Please update the sort order to A-BUFFER_TARGET_DATE,A-DATE_CREATED.

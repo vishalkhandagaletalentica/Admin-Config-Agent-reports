@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Header Names (title in Task Details)', 'Common -> Column Names (column headings in ConWeb)', 'Common -> Filter Names (filtering pane)'], 'value': None, 'section': None, 'entry': None, 'url': None}

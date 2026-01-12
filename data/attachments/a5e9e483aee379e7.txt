@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '1f99f341-378a-447f-8e4e-e85d93ac7a78', 'query': 'The correct section name is "Buffer Diagnostics Penetrating Chain report" and the ENTRY NAME is "Filters currently being displayed in the report."'}

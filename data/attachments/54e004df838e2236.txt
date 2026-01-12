@@ -1,0 +1,1 @@
+{'type': 'out-of-scope', 'selectable_values': None, 'value': None, 'section': None, 'entry': None, 'url': None}

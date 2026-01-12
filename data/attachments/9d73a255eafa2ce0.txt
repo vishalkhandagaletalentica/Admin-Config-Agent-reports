@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List -> Common', 'Full Kit Mgr -> Full Kit Report'], 'value': None, 'section': None, 'entry': None, 'url': None}

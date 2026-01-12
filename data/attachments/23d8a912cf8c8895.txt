@@ -1,1 +1,0 @@
-Please update the Auto DB Compact Threshold to 2.

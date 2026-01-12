@@ -1,0 +1,1 @@
+The Default Date Interval Selection has been successfully updated to Monthly.

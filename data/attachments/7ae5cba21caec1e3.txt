@@ -1,1 +1,0 @@
-The "Custom Path" used to download the Realization Project Viewer Installer is set to: http://newserver/path/to/RealizationProjectViewer.msi

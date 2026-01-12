@@ -1,0 +1,1 @@
+Yes — the team member display option for the Task Manager filter is enabled.

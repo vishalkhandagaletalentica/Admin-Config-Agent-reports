@@ -1,0 +1,1 @@
+Updated "Maximum Capacity" to "Total Capacity".

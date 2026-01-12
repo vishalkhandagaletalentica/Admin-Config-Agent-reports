@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Header Names — Include in Report (display name, string)', 'Task List -> Batch Printing — Include in Report (details to include in batch printing, integer)'], 'value': None, 'section': None, 'entry': None, 'url': None}

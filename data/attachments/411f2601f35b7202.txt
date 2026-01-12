@@ -1,0 +1,1 @@
+The value of the Subtask Resource Notes is EXECMGT_RESOURCE_NOTES.

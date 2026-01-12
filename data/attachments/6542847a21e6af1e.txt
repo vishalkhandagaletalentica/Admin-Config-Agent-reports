@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Attribute8 Status', 'Project Attribute4 Status', 'Project Attribute5 Status'], 'value': None, 'section': None, 'entry': None, 'url': None}

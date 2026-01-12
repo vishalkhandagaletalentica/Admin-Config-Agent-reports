@@ -1,1 +1,0 @@
-The "Expected Finish Date" column heading has been updated to "Projected Completion."

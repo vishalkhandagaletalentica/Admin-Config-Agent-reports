@@ -1,0 +1,1 @@
+The title displayed for the late-only filter in the reports is Early Arrival.

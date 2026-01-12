@@ -1,0 +1,1 @@
+The mistake is a type mismatch since the expected value type is a string but a number was provided; use one of the allowed values such as CUSTOM_TASK_TEXT1.

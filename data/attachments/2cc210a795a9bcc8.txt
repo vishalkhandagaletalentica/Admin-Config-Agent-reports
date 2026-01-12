@@ -1,1 +1,0 @@
-{'entryId': 554, 'sectionId': 11, 'flags': 0, 'entryName': 'BUFFER_STATUS', 'entryFriendlyName': 'Buffer Status', 'strValue': 'Buffer Status', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Display Name for Buffer Status in Filters', 'rangeList': None, 'validationRule': None, 'sequenceId': 121080.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

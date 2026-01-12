@@ -1,1 +1,0 @@
-The Task Custom Text field for trace as Key Event was updated from "KEY EVENT" to "NEW EVENT".

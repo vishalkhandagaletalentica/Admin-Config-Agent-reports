@@ -1,1 +1,0 @@
-Updated 'Data Point for Buckets' in Metrics -> Red Project Delay from START_OF_BUCKET to END_OF_BUCKET.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Chain View (Project Chain View/Project Penetrating Chain)', 'Work Card Information (Work Card Information)', 'Task List -> Common (Task List - Common)'], 'value': None, 'section': None, 'entry': None, 'url': None}

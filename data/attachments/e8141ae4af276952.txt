@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it states that the display of P2P Buffers is disabled, which aligns with the Expected Output. However, the inclusion of 'No' at the beginning introduces a slight redundancy and could be seen as unnecessary, which detracts from the conciseness of the response.

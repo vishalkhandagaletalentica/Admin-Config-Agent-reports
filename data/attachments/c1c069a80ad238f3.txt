@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '1c97d3d8-e24e-455d-87cc-379c8ed0bbe8', 'query': 'I want to know whether the error-display flag is enabled for all warnings in that section.'}

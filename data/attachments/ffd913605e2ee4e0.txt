@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'What is the current default size of the Capacity Buffer as a percentage of load?'}, {'role': 'assistant', 'content': 'The default Capacity Buffer is 10% of load.'}, {'role': 'user', 'content': 'Set it to 15'}, {'role': 'assistant', 'content': 'The % Capacity Buffer is already set to 15%. No update is needed.'}]

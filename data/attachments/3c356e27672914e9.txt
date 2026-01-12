@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '1f7ef8b6-ecf2-4c31-8561-57b67c551d98', 'query': 'What is the column order in the Throughput drill down report?'}

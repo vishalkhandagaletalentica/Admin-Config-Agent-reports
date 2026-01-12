@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the title used for the filter as 'Weekly Sunday', which aligns with the Expected Output's factual content. It directly addresses the intent of the Input question regarding the filter name for Every Sunday, providing a clear and accurate response without introducing any incorrect facts or assumptions.

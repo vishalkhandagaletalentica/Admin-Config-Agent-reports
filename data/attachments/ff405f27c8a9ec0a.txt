@@ -1,1 +1,0 @@
-The current title displayed for the "Include Project Wait Time" filter in the Cycle Time report is "Exclude Project Wait Time."

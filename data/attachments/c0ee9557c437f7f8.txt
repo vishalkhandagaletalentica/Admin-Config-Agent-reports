@@ -1,1 +1,0 @@
-The Text8 column mapping is already set to 'PE'. No update is needed.

@@ -1,0 +1,1 @@
+The Actual Output states 'New MSP ID', which is factually correct as it matches the Expected Output. However, it does not explicitly mention the context of 'P2P From MSP ID', which is crucial for fully addressing the intent of the Input question. This partial alignment with the intent results in a moderate score.

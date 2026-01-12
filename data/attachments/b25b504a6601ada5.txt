@@ -1,1 +1,0 @@
-The Actual Output correctly conveys that the option to show managers only in the task manager filter has been enabled, aligning with the factual correctness of the Expected Output. However, it lacks the detail of 'successfully updated' which is present in the Expected Output, leading to a slight deduction in points for completeness.

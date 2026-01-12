@@ -1,0 +1,1 @@
+The Column Preset 2 for CC Mode is: Phase, blue, NewCheckList, Task Type, Task Name, Status, Updated Dur, Resources, Predecessors Updated, Successor Tasks, New Start Date, New Auto RU Dur, New Auto Rollup Resource.

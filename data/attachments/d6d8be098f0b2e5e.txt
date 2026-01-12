@@ -1,1 +1,0 @@
-{'entryId': 210, 'sectionId': 11, 'flags': 0, 'entryName': 'TASKSTATUS', 'entryFriendlyName': 'Task Status', 'strValue': 'In Progress', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'TASKSTATUS', 'rangeList': None, 'validationRule': None, 'sequenceId': 114200.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

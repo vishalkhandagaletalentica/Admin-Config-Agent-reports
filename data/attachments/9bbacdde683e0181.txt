@@ -1,0 +1,1 @@
+I couldn't apply that value. The value should be a string and must be one of: AUTHOR, CATEGORY, SUBJECT, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4, ATTRIBUTE5. Which of these should I set for the Project Attribute Field For External Mapping?

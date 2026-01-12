@@ -1,1 +1,0 @@
-Yes — the stretch limit for fixed and in‑process projects is enabled (the "Don't Limit Stretch For Fixed In Process Projects" option is disabled).

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'f542a3b2-839e-44a7-80e9-3518b15d3fe3', 'query': "Please update the SQS Queue Name for Buffer Management to 'my-updated-bm-queue.fifo'."}

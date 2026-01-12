@@ -1,1 +1,0 @@
-Auto-link of subtasks has been enabled.

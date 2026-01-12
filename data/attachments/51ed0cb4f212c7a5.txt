@@ -1,1 +1,0 @@
-The Status column in the Excel file is currently mapped to "Task Status".

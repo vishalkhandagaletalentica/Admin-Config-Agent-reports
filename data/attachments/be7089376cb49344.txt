@@ -1,1 +1,0 @@
-I couldn't apply that update to Filters to display (Buffer Diagnostics -> By Help Needed) because you don't have privileges to change configurations. The current filters are: CATEGORY, AUTHOR. Please grant update permissions or ask an administrator to apply: AUTHOR,CATEGORY,SUBJECT,ATTRIBUTE1.

@@ -1,1 +1,0 @@
-{'entryId': 1974, 'sectionId': 10, 'flags': 0, 'entryName': 'SPECIAL_TASK_TYPE', 'entryFriendlyName': 'Special Task Type', 'strValue': 'Special Task Type', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Special Task Type', 'rangeList': None, 'validationRule': None, 'sequenceId': 139480.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

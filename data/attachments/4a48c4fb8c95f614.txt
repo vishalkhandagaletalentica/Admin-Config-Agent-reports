@@ -1,0 +1,1 @@
+The display name for Unchanged in filters is "disabled".

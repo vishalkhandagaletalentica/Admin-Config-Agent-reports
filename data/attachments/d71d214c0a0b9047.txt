@@ -1,1 +1,0 @@
-The default sort is NEW_COLUMN (descending) then TASK_DESCRIPTION (ascending).

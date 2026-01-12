@@ -1,0 +1,1 @@
+Milestone Type for the Common → Filter Names has been updated from "New Milestones" to "Updated Milestones".

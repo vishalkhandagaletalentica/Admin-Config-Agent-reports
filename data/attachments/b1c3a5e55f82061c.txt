@@ -1,1 +1,0 @@
-The default number of scenarios shown in the Recent list is 20.

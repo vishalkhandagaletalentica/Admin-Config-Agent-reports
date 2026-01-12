@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Is the SAP Integration Module currently enabled?'}, {'role': 'assistant', 'content': 'No — the SAP Integration Module is currently disabled.'}, {'role': 'user', 'content': 'Set it to Enabled'}, {'role': 'assistant', 'content': 'Done — the SAP Integration Module is now enabled.'}]

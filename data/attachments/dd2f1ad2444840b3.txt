@@ -1,0 +1,1 @@
+{'entryId': 863, 'sectionId': 10, 'flags': 0, 'entryName': 'CHAIN_DEPTH', 'entryFriendlyName': 'Chain Seq', 'strValue': 'New Chain Seq', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Chain Depth', 'rangeList': None, 'validationRule': None, 'sequenceId': 117260.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

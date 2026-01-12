@@ -1,1 +1,0 @@
-The Duration for Delta Buff Cnsmd in NS Tasks has been successfully updated to 15.

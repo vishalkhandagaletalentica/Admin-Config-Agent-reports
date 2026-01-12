@@ -1,0 +1,1 @@
+I can't apply the value 'xyz' because that setting expects a boolean. The value should be boolean (e.g., enabled/disabled, included/excluded).

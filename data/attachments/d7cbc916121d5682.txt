@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Diagnostics — Committed, In Queue', 'Project Mgr → Project Control — Committed, In Queue', 'Project Mgr → Modify Projects — Committed, In Queue'], 'value': None, 'section': None, 'entry': None, 'url': None}

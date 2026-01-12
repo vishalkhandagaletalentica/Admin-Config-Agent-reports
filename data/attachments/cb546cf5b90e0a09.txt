@@ -1,0 +1,1 @@
+No, the Custom Line option is not enabled in the Cycle Time report.

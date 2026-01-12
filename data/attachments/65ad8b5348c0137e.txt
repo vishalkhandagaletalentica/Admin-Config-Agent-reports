@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the project attribute field for external mapping?'}, {'role': 'assistant', 'content': 'The project attribute field for external mapping is SUBJECT.'}, {'role': 'user', 'content': 'Update this setting to AUTHOR.'}, {'role': 'assistant', 'content': 'Project Attribute Field For External Mapping updated from SUBJECT to AUTHOR.'}]

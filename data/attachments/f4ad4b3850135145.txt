@@ -1,0 +1,1 @@
+The Sub Task fields to be updated during integration are TASK_RESOURCES_LIST, REMAINING_DURATION, TASK_STATUS, TASK_MANAGER_ID.

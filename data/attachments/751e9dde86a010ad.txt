@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '5eb19a40-691e-4e0c-aa0e-21a43ff33b22', 'query': 'Please update the Checklist Complete Tag to "finished".'}

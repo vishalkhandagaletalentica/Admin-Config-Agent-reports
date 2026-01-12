@@ -1,0 +1,1 @@
+{'entryId': 289, 'sectionId': 20, 'flags': 0, 'entryName': 'FILTERING', 'entryFriendlyName': 'Filter', 'strValue': 'NS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Default Milestone Filter', 'rangeList': '$MULTILIST:NS,CO,LATE,IMS', 'validationRule': None, 'sequenceId': 205780.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

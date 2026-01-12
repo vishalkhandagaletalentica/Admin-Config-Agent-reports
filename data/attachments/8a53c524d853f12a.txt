@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it confirms that subprojects are enabled in the Project Control view, aligning with the Expected Output. However, it lacks the explicit mention of 'option to display,' which is a key detail in the Input. While the response is relevant and addresses the intent, the omission of this detail slightly detracts from its completeness.

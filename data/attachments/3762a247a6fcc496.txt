@@ -1,1 +1,0 @@
-The current column title is "Percent Full Completion".

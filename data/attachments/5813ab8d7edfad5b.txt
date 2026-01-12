@@ -1,1 +1,0 @@
-Yes, the feeding chain is currently set to move independently from the parallel chain.

@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, and valid options include CUSTOM_TASK_TEXT1, CUSTOM_TASK_TEXT2, CUSTOM_TASK_TEXT3, etc.; please use a valid string like CUSTOM_TASK_TEXT1 instead of 12345.

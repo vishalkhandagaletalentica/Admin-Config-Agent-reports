@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the column mapping for Text10 as FIRST_CRT_DATE, which aligns with the Expected Output. However, it lacks the additional context of 'when importing a CSV or Excel file in the Planning client,' which is part of the Input question. This omission slightly detracts from fully addressing the intent of the question.

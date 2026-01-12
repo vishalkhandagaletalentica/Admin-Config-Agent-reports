@@ -1,0 +1,1 @@
+The columns hidden in the Print Preview for the Contractual Milestone Chain View are Task Type, UID123, New Description, Task Mgr, New Start Date, Status, Updated Dur, % Project Buffer Consumption, % MB Cnsm`d, Comments Updated, Last Update, and NewCheckList.

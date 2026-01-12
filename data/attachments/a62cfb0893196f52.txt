@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It confirms that the display of security labels is enabled, which aligns with the Expected Output. However, it lacks the specific mention of 'Concerto Enterprise and Web,' which is a minor detail that prevents a perfect score.

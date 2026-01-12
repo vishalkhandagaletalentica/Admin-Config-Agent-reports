@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '0c0460a0-2f71-4704-a212-cefeb2d7e26c', 'query': 'Please update the Import Export Date Format in Gantt to "MM/DD/YYYY".'}

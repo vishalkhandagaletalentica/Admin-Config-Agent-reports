@@ -1,0 +1,1 @@
+The title for the Checklist Item Close Date column is "New Checklist Item Close Date."

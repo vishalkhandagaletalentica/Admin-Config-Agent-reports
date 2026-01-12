@@ -1,1 +1,0 @@
-The "Committed, In Queue" setting in the Pipeline View report is disabled.

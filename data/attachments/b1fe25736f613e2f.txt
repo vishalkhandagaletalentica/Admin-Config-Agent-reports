@@ -1,1 +1,0 @@
-The resource availability setting (Enable resource based pipeline) is enabled.

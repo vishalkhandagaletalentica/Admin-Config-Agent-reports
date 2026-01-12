@@ -1,1 +1,0 @@
-The password rule for containing uppercase characters has been enabled.

@@ -1,1 +1,0 @@
-Can you show me if the warning for committing projects with mismatched resource groups is currently enabled?

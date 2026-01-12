@@ -1,1 +1,0 @@
-The display name for the initial buffer size in the headers is "Initial Buffer Size."

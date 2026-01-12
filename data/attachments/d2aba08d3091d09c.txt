@@ -1,0 +1,1 @@
+I can't update "Ignore IP sub task updates during Integration" because the value should be boolean (e.g., enabled/disabled). The current value is enabled.

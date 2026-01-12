@@ -1,1 +1,0 @@
-The option to include only the selected milestones in the project status report is set to "All_CMS".

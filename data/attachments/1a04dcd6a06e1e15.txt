@@ -1,6 +1,0 @@
-Hidden columns in the Print Preview for the Pipeline View report:
-- Trend
-- Description
-- Status
-- Delay
-- FK Description

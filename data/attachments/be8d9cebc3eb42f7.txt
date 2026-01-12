@@ -1,1 +1,0 @@
-The option to use multiple calendars for a task is currently enabled.

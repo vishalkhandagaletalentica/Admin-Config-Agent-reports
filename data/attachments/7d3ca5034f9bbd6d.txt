@@ -1,1 +1,0 @@
-The current title displayed for the Global Max units in the reports is "Global Max units."

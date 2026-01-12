@@ -1,1 +1,0 @@
-The window size for grouping task priorities (Project Mgr → Task Level Priorities By Resource) is 5.

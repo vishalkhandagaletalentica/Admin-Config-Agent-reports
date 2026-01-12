@@ -1,1 +1,0 @@
-The Work Day column heading has been updated from "Work Day" to "Business Day."

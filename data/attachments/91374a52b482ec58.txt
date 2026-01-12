@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_ADV_FLT_COLUMN_MAP', 'entry': None, 'url': None}

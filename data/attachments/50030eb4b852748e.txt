@@ -1,1 +1,0 @@
-Stretch Limit as Percent of Project Buffer Override for Fixed Projects updated to 10.

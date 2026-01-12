@@ -1,0 +1,1 @@
+{'entryId': 2383, 'sectionId': 143, 'flags': 0, 'entryName': 'INTEGRATION_TASK_TIMEOUT', 'entryFriendlyName': 'Timeout', 'strValue': None, 'floatValue': None, 'intValue': 10000, 'valueType': 0, 'itemDesc': 'Time for execution', 'rangeList': None, 'validationRule': None, 'sequenceId': 1477660.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

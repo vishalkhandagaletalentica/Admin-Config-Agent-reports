@@ -1,1 +1,0 @@
-I've disabled checkin of MPP files. It is now disabled (previously enabled).

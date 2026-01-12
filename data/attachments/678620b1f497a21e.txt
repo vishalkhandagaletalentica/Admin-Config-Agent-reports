@@ -1,0 +1,1 @@
+Filters Available (specify which filter names can be shown in the Advanced Filtering tool), Filters To Display (select the default filters to display in the report)

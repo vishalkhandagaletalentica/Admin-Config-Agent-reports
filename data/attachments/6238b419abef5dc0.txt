@@ -1,1 +1,0 @@
-The current title for the Percent Full Kit Complete in the filtering pane is "Min Percent Complete."

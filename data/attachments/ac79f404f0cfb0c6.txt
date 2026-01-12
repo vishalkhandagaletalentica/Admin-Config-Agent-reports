@@ -1,1 +1,0 @@
-Confirmed: the Email Body under Subtask Excel (Integration -> Subtask) is currently set to: "Your file has been successfully processed. Attached are the log files for your review."

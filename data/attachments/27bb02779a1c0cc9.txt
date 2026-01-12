@@ -1,0 +1,1 @@
+The section name is "Assign Task Managers" and the entry name is "Columns hidden in report."

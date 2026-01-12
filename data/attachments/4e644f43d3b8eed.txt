@@ -1,0 +1,1 @@
+The Actual Output incorrectly states that the 'Is mandatory' column name is 'Optional', which contradicts the factual correctness required by the Expected Output. This misrepresentation leads to a significant deduction in points, as it fails to address the intent of the Input question accurately.

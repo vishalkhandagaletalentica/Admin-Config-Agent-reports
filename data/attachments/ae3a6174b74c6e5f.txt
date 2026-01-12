@@ -1,1 +1,0 @@
-The Actual Output correctly conveys the factual information that customer validation is enabled, aligning with the Expected Output's meaning. However, it lacks the additional detail of 'currently,' which slightly diminishes its completeness. The response is relevant and directly addresses the intent of the Input question without introducing incorrect facts.

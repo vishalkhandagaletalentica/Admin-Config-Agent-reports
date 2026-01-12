@@ -1,1 +1,0 @@
-Please update the Reduce rollup duration percent to 50.

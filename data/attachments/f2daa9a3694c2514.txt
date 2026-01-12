@@ -1,0 +1,1 @@
+Yes — the filter for showing the weighted average delay is enabled.

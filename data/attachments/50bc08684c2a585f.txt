@@ -1,0 +1,1 @@
+The correct section name is "Chain View Summary" and the ENTRY NAME is "Columns hidden in report."

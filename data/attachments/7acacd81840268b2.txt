@@ -1,0 +1,1 @@
+The Hidden subtask types setting is empty — no subtask types are currently hidden in the Task List and Planning client.

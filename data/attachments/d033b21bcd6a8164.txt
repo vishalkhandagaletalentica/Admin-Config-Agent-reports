@@ -1,0 +1,1 @@
+The number of weeks in the past included in the Executive Queues Drilldown report is 8.

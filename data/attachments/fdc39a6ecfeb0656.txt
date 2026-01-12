@@ -1,0 +1,1 @@
+I've updated Project Attribute 8 (Bulk Import) from an empty value to "New Value".

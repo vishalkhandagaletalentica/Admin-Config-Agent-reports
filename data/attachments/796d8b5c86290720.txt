@@ -1,0 +1,1 @@
+The display name for the URL in the column headers is "[your new value]".

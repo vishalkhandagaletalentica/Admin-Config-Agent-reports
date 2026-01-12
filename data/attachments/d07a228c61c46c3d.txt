@@ -1,0 +1,1 @@
+The Actual Output lists the filters available in the 'By Help Needed' report, which aligns with the Expected Output. However, it omits 'Task Manager Pro' and includes it in a way that may imply it is a filter, which could lead to confusion. The response is mostly relevant and factually correct, but the slight deviation in the list affects its overall accuracy.

@@ -1,1 +1,0 @@
-The "Projected CT with Stretch" column heading has been updated from "Pipeline Projected Cycle Time (d)" to "New Projected Cycle Time (d)".

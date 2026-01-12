@@ -1,1 +1,0 @@
-The current column mapping for Text8 when importing a CSV or Excel file is PE.

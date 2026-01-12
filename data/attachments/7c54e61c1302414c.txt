@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the time component displayed in the ConWeb reports?'}, {'role': 'assistant', 'content': 'Yes — the time component is displayed in ConWeb reports.'}, {'role': 'user', 'content': 'Update this setting to hide the time component.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

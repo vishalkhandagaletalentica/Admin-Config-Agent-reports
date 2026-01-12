@@ -1,0 +1,1 @@
+The default program performance period type is Weekly.

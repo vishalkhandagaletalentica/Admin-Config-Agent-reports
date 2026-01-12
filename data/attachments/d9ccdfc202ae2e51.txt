@@ -1,1 +1,0 @@
-Number of Projects to Display in Project List Main Report updated from 5 to 10.

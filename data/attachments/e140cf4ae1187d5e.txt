@@ -1,1 +1,0 @@
-The command is invalid because the value you are trying to set is of type integer, but the expected type for `strValue` is a string. Please provide a valid string value instead. The correct command should look something like this: `update configuration set value to 'New Value'`. For example, you could use `update configuration set value to 'REV_EF_NEW'`.

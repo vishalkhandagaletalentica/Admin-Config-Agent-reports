@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'dd9a8344-71dd-4c7b-9757-bedb127e7c8d', 'query': "Please update the SNS Topic Display Name for Project CheckOut to 'yyyyy Project CheckOut'."}

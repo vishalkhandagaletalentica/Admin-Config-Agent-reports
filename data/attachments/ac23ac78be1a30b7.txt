@@ -1,1 +1,0 @@
-Display In Results Pane is now set to Cycle Time (was Throughput).

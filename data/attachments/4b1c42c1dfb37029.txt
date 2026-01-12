@@ -1,1 +1,0 @@
-{'entryId': 963, 'sectionId': 55, 'flags': 0, 'entryName': 'BREAKDOWN_BY_TASKMGR', 'entryFriendlyName': 'Task Managers', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Breakdown Tasks by Task Managers', 'rangeList': None, 'validationRule': None, 'sequenceId': 569260.0, 'groupOrMerge': '$GROUP:BREAKDOWN_BY', 'attributeFlag': 0.0, 'attrBack': ''}

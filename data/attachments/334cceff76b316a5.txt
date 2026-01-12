@@ -1,1 +1,0 @@
-What is the current filter name set for the Project Unit in the Throughput report?

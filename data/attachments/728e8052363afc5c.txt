@@ -1,1 +1,0 @@
-The Committed, In Queue setting in Buffer Diagnostics is currently disabled.

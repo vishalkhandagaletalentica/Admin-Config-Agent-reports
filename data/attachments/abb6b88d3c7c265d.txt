@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Common (Default Task Status Filter)', 'Project Mgr -> Contractual Milestone Chain View/Milestone Penetrating Chain (Default Task Status Filter)', 'Project Mgr -> Project Chain View/Project Penetrating Chain (Default Task Status Filter)'], 'value': None, 'section': None, 'entry': None, 'url': None}

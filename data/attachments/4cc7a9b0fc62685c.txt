@@ -1,0 +1,1 @@
+The Actual Output lists some of the hidden columns but fails to include all the columns mentioned in the Expected Output, such as 'Task Unique ID' and 'Custom Task Text10'. This results in a partial answer that does not fully address the intent of the Input question.

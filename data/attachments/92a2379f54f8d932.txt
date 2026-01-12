@@ -1,1 +1,0 @@
-{'entryId': 1700, 'sectionId': 10, 'flags': 0, 'entryName': 'WORK_CARD_SKILL', 'entryFriendlyName': 'Skill', 'strValue': 'Skill', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Work Card Skill.', 'rangeList': None, 'validationRule': None, 'sequenceId': 134000.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

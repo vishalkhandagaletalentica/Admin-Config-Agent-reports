@@ -1,0 +1,1 @@
+The title displayed for the total number of tasks per project in the reports is "New Tasks."

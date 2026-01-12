@@ -1,0 +1,1 @@
+I couldn't find a configuration matching 'Actual Delay report'. Could you tell me which configuration section (for example: Reports, Scheduling, or Reporting->Delays) and confirm the entry name you mean (is it exactly 'Actual Delay' or something similar)?

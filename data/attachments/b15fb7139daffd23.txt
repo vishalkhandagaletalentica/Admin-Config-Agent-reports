@@ -1,0 +1,1 @@
+Yes — the Insert feeding buffer option is enabled for scheduling.

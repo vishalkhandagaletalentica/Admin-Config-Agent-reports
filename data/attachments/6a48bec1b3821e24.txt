@@ -1,0 +1,1 @@
+The default sorting order for the Task Level Priorities By Resource report is by Task Type and Constraint Date.

@@ -1,1 +1,0 @@
-What is the current priority level set for the first color buffer?

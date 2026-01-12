@@ -1,0 +1,1 @@
+Updated 'Show Full Path for All Chains' from 'Display Complete Path for All Chains' to 'Display Only Path for All Chains'.

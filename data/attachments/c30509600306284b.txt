@@ -1,0 +1,1 @@
+You can display the following filters in the Resource L:C report: New Division, New Project Name, Updated Resource Manager, and New Horizon.

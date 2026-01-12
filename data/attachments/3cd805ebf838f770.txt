@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Default Horizon to 90.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Default Horizon" setting?'}, {'role': 'user', 'content': 'The section name is Project Chain View, and the entry name is Default Horizon.'}, {'role': 'assistant', 'content': 'The Default Horizon has been updated from 60 to 90.'}]

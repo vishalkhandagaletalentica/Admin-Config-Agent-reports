@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_WEB_MGR', 'entry': 'PERCENTAGE_STRETCH_REGULAR_PROJ', 'url': None}

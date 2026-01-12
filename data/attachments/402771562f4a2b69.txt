@@ -1,0 +1,1 @@
+{'entryId': 87, 'sectionId': 8, 'flags': 1, 'entryName': 'InitialXBuckets', 'entryFriendlyName': 'InitialXBuckets', 'strValue': None, 'floatValue': None, 'intValue': 40, 'valueType': 0, 'itemDesc': 'InitialXBuckets', 'rangeList': None, 'validationRule': None, 'sequenceId': 81740.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

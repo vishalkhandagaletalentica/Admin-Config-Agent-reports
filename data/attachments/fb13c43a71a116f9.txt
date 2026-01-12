@@ -1,1 +1,0 @@
-Please update the setting to disable the inclusion of Project Wait Time in the Cycle Time report.

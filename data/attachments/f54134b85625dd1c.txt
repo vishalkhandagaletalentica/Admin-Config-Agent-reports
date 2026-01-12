@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Pen/%Complete Graph — Red threshold for CCCB', 'Buffer Pen/%Complete Graph — Red threshold for CMSB', 'DBR — Red threshold for CCCB'], 'value': None, 'section': None, 'entry': None, 'url': None}

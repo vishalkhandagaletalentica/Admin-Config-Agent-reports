@@ -1,1 +1,0 @@
-The current server location for the Subtask Excel file is: D:\Data\IntegrationFiles\subtask\

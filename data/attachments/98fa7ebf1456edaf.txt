@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '7d20aa2a-dc7f-4880-b223-7077bfa616a8', 'query': 'Is the display of load from Committed and In Queue projects turned on for the Resource L:C report and View Tasks By Resource?'}

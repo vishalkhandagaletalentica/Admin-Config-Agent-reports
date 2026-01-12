@@ -1,1 +1,0 @@
-The Actual Output correctly states that the option to automatically update FK Status is currently disabled, aligning with the Expected Output's factual content. However, it slightly deviates in wording and structure, which affects the overall alignment with the Expected Output. The response is relevant and addresses the intent of the Input question effectively.

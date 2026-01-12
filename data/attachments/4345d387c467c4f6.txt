@@ -1,1 +1,0 @@
-The buffer consumption threshold has been successfully updated to 300.

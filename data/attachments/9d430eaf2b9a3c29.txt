@@ -1,1 +1,0 @@
-{'entryId': 871, 'sectionId': 10, 'flags': 0, 'entryName': 'START_DATE', 'entryFriendlyName': 'Start Date', 'strValue': 'Start Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Start Date', 'rangeList': None, 'validationRule': None, 'sequenceId': 117420.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+Update this setting to Task Type,Document Access Links,Project Name,Chain Sequence Number,UID123,New MSP ID,New Description,Task Mgr,Status,New Participants,New Start Date,Updated Dur,% Project Buffer Consumption,% MB Cnsm`d,% FB Cnsm`d,Last Update,Comments Updated,Planned Finish Constraint,SNET Date.

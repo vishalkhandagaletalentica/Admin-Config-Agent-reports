@@ -1,1 +1,0 @@
-The current Time Interval filter for the Red Project Delay report is set to "Quarterly".

@@ -1,0 +1,1 @@
+{'type': 'confirm', 'selectable_values': None, 'value': {'old': 'Project Name', 'new': 'Trend, Due Date, Project Name'}, 'section': 'SGD_PIPELINE_CONTROL_PROJ_LIST', 'entry': 'SORT', 'url': None}

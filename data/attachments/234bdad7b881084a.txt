@@ -1,0 +1,1 @@
+I matched "Column Headings" to the Common -> Column Names section and "Custom Task Date Field 30" to Task Date 30. The Custom Task Date Field 30 is already set to Date30Updated. No update is needed.

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'f7761590-ba48-4075-bcaa-995fc9083191', 'query': 'The section name is "Mapping of Fields for CSV/Excel Import" and the entry name is "Revised Baseline Name."'}

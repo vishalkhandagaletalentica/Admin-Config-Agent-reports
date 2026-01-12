@@ -1,0 +1,1 @@
+Yes — enabling checkin of CCX files is enabled.

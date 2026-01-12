@@ -1,1 +1,0 @@
-The current title for the Actual Count column is "Updated Actual Count".

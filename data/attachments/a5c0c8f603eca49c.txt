@@ -1,1 +1,0 @@
-The current title displayed for the "% Chain complete" column in the reports is "% Chain complete".

@@ -1,0 +1,1 @@
+Yes — the Action Item display name in column headers is enabled.

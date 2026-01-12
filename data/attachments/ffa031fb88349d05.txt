@@ -1,1 +1,0 @@
-The Columns hidden in report already includes EST_REM_DUR and ENABLE_AUTO_DOC_LINK. No update is needed.

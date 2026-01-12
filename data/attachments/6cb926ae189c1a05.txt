@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Checklist Integration -> Text2 (Fields Mapping for Checklist)', 'Integration -> Task -> Text2 (Column name for Task Excel)', 'Planning Client -> Adv. Filter Field Mapping -> Text 2 (Advanced filter mapping)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The current name displayed for the "Include Drum Phase Cycle Time" filter in the Cycle Time report is "Drum Phase Cycle Time."

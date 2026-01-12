@@ -1,0 +1,1 @@
+Is the load from Committed and In Queue projects displayed in the Resource L:C report?

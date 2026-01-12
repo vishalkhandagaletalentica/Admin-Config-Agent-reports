@@ -1,1 +1,0 @@
-The Timeout setting has been updated to 8000 (was 6000).

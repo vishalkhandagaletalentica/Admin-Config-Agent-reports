@@ -1,1 +1,0 @@
-The current value for the second custom task text field is CUSTOM_TASK_TEXT2.

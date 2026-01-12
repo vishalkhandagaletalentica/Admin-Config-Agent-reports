@@ -1,0 +1,1 @@
+The current filtering method for the Escalated Tasks report is based on Remaining Duration.

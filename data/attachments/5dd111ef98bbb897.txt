@@ -1,0 +1,1 @@
+The checklist title displayed in Task Details is "Updated Checklist".

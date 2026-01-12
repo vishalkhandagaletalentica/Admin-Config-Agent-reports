@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Full Kit Mgr -> Full Kit Report (Full Kit Mgr module)', 'Project Mgr -> Full Kit Report (Project Mgr module)'], 'value': None, 'section': None, 'entry': None, 'url': None}

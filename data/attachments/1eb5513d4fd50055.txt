@@ -1,0 +1,1 @@
+The Actual Output correctly confirms that the option to show managers only is enabled, aligning with the intent of the Input. However, it incorrectly refers to the 'Full Kit Manager filter' instead of the 'project manager filter,' which introduces a factual inaccuracy. This misalignment with the Expected Output's specific terminology affects the overall score.

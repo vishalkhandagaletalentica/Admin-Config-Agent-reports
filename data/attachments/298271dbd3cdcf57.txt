@@ -1,1 +1,0 @@
-The Actual Output provides a specific font size ('Large') that is factually incorrect compared to the Expected Output ('extra-large'). While it addresses the intent of the question, the incorrect fact significantly impacts the score.

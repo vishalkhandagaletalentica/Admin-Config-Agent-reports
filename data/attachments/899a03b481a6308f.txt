@@ -1,1 +1,0 @@
-The current title displayed for the "Planned" filter in the reports is "Scheduled."

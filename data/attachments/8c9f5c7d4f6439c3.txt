@@ -1,0 +1,1 @@
+No — the DisableNotResponding setting in Application -> Concerto Critical Chain is currently disabled, so MS Project can still show the "not responding" message.

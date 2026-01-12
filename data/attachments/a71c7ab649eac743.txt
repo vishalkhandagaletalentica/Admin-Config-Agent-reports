@@ -1,1 +1,0 @@
-The Text1 column title is already set to "New Column Title". No update is needed.

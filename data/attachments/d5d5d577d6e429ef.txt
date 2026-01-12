@@ -1,0 +1,1 @@
+Is auto-saving project revisions during planning enabled?

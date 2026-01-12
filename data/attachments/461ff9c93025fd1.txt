@@ -1,1 +1,0 @@
-I couldn't update the column mapping for Text3 to "Invoice Number" because you don't have privileges to update configurations. The current mapping remains "Order Number." Would you like help requesting the needed permissions or creating a change request?

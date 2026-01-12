@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names: Buffer Trend (Filter Name)', 'Common -> Column Names: Buffer Trend (Column Name)'], 'value': None, 'section': None, 'entry': None, 'url': None}

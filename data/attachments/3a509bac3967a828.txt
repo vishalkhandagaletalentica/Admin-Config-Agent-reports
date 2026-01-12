@@ -1,1 +1,0 @@
-The Default Horizon (for Completed Tasks) is already set to Last 2 Months. No update is needed. (The entry description still notes the original default as 1 Week.)

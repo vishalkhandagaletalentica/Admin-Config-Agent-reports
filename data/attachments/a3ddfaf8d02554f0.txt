@@ -1,0 +1,1 @@
+The Actual Output accurately states the column width for the Resource Hierarchy as 300, which is factually correct and directly addresses the intent of the Input question. The response is concise and maintains a professional tone, aligning well with the evaluation criteria.

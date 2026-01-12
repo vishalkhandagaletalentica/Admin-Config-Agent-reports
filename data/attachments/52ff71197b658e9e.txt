@@ -1,0 +1,1 @@
+No, the load from On Hold projects is not displayed in the Resource L:C report and the View Tasks By Resource report.

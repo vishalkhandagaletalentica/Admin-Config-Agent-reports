@@ -1,0 +1,1 @@
+Yes — the resource hierarchy display (Show Hierarchy) is enabled.

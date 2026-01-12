@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'How many working days in the past are being used to calculate the queue trend indicator?'}, {'role': 'assistant', 'content': 'The queue trend indicator uses the past 10 working days.'}, {'role': 'user', 'content': 'Set it to 5'}, {'role': 'assistant', 'content': "I've updated the queue trend indicator period from 10 days to 5 days."}]

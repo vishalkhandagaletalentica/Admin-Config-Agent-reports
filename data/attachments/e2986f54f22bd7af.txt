@@ -1,0 +1,1 @@
+{'type': 'success', 'selectable_values': None, 'value': {'old': 'test-input-2', 'new': 'test-input-1'}, 'section': 'SGD_TASK_TEXT_FIELDS', 'entry': 'CUSTOM_TASK_TEXT1', 'url': None}

@@ -1,1 +1,0 @@
-The filters currently being displayed in the Issue Resolution report are Task Manager Pro, Project, and Task Type.

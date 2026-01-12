@@ -1,0 +1,1 @@
+The hidden columns are: Custom Date 1, Custom Date 2, NewUID, [insert new value here], Division, Last Update, Last BM Date, Pipeline Priority, 10 days, Cancellation Reason Updated

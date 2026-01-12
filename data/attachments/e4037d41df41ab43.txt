@@ -1,1 +1,0 @@
-Print Font Size for Metrics reports updated from “FONT_LARGE” to “FONT_MEDIUM”.

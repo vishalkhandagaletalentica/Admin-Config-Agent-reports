@@ -1,0 +1,1 @@
+Which setting in Resource Requirement Charts do you mean: Default group by, Include Planned Projects, Include Committed, In Queue Projects, or another entry?

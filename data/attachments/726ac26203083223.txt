@@ -1,0 +1,1 @@
+Please update the setting to enable stretch during the pipeline. Set the value to Yes.

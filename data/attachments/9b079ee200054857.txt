@@ -1,0 +1,1 @@
+Updated. The Sort By label in the Filtering Pane (Sort Chains By) was changed from "Sort By" to "Chain Name".

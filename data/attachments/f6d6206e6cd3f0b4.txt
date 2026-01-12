@@ -1,0 +1,1 @@
+I added "Portfolio" to the Filters list entry (Filter Changes). The value was "New Filter Changes" and is now "New Filter Changes, Portfolio".

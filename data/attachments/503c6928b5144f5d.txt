@@ -1,1 +1,0 @@
-Custom Task Text Field 72 in Adv. filter in Gantt is set to "NewTaskText".

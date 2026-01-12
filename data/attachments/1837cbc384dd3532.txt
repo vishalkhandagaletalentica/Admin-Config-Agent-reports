@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Completion Date (Checklist Integration → Fields Mapping for Checklist)', 'ERP Id (Common → Column Names)'], 'value': None, 'section': None, 'entry': None, 'url': None}

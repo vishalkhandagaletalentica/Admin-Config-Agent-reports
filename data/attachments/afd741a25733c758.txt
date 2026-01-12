@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'f1840fb9-91e0-4aef-9af7-e367190ed659', 'query': 'The section name is "Resource Mgr -> Resource L:C report/view," and the entry name is "Hidden Fields."'}

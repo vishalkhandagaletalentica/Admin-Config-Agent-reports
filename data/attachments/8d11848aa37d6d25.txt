@@ -1,1 +1,0 @@
-The Project Attribute Name title shown in reports is "Attribute Name".

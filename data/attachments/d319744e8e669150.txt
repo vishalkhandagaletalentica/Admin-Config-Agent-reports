@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'RPD', 'entry': 'TIME_INTERVAL', 'url': None}

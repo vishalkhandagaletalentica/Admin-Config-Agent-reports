@@ -1,0 +1,1 @@
+{'entryId': 2046, 'sectionId': 10, 'flags': 0, 'entryName': 'SCHEDULING_OPTION', 'entryFriendlyName': 'Options', 'strValue': 'New Options', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Scheduling Option.', 'rangeList': None, 'validationRule': None, 'sequenceId': 140920.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

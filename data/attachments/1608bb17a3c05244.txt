@@ -1,0 +1,1 @@
+The Task Resume Date mapping in the advanced filter for Gantt is set to newResumeDate.

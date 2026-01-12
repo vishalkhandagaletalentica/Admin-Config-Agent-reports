@@ -1,0 +1,1 @@
+I couldn't update the Custom Task Text field for early arrival to CUSTOM_TASK_TEXT10 because you don't have permission to change configuration settings.

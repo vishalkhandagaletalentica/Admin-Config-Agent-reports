@@ -1,0 +1,1 @@
+The Actual Output provides a filter name but it is factually incorrect compared to the Expected Output, which states the filter name is 'Weekly'. Additionally, the response does not fully address the intent of the Input question, which specifically asks for the filter name in the context of the Actual Delay report.

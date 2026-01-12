@@ -1,0 +1,1 @@
+{'entryId': 1058, 'sectionId': 10, 'flags': 0, 'entryName': 'BUFFERCHAINCONSUMPTION', 'entryFriendlyName': 'Task Pen Chain Consumption', 'strValue': '% Chain Pen', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': "% Buffer Cnsm'd", 'rangeList': None, 'validationRule': None, 'sequenceId': 121160.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

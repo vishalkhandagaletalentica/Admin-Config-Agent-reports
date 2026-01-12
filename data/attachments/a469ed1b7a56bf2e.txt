@@ -1,0 +1,1 @@
+The value of the Red Milestone Buffer priority is 5.

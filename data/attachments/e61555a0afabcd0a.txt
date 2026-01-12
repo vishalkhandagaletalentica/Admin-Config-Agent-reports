@@ -1,0 +1,1 @@
+The Task Text 62 (Custom Task Text Field) in advanced filter settings is set to "Text62".

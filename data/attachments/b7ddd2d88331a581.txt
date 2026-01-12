@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Full Kit Manager', 'Full Kit Manager Filter', 'All Full Kit Managers Default Selection'], 'value': None, 'section': None, 'entry': None, 'url': None}

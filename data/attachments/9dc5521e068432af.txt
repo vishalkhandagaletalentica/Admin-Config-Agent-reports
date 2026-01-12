@@ -1,0 +1,1 @@
+Column Preset 1 (Float mode) contains: Task Name, Updated Dur, Task Duration, Task Calendar Name, Actual Start Date, Actual End Date, New Early Start, Late Finish, New Late Start, New Float Value, Normalized Float, Planned Finish Date, NewCheckList

@@ -1,0 +1,1 @@
+Internal Task Calendar is now set to Calendar View instead of Gantt Chart.

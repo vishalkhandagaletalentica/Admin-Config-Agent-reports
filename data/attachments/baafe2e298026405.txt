@@ -1,1 +1,0 @@
-Task Text 55 (Custom Task Text Field) in Adv. Filter Field Mapping has been updated from "Text55" to "NewText55".

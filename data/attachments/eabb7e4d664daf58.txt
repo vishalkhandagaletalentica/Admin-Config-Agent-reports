@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr/Resource Mgr → Escalated Tasks', 'Buffer Diagnostics → By Help Needed', 'Task List → Common'], 'value': None, 'section': None, 'entry': None, 'url': None}

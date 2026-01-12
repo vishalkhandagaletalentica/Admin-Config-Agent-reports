@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Attribute 7 (filter title)', 'Project Attribute 7 (column heading)', 'Project Attribute 7 (bulk import)', 'Project Attribute7 Status/Type/mandatory'], 'value': None, 'section': None, 'entry': None, 'url': None}

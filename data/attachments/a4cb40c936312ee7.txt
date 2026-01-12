@@ -1,0 +1,1 @@
+{'entryId': 2433, 'sectionId': 10, 'flags': 1, 'entryName': 'FLOAT', 'entryFriendlyName': 'Task Float', 'strValue': 'xyz', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Float (Gantt)', 'rangeList': None, 'validationRule': None, 'sequenceId': 148660.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

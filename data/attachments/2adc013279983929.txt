@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Warning Message Limit (limits number of warnings shown during project check-in)', 'Display Alerts (enable/disable alert popups)'], 'value': None, 'section': None, 'entry': None, 'url': None}

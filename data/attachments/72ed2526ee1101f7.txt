@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'e91d3bfb-acb2-45f4-94e1-1dd9afc6f0c8', 'query': "Please update the column name for Date2 in the Full Kit Task Checklist to 'DateModified'."}

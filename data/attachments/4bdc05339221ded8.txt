@@ -1,1 +1,0 @@
-The setting for displaying warnings about non-existent resources during project commits is disabled.

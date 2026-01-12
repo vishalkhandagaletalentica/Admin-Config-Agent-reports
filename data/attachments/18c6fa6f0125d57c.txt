@@ -1,1 +1,0 @@
-The Display Past filter is currently named "Past Timeframes."

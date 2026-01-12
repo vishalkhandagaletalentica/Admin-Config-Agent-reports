@@ -1,0 +1,1 @@
+The Last Update fields are Full Kit Status, %FK complete, FK date.

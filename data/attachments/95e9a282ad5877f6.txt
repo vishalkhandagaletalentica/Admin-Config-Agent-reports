@@ -1,1 +1,0 @@
-The current title displayed in the column headings for the Task Manager is "Task Mgr".

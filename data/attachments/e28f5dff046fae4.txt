@@ -1,1 +1,0 @@
-{'type': 'success', 'selectable_values': None, 'value': {'old': 'Max Cuml L:C', 'new': 'Maximum Cumulative Load'}, 'section': 'SGD_COLUMN_NAMES', 'entry': 'MAXCUM_LTOC', 'url': None}

@@ -1,1 +1,0 @@
-{'entryId': 136, 'sectionId': 10, 'flags': 0, 'entryName': 'PENETRATING_TASK_MSP_ID', 'entryFriendlyName': 'MS Project Identifier (Penetrating Task)', 'strValue': 'MSP ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'MSP ID', 'rangeList': None, 'validationRule': None, 'sequenceId': 102720.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

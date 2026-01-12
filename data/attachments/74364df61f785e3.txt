@@ -1,0 +1,1 @@
+The title displayed for sorting chains in the Chain View report is Chain Name.

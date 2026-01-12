@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['CMSB — Red Y intercept at 100% chain complete', 'CCFB — Red Y intercept at 100% chain complete', 'DBR — Red Y intercept at 100% chain complete'], 'value': None, 'section': None, 'entry': None, 'url': None}

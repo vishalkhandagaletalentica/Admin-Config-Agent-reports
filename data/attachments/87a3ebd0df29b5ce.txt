@@ -1,1 +1,0 @@
-The Reduce rollup duration percent has been successfully updated to 50.

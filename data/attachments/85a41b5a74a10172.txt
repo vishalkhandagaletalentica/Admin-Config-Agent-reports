@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'afe762b6-3f1e-43f1-a389-f27471cc24d4', 'query': 'The setting "DisableNotResponding" is in the Buffer Management section.'}

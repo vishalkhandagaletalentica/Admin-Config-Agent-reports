@@ -1,0 +1,1 @@
+The column name for users who have opened the network for editing is Collaborators Network.

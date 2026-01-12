@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Executive -> Performance — Time Interval', 'Common -> Filter Names — Time Interval'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the Project Chain View included in the Project Status report?'}, {'role': 'assistant', 'content': 'No — the Project Chain View is not included in the Project Status report (the setting is disabled).'}, {'role': 'user', 'content': 'Set it to enabled.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

@@ -1,0 +1,1 @@
+The Actual Output provides a detailed list of columns in the On-Time Delivery report, which contradicts the Expected Output stating that there are no visible columns. This indicates a complete factual inaccuracy, failing to address the intent of the Input question correctly.

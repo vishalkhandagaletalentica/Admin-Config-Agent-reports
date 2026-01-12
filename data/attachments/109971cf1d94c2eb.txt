@@ -1,1 +1,0 @@
-I tried to set the hidden columns to "Column A,Column B" but the update failed: the system requires validated column names and no matching column definitions were found for that section/entry. Would you like me to list the valid column names for the Full Kit task checklist so you can choose the correct values?

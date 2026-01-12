@@ -1,1 +1,0 @@
-Please enable the validation of calendars before BM.

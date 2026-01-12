@@ -1,1 +1,0 @@
-Can you show me whether the time component is currently displayed or hidden in the ConWeb reports?

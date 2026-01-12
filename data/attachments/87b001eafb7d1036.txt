@@ -1,0 +1,1 @@
+The column mapping for SNET Date when importing a CSV/Excel file is: SNET.

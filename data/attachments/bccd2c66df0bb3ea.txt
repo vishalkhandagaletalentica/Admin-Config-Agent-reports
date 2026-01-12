@@ -1,6 +1,0 @@
-The command is invalid because the value you are trying to set (12345) is not a valid type for the 'Hidden Fields' configuration. The expected type is a multi-list of values. 
-
-The allowed values should be a comma-separated list of strings. 
-
-For example, you could use the following command: 
-`update Hidden Fields set value to BM_LAST_UPDATE,LAST_UPDATE_DATE,PROJECT_UNIQUE_ID`

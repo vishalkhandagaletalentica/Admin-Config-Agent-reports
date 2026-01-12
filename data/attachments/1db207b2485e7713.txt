@@ -1,1 +1,0 @@
-The current title for the Chain Sequence Number column is "Chain Sequence Number."

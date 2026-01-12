@@ -1,1 +1,0 @@
-{'type': 'success', 'selectable_values': None, 'value': {'old': 'Time Interval', 'new': 'Monthly'}, 'section': 'SGD_FILTER_NAMES', 'entry': 'TIME_INTERVAL', 'url': None}

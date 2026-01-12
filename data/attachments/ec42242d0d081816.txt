@@ -1,1 +1,0 @@
-What is the current date set for the Planned Finish milestone in the Gantt filter settings?

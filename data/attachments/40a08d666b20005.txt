@@ -1,0 +1,1 @@
+Yes — projected calculations using projected date with stretch are enabled for the performance report.

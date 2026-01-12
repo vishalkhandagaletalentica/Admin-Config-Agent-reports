@@ -1,0 +1,1 @@
+Is the option to show completed tasks in Subtask View enabled?

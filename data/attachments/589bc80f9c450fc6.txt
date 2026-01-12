@@ -1,0 +1,1 @@
+Yes, the rollup subtask duration to the parent task in Execution during buffer management is enabled.

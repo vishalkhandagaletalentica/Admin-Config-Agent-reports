@@ -1,1 +1,0 @@
-{'entryId': 1170, 'sectionId': 70, 'flags': 0, 'entryName': 'DATE_RANGE_FUTURE', 'entryFriendlyName': None, 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 0, 'itemDesc': None, 'rangeList': '$RANGE:0,20', 'validationRule': None, 'sequenceId': 687300.0, 'groupOrMerge': '$MERGE:DATE_RANGE_PAST', 'attributeFlag': 0.0, 'attrBack': None}

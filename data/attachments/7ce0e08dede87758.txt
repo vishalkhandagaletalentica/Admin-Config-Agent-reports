@@ -1,0 +1,1 @@
+The content field for Task Ready to Start is: The task is now ready for you to begin. Visit %LINK% to access the Task List. Project: %PROJECT_NAME%, Task ID: %MSP_TASK_ID%, Unique Task ID: %TASKUNIQUEID%, Description: %TASK_DESCRIPTION%.

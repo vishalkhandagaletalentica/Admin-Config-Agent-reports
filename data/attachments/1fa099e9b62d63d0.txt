@@ -1,1 +1,0 @@
-The column name of task Rem Dur has been successfully updated to "TaskRemDurationNew".

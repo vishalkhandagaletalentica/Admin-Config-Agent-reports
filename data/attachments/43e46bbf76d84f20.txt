@@ -1,0 +1,1 @@
+The Text9 column name was updated from NewColumnName to NewColumnName2.

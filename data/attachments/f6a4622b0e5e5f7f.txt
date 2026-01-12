@@ -1,1 +1,0 @@
-The Default Due Date Tolerance Percentage has been successfully updated to 15%.

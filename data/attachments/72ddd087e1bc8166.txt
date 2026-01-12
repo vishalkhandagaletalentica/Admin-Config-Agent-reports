@@ -1,1 +1,0 @@
-{'entryId': 718, 'sectionId': 46, 'flags': 1, 'entryName': 'RESOURCE_MANAGER_ID', 'entryFriendlyName': 'RESOURCE_MANAGER_ID', 'strValue': 'RESOURCE_MANAGER_ID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 474360.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

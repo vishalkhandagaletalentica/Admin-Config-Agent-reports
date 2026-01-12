@@ -1,0 +1,1 @@
+No, the project attribute validation for Attribute7 is disabled.

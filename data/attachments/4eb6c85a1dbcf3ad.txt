@@ -1,0 +1,1 @@
+I can't update Subprojects in Pipeline View to "xyz" because this setting expects a boolean (enabled/disabled). The value should be boolean (e.g., enabled/disabled, included/excluded).

@@ -1,1 +1,0 @@
-The current push out routine being used for scheduling is LINEAR_AGGRESIVE_ROUTINE.

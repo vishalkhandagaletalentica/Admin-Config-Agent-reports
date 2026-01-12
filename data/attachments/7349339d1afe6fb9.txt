@@ -1,1 +1,0 @@
-The current title displayed for the Subtask Expected Finish in the Subtask List is "Subtask Expected Finish."

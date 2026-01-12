@@ -1,0 +1,1 @@
+Updated: Resource Notes (for Subtask) was "Res.Notes Updated" and is now "UPDATED_RESOURCE_NOTES".

@@ -1,0 +1,1 @@
+The filters that can be displayed in the report for the Modify Projects feature are Division, Project, Project Status, Project Manager, Category, Subject, and Author.

@@ -1,1 +1,0 @@
-The current mapping for Task Text 47 (Custom Task Text Field) in the advanced filter is "Text47".

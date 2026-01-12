@@ -1,3 +1,0 @@
-The command is invalid because the value you are trying to set (12345) is not of the expected type. The allowed value type for 'Hidden Fields' is a multi-list, which means you need to provide a comma-separated list of values. The correct format should include key-value pairs or just the values you want to set.
-
-For example, a valid command could be: `update Hidden Fields set value to 'BM_LAST_UPDATE,LAST_UPDATE_DATE,DIVISION'`.

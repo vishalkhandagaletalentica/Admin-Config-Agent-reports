@@ -1,0 +1,1 @@
+The section name is Buffer Diagnostics, and the entry name is Max Buffer Penetration percentage in Reason Code.

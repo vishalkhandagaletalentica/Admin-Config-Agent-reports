@@ -1,1 +1,0 @@
-The PenCentage of Max Buffer Pen (filter name) was updated from "% of Max Buffer Consumption" to "45%".

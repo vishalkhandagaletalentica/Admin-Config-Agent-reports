@@ -1,1 +1,0 @@
-The option to show the Project Manager in the WIP Report has been successfully enabled.

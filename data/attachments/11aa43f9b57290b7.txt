@@ -1,0 +1,1 @@
+Please update the filters available to include "Design Team Needed", "Project Attribute 5", "Project Attribute 6", "New Project Attribute Value" and exclude "Portfolio", "New Product Code", "Customer".

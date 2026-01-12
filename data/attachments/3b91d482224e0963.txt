@@ -1,0 +1,1 @@
+The Display Name for Original Buffer Size in headers was updated from "New Buffer Size" to "Updated Buffer Size".

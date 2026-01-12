@@ -1,0 +1,1 @@
+Done — 'Hide Time Component from Date' is now set to display the time component; it was previously hidden.

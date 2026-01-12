@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the number of days to keep before archiving the Flow Trend report?'}, {'role': 'assistant', 'content': 'The Days to Keep Before Archiving for the Flow Trend report is 200 days.'}, {'role': 'user', 'content': 'Set it to 180'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

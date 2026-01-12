@@ -1,1 +1,0 @@
-Enabled: the option to automatically select the logged in user in the Resource Manager Filter has been turned on.

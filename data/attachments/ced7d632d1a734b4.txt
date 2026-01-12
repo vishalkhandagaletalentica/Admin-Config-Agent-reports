@@ -1,1 +1,0 @@
-The current default fixed stretch limit is 5 days.

@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_WEB_MGR', 'entry': 'USE_SERVER_DATE_AS_TODAYS_DATE', 'url': None}

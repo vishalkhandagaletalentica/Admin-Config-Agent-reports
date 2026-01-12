@@ -1,0 +1,1 @@
+The default sorting order for the Assign Task Mgrs feature includes Resource Name, Task Mgr, and Project Name.

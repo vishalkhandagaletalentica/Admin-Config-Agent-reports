@@ -1,0 +1,1 @@
+The setting "Calculate Float based color considering Normalized Total Float" is set to RELATIVE.

@@ -1,1 +1,0 @@
-The auto save duration is 5 minutes.

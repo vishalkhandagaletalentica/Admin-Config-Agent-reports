@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Metrics -> Buffering (Planned)', 'Metrics -> Exclude Projects (Planned)'], 'value': None, 'section': None, 'entry': None, 'url': None}

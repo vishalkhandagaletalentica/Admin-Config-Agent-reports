@@ -1,1 +1,0 @@
-Please update the filters to display to include Task Manager, Project, Start Date, and Task Status only.

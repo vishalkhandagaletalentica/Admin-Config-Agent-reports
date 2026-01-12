@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_GRPT_ACT_BY_RES', 'entry': 'TASK_LVL_RESOURCE_SORT_WINDOW', 'url': None}

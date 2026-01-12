@@ -1,0 +1,1 @@
+Work Card Field 3 is mapped to EXEC_CUSTOM_TASK_TEXT2.

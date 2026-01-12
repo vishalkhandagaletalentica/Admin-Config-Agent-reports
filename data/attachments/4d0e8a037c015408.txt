@@ -1,0 +1,1 @@
+{'entryId': 1970, 'sectionId': 119, 'flags': 1, 'entryName': 'EnableSubtaskModule', 'entryFriendlyName': 'Enable Subtask', 'strValue': 'S2M_PC_Top48Piano', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Enable Subtask module.', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

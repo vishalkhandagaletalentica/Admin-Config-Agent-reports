@@ -1,1 +1,0 @@
-Please update the display name for "By Who" in column headers to "Assigned To New".

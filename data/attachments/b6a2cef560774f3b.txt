@@ -1,0 +1,1 @@
+I added "Priority Level" to the Sort Order for the Red Project Delay drill down report. The Sort Order is now: 10 days, Priority Level.

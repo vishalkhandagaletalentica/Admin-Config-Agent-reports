@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'e4fcb6d5-484b-4e61-8503-5fe8520e95a1', 'query': 'The section name is "Concerto Pipeline client parameters" and the entry name is "Percentage Stretch Limit."'}

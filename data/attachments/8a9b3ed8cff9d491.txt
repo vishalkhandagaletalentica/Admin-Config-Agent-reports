@@ -1,0 +1,1 @@
+No — the setting "Automatically update FK Status Complete based on checklist items" is currently disabled.

@@ -1,0 +1,1 @@
+The setting for Tasks in the Batch Printing report has been successfully updated to disabled.

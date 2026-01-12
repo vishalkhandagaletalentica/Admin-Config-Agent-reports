@@ -1,1 +1,0 @@
-The current display name for BM Horizon Start in the column headers is "BM Horizon Start Updated."

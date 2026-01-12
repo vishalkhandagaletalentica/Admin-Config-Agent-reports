@@ -1,1 +1,0 @@
-Correct — no update is needed; the predecessor task display name is already set to "Predecessors Updated."

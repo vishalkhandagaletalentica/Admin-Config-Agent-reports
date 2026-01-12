@@ -1,0 +1,1 @@
+{'entryId': 119, 'sectionId': 10, 'flags': 0, 'entryName': 'DIVISION', 'entryFriendlyName': 'Division', 'strValue': 'Division', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Division', 'rangeList': None, 'validationRule': None, 'sequenceId': 102380.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

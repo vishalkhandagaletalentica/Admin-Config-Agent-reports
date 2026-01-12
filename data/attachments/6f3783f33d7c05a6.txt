@@ -1,1 +1,0 @@
-The current setting for how many months or years back the reports cover is 90.

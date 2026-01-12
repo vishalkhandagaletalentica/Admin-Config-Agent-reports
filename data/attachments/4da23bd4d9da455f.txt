@@ -1,1 +1,0 @@
-{'entryId': 2797, 'sectionId': 10, 'flags': 0, 'entryName': 'SUBTASK_TYPE_NETWORK', 'entryFriendlyName': 'Subtask type Network', 'strValue': 'Network', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask type Network', 'rangeList': None, 'validationRule': None, 'sequenceId': 155940.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

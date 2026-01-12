@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Business Unit to "Updated Product Code".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Business Unit" setting?'}, {'role': 'user', 'content': 'The section name is "Column Headings".'}, {'role': 'assistant', 'content': 'The Business Unit has been updated to "Updated Product Code".'}]

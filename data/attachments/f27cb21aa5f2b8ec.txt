@@ -1,1 +1,0 @@
-The Shortage Quantity column is currently mapped to "Shortage Quantity".

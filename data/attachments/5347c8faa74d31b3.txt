@@ -1,1 +1,0 @@
-The Start Date mapping is already set to INT_ES. No update is needed.

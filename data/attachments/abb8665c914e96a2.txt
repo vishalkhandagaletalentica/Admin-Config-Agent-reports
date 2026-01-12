@@ -1,1 +1,0 @@
-The current filter name for the "Every 7 Days From Today" option is "Weekly Filter."

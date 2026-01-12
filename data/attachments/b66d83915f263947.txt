@@ -1,0 +1,1 @@
+No, task update email alerts are disabled.

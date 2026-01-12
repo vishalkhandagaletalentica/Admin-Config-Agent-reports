@@ -1,1 +1,0 @@
-Can you show me whether the automatic buffer management is set to create project files or not?

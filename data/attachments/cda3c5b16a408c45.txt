@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'dd16f7c1-adbf-4688-857d-1cdb01d97492', 'query': 'The section name is "Alert Generation Parameters" and the entry name is "Number of Retries with Minimum Delay".'}

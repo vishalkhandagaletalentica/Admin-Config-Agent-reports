@@ -1,1 +1,0 @@
-What is the current name set for the second column preset in the table view?

@@ -1,0 +1,1 @@
+Both settings have been updated: "Enable both CC and Float Schedule Mode" is now disabled, and "Scheduling mode" is now CC_ONLY.

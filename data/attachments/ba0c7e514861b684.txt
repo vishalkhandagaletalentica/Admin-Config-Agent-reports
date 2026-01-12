@@ -1,1 +1,0 @@
-The default font size set for Print Preview in the Project Chain View is extra-large.

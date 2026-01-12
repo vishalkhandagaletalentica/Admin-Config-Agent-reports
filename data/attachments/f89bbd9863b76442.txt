@@ -1,1 +1,0 @@
-The current title in the filtering pane is "Planned Date."

@@ -1,1 +1,0 @@
-The Sort Order in Common, Checklist -> Full Kit Task Custom Text Fields was updated from A-FK_CHECKLIST_SEQID to B-FK_CHECKLIST_SEQID.

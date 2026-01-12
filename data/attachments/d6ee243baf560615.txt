@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': {'old': 0, 'new': 1}, 'section': 'CCBMScheduling', 'entry': 'UpdateP2PMSDateInBM', 'url': None}

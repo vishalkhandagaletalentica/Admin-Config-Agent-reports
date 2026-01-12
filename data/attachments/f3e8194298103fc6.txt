@@ -1,5 +1,0 @@
-The command "update Sort Order to 12345" is invalid because the value you provided is of the wrong type. The "Sort Order" setting expects a string of sortable column names, not an integer. 
-
-Allowed values are in the format of sortable column names, such as 'A-DATE_CREATED' or 'A-BUFFER_TARGET_DATE'. 
-
-A correct example command would be: "update Sort Order to A-DATE_CREATED,A-BUFFER_TARGET_DATE".

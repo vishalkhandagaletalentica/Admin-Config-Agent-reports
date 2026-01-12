@@ -1,1 +1,0 @@
-The Actual Output accurately reflects the factual correctness of the Expected Output by stating that the Bulk Project Upload option is disabled, which aligns with the information that it is not available. Additionally, it directly addresses the intent of the Input question regarding the availability of the feature.

@@ -1,1 +1,0 @@
-What is the current title displayed for the completion status in the task checklist column?

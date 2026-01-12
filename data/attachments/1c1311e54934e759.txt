@@ -1,1 +1,0 @@
-The setting 'DBR_ColorPriority1' has been successfully updated to 'N'.

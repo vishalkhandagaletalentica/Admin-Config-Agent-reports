@@ -1,0 +1,1 @@
+The title for the Color Earliest Arrival column is "Earliest Arrival Color."

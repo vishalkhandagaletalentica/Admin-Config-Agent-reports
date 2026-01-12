@@ -1,1 +1,0 @@
-No, the average buffer consumption is not included in the Issue Resolution report.

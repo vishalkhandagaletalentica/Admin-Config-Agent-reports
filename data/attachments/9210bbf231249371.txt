@@ -1,0 +1,1 @@
+The column name for Addl Pipeline Delay with Stretch has been successfully updated to "Extended Stretch".

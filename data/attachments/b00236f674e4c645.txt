@@ -1,1 +1,0 @@
-{'entryId': 2538, 'sectionId': 146, 'flags': 1, 'entryName': 'EARLY_FINISH_DATE', 'entryFriendlyName': 'Early Finish', 'strValue': 'EF', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Early Finish', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510760.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

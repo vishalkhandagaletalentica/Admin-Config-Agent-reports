@@ -1,1 +1,0 @@
-Updated: the display name for Action Item in column headers is now set to "Task".

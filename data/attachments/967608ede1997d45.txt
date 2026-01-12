@@ -1,1 +1,0 @@
-I found the "SubTask Add or Delete" item under Column Headings. Its current value is "SubtaskAddOrDelete".

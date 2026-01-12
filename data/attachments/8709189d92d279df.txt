@@ -1,0 +1,1 @@
+I couldn't update the Task Status Filter in Task Level Priorities By Resource. The update failed: no column definition was found and the multi-select format could not be validated. Please provide a valid selection from the allowed status list (NS, CO, IP) or tell me which status labels you want to set.

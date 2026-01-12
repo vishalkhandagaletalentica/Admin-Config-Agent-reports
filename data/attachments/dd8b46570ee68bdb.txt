@@ -1,1 +1,0 @@
-The Actual Output accurately lists the hidden columns in the Buffering page report, matching the Expected Output in content. It directly addresses the intent of the Input question without introducing any incorrect facts or unrelated information. The phrasing differs from the Expected Output, but the factual meaning remains correct.

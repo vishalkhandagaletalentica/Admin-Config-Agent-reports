@@ -1,1 +1,0 @@
-Project Attribute 4 (the column heading title) has been updated from "Contractual Due Date" to "New Contractual Due Date".

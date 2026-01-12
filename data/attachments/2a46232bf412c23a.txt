@@ -1,1 +1,0 @@
-The Weight column header was updated to "Body Weight".

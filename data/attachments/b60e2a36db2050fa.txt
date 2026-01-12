@@ -1,0 +1,1 @@
+Set the default sorting order to "Ascending Task Type, Descending Document Access Links, Ascending Delivery Date".

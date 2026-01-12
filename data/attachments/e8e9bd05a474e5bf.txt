@@ -1,0 +1,1 @@
+The number of days set for depleting the queue as a percentage of the average buffer length is 75 days.

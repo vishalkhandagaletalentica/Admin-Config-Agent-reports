@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the default selection for the interval type in the Flow Trend report?'}, {'role': 'assistant', 'content': 'The default interval type for the Flow Trend report is Weeks.'}, {'role': 'user', 'content': 'Update this setting to Days.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Delay (Actual Delay Report)', 'Delay (Actual Delay Report - Weighted)', 'Delay (in Results and Rules)'], 'value': None, 'section': None, 'entry': None, 'url': None}

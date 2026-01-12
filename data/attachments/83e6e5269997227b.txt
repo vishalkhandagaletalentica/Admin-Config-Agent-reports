@@ -1,1 +1,0 @@
-The Longest Chain Complete column heading was updated from "Chain Complete" to "Longest Chain Complete".

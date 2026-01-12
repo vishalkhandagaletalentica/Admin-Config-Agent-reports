@@ -1,1 +1,0 @@
-The CustomText7 column name was updated from "" to "NewColumnName".

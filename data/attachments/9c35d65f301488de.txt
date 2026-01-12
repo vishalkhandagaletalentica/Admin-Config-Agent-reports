@@ -1,0 +1,1 @@
+Hidden columns are: Issue Tracker, Task, Division, Buffer Recovery, Last Update

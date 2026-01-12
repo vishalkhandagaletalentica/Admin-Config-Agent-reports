@@ -1,1 +1,0 @@
-I resolved that to the section “Common -> Project Attribute Type and status” and the item “Project Attribute7 Type”. Its current value is 2.

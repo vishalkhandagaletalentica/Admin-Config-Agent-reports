@@ -1,0 +1,1 @@
+Yes — the display name for "Update Planned Start" on the check-in page is set to "Next Scheduled Start".

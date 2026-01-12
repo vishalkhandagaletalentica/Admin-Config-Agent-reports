@@ -1,1 +1,0 @@
-The setting "Use UNION in Task Manager Filter" has been successfully updated to enabled.

@@ -1,1 +1,0 @@
-I attempted to update Column Order in Project/Milestone Penetrating Chain but the update failed: no column definition was found for that section and entry (the value must match the report's column list format). Would you like me to show the allowed columns for this report or provide a different value?

@@ -1,1 +1,0 @@
-The current display name for the checklists in the filtering pane is "Updated Checklists."

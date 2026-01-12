@@ -1,0 +1,1 @@
+Is the Buffer Management set to use the project's resource sheet?

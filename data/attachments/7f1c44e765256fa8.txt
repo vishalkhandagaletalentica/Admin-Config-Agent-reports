@@ -1,1 +1,0 @@
-The "Include Project Fullkit Link" setting for the Project Status view is currently disabled (not included).

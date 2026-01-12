@@ -1,1 +1,0 @@
-The filter "Compare With" has been updated to "Comparison".

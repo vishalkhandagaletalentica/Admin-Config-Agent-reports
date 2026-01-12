@@ -1,1 +1,0 @@
-The Task Status filter title is "In Progress (IP)".

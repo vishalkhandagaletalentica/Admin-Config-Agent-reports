@@ -1,1 +1,0 @@
-{'type': 'confirm', 'selectable_values': None, 'value': None, 'section': 'SGD_PIPELINE_CONTROL_ESCALTION_DELAY_DRILLDOWN', 'entry': 'COLUMN_ORDER', 'url': None}

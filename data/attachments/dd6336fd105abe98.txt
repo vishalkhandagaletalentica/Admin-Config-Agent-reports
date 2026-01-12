@@ -1,0 +1,1 @@
+The default name for the comparison line in the Throughput report is "New Comparison Line."

@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '03fa5ac9-649f-4851-8090-ebb85564a336', 'query': 'What is the default sorting order for the Full Kit Delay Drilldown report?'}

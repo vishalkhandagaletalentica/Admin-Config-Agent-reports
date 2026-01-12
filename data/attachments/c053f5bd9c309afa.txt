@@ -1,0 +1,1 @@
+The signup for new users is now enabled.

@@ -1,0 +1,1 @@
+The column heading title for roll up duration is "New roll up value".

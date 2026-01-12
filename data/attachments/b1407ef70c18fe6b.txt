@@ -1,1 +1,0 @@
-The default sorting order for checklist items is set to: A-CHECKLIST_SEQID.

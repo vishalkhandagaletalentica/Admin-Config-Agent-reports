@@ -1,1 +1,0 @@
-I couldn't update Column Preset 1 (Planning Client -> Table View CC mode): the system failed to validate the multi-list format because no column definition was found. Please provide a valid column list in the expected format, or tell me how you'd like this preset set.

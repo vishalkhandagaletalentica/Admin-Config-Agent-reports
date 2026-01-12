@@ -1,1 +1,0 @@
-{'entryId': 401, 'sectionId': 10, 'flags': 0, 'entryName': 'EXEC_ACTUAL_END_DATE', 'entryFriendlyName': 'Subtask Actual End', 'strValue': 'Subtask Actual End', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Subtask Actual End', 'rangeList': None, 'validationRule': None, 'sequenceId': 108020.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

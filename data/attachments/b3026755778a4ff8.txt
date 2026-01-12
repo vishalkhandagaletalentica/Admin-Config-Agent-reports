@@ -1,0 +1,1 @@
+Yes — the Completions chart is displayed by default in the Flow Trend report (enabled).

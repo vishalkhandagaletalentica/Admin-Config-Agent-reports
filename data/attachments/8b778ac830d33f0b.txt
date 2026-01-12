@@ -1,1 +1,0 @@
-The third column preset is set to: TASK_TYPE -> Task Type, TASKNAME -> Task Name, CHECKLIST_INDICATOR -> NewCheckList, REMAINING_DURATION -> Updated Dur, P2PADD_PREDECESSORTASK -> Predecessors Updated, P2PADD_SUCCESSORTASK -> Successor Tasks, TASK_RESOURCES_LIST -> Resources, TASK_STATUS -> Status, TASK_DURATION -> Task Duration, EARLIEST_ARRIVAL -> New Start Date.

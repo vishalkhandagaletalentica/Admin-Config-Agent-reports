@@ -1,1 +1,0 @@
-The Escalated advanced filter option has been enabled in the report.

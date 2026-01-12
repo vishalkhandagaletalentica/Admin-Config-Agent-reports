@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, and allowed values are "Day" or "Week"; please update the Period Type to "Day" or "Week".

@@ -1,0 +1,1 @@
+Hidden columns: Color, Task Mgr, Resources, Project Name, Status, UID123, New Description, Help Needed, Escalation Delay, Start Date, Last Update, New Parent Task UID.

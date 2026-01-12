@@ -1,0 +1,1 @@
+The value should be a string. Please provide the new value for COMMENTS as text (for example: "12345" or any other string) so I can apply the update.

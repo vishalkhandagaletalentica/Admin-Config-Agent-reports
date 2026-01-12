@@ -1,1 +1,0 @@
-The Task Type Filter has been successfully updated to Subtask Only.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Mgr -> Subtask List -> Search Columns for Task Table', 'Project Mgr -> Search Columns for TLP by Resource'], 'value': None, 'section': None, 'entry': None, 'url': None}

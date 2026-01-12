@@ -1,0 +1,1 @@
+{'entryId': 931, 'sectionId': 52, 'flags': 0, 'entryName': 'COMPLETED', 'entryFriendlyName': 'Completed', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Specifies if Completed projects should be displayed.', 'rangeList': '', 'validationRule': None, 'sequenceId': 538620.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

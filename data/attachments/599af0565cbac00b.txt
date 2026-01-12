@@ -1,1 +1,0 @@
-The current filter name for the Display Data Table in the Metrics reports is enabled.

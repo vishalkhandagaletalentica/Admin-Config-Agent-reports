@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is string, and allowed values are "Throughput" or "Cycle Time"; please update the command to "Please update the Display In Results Pane setting to Cycle Time."

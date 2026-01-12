@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it confirms that the 'In Process' setting is enabled, aligning with the Expected Output. However, it lacks the additional detail of explicitly stating 'the In Process setting' as in the Expected Output, which slightly affects its completeness. Overall, it addresses the intent of the Input question effectively.

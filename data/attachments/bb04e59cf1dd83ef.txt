@@ -1,0 +1,1 @@
+Yes — the Include Ignored Tasks option in Buffer Diagnostics is enabled.

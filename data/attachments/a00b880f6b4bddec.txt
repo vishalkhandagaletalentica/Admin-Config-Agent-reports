@@ -1,0 +1,1 @@
+Yes — the IP filter option for IMS tasks is enabled (it will be displayed) in the Milestone report.

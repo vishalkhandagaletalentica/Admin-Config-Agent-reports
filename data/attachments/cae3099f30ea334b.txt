@@ -1,1 +1,0 @@
-The current setting for the portfolio bulk import is Portfolio.

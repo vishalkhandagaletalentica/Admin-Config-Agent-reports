@@ -1,1 +1,0 @@
-The current setting for the default optimization option in the Pipeline algorithm is enabled for speed.

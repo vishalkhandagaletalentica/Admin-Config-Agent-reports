@@ -1,0 +1,1 @@
+The Help Needed Item column heading was updated to Assistance Required.

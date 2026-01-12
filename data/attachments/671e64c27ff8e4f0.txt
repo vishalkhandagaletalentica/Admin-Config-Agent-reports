@@ -1,0 +1,1 @@
+The Actual Output provides a label for the text columns but does not correctly identify the name used for the searchable text columns as specified in the Expected Output. It partially addresses the intent of the question but introduces incorrect information, leading to a low score.

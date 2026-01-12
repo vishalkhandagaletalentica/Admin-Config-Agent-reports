@@ -1,0 +1,1 @@
+{'entryId': 879, 'sectionId': 10, 'flags': 0, 'entryName': 'CUMILATIVE_GAP', 'entryFriendlyName': 'Total Gap In Chain', 'strValue': 'Total Gap In Chain', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Total Gap In Chain', 'rangeList': None, 'validationRule': None, 'sequenceId': 117580.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

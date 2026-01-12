@@ -1,0 +1,1 @@
+The default sorting order for the Executive Red Projects report is Project Name.

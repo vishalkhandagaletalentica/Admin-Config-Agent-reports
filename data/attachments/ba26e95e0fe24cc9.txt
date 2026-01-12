@@ -1,0 +1,1 @@
+Task Type, Document Access Links, Resource Name, Project Name, UID123, New MSP ID, New Description, Task Mgr, Status, New Participants, New Start Date, Updated Dur, % Project Buffer Consumption, % MB Cnsm`d, % FB Cnsm`d, Last Update, Not Ready To Start, Comments Updated, Global Priority

@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it accurately states that the display name for Work In Process in the filters is 'In Progress,' which aligns perfectly with the Expected Output. Additionally, it directly addresses the intent of the Input question without introducing any incorrect facts or assumptions.

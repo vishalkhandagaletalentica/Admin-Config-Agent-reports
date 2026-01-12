@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'd8fdb43c-5327-455b-80d2-05ebadff85b3', 'query': 'Please set the Streamliner EndPoint for Push Notification to "https://new-endpoint.example.com".'}

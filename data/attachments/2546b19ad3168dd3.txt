@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['13 Weeks', '4 Weeks', 'Past Weeks'], 'value': None, 'section': None, 'entry': None, 'url': None}

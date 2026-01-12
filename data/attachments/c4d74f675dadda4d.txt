@@ -1,1 +1,0 @@
-The setting for "Allow checklist item roll back" has been successfully updated to disabled.

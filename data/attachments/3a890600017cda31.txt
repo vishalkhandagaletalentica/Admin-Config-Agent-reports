@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Task List → Col Order (Float Mode)', 'Task List → Col Order (CC Mode)'], 'value': None, 'section': None, 'entry': None, 'url': None}

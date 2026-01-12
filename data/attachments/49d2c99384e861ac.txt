@@ -1,0 +1,1 @@
+The buffer penetration level for coloring the buffer yellow when the chain is complete is 75.

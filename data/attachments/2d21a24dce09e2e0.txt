@@ -1,0 +1,1 @@
+The Actual Output correctly identifies that the Show Rolling Average setting expects a boolean value, aligning with the Expected Output's emphasis on type mismatch. However, it fails to explicitly mention the type mismatch and does not provide the clarity on updating the command as requested in the Expected Output, leading to a partial address of the input question.

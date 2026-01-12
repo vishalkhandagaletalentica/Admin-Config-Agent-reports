@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Management → Generate data for Purchase Dates Integration during BM', 'Purchase Dates Integration → Report File Type (or other report settings)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,0 +1,1 @@
+The Actual Output provides a specific sorting order that contradicts the Expected Output, which states that the default sorting order is not specified. This introduces incorrect facts and does not address the intent of the Input question accurately.

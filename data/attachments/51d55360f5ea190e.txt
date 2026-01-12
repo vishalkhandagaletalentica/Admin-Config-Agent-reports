@@ -1,0 +1,1 @@
+The title displayed for Subtask Resource Notes in the column headings is UPDATED_RESOURCE_NOTES.

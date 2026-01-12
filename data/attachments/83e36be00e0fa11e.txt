@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it conveys the same meaning as the Expected Output, but it introduces a slight inaccuracy by stating 'Show Only Active Tasks' instead of the correct filter name. This misalignment with the Expected Output affects the factual correctness, but the response does address the intent of the Input question.

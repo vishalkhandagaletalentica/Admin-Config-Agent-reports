@@ -1,0 +1,1 @@
+The Resource Notes in Task Mgr -> Task List -> Search Columns for Task Table is "[insert new value here]".

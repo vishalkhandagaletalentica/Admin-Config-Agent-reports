@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Current Phase to "Next Phase".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Current Phase" entry?'}, {'role': 'user', 'content': 'The section name is Column Headings. The entry name is Current Phase.'}, {'role': 'assistant', 'content': 'The Current Phase has been updated to Next Phase.'}]

@@ -1,1 +1,0 @@
-update CUSTOM_TASK_TEXT1 set value=12345

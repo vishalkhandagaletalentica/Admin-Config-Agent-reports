@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Project Mgr -> Search Columns for TLP by TaskMgr', 'Project Mgr -> Search Columns for TLP by Project', 'Common -> Column Names'], 'value': None, 'section': None, 'entry': None, 'url': None}

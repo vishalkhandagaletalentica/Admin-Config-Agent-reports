@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is an integer within the range of 1 to 999, so you could use a command like "Please update the Queue Trend Interval to 4."

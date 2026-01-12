@@ -1,1 +1,0 @@
-Minimum Delay of Retry updated from 20 seconds to 30 seconds.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['ColorPriority0', 'ColorPriority1', 'ColorPriority3', 'ColorPriority4', 'ColorPriority5'], 'value': None, 'section': None, 'entry': None, 'url': None}

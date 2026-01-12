@@ -1,1 +1,0 @@
-The Planning Client -> Adv. Filter Field Mapping entry "Task Text 69 (Custom Task Text Field)" is currently mapped to "Text70".

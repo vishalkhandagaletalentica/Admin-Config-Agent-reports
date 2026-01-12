@@ -1,0 +1,1 @@
+The column mapping for Text3 is 67890.

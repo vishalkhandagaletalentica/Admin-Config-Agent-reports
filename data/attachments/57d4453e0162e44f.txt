@@ -1,0 +1,1 @@
+The total number of tasks with durations shorter than the specified number of days for each project is 3.

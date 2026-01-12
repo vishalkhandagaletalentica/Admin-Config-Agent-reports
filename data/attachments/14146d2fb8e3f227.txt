@@ -1,1 +1,0 @@
-The Commit Date column header is already set to "Revision Date". No update is needed.

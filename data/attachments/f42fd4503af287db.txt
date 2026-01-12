@@ -1,1 +1,0 @@
-The current column mapping for Remaining Duration is RDU_NEW.

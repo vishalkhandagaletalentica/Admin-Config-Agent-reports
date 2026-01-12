@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '2cbf1f99-ae6a-4a7a-911b-c22604c9e774', 'query': 'Please update the Resource Get Ahead Factor to 0.'}

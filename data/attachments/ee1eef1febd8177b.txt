@@ -1,1 +1,0 @@
-The "Show Data By" setting for the Throughput report is set to "Drum Name".

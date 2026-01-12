@@ -1,1 +1,0 @@
-The Actual Output correctly states that the Contractual Milestone Filter is enabled, aligning with the factual correctness of the Expected Output. However, it lacks the additional detail of 'successfully' which is present in the Expected Output, slightly diminishing its completeness. Overall, it addresses the intent of the Input effectively.

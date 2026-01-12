@@ -1,1 +1,0 @@
-The current duration set for the column headings in the reports is "New Buffer Consumption."

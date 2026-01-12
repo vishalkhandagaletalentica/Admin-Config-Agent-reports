@@ -1,0 +1,1 @@
+The title displayed for the Chain No in the Chain View Summary is "New Chain No."

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Team Name — the display name for the column that lists teams', 'Project Role — the display name in Project reports', 'All (Role Type) — the display name in Task Manager and Project reports'], 'value': None, 'section': None, 'entry': None, 'url': None}

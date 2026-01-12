@@ -1,0 +1,1 @@
+No, Drum Phase Cycle Time will not be displayed in the Cycle Time report.

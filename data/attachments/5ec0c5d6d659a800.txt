@@ -1,1 +1,0 @@
-The correct section name is "Subtask View" and the item description is "Custom Text Fields to display in Detail View."

@@ -1,0 +1,1 @@
+The columns hidden in the Purchase Dates Integration report are TITLE, AUTHOR, SUBJECT, CATEGORY, ATTRIBUTE1, ATTRIBUTE2, ATTRIBUTE3, ATTRIBUTE4, and ATTRIBUTE5.

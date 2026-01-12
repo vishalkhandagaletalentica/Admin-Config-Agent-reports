@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the checklist displayed for the Custom Task Text Field 6?'}, {'role': 'assistant', 'content': 'Yes — the checklist for Custom Task Text Field 6 (Text6) is enabled.'}, {'role': 'user', 'content': 'Update this setting to disabled.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

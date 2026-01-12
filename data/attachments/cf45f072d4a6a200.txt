@@ -1,1 +1,0 @@
-The Default WIP Limit for subtasks was updated from 1 to 5.

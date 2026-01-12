@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task Type Filter — Task List -> Common', 'Task Type — Common -> Column Names', 'Task Type — Planning Client -> Adv. Filter Field Mapping'], 'value': None, 'section': None, 'entry': None, 'url': None}

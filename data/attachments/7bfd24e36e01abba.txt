@@ -1,0 +1,1 @@
+Updated. The default stretch limit is now 15%.

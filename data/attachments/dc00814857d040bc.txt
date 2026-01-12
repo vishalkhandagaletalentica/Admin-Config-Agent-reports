@@ -1,1 +1,0 @@
-Updated. The "Push out project due date" entry is now set to "PUSH_OUT_PROJECT_DUE_DATE_VAL".

@@ -1,1 +1,0 @@
-The Subprojects option in the Pipelining report is currently disabled.

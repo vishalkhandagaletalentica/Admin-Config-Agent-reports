@@ -1,0 +1,1 @@
+The Actual Output correctly states that the Committed setting is disabled, aligning with the Expected Output. However, it does not explicitly mention the section name 'Project Control,' which could enhance clarity and relevance to the Input question. Overall, it addresses the intent of the Input effectively.

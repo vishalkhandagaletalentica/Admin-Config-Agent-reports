@@ -1,0 +1,1 @@
+The 'Automatically move Not Started subtasks within horizon to Active bucket' setting has been set to disabled.

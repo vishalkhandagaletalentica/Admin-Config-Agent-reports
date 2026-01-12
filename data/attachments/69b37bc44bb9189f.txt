@@ -1,0 +1,1 @@
+The value of Column Preset1 for CC Mode includes Phase, Task Type, Task Name, Custom Task Text5, Task Status, Remaining Duration, Resources, Predecessors Updated, Successor Tasks, New Start Date, and Projected Date.

@@ -1,0 +1,1 @@
+The Actual Output provides a sender address for bulk imports, which aligns with the intent of the Input question. However, it introduces unnecessary wording ('Help' <>) that does not match the Expected Output's straightforward format. While the email address itself is correct, the additional information detracts from clarity and conciseness.

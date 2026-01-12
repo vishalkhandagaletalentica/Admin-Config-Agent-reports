@@ -1,0 +1,1 @@
+The setting is under the section 'Common Parameters' and the entry name is 'Display of Security Labels for Marked Projects'.

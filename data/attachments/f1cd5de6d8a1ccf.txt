@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'cc0eeaec-804a-4935-82ac-e3b013f2b4db', 'query': 'The section name is Pipeline View report, and the entry name is Planned.'}

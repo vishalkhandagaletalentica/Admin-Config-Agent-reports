@@ -1,0 +1,1 @@
+The current window size for grouping the display of priority tasks is 20.

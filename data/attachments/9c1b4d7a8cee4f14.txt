@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '54440568-5f6e-484f-acfa-1c0bdccd7a54', 'query': 'Please disable the error display for "Project has a Resource with group different from what is specified in Global Resource File."'}

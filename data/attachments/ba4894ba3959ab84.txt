@@ -1,0 +1,1 @@
+Is the option to show additional information for the remaining duration history of IP tasks enabled?

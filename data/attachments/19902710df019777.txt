@@ -1,1 +1,0 @@
-The current column title is "Updated Buffer Name."

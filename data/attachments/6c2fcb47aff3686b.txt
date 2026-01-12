@@ -1,0 +1,1 @@
+The Actual Output does not provide any of the columns listed in the Expected Output, instead listing unrelated columns. This indicates a complete failure to address the intent of the Input question, which specifically asks for hidden columns in the report.

@@ -1,1 +1,0 @@
-The current title displayed for the P2P to Project column in the reports is "To Project."

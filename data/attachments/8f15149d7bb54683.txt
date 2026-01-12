@@ -1,1 +1,0 @@
-{'entryId': 1454, 'sectionId': 11, 'flags': 0, 'entryName': 'EVERY_MONTH_END', 'entryFriendlyName': 'Every Month End', 'strValue': 'Monthly Summary', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Every Month End.', 'rangeList': None, 'validationRule': None, 'sequenceId': 139080.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

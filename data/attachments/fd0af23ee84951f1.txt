@@ -1,0 +1,1 @@
+What is the buffer penetration percentage that turns the zone red when the chain complete is at zero percent?

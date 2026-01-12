@@ -1,0 +1,1 @@
+Hidden columns are: Project Name, Project Type, NewUID, [insert new value here], Project Manager, Status, Division, New Planned Start, Due Date, Last Update, Last BM Date, Editors Network, File Type.

@@ -1,0 +1,1 @@
+The default subtasks type for Task List is Network.

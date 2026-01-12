@@ -1,0 +1,1 @@
+No — that option is disabled (task completion is allowed even if checklist items are not all complete).

@@ -1,1 +1,0 @@
-The current title displayed for the first task in the task manager is "Task Manager."

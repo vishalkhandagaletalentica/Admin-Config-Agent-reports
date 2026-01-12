@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '649a4f22-dd2d-4a50-88f6-2771a37b347e', 'query': 'Please update the Max Buffer Consumption Range to 40.'}

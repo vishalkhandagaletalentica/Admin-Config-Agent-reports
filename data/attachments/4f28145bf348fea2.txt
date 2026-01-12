@@ -1,1 +1,0 @@
-The current title displayed for the Remaining Chain Length From Purchasing Task in the reports is "Remaining Chain Length From Purchasing Task."

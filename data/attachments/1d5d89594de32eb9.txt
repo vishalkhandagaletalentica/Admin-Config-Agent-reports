@@ -1,1 +1,0 @@
-{'entryId': 1287, 'sectionId': 78, 'flags': 0, 'entryName': 'INCLUDED', 'entryFriendlyName': 'Included', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'Specifies if included projects should be displayed.', 'rangeList': None, 'validationRule': None, 'sequenceId': 868600.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

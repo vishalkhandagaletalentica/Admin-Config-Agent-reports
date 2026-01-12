@@ -1,0 +1,1 @@
+The Display Name for the Highlight Changes filter in Task Update History report was updated from "Highlight Changes Updated" to "Highlight Changes Modified".

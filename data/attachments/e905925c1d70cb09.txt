@@ -1,1 +1,0 @@
-The current title displayed for the Remaining Duration in the reports is "Updated Dur".

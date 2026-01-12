@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Red Y intercept at 100 X (CMSB)', 'Red Y intercept at 100 X (CCFB)', 'Red Y intercept at 100 X (CCCB)'], 'value': None, 'section': None, 'entry': None, 'url': None}

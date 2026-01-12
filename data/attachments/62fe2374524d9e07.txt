@@ -1,0 +1,1 @@
+I found multiple configurations named “Hidden Filters.” Which one do you mean: Metrics -> Exclude Projects (Hidden Filters), Admin -> Edit Project Info (Hidden Filters), or Project Mgr -> Project Status (Hidden Filters)?

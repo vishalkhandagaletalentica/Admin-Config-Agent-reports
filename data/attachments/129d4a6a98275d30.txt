@@ -1,0 +1,1 @@
+The number of times BM has been run since the last compaction is 5.

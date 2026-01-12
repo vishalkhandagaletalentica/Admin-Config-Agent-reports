@@ -1,1 +1,0 @@
-The column heading for assigned phases is: Assigned Phases.

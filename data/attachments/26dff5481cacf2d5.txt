@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the default setting for the chain summary sort criterion?'}, {'role': 'assistant', 'content': 'The default sort criterion for the chain summary is Chain No.'}, {'role': 'user', 'content': 'Update this setting to CHAIN_COLOR.'}, {'role': 'assistant', 'content': 'Updated the chain summary sort criterion to Chain Color.'}]

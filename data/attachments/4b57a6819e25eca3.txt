@@ -1,0 +1,1 @@
+The Late Start setting has been updated from "Late Start" to "Early Start".

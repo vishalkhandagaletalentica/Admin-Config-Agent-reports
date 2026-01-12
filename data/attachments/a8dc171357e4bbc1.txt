@@ -1,1 +1,0 @@
-{'entryId': 726, 'sectionId': 47, 'flags': 1, 'entryName': 'TASKUNIQUEID', 'entryFriendlyName': 'TASKUNIQUEID', 'strValue': 'TASKUNIQUEID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 484520.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

@@ -1,0 +1,1 @@
+The title displayed for the completion of activities and tasks in the reports is "% Completion Updated."

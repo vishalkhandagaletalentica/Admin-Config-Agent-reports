@@ -1,1 +1,0 @@
-The Actual Output correctly identifies the default sorting order for the Project Control view, aligning with the Expected Output in terms of factual content. However, the structure and presentation differ slightly, which affects clarity. The response is mostly relevant and addresses the intent of the question, but the formatting could be improved for better readability.

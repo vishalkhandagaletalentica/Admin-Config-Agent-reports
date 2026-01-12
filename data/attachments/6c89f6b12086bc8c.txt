@@ -1,1 +1,0 @@
-The command is invalid because the value 'abcde' is not within the allowed range of 1 to 99999 and it must be an integer. Please provide a valid integer value for 'Rows Per Page'. For example, you could use the command: `update configuration set Rows Per Page to 20`.

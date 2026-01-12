@@ -1,0 +1,1 @@
+No, rollup duration reduction during buffer management is disabled.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Leveled Float — Planning Client -> Adv. Filter Field Mapping', 'Leveled Task Float — Common -> Column Names'], 'value': None, 'section': None, 'entry': None, 'url': None}

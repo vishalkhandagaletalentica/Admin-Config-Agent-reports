@@ -1,0 +1,1 @@
+I couldn't enable "Include Project Wait Time" in the Cycle Time report because you don't have permission to update configurations.

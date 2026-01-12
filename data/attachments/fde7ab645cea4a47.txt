@@ -1,0 +1,1 @@
+Please update the setting to disable Automatically Load Resource L:C Report.

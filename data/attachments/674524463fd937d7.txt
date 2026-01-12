@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the name for the filter that shows View Projects?'}, {'role': 'assistant', 'content': 'The filter name for View Projects is "Project Overview".'}, {'role': 'user', 'content': 'Update it to "Project Summary".'}, {'role': 'assistant', 'content': 'The filter name for View Projects was updated from "Project Overview" to "Project Summary".'}]

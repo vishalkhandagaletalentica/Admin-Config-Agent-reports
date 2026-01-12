@@ -1,1 +1,0 @@
-{'entryId': 1464, 'sectionId': 11, 'flags': 0, 'entryName': 'LATE', 'entryFriendlyName': 'Late', 'strValue': 'Late', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Late.', 'rangeList': None, 'validationRule': None, 'sequenceId': 139280.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

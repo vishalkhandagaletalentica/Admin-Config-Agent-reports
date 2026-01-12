@@ -1,0 +1,1 @@
+No — ignoring projects with high buffer consumption is disabled.

@@ -1,0 +1,1 @@
+Yes — generation of the Purchase Dates Integration report during Buffer Management is enabled.

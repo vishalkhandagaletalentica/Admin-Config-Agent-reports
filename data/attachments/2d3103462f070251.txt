@@ -1,2 +1,0 @@
-The filters currently displayed in the report are:
-- PROJECTMANAGER

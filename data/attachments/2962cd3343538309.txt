@@ -1,0 +1,1 @@
+I couldn't find a configuration entry for 'date format'. Which section and entry do you mean — for example, 'System Locale > Date Format' or 'Display Settings > Date Style'?

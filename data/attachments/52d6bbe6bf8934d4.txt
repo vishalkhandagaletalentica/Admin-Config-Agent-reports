@@ -1,0 +1,1 @@
+Yes — the Rolling Average is enabled and will be displayed in the Throughput report.

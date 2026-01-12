@@ -1,1 +1,0 @@
-No — the option to modify the last update date for Checklist Integration tasks is currently disabled.

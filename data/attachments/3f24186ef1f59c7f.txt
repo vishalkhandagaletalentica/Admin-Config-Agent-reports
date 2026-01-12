@@ -1,0 +1,1 @@
+The current horizon value set for the report data is 5 Weeks.

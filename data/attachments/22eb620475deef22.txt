@@ -1,0 +1,1 @@
+The Actual Output provides some information about filter-related settings but fails to list the specific filters that can be displayed in the Throughput report as required by the Input question. While it addresses the topic of filters, it does not directly answer the question, leading to a significant deduction in points.

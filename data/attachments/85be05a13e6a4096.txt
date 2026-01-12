@@ -1,0 +1,1 @@
+No, the load from On Hold projects is not displayed in both the resource and tasks reports.

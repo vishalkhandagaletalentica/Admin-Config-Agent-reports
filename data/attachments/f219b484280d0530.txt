@@ -1,1 +1,0 @@
-The setting "Show WIP Chart" has been successfully updated to enabled by default.

@@ -1,1 +1,0 @@
-{'entryId': 117, 'sectionId': 10, 'flags': 0, 'entryName': 'RESOURCE_NOTES', 'entryFriendlyName': 'Task Participants', 'strValue': 'Participants', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Resource Notes', 'rangeList': None, 'validationRule': None, 'sequenceId': 102340.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

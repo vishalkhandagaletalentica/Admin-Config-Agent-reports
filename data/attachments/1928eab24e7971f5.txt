@@ -1,0 +1,1 @@
+Please update the Sort Order to include "Trend" and "Due Date" in ascending order.

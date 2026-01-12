@@ -1,1 +1,0 @@
-Auto linking for tasks inserted between existing tasks is now enabled.

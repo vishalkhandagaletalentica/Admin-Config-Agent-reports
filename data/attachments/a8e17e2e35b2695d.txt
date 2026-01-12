@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_ERP_INTEGRATION', 'entry': 'ERP_ID_TEXT_FIELD', 'url': None}

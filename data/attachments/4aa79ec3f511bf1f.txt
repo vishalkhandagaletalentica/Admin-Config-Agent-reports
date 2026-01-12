@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '9d88dbb0-2682-466c-a87c-6055d7bcdaf2', 'query': 'Please update the Project Date Format to MM/DD/YYYY.'}

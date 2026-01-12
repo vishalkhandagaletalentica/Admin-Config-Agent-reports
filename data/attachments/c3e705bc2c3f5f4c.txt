@@ -1,0 +1,1 @@
+{'entryId': 2134, 'sectionId': 10, 'flags': 0, 'entryName': 'PROJECT_FLOAT', 'entryFriendlyName': 'Remaining Float', 'strValue': 'Remaining Float', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column Name for Remaining Float.', 'rangeList': None, 'validationRule': None, 'sequenceId': 142680.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

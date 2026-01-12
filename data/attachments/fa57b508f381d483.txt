@@ -1,1 +1,0 @@
-{'entryId': 1525, 'sectionId': 10, 'flags': 0, 'entryName': 'FULLKIT_DATE', 'entryFriendlyName': 'Full Kit Date', 'strValue': 'Due Date', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Full Kit Date.', 'rangeList': None, 'validationRule': None, 'sequenceId': 130500.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,0 +1,1 @@
+The columns hidden in the report for the Exclude Projects page are Color, Included, Project Manager, Status, Division, New Planned Start, Due Date, Projected Date, and 10 days.

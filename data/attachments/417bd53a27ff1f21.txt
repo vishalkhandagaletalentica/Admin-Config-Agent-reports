@@ -1,0 +1,1 @@
+The Actual Output accurately lists the hidden columns in the Project Chain View, aligning closely with the Expected Output. It maintains factual correctness and addresses the intent of the Input question. However, it slightly deviates in phrasing by omitting 'in the report' at the beginning, which is a minor detail that does not affect the overall correctness.

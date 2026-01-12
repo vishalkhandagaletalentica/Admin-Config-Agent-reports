@@ -1,1 +1,0 @@
-Can you show me if the Duration1 column is currently being used to calculate buffer sizes in the Critical Chain client?

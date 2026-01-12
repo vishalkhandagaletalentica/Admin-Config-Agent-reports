@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Period Type to Day.'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Period Type" setting?'}, {'role': 'user', 'content': 'The section name is Task Mgt report.'}, {'role': 'assistant', 'content': 'Period Type has been updated to Day.'}]

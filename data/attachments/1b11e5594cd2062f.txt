@@ -1,0 +1,1 @@
+What is the default feeding buffer percentage size for the CC settings?

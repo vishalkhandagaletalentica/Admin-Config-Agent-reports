@@ -1,1 +1,0 @@
-Please update the Show Penetrating Chain setting to a new value. Set it to "New Penetrating Chain".

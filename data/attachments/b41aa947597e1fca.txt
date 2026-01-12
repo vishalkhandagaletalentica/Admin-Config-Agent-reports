@@ -1,1 +1,0 @@
-The "Calculate Projected Date Using" setting is currently set to use Remaining Duration for IP tasks. This means projected dates are calculated from the task's remaining duration. The alternative option would use Remaining Duration + Buffer to include the buffer when computing the projected date.

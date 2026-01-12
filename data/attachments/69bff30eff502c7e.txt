@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '3f0d45a8-68f0-4247-95c3-c94bf8c42953', 'query': 'The correct section name is "alert generation during auto BM" and the ENTRY NAME is "task manager parameter name."'}

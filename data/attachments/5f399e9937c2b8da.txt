@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the divisions where migration is enabled, aligning with the factual content of the Expected Output. However, it lacks the phrasing 'Work card to subtask migration is enabled for the divisions specified as', which slightly detracts from the completeness of the response. Overall, it addresses the intent of the Input question effectively.

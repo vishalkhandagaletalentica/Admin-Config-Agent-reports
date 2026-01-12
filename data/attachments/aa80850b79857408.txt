@@ -1,0 +1,1 @@
+{'type': 'success', 'selectable_values': None, 'value': {'old': 'disabled', 'new': 'enabled'}, 'section': 'PROJECT_EXCLUSION', 'entry': 'NEW', 'url': None}

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Metrics -> Actual Delay — Display Project List In Print Preview', 'Metrics -> Red Project Delay — Display Project List In Print Preview', 'Metrics -> Pipelining — Display Project List In Print Preview'], 'value': None, 'section': None, 'entry': None, 'url': None}

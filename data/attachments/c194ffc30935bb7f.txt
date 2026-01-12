@@ -1,0 +1,1 @@
+The Actual Output provides a title that is factually correct, matching the Expected Output's title. However, it fails to address the full context of the Input, which specifies the section and entry name. The response is partially relevant but does not fully capture the intent of the Input question, leading to a deduction in points.

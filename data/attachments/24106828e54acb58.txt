@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'Alerts', 'entry': 'SNS_TOPIC_NAME_FOR_PROJECT_CHECKOUT', 'url': None}

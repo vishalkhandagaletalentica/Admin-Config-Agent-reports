@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '73634344-ca0c-4b07-84ba-ecf82e2c302f', 'query': 'Please update the column name for Load Vs Capacity (%) to Load vs Capacity (%).'}

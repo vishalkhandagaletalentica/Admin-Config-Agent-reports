@@ -1,0 +1,1 @@
+Yes, the planned feature is enabled for the Pipeline View report.

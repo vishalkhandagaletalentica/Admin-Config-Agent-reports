@@ -1,3 +1,0 @@
-The command to update the configuration setting is invalid because it specifies a numerical value (12345) while the allowed values are strings from the list: Days, Shifts, Hours. Please provide a value from the allowed range. 
-
-For example, you can use the command: `update configuration setting to Days`.

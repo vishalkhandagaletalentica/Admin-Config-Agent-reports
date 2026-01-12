@@ -1,1 +1,0 @@
-The display name for Security Code in column headers has been successfully updated to "Security Code Updated".

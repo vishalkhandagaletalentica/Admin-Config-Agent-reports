@@ -1,1 +1,0 @@
-The Task Search dropdown in Filtering Pane was updated from "Ready" to "All Tasks".

@@ -1,0 +1,1 @@
+The value 'xyz123' is a type mismatch as it should be a string from the allowed list; please use 'BUFFER_TARGET_DATE', 'PRIORITY', or 'BUFFER_PROJECTED_DATE'.

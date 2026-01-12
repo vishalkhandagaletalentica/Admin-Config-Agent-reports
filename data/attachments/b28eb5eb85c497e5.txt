@@ -1,1 +1,0 @@
-What is the current mapping for the custom task text field 35 in the advanced filter for the Gantt chart?

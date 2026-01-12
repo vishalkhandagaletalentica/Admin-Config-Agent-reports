@@ -1,1 +1,0 @@
-The current status of the In Process setting for the Pipeline View report is disabled.

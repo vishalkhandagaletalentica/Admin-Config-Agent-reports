@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['DBR → Yellow Project Buffer', 'Buffer Priorities → Yellow Project Buffer'], 'value': None, 'section': None, 'entry': None, 'url': None}

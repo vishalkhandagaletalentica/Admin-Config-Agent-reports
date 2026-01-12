@@ -1,1 +1,0 @@
-{'entryId': 1225, 'sectionId': 10, 'flags': 0, 'entryName': 'BUCKET_START', 'entryFriendlyName': 'Bucket Start', 'strValue': 'Bucket Start', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Bucket Start.', 'rangeList': None, 'validationRule': None, 'sequenceId': 124500.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

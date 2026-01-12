@@ -1,0 +1,1 @@
+The value of the column mapping for Text7 when importing a CSV or Excel file is NEW_ORIG_DURATION.

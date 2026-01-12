@@ -1,0 +1,1 @@
+The Actual Output contains a factual error, as it incorrectly states the title as 'Include only Blue Chains' instead of correctly reflecting the input's context of 'Red Chains.' While it partially addresses the intent by mentioning the title, it fails to accurately represent the expected output, leading to a significant deduction in points.

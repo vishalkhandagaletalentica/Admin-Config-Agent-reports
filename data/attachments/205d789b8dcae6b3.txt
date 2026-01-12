@@ -1,1 +1,0 @@
-Internal Task Calendar has been updated to Gantt Chart.

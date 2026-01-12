@@ -1,1 +1,0 @@
-The current title displayed for the first Test Event in the column headings is "New Test Event."

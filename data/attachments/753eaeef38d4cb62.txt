@@ -1,1 +1,0 @@
-The current title displayed for the Cycle Time column is "Lead Time."

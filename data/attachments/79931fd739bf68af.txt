@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'BufferPriorities', 'entry': 'ColorPriority2', 'url': None}

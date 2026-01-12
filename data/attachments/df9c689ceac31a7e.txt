@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '5697f351-120f-4a25-919f-54aeaf5c97c0', 'query': 'Please enable the Use Critical Path Sorting setting.'}

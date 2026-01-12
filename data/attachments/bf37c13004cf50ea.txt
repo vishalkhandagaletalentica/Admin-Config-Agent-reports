@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question. It accurately states the bucket size as 'Weekly,' which matches the Expected Output's content, differing only in capitalization. There are no incorrect facts or unrelated entries introduced, and the response maintains a professional tone.

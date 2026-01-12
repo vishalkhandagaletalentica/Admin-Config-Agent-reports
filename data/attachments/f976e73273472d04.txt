@@ -1,1 +1,0 @@
-Please update the Number of Intervals to Display to 25.

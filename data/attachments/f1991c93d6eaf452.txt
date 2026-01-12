@@ -1,1 +1,0 @@
-[{'role': 'user', 'content': 'Please update the Past Weeks setting to "Previous Weeks."'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Past Weeks" setting?'}, {'role': 'user', 'content': 'The section name is Column Headings.'}, {'role': 'assistant', 'content': 'The Past Weeks column heading has been updated to Previous Weeks.'}]

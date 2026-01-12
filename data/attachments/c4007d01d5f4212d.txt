@@ -1,1 +1,0 @@
-The default sort order is: Project Status (ascending), Account/Manager Name (ascending), Project Name (ascending).

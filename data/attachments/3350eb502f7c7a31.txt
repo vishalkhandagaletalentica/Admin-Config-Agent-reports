@@ -1,1 +1,0 @@
-Show Full Path for All Chains is now enabled. It was previously disabled.

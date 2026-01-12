@@ -1,0 +1,1 @@
+Yes, subproject display is turned on for the Pipeline View report.

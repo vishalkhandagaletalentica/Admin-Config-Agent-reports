@@ -1,1 +1,0 @@
-The queue is set to be depleted over 75% of the average buffer length (configured value: 75).

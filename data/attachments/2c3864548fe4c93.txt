@@ -1,1 +1,0 @@
-The CCCB buffer penetration threshold that triggers red (when chain complete is 100%) is 100%.

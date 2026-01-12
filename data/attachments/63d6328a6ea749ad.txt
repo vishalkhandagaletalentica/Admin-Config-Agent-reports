@@ -1,1 +1,0 @@
-The current display name for the Monthly filter in the reports is "Monthly Updates."

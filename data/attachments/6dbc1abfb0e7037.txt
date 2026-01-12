@@ -1,0 +1,1 @@
+The value of the projected date calculation method for IP tasks is to use Remaining Duration + Buffer.

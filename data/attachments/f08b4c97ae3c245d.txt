@@ -1,0 +1,1 @@
+Yes — the Capacity Buffer in Pipeline Planning is enabled.

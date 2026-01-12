@@ -1,0 +1,1 @@
+The title displayed for the excluded projects in the filtering pane is DIVISION, PROJECT, PROJECTSTATUS, PROJECTMANAGER, MILESTONE_TYPE, NEW_SETTING.

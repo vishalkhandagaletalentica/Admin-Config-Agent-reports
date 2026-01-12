@@ -1,1 +1,0 @@
-{'entryId': 2857, 'sectionId': 153, 'flags': 0, 'entryName': 'INTEGRATION_TASK_EMAIL_TO', 'entryFriendlyName': 'Email To', 'strValue': 'ctimmer@realization.com', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Email to', 'rangeList': None, 'validationRule': None, 'sequenceId': 1587140.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

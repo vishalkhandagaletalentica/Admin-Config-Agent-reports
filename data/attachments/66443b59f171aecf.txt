@@ -1,1 +1,0 @@
-Please update the All Milestones option in the Project Status Milestones filter to "Project Milestones".

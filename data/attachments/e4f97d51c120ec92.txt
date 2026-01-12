@@ -1,1 +1,0 @@
-{'entryId': 2520, 'sectionId': 146, 'flags': 0, 'entryName': 'CUSTOM_TASK_TEXT6', 'entryFriendlyName': 'Text 6', 'strValue': 'Text6', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Text 6', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510400.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

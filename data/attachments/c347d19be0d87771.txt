@@ -1,1 +1,0 @@
-The current start date for the date range in the Contractual Milestone Chain View is 90.

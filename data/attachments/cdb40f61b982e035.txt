@@ -1,0 +1,1 @@
+The title displayed for Shifts in the filtering pane is Shifts.

@@ -1,1 +1,0 @@
-What is the current filter name for including planned throughput in the performance report?

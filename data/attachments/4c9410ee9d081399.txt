@@ -1,0 +1,1 @@
+The Number of tasks displayed in the widget has been updated from 15 to 10.

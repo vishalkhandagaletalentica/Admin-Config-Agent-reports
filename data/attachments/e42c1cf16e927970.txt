@@ -1,1 +1,0 @@
-The current setting for displaying the virtual option in the column headings is "Not Virtual."

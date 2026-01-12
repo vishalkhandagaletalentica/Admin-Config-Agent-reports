@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '5bf13414-deac-428a-96f3-2b6fca773832', 'query': 'Please update the Preclude Float Allocation to PFA_UPDATED.'}

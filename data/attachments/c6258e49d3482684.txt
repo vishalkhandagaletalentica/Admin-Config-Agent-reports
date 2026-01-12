@@ -1,1 +1,0 @@
-Please update the display name for Months in Filters to "New Month Name".

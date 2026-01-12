@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '1537b9d9-a15f-425a-87b7-094cbc49e4ad', 'query': 'Please update the Enable SAP Integration setting to "abcde".'}

@@ -1,1 +1,0 @@
-The current setting is 20 rows per page in the Edit Project Info feature.

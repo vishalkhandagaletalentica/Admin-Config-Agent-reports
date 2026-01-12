@@ -1,0 +1,1 @@
+No, the advanced filter option for IP tasks is disabled in the Escalated Tasks report.

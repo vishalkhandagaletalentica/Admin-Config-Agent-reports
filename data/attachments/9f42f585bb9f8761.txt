@@ -1,1 +1,0 @@
-{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'FULLKIT_REPORT', 'entry': 'PERCENT_FK_COMPLETE', 'url': None}

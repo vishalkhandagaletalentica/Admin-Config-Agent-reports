@@ -1,0 +1,1 @@
+{'entryId': 1388, 'sectionId': 84, 'flags': 1, 'entryName': 'TASK_DESCRIPTION', 'entryFriendlyName': 'TASK_DESCRIPTION', 'strValue': 'TASK_DESCRIPTION', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': None, 'rangeList': None, 'validationRule': None, 'sequenceId': 867760.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

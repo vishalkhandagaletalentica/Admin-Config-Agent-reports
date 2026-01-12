@@ -1,0 +1,1 @@
+The buffer penetration depth for the DBR project type when the chain is complete is 75.

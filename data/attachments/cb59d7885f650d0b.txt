@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Col Order (CC mode)', 'Task List -> Col Order (Float mode)', 'Project Mgr -> Modify Projects', 'Project Mgr -> Milestone Report', 'Project Mgr -> Project Control'], 'value': None, 'section': None, 'entry': None, 'url': None}

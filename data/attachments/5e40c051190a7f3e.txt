@@ -1,0 +1,1 @@
+The Link Type has been updated from "Link Type" to "New Link Type".

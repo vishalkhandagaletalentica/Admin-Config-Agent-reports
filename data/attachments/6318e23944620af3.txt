@@ -1,1 +1,0 @@
-The current title displayed for Assigned Resources in the column headings is "Assigned Resources."

@@ -1,1 +1,0 @@
-The current name of the column used for the PredSubTaskId in the Subtask Excel is PredSubTaskId.

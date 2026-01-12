@@ -1,0 +1,1 @@
+Float Group C % Limit updated from 80 to 75.

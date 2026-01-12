@@ -1,0 +1,1 @@
+The "Enable Attribute" setting in Common -> Column Names was updated from "Available To Display" to "Not Available To Display".

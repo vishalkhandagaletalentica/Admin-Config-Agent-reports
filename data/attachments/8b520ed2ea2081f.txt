@@ -1,4 +1,0 @@
-Hidden columns in the Drum Throughput Drilldown report:
-- UID
-- Description
-- Division

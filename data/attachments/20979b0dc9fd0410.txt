@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr -> Search Columns for TLP by TaskMgr (Project Mgr search columns)', 'Project Mgr -> Milestone Report -> Search Columns for Milestone Report (Milestone report search columns)', 'Task Mgr -> Task List -> Search Columns for Task Table (Task list search columns)'], 'value': None, 'section': None, 'entry': None, 'url': None}

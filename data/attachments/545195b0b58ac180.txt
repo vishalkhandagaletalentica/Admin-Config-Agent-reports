@@ -1,1 +1,0 @@
-Can you show me if the stretch limit for fixed and in-process projects is currently enabled?

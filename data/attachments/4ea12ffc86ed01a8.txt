@@ -1,1 +1,0 @@
-The Reduce task duration percent is already set to 50. No update is needed.

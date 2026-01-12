@@ -1,0 +1,1 @@
+The number of days to look up from today for the WIQ report is 10.

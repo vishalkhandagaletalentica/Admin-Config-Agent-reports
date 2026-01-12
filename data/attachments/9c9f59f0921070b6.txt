@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Project Mgr/Resource Mgr -> Escalated Tasks — Exclude On Hold Task (boolean)', 'Common -> Filter Names — Exclude On Hold Task (display name string)'], 'value': None, 'section': None, 'entry': None, 'url': None}

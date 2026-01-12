@@ -1,1 +1,0 @@
-The Date Created column is displayed as "Creation Date."

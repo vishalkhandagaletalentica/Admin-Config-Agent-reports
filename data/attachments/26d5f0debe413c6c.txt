@@ -1,1 +1,0 @@
-The default number of escalation types set to display for the escalation delay data is 10.

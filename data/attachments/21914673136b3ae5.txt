@@ -1,0 +1,1 @@
+Is the resource scheduling feature enabled?

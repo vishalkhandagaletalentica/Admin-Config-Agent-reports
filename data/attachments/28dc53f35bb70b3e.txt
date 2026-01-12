@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Subtask View — Custom Text Fields to display in Detail View', 'SubTask -> Common — Subtask Custom Text Fields to display in Subtask Details'], 'value': None, 'section': None, 'entry': None, 'url': None}

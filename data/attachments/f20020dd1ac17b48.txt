@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Buffer Diagnostics -> Pen Chains (Common filters for Buffer Diagnostics report)', 'Full Kit Mgr -> Full Kit Report (Filters for Full Kit Report)', 'Resource Mgr -> Resource L:C (Filters for Resource L:C report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

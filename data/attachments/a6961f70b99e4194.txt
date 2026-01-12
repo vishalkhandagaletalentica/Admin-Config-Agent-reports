@@ -1,1 +1,0 @@
-The Delete column heading was updated from "Del" to "New Value".

@@ -1,1 +1,0 @@
-The Actual Output fails to provide the correct column name as specified in the Expected Output, stating that it is not set instead. This introduces incorrect information and does not address the intent of the Input question, which seeks the current column name.

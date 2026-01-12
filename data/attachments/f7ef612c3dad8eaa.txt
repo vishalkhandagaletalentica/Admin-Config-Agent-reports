@@ -1,0 +1,1 @@
+The Actual Output incorrectly states that the column name for TEXT4 is 'not set', while the Expected Output clearly states it is 'Text4'. This introduces incorrect information and does not address the intent of the question, which is to identify the column name.

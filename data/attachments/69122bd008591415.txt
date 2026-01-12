@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names: Stop Date (Task Stop Date (Gantt))', 'Planning Client -> Adv. Filter Field Mapping: Stop Date (Advance filter key mapping for Stop Date)'], 'value': None, 'section': None, 'entry': None, 'url': None}

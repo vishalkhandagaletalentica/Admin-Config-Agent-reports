@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the columns hidden in the Due Date Tracker report, aligning with the Expected Output. However, it omits the phrase 'Reason For Change' from the list, which is part of the Expected Output, leading to a minor factual inaccuracy. The response is relevant and directly addresses the input question.

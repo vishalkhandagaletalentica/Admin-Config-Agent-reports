@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '48e76847-3d0d-464d-a892-dd312d5799aa', 'query': 'What’s the value of the column mapping for Resource Name when importing a CSV/Excel file in the Planning client?'}

@@ -1,1 +1,0 @@
-The current filter name for the percentage of update compliant tasks is "Updated Compliant Tasks."

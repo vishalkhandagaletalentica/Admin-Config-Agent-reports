@@ -1,0 +1,1 @@
+The Include Planned Projects setting is now enabled for the Resource L:C report/view and View Tasks By Resource.

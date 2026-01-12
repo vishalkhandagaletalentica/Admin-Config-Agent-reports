@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Resource Notes (for Subtask) — Common -> Column Names', 'Subtask Resource Notes — Common -> Column Names', 'RESOURCE_NOTES — Task Mgr -> Task List -> Search Columns for Task Table'], 'value': None, 'section': None, 'entry': None, 'url': None}

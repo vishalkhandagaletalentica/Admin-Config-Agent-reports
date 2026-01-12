@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is Project Attribute4 mandatory?'}, {'role': 'assistant', 'content': 'Yes — Project Attribute4 is mandatory.'}, {'role': 'user', 'content': 'Update this setting to disabled.'}, {'role': 'assistant', 'content': 'Project Attribute4 mandatory updated from enabled to disabled.'}]

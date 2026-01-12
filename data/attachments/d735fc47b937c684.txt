@@ -1,1 +1,0 @@
-The current title shown for the Resource Identifier is Resource ID.

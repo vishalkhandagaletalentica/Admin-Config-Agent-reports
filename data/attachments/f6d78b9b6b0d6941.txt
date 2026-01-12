@@ -1,1 +1,0 @@
-The number of resources for resource batch processing has been successfully updated to 2500.

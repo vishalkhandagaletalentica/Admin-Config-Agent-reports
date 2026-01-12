@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'What is the column name for CUSTOMTEXT10 in the Subtask Excel settings?'}, {'role': 'assistant', 'content': 'The column name for CustomText10 is MyNewValue.'}, {'role': 'user', 'content': 'Update it to YourUpdatedValue.'}, {'role': 'assistant', 'content': 'Updated CustomText10 from MyNewValue to YourUpdatedValue.'}]

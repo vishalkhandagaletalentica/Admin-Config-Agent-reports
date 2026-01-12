@@ -1,0 +1,1 @@
+{'entryId': 2221, 'sectionId': 10, 'flags': 0, 'entryName': 'ISSUE_TYPE', 'entryFriendlyName': 'Buffer Recovery', 'strValue': 'Buffer Overflow', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'The Issue Type is Buffer Recovery.', 'rangeList': None, 'validationRule': None, 'sequenceId': 144420.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

@@ -1,0 +1,1 @@
+Yes, the option to show Priority compliance is enabled in the report.

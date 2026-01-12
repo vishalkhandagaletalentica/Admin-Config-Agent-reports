@@ -1,1 +1,0 @@
-The current title displayed for the custom task text field 73 in the reports is "New Text."

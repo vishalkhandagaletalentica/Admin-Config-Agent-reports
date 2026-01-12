@@ -1,1 +1,0 @@
-The current default font size for Print Preview in the Task Incomplete Predecessors report is extra-large.

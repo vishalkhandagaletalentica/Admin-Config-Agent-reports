@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Common → Column Names — Task Description (used for column headings)', 'Project Mgr → Milestone Report → Search Columns for Milestone Report — TASK_DESCRIPTION (searchable text columns)'], 'value': None, 'section': None, 'entry': None, 'url': None}

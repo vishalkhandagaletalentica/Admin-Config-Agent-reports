@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '2dd1516f-1fc4-4e11-a646-31f5452df0ef', 'query': 'What is the column name for additional phases assigned to a task in planning client?'}

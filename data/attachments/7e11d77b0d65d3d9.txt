@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Buffer Pen/%Complete Graph — Yellow Y intercept at 100 X (CMSB)', 'DBR — Yellow Y intercept at 100 X (DBR CCCB)', 'Buffer Pen/%Complete Graph — Yellow Y intercept at 100 X (CCCB)'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-The "Open project after downloading" setting was disabled. It is now disabled (was enabled before).

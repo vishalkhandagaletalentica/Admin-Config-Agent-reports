@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Is the display of completed projects enabled?'}, {'role': 'assistant', 'content': 'Yes — completed projects are enabled.'}, {'role': 'user', 'content': 'Update it to disabled.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

@@ -1,0 +1,1 @@
+The columns hidden in the Work Card Details report are Not Supportable, Major Job ID, Work Card Skill, Work Card Identifier, Updated Work Card Description, Task Status, New Material, New Equipment, and Labor Hours.

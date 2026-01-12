@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it matches the Expected Output exactly, confirming that the title displayed for the ERP Id column is indeed 'New ERP Id.' Additionally, it directly addresses the intent of the Input question regarding the column heading.

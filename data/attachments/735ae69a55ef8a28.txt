@@ -1,1 +1,0 @@
-Yes — the Project Status view shows a modification flag currently set (numeric value 650).

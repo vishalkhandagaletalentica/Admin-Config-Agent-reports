@@ -1,1 +1,0 @@
-What is the current title displayed for normal issues in the filtering pane?

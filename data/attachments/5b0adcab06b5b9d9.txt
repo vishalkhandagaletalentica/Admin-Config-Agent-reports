@@ -1,0 +1,1 @@
+Automatically Load Resource L:C Report has been disabled.

@@ -1,1 +1,0 @@
-The response fails to explicitly state that the user does not have permission to update configuration settings. While it is concise, it incorrectly implies that the status is already set without addressing the authorization issue, which is a critical shortcoming.

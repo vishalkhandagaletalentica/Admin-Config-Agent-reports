@@ -1,0 +1,1 @@
+Which specific commit error setting do you mean: Project has a Resource which is not present in Global Resource File; Project has a Phase which is not present in Global Resource File; or Project has a Resource with group different from what is specified in Global Resource File?

@@ -1,1 +1,0 @@
-{'type': 'success', 'selectable_values': None, 'value': {'old': 2, 'new': 3}, 'section': 'SGD_RESOURCE_SAND_CHART', 'entry': 'FRACTIONALROUNDING', 'url': None}

@@ -1,1 +1,0 @@
-{'entryId': 2798, 'sectionId': 10, 'flags': 0, 'entryName': 'ROWID', 'entryFriendlyName': 'Unique Row Identifier', 'strValue': 'ROWID_NEW', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Row identifier for task in planning', 'rangeList': None, 'validationRule': None, 'sequenceId': None, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

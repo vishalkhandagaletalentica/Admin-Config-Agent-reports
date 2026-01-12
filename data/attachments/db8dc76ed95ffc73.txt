@@ -1,1 +1,0 @@
-The current filter name for the Show Data Through option in the Task Management report is END_OF_LAST_WEEK.

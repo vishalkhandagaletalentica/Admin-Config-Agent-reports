@@ -1,1 +1,0 @@
-The Text2 column name in Task Checklist is already set to "MMH". No update is needed.

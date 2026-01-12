@@ -1,0 +1,1 @@
+No — the display of Completed Action Items in the Escalated Tasks report is disabled.

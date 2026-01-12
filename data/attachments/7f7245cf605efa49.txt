@@ -1,1 +1,0 @@
-The current title for the first text column in the Task Checklist is "New Column Title".

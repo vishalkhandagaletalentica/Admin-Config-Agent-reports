@@ -1,1 +1,0 @@
-Yes — the setting "Show Team Members in Task Manager Filter" in the Issue Resolution report is currently enabled, so team names will display as a list of team members.

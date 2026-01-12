@@ -1,1 +1,0 @@
-For Custom Task Text Field 1 in Filtering Pane Titles there are no predefined choices — any string value is accepted.

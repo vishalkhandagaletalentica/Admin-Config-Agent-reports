@@ -1,0 +1,1 @@
+The Actual Output correctly states that the Display Name was updated to 'Highlight Changes Modified', which aligns with the intent of the Input. However, it incorrectly claims the previous name was 'Highlight Changes Updated', while the Expected Output indicates it was 'Highlight Changes Modified'. This introduces a factual inaccuracy, impacting the overall score.

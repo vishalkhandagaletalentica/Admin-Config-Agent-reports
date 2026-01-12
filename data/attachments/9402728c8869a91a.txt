@@ -1,0 +1,1 @@
+The Actual Output states 'Refunded Reasons', which is factually correct as it matches the Expected Output. However, it does not directly address the intent of the Input question regarding the section name 'Column Headings' and the entry name 'Cancelled Reasons', leading to a partial answer. The response could have been clearer in connecting the title to the specified entry name.

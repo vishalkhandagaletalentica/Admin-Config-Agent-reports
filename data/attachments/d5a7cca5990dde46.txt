@@ -1,0 +1,1 @@
+The Report Duration Display Format was updated: previous value was 2, new value is 1.

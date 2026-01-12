@@ -1,0 +1,1 @@
+The column name for Text2 in the task update settings is 67890.

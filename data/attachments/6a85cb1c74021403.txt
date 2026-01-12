@@ -1,1 +1,0 @@
-The Resource Get Ahead Factor is now set to 1.

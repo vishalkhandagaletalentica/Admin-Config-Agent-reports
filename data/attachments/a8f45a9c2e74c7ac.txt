@@ -1,0 +1,1 @@
+Please update the hidden fields to include "Load vs Capacity (%) (Estimated)" and "Load / Capacity (units)" while keeping "Peak Load Capacity", "Maximum Cumulative Load", and "Maximum Capacity" visible.

@@ -1,0 +1,1 @@
+I can't set that because this setting expects a boolean value. The value should be boolean (e.g., enabled/disabled, included/excluded).

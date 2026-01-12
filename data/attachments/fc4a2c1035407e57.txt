@@ -1,1 +1,0 @@
-The Project Unit filter name has been successfully updated to PROJECT_WEIGHT.

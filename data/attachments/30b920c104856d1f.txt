@@ -1,0 +1,1 @@
+The Actual Output correctly identifies the title displayed for the column as 'Virtual', which aligns with the Expected Output. However, it fails to explicitly mention that this title is for the 'Is Virtual' column, which is a key detail in the Expected Output. This omission slightly detracts from the completeness of the response.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Days Decrease for Rem Dur in IP Tasks', 'Enable Rem Dur Decrease Filter for IP Tasks'], 'value': None, 'section': None, 'entry': None, 'url': None}

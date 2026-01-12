@@ -1,1 +1,0 @@
-The current setting for the Next Milestone option in the Project Status Milestones filter is "Next Milestone."

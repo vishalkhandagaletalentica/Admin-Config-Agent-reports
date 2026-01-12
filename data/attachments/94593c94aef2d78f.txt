@@ -1,9 +1,0 @@
-Hidden columns in the Cycle Time drill down report:
-- Last BM Date
-- Last Update
-- NewUID
-- 10 days
-- [insert new value here]
-- Pipeline Priority
-- Division
-- New Drum Phase Cycle Time

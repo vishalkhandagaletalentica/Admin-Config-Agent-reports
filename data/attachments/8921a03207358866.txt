@@ -1,1 +1,0 @@
-I did not apply an update because the Text2 mapping is already set to "BOM Quantity." No change was necessary.

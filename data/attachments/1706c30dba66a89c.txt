@@ -1,1 +1,0 @@
-The period type (Time Interval) is currently set to Weekly.

@@ -1,0 +1,1 @@
+The Resource Name mapping was updated from RESCODE to 12345.

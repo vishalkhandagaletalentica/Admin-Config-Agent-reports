@@ -1,1 +1,0 @@
-The current filter name for "Ready To Start" in the Task List is "Ready To Begin".

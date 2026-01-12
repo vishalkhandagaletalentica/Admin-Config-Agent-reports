@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '53d8b752-db95-44e0-9129-71bbe7050eb1', 'query': 'The correct section name is Buffer Diagnostics and the ENTRY NAME is Include Ignored Tasks.'}

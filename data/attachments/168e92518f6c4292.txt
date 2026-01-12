@@ -1,1 +1,0 @@
-The Cache Data on Server setting is now enabled.

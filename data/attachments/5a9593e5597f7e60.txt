@@ -1,0 +1,1 @@
+The Actual Output is factually correct as it confirms that the option to display past data is enabled, aligning with the Expected Output. However, it lacks the additional phrase 'the option to' which is present in the Expected Output, resulting in a slight deduction for not fully addressing the phrasing detail.

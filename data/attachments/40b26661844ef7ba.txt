@@ -1,1 +1,0 @@
-{'entryId': 77, 'sectionId': 7, 'flags': 0, 'entryName': 'ColorPriority8', 'entryFriendlyName': 'ColorPriority8', 'strValue': 'R', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'ColorPriority8', 'rangeList': None, 'validationRule': None, 'sequenceId': 71540.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

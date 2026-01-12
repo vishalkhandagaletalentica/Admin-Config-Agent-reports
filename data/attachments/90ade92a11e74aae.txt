@@ -1,1 +1,0 @@
-The "Ignore Zero %PB for Coloring" setting is currently disabled.

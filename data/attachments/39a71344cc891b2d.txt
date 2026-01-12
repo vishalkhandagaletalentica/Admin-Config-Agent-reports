@@ -1,1 +1,0 @@
-Please update the Column Preset 1 to include the following values: NewCheckList, Task Type, Task Name, Sugg Start, Status, Resources, Rem Dur, Predecessors, Successors, WBS STREAM.

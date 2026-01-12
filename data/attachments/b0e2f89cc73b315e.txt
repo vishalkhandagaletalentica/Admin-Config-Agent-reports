@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Metrics -> Throughput', 'Metrics -> On-Time Delivery', 'Buffer Diagnostics -> By Help Needed'], 'value': None, 'section': None, 'entry': None, 'url': None}

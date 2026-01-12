@@ -1,1 +1,0 @@
-The Actual Output correctly states that the setting to include project details has been disabled, aligning with the factual correctness of the Expected Output. However, it could be more concise and directly state the action taken without referencing the specific setting path, which may detract from clarity. Overall, it addresses the intent of the Input effectively.

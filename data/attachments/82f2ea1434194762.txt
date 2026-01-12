@@ -1,0 +1,1 @@
+The current format setting for displaying duration in the Execution Views is rounded up to the nearest days.

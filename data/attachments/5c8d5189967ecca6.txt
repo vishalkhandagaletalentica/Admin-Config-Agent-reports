@@ -1,0 +1,1 @@
+No, sending an email at the end of integration is disabled.

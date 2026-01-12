@@ -1,0 +1,1 @@
+The columns hidden in the report for the purchasing task panel are New Full Kit/Purchasing Task, Pull-In Offset, and Need Date.

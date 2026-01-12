@@ -1,1 +1,0 @@
-The Actual Output states that the title for completed items is 'In Progress', which is factually incorrect as per the Expected Output. The Expected Output indicates that the title should reflect completed items, not items that are in progress. This misalignment with the factual correctness of the Expected Output results in a score of zero.

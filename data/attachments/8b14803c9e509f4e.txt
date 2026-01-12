@@ -1,0 +1,1 @@
+The title displayed for the total number of CCFB, CMSB, and CCCB buffers per project is "Buffers."

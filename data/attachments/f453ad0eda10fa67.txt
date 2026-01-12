@@ -1,1 +1,0 @@
-The LLM's responses lack clarity and directness, as it repeatedly asks for the column order without addressing the user's request to update it. While it attempts to seek clarification, it fails to provide a professional tone and does not effectively address the user's needs, leading to confusion in the conversation.

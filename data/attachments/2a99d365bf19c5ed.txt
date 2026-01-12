@@ -1,0 +1,1 @@
+Please update the setting to disable multiple users from collaborating in Gantt. Set the value to no.

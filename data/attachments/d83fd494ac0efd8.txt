@@ -1,1 +1,0 @@
-What is the current percentage threshold for the queue size in the Executive Queues report?

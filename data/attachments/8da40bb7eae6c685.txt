@@ -1,1 +1,0 @@
-The Default Pull-in offset for full kit tasks is already set to 2d. No update is needed.

@@ -1,0 +1,1 @@
+The buffer penetration into the CMSB that turns red when the chain is 100% complete is 95.

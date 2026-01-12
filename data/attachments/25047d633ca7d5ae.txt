@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Custom Task Text Field 8 (custom text value)', 'Display checklist for Custom Task Text8 (show checklist)', 'Filter name for Custom Task Text8 (filter title)', 'Column title for Custom Task Text8 (column heading)'], 'value': None, 'section': None, 'entry': None, 'url': None}

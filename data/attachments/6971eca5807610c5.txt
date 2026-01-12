@@ -1,0 +1,1 @@
+{'entryId': 517, 'sectionId': 40, 'flags': 0, 'entryName': 'NEW', 'entryFriendlyName': 'Planned', 'strValue': None, 'floatValue': None, 'intValue': 0, 'valueType': 3, 'itemDesc': 'Specifies if Planned projects should be displayed.', 'rangeList': None, 'validationRule': None, 'sequenceId': 410340.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

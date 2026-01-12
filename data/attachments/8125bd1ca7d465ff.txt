@@ -1,1 +1,0 @@
-The current title for the column that shows the count of auto escalated tasks is "Auto Escalated Tasks Total."

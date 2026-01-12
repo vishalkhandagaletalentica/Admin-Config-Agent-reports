@@ -1,0 +1,1 @@
+The column name for the Tasks Updated/Total Tasks in the report is Completed Tasks/Total Tasks.

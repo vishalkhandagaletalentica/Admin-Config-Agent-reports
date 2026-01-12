@@ -1,0 +1,1 @@
+The Text7 column mapping was updated from NEW_ORIG_DUR to NEW_ORIG_DURATION.

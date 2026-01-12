@@ -1,1 +1,0 @@
-What is the current Endpoint URL for subscribing to Project CheckIn alerts?

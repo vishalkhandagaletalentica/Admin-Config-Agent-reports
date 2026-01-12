@@ -1,3 +1,0 @@
-The command is invalid because the value for 'Allow update status for purchasing tasks' should be of type integer, but you provided a string ('abcde'). Please provide an integer value, as the expected type is an integer (valueType: 3). 
-
-For example, you could use the command: `update configuration set Allow update status for purchasing tasks = 1;`

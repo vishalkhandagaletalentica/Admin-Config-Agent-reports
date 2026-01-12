@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common → Column Names (applies to column headings in ConWeb views and reports)', 'Project Mgr → Project Control: Column Order (column order in the Project Control report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

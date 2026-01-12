@@ -1,0 +1,1 @@
+The column mapping for Actual Finish when importing a CSV or Excel file in the Planning client is AF3.

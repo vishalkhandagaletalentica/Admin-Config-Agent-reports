@@ -1,1 +1,0 @@
-The option to display tasks by shifts is currently enabled.

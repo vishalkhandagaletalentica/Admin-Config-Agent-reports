@@ -1,1 +1,0 @@
-The current title shown for the Milestone Buffer Consumption in the reports is "% MB Cnsm`d."

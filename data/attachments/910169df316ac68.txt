@@ -1,1 +1,0 @@
-The option to require comments when dates are changed is currently disabled.

@@ -1,1 +1,0 @@
-Task Type filter set to Subtask Only.

@@ -1,0 +1,1 @@
+The default fixed size of the Capacity Buffer is 10 days.

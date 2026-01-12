@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Task List -> Common (section: SGD_TASK_UPDATE, entry: TASK_STATUS)', 'Project Mgr -> Contractual Milestone Chain View/Milestone Penetrating Chain (section: SGD_GRPT_CMS_CHAINS, entry: TASK_STATUS)'], 'value': None, 'section': None, 'entry': None, 'url': None}

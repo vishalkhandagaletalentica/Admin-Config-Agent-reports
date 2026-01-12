@@ -1,0 +1,1 @@
+Yes — displaying completed projects in the Issue Resolution report is enabled.

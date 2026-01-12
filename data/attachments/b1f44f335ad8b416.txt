@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Display name (Portfolio) — Common -> Filter Names', 'Portfolio validation — Common -> Project Attribute Type and status', 'Portfolio Status — Common -> Project Attribute Type and status', 'Portfolio mandatory — Common -> Project Attribute Type and status'], 'value': None, 'section': None, 'entry': None, 'url': None}

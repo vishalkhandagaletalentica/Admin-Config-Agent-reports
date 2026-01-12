@@ -1,0 +1,1 @@
+The Actual Output provides a column order that is mostly correct but includes additional entries not present in the Expected Output, such as 'Delayed Completion', 'New Customer Name', 'Purchase Order Number', and 'SalesForce Number'. This introduces incorrect facts and deviates from the Expected Output, which affects the overall alignment with the evaluation steps.

@@ -1,1 +1,0 @@
-{'entryId': 1542, 'sectionId': 10, 'flags': 0, 'entryName': 'FULLKIT_TASK_MGR', 'entryFriendlyName': 'Full Kit Mgr', 'strValue': 'FK Mgr', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Column name for Full Kit Manager.', 'rangeList': None, 'validationRule': None, 'sequenceId': 130840.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

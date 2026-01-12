@@ -1,1 +1,0 @@
-The current title displayed for the Actual Buffer Size column in the Buffering Drilldown Report is "Actual Buffer Size (d)".

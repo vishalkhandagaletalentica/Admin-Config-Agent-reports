@@ -1,0 +1,1 @@
+The Shortage Quantity column mapping is "Updated Shortage Quantity".

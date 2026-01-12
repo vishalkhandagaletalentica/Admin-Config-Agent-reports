@@ -1,1 +1,0 @@
-The current week number being used for comparing Trend Point data is 5.

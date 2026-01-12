@@ -1,0 +1,1 @@
+No, the debugging for data locking during BM is disabled.

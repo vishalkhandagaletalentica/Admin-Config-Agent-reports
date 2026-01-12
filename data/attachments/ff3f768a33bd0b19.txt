@@ -1,0 +1,1 @@
+The title for the Previous Critical Task in the Gantt view is Updated Critical Task.

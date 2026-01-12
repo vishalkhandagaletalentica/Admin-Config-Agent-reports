@@ -1,0 +1,1 @@
+The advanced filter option is "IP Tasks With Rem Dur Decrease < [X] Days In Last [Y] Days".

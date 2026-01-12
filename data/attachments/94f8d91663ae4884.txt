@@ -1,0 +1,1 @@
+Including Project Wait Time in the Cycle Time report is enabled.

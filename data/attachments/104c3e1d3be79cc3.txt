@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common — Comments (column heading)', 'Common — Comments (Penetrating Task)', 'Common — Subtask Comments', 'Common — Comments (Project Exclusion)', 'Integration → Task — Comments', 'Integration → Subtask — Comments'], 'value': None, 'section': None, 'entry': None, 'url': None}

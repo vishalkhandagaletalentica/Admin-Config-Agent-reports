@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_SWIMLANE_REPORT', 'entry': 'SHOW_MGRS_ONLY', 'url': None}

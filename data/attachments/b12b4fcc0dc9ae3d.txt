@@ -1,1 +1,0 @@
-There are currently no columns hidden in the drill down report.

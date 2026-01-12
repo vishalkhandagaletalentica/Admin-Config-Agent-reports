@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '0abef889-a384-4491-9839-8b836e9733e0', 'query': 'I would like to disable the "Show On Time Delivery" setting.'}

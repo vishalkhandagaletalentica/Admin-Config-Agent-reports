@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': "Please update the Planned setting to 'xyz'."}, {'role': 'assistant', 'content': 'Which configuration section contains the "Planned" setting?'}, {'role': 'user', 'content': 'The section name is Pipeline View.'}, {'role': 'assistant', 'content': 'Timeout after 45.0s waiting for config agent response.'}]

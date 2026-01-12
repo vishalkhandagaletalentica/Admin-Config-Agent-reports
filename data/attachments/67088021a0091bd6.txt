@@ -1,0 +1,1 @@
+The setting for calculating the float based color using the normalized total float value is relative.

@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names — Task Manager (column heading)', 'Common -> Filter Names — Task Manager (filter pane)', 'Project Mgr -> Search Columns for TLP by TaskMgr — PROJECT_NAME (searchable column)'], 'value': None, 'section': None, 'entry': None, 'url': None}

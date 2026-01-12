@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Priority Level (Common -> Column Names)', 'ColorPriority0 (Buffer Priorities)', 'ColorPriority1 (Buffer Priorities)', 'ColorPriority5 (Buffer Priorities)', 'Sort By Priority Fields Within Windows Of (Project Mgr -> Task Level Priorities By Resource)'], 'value': None, 'section': None, 'entry': None, 'url': None}

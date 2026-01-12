@@ -1,0 +1,1 @@
+[{'role': 'user', 'content': 'Please update the Planned value to "Pending".'}, {'role': 'assistant', 'content': 'Which configuration section contains the "Planned" entry?'}, {'role': 'user', 'content': 'The section name is "Filtering Pane Titles".'}, {'role': 'assistant', 'content': 'Planned was updated from Scheduled to Pending.'}]

@@ -1,1 +1,0 @@
-The current queue name set for Buffer Management is my-new-bm-queue.fifo.

@@ -1,0 +1,1 @@
+The title displayed for the Buffer Trend column in Project Control for Project Details is "New Buffer Trend."

@@ -1,1 +1,0 @@
-The Actual Output is factually correct and directly addresses the intent of the Input question by clearly stating the current column heading title. It matches the Expected Output in meaning, even though the phrasing is slightly different, which is acceptable according to the evaluation steps.

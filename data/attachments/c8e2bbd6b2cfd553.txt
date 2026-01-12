@@ -1,0 +1,1 @@
+The Actual Output is factually correct and directly addresses the intent of the Input question by providing the column name for Fixed Property. The only difference from the Expected Output is the use of quotation marks, which does not affect the factual correctness. Therefore, the response is strong in alignment with the evaluation steps.

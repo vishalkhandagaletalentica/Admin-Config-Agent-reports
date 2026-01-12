@@ -1,0 +1,1 @@
+The mistake is a type mismatch; expected a string value such as "CUSTOM_DATE1,CUSTOM_DATE2,PLANNED_DATE".

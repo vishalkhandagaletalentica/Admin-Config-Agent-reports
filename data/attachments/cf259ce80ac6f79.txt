@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names: Due Date (ENTRY_NAME=BUFFER_TARGET_DATE)', 'Planning Client -> Import Field Mapping: Due Date (ENTRY_NAME=PLANNING_CLIENT_IMP_MAP_DATE1)'], 'value': None, 'section': None, 'entry': None, 'url': None}

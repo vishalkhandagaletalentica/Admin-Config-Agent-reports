@@ -1,0 +1,1 @@
+{'entryId': 99, 'sectionId': 10, 'flags': 0, 'entryName': 'PROJECT_UNIQUE_ID', 'entryFriendlyName': 'Project Unique Identifier', 'strValue': 'UpdatedUID', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Project UID', 'rangeList': None, 'validationRule': None, 'sequenceId': 101980.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

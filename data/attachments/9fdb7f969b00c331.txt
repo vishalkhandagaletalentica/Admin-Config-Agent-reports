@@ -1,0 +1,1 @@
+I couldn't update Queue Trend Interval (In Weeks) because the provided value 'abcde' is not valid. The value should be an integer.

@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, and you should use either "EVERY_MONTH_END" or "EVERY_30_DAYS_FROM_TODAY".

@@ -1,1 +1,0 @@
-The current title displayed for the Old Due Date column is "Old Due Date".

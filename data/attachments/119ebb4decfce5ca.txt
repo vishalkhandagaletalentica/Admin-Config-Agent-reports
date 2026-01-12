@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'e12cc0d9-28ff-4ed4-b58a-a8b72febd551', 'query': 'Please update the Volume Report setting to disable the external link.'}

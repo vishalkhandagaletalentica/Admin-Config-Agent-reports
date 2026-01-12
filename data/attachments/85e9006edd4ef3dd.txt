@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Planning Client → Common', 'Planning Client → Resource panel'], 'value': None, 'section': None, 'entry': None, 'url': None}

@@ -1,1 +1,0 @@
-update configuration set Date Range (X months in past) = 'abcde';

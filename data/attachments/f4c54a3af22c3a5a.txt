@@ -1,1 +1,0 @@
-The display name for the Successors column header has been updated from "Successor Tasks" to "Successors Updated".

@@ -1,1 +1,0 @@
-{'type': 'select', 'selectable_values': ['Work Card Integration — Work Card Material (mapped to a custom text field)', 'Common → Column Names — Work Card Material (displayed in Work Card Details report)'], 'value': None, 'section': None, 'entry': None, 'url': None}

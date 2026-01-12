@@ -1,1 +1,0 @@
-The current machine name that is hosting the Primavera Web Services is not specified.

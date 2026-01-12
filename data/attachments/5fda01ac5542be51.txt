@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Column Names: Actual Chain Start (column heading)', 'Common -> Filter Names: Actual Chain Start (filter label)'], 'value': None, 'section': None, 'entry': None, 'url': None}

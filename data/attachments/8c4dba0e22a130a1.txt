@@ -1,0 +1,1 @@
+The Actual Output provides a filter name that is factually correct, as it matches the Expected Output's filter name. However, it fails to directly address the input by not including the context of 'End of Last Week,' which is essential for clarity. This partial alignment with the input intent results in a moderate score.

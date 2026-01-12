@@ -1,1 +1,0 @@
-The project processing order for Auto BM has been set to: "PRIORITY DESC, DUE_DATE ASC".

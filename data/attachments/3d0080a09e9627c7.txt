@@ -1,0 +1,1 @@
+I couldn't apply the update because the system failed to validate the column list for that report: "No column definition found for section: SGD_INCOMPLETEPRED_TASKLIST, entry: HIDDEN_FIELDS. Cannot validate $MULTILIST: format." Please check the section/entry configuration or provide a valid column key list.

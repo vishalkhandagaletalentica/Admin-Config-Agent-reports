@@ -1,1 +1,0 @@
-The searchable project name is set to "PROJECT_NAME".

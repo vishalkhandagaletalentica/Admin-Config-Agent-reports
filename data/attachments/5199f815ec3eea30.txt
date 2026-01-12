@@ -1,1 +1,0 @@
-The display name for the "Value" column header has been successfully updated to "New Value".

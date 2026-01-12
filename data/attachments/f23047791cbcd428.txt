@@ -1,1 +1,0 @@
-{'entryId': 15, 'sectionId': 2, 'flags': 0, 'entryName': 'CheckForAutoTaskUpdate', 'entryFriendlyName': 'CheckForAutoTaskUpdate', 'strValue': None, 'floatValue': None, 'intValue': 1, 'valueType': 3, 'itemDesc': 'CheckForAutoTaskUpdate', 'rangeList': None, 'validationRule': None, 'sequenceId': 20300.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': ''}

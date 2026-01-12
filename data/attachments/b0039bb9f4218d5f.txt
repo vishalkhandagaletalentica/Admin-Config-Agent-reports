@@ -1,1 +1,0 @@
-The display of subprojects in the Project Control view (Subproject Milestones) has been disabled.

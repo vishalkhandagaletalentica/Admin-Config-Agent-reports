@@ -1,1 +1,0 @@
-The current display type setting for the Cycle Time report is PROJECTS.

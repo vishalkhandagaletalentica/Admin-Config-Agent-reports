@@ -1,0 +1,1 @@
+{'type': 'select', 'selectable_values': ['Common -> Filter Names — Escalated Tasks (filter name for Escalated Tasks)', 'Project Mgr/Resource Mgr -> Escalated Tasks — Escalated Tasks (report parameters for Escalated Tasks)'], 'value': None, 'section': None, 'entry': None, 'url': None}

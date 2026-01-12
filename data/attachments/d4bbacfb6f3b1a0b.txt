@@ -1,0 +1,1 @@
+Yes, including the average buffer consumption in the report is enabled.

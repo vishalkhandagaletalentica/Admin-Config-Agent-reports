@@ -1,1 +1,0 @@
-The Actual Output correctly states that the On Time Delivery display is disabled, aligning with the factual correctness of the Expected Output. However, it lacks the clarity and completeness of the Expected Output by omitting the phrase 'option to display,' which makes it slightly less informative. Overall, it addresses the intent of the Input question effectively.

@@ -1,0 +1,1 @@
+Is the filter for including completed tasks enabled?

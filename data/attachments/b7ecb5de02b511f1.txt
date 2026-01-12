@@ -1,0 +1,1 @@
+Is the option to limit stretch for fixed and In Process projects enabled?

@@ -1,0 +1,1 @@
+{'entryId': 2432, 'sectionId': 10, 'flags': 1, 'entryName': 'LATE_FINISH_DATE', 'entryFriendlyName': 'Late Finish Date', 'strValue': 'On Time', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Task Late Finish Date (Gantt)', 'rangeList': None, 'validationRule': None, 'sequenceId': 148640.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

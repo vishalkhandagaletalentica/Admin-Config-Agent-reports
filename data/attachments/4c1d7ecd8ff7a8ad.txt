@@ -1,0 +1,1 @@
+The hidden columns are: Milestone Name, Milestone Type, Buffer Size (d), Milestone Due Date, Projected Date, Longest Path, % Buffer Consumption, % Chain complete, [insert new value here], Longest Path Highlight.

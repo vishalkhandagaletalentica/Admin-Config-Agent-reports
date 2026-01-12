@@ -1,0 +1,1 @@
+{'type': 'info', 'selectable_values': None, 'value': None, 'section': 'SGD_FLOWTREND', 'entry': 'ARCHIVE_PERIOD', 'url': None}

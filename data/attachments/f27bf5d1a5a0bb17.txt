@@ -1,0 +1,1 @@
+Resource Notes has been updated from "[insert new value here]" to "UPDATED_RESOURCE_NOTES".

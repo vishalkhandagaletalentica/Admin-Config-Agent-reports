@@ -1,1 +1,0 @@
-The current title for the Task Stop Date in the Gantt view is "Stop Date."

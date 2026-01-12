@@ -1,1 +1,0 @@
-The current setting for the small font size in the filtering pane is tiny.

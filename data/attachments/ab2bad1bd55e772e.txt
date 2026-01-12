@@ -1,0 +1,1 @@
+Is the Effective Protection value for the Number 4 field in the ActiveX Buffer Status report enabled?

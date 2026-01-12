@@ -1,1 +1,0 @@
-set Project has a Phase which is not present in Global Resource File to 'abcde'

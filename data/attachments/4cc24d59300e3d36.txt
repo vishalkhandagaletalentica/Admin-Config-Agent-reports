@@ -1,1 +1,0 @@
-The default filter currently set to display is: New Kit Manager.

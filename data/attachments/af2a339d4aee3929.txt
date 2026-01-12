@@ -1,1 +1,0 @@
-{'entryId': 2775, 'sectionId': 124, 'flags': 1, 'entryName': 'GROUP_D_MIN_FLOAT', 'entryFriendlyName': 'Float Group D', 'strValue': None, 'floatValue': None, 'intValue': 81, 'valueType': 0, 'itemDesc': 'Min and max value for Float Group D.', 'rangeList': None, 'validationRule': None, 'sequenceId': 1295500.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

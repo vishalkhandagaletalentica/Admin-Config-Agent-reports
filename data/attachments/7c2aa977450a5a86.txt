@@ -1,1 +1,0 @@
-The "View Document Links" setting in Column Headings has been updated to "Document Access Links."

@@ -1,0 +1,1 @@
+No — the “Include Planned Projects” setting is disabled, so load from Planned projects is not displayed in View Resource L:C and View Tasks By Resource.

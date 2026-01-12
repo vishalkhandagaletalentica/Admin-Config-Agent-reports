@@ -1,4 +1,0 @@
-The fields that trigger the Last Update in the Full Kit Report are:
-- Updated Status
-- Percent Full Completion
-- Delivery Date

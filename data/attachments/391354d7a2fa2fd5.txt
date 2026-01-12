@@ -1,1 +1,0 @@
-{'entryId': 1809, 'sectionId': 11, 'flags': 0, 'entryName': 'HORIZON', 'entryFriendlyName': 'Horizon', 'strValue': 'Horizon', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Filter name for Task List Horizon.', 'rangeList': None, 'validationRule': None, 'sequenceId': 146180.0, 'groupOrMerge': None, 'attributeFlag': 0.0, 'attrBack': None}

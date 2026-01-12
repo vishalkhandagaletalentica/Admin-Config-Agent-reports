@@ -1,1 +1,0 @@
-Cancelled projects are not included in the Throughput report.

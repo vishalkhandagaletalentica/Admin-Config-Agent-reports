@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': '4a291c53-f240-464c-a842-b96a9dc4b592', 'query': 'The correct section name is "Executive -> Queues Drilldown" and the entry name is "Columns hidden in report."'}

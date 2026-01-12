@@ -1,1 +1,0 @@
-The current title displayed for the P2P Successors in the Task Details feature is "P2P Successors."

@@ -1,1 +1,0 @@
-Work Card Material has been updated from EXEC_CUSTOM_TASK_TEXT1 to EXEC_CUSTOM_TASK_TEXT2.

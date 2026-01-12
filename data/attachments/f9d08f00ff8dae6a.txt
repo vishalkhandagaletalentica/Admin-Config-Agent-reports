@@ -1,0 +1,1 @@
+The Security Label Interval is 30 rows.

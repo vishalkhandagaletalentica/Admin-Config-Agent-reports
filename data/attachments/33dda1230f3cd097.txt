@@ -1,1 +1,0 @@
-The Committed, In Queue setting in the Issue Resolution report is currently disabled.

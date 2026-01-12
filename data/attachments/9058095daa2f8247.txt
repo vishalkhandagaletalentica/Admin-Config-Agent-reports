@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'ab62e8d9-c78b-4e0b-bcd2-46c02a155905', 'query': 'What is the number of times BM has been run without compacting the database?'}

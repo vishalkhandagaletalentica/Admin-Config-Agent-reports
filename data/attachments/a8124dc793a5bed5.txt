@@ -1,0 +1,1 @@
+The Actual Output provides a detailed list of columns, which contradicts the Expected Output stating that all columns are excluded. This indicates a factual inaccuracy and a failure to address the intent of the Input question correctly.

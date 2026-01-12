@@ -1,1 +1,0 @@
-{'entryId': 2541, 'sectionId': 146, 'flags': 0, 'entryName': 'ACTUAL_START_DATE', 'entryFriendlyName': 'Actual Start', 'strValue': 'AS', 'floatValue': None, 'intValue': None, 'valueType': 2, 'itemDesc': 'Advance filter key mapping for Actual Start', 'rangeList': None, 'validationRule': None, 'sequenceId': 1510820.0, 'groupOrMerge': None, 'attributeFlag': None, 'attrBack': None}

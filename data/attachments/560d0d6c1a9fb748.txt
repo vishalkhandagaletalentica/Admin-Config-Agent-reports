@@ -1,0 +1,1 @@
+The mistake is a type mismatch; the expected value type is a string, not a numeric value, and you should use the list of string values without the numeric input.

@@ -1,1 +1,0 @@
-The column name for CustomText10 in the Subtask Excel is "MyNewValue".

@@ -1,1 +1,0 @@
-The contractual milestone filter for the Project Status report is enabled.

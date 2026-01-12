@@ -1,0 +1,1 @@
+The Actual Output provides a detailed list of columns, which contradicts the Expected Output stating that the current column order is not specified. This indicates a complete misalignment with the factual correctness required by the evaluation steps.

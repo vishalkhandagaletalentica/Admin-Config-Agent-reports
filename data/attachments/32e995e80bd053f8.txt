@@ -1,0 +1,1 @@
+{'type': 'error', 'code': 'timeout', 'detail': "HTTPSConnectionPool(host='router-agent.realization.com', port=443): Read timed out. (read timeout=45)", 'chat_id': 'bd31e57c-7742-4327-90d2-bcb82dc42b18', 'query': 'Please update the setting to disable including IP Tasks in Queue.'}

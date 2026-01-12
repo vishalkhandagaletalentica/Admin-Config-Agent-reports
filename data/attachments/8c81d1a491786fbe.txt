@@ -1,0 +1,1 @@
+The current value for the customer type is 3.
